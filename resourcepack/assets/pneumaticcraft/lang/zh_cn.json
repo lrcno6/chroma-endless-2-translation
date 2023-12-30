@@ -1,0 +1,14 @@
+{
+   "block.pneumaticcraft.compressed_iron_block" : "压缩钢块",
+   "block.pneumaticcraft.creative_compressed_iron_block" : "创造模式压缩钢块",
+   "gui.tooltip.block.pneumaticcraft.heat_pipe" : "用压缩钢制成的绝缘芯，可以传递热量并避免损失任何热量到相邻的空气或流体中。压缩钢块的更紧凑替代品。能被伪装涂覆器伪装。",
+   "gui.tooltip.block.pneumaticcraft.pressure_chamber_valve" : "可以用于贮存空气，但主要用途是将各种材料压缩成其他材料。例如，将充能钢压缩成压缩钢锭，或者将煤炭压缩成钻石。",
+   "gui.tooltip.item.pneumaticcraft.drill_bit_diamond" : "比压缩钢块${br}挖掘模式：1x1、1x2、1x3、3x3（+）、矿脉（矿石+原木）",
+   "item.pneumaticcraft.compressed_iron_boots" : "压缩钢靴子",
+   "item.pneumaticcraft.compressed_iron_chestplate" : "压缩钢胸甲",
+   "item.pneumaticcraft.compressed_iron_helmet" : "压缩钢头盔",
+   "item.pneumaticcraft.compressed_iron_gear" : "压缩钢齿轮",
+   "item.pneumaticcraft.compressed_iron_leggings" : "压缩钢护腿",
+   "item.pneumaticcraft.drill_bit_compressed_iron" : "压缩钢钻头",
+   "item.pneumaticcraft.ingot_iron_compressed" : "压缩钢锭"
+}
