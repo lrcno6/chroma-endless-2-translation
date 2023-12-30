@@ -1,0 +1,47 @@
+{
+  "chapter.welcome.title": "&l欢迎",
+
+  "chapter.welcome.quest.2.title.1": "认领与加载区块",
+  "chapter.welcome.quest.2.description.1" : "FTB Chunks 可以让你&4认领区块&r来&4保护&r你放下的方块, 并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r, 然后&6左击&r或&6右击&r地图以认领或取消认领区块, 按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
+
+  "chapter.welcome.quest.3.title.1": "连锁采集",
+  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r模组对挖矿非常有用。",
+  "chapter.welcome.quest.3.description.2" : "默认按 ` 键后会显示&n白色轮廓&r, 即&c&l连锁区域&r以表示连锁采集的范围。",
+  "chapter.welcome.quest.3.description.3" : "&c&l连锁区域&r可以改变。按住 Shift + ` 后, 用鼠标滚轮即可改变连锁区域的形状。",
+
+  "chapter.welcome.quest.4.title.1": "团队",
+  "chapter.welcome.quest.4.description.1" : "创建团队可以和朋友共享任务进度",
+  "chapter.welcome.quest.4.description.2" : "要创建团队, 执行: /ftbteams create 团队名",
+  "chapter.welcome.quest.4.description.3" : "要邀请朋友加入, 执行: /ftbteams invite 玩家名",
+  "chapter.welcome.quest.4.description.4" : "在其接受邀请后, 你们即在同一团队下。",
+
+  "chapter.welcome.quest.5.title.1": "任务",
+  "chapter.welcome.quest.5.description.1" : "如果&8任务&r没有&7&l前置&r, 你可以自行选择何时完成。",
+  "chapter.welcome.quest.5.description.2" : "然而大多数任务都有&7&l前置&r。要解锁这些任务, 你可以点击&4&l&n闪烁的红色箭头&r以列出其&7&l前置&r。",
+  "chapter.welcome.quest.5.description.3" : "在色度无尽2中, 玩家可以按照&l&6主线流程&r的任务线以获得游戏指导, 这些主线任务将会主导和构成核心游戏体验。此外还有以各模组为核心的&l&6支线任务&r, 这些任务不是必须的, 玩家可以按自己的节奏自由地探索与尝试这一部分内容。",
+
+  "chapter.welcome.quest.6.title.1": "食物",
+  "chapter.welcome.quest.6.description.1" : "&a生活调味料: 胡萝卜版&r关注于玩家吃过的食物种类数量。每当该数量抵达特定数值时, 玩家会永久提高生命值上限。如果想提高生命值上限的话, 就多去制作不同种类的食物吧!",
+
+  "chapter.welcome.quest.9.title.1": "商店",
+  "chapter.welcome.quest.9.subtitle.1" : "I am a rat!",
+  "chapter.welcome.quest.9.description.1" : "完成任务可以获得钱币作为奖励, 获得钱币的种类与任务的困难度有关。",
+  "chapter.welcome.quest.9.description.2" : "钱币可以用来和村民交易",
+  "chapter.welcome.quest.9.description.3" : "右击钱币可以存入个人钱包中 (在物品栏右上角可以查看钱包)",
+  "chapter.welcome.quest.9.description.4" : "物品的价格与其稀有度紧密相关",
+  "chapter.welcome.quest.9.description.5" : "不同钱币价值如下:\n\n                    (&#C86A13青铜&r -> &#bcbcbc银&r -> &#FFBE0A金&r)",
+
+  "chapter.welcome.quest.10.title.1": "语言",
+  "chapter.welcome.quest.10.description.1" : "我们希望, 无论你使用什么语言, 你都完成懂色度无尽2的任务。",
+  "chapter.welcome.quest.10.description.2" : "想设置你任务的语言, 只需要修改游戏的语言即可。\n\n译者: 喵喵喵?",
+
+  "chapter.welcome.quest.12.title.1": "欢迎来到色度无尽2!",
+  "chapter.welcome.quest.12.subtitle.1": "色度无尽2: 魔法、科技、探索之融合",
+  "chapter.welcome.quest.12.description.1": "沉浸于这个重制而完美的 Minecraft 世界吧! 色度无尽2提供了专家级游戏体验, 每个步骤都经过精心设计, 以满足玩家的挑战欲, 给予玩家沉浸感和满足感。",
+  "chapter.welcome.quest.12.description.2": "&l核心特性:&r",
+  "chapter.welcome.quest.12.description.3": "&6&l阶段式流程:&r 世界并非一成不变, 它驱使着你去不断学习, 不断变强, 去掌握每一个模组和机制。",
+  "chapter.welcome.quest.12.description.4": "&b&l科技与魔法:&r 尖端科技与神秘魔法相互融合, 不论你喜欢宏伟而精密的机械还是强大而神秘的法术, 色度无尽2都能满足您的需求。",
+  "chapter.welcome.quest.12.description.5": "&a&l无限探索:&r 探索新的生物群系、未知的维度和遥远的星球。遇见未曾听闻的生物, 发掘隐藏的宝藏。这些只会奖励给那些敢于不走寻常路的人。",
+  "chapter.welcome.quest.12.description.6": "&e&l循序渐进的任务:&r 详尽的任务系统会帮助您了解这个复杂的世界, 并提供对新手和老手都适合的挑战。",
+  "chapter.welcome.quest.12.description.7": "踏上冒险之旅, 探索这个拥有无限可能的世界。Chroma Endless 2不仅仅是一个整合包, 它还是由您书写的故事、由您完成的挑战、由您揭开的谜团。"
+}
