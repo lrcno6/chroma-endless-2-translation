@@ -43,5 +43,102 @@
   "chapter.welcome.quest.12.description.4": "&b&l科技与魔法:&r 尖端科技与神秘魔法相互融合, 不论你喜欢宏伟而精密的机械还是强大而神秘的法术, 色度无尽2都能满足您的需求。",
   "chapter.welcome.quest.12.description.5": "&a&l无限探索:&r 探索新的生物群系、未知的维度和遥远的星球。遇见未曾听闻的生物, 发掘隐藏的宝藏。这些只会奖励给那些敢于不走寻常路的人。",
   "chapter.welcome.quest.12.description.6": "&e&l循序渐进的任务:&r 详尽的任务系统会帮助您了解这个复杂的世界, 并提供对新手和老手都适合的挑战。",
-  "chapter.welcome.quest.12.description.7": "踏上冒险之旅, 探索这个拥有无限可能的世界。Chroma Endless 2不仅仅是一个整合包, 它还是由您书写的故事、由您完成的挑战、由您揭开的谜团。"
+  "chapter.welcome.quest.12.description.7": "踏上冒险之旅, 探索这个拥有无限可能的世界。Chroma Endless 2不仅仅是一个整合包, 它还是由您书写的故事、由您完成的挑战、由您揭开的谜团。",
+
+  "chapter.shop.title": "&l商店",
+
+  "chapter.shop.shipped.title.1": "植物学家工作台",
+  "chapter.shop.shipped.title.2": "牧羊人工作台",
+  "chapter.shop.shipped.title.3": "工匠工作台",
+  "chapter.shop.shipped.title.4": "学者工作台",
+  "chapter.shop.shipped.title.5": "石匠工作台",
+  "chapter.shop.shipped.title.6": "木匠工作台",
+  "chapter.shop.shipped.title.7": "玻璃匠工作台",
+  "chapter.shop.shipped.subtitle" : "室内设计师",
+
+  "chapter.shop.task.title" : "目标显示器",
+  "chapter.shop.task.subtitle": "自动任务输入",
+  "chapter.shop.task.description": "目标显示器用于显示世界中任务目标。它们可以绑定到一个任务, 并显示与该任务相关的信息。有些任务需要使用目标显示器才能实现自动化 (例如与能量相关的目标)。您可以通过潜行右击显示器打开显示器设置GUI来更改显示器的任务设置。您还可以更改它们的纹理并使其不可破坏, 这在自定义地图中非常有用。",
+
+  "chapter.shop.dj.title": "音乐唱片",
+
+  "chapter.shop.elytra.title": "鞘翅",
+
+  "chapter.shop.relic.title" : "随机遗物",
+
+  "chapter.shop.artifact.title" : "随机饰品",
+  "chapter.shop.angel.title": "钻石指环",
+  "chapter.shop.angel.description": "钻石指环并不能解锁飞行, 它用于制作&6天使指环&r和&9钢喷气背包&。",
+
+  "chapter.shop.charm.title.1": "睡眠魔符",
+  "chapter.shop.charm.title.2": "传送门魔符",
+  "chapter.shop.charm.title.3": "守护魔符",
+
+  "chapter.shop.coin.title": "农夫币",
+
+  "chapter.shop.dark.title.1": "亡灵精华",
+  "chapter.shop.dark.title.2": "灵魂钢锭",
+  "chapter.shop.dark.title.3": "墓灰",
+  "chapter.shop.dark.title.4": "骨灰龛",
+
+  "chapter.shop.explo.title.1": "研究台",
+  "chapter.shop.explo.title.2": "旅行锚",
+  "chapter.shop.explo.title.3": "旅行权杖",
+  "chapter.shop.explo.title.4": "小市场",
+
+  "chapter.shop.globe.title.1": "地球仪",
+  "chapter.shop.globe.title.2": "月球仪",
+  "chapter.shop.globe.title.3": "火星仪",
+  "chapter.shop.globe.title.4": "水星仪",
+  "chapter.shop.globe.title.5": "金星仪",
+  "chapter.shop.globe.title.6": "霜原星仪",
+
+  "chapter.shop.bs.title.1": "&7惑乱钥匙",
+  "chapter.shop.bs.title.2": "&a自然钥匙",
+  "chapter.shop.bs.title.3": "&d猛毒钥匙",
+
+  "chapter.shop.draco.title.1": "&8混沌之心",
+
+  "chapter.shop.crea.title.1": "创造马达",
+  "chapter.shop.crea.title.2": "创造防御槽",
+  "chapter.shop.crea.title.3": "创造喷气背包",
+  "chapter.shop.crea.title.4": "创造灵魂槽",
+  "chapter.shop.crea.title.5": "创造传感器槽",
+  "chapter.shop.crea.title.6": "创造烈焰蛋糕",
+  "chapter.shop.crea.title.7": "创造能力槽",
+  "chapter.shop.crea.title.8": "创造升级槽",
+
+  "chapter.shop.create.choco.title.1" : "64 x 巧克力棒",
+  "chapter.shop.create.choco.title.2" : "64 x 巧克力包层浆果",
+  "chapter.shop.create.choco.title.3" : "64 x 姜饼人",
+  "chapter.shop.create.choco.title.4" : "16 x 建造工茶饮",
+  "chapter.shop.create.choco.title.5" : "64 x 蜜渍苹果",
+  "chapter.shop.create.choco.title.6" : "64 x 甜甜卷",
+
+  "chapter.shop.killing.title.1": "击杀 10 x &6凋灵&r",
+  "chapter.shop.killing.title.2": "击杀 10 x &5末影龙&r",
+  "chapter.shop.killing.title.3": "击杀 100 x &2僵尸&r",
+  "chapter.shop.killing.title.4": "击杀 100 x &8骷髅&r",
+  "chapter.shop.killing.title.5": "击杀 50 x &d潜影贝&r",
+  "chapter.shop.killing.title.6": "击杀 100 x &8末影人&r",
+  "chapter.shop.killing.title.7": "击杀 100 x &b溺尸&r",
+  "chapter.shop.killing.title.8": "击杀 100 x &c蜘蛛&r",
+  "chapter.shop.killing.title.9": "击杀 100 x &4岩浆怪&r",
+  "chapter.shop.killing.title.10": "击杀 100 x &c腐衰行者&r",
+  "chapter.shop.killing.title.11": "击杀 100 x &d僵尸猪灵&r",
+  "chapter.shop.killing.title.12": "击杀 100 x &0&l凋灵骷髅&r",
+  "chapter.shop.killing.title.13": "击杀 100 x &2苦力怕&r",
+  "chapter.shop.killing.title.14": "击杀 100 x &n&l恶魂&r",
+  "chapter.shop.killing.title.15": "击杀 100 x &e烈焰人&r",
+  "chapter.shop.killing.title.16": "击杀 100 x &d女巫&r",
+  "chapter.shop.killing.title.17": "击杀 50 x &2幻翼&r",
+  "chapter.shop.killing.title.18": "击杀 100 x &5守卫者&r",
+
+  "chapter.shop.fluid.title.1": "1000B 水",
+  "chapter.shop.fluid.title.2": "1000B 煤油",
+  "chapter.shop.fluid.title.3": "1000B 柴油",
+  "chapter.shop.fluid.title.4": "1000B 汽油",
+  "chapter.shop.fluid.title.5": "1000B 液化石油气",
+  "chapter.shop.fluid.title.6": "1000B 酵母菌",
+  "chapter.shop.fluid.title.7": "1000B 杂酚油",
 }
