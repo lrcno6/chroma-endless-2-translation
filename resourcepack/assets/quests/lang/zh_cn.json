@@ -140,5 +140,64 @@
   "chapter.shop.fluid.title.4": "1000B 汽油",
   "chapter.shop.fluid.title.5": "1000B 液化石油气",
   "chapter.shop.fluid.title.6": "1000B 酵母菌",
-  "chapter.shop.fluid.title.7": "1000B 杂酚油"
+  "chapter.shop.fluid.title.7": "1000B 杂酚油",
+
+  "chapter.challenges.title": "&l挑战",
+
+  "chapter.challenges.title.bis": "击杀 1 000 000 只怪物",
+
+  "chapter.challenges.pickaxe": "Dig with The SS Rank Terra Shelter destruction mode",
+
+  "chapter.challenges.love": "繁育 1500 只动物",
+
+  "chapter.challenges.gate": "Defeat 50 Gateaways",
+
+  "chapter.challenges.trade": "与 1000 个村民交易",
+
+  "chapter.challenges.xp": "3000 级经验",
+
+  "chapter.challenges.enchant": "&5附魔&r 500 件物品",
+
+  "chapter.challenge.killing.wither": "击杀 100 x &6凋灵&r",
+
+  "chapter.challenge.potato": "驯养 1000 个小土豆",
+
+  "chapter.challenge.piggy.title.1": "小猪储钱罐 - 第 1 部分",
+  "chapter.challenge.piggy.title.2": "小猪储钱罐 - 第 2 部分",
+  "chapter.challenge.piggy.subtitle": "Oink Oink !",
+  "chapter.challenge.piggy.description": "&c小猪储钱罐&r是获得钱币的好方法。给小猪储钱罐通电, 然后准备坐享金币雨吧!",
+
+  "chapter.challenge.rich.title": "$$ &6百万富翁&r $$",
+  "chapter.challenge.rich.subtitle": "赚的钱都用到这来!",
+
+  "useful.title" : "&l实用物品",
+
+  "chapter.useful.title.1": "压缩空间机械",
+  "chapter.useful.title.2": "建筑小帮手",
+
+  "chapter.useful.torch.subtitle": "怪物生成 一概禁止",
+  "chapter.useful.torch.description.1": "・阻止敌对生物在 32 格半径范围内自然生成。",
+  "chapter.useful.torch.description.2": "・巨型火把并不会杀死范围内的怪物, 范围外的怪物仍然可以进入范围内。",
+
+  "chapter.useful.quest.1.subtitle": "随地大小变",
+  "chapter.useful.quest.1.description": "用个人缩放装置 Shift 右击可以改变玩家的大小。个人缩放装置需要消耗能量。将玩家缩小可以用来到达平常无法到达的地方。此外, 先左键将实体缩小, 再用玻璃瓶右击可以将其装入玻璃瓶中。",
+
+  "chapter.useful.quest.2.subtitle": "方块内的新维度",
+  "chapter.useful.quest.2.description": "这是该模组的核心组件, 用来将复杂的机器装入一个方块中。",
+
+  "chapter.useful.quest.3.subtitle": "轻松建造",
+  "chapter.useful.quest.3.description": "用建筑手杖可以一次放置多个方块 (至多 1024 个)。如果放错了, 按 Ctrl + Shift + 右键 还能撤回。",
+
+  "chapter.useful.quest.4.subtitle": "专业建筑师",
+  "chapter.useful.quest.4.description": "有时, 建造大型建筑会有些乏味, 而且要花费很多精力。要知道, 并不是所有人都是出色的建筑师! 建筑小帮手的目的就是让建筑变得更简单。",
+  "chapter.useful.quest.4.description.2": "&4注意!&r 破坏小帮手会直接销毁方块 (没有掉落物)!",
+
+  "chapter.useful.quest.5.subtitle": "逝去的时间会留下些有用的东西",
+  "chapter.useful.quest.5.description": "时间之瓶可以加快熔炉、漏斗等方块的时间刻速率以加速这些方块。时间之瓶在玩家物品栏里会收集流逝的时间 (在背包、AE系统等地方则不行)。Shift + 右键 方块即可使用时间之瓶里的时间。",
+
+  "chapter.useful.quest.6.subtitle": "能量计算",
+  "chapter.useful.quest.6.description": "能量表可以用于测量能量传输速率, 其显示屏上会实时显示速率值。",
+
+  "chapter.useful.quest.7.subtitle": "再也不用担心找不到什么群系了",
+  "chapter.useful.quest.7.description": "查找所有游戏内有的生物群系, 模组添加的也包含在内。查找前确保你处于正确的维度。"
 }
