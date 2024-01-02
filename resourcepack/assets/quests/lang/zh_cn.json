@@ -2,48 +2,48 @@
   "chapter.welcome.title": "&l欢迎",
 
   "chapter.welcome.quest.2.title.1": "认领与加载区块",
-  "chapter.welcome.quest.2.description.1" : "FTB Chunks 可以让你&4认领区块&r来&4保护&r你放下的方块, 并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r, 然后&6左击&r或&6右击&r地图以认领或取消认领区块, 按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
+  "chapter.welcome.quest.2.description.1" : "FTB Chunks可以让你&4认领区块&r来&4保护&r你放下的方块，并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r，然后&6左击&r或&6右击&r地图以认领或取消认领区块，按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
 
   "chapter.welcome.quest.3.title.1": "连锁采集",
   "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r模组对挖矿非常有用。",
-  "chapter.welcome.quest.3.description.2" : "默认按 ` 键后会显示&n白色轮廓&r, 即&c&l连锁区域&r以表示连锁采集的范围。",
-  "chapter.welcome.quest.3.description.3" : "&c&l连锁区域&r可以改变。按住 Shift + ` 后, 用鼠标滚轮即可改变连锁区域的形状。",
+  "chapter.welcome.quest.3.description.2" : "默认按 ` 键后会显示&n白色轮廓&r，即&c&l连锁区域&r以表示连锁采集的范围。",
+  "chapter.welcome.quest.3.description.3" : "&c&l连锁区域&r可以改变。按住 Shift + ` 后，用鼠标滚轮即可改变连锁区域的形状。",
 
   "chapter.welcome.quest.4.title.1": "团队",
   "chapter.welcome.quest.4.description.1" : "创建团队可以和朋友共享任务进度",
-  "chapter.welcome.quest.4.description.2" : "要创建团队, 执行: /ftbteams create 团队名",
-  "chapter.welcome.quest.4.description.3" : "要邀请朋友加入, 执行: /ftbteams invite 玩家名",
-  "chapter.welcome.quest.4.description.4" : "在其接受邀请后, 你们即在同一团队下。",
+  "chapter.welcome.quest.4.description.2" : "要创建团队，执行：/ftbteams create 团队名",
+  "chapter.welcome.quest.4.description.3" : "要邀请朋友加入，执行：/ftbteams invite 玩家名",
+  "chapter.welcome.quest.4.description.4" : "在其接受邀请后，你们即在同一团队下。",
 
   "chapter.welcome.quest.5.title.1": "任务",
-  "chapter.welcome.quest.5.description.1" : "如果&8任务&r没有&7&l前置&r, 你可以自行选择何时完成。",
-  "chapter.welcome.quest.5.description.2" : "然而大多数任务都有&7&l前置&r。要解锁这些任务, 你可以点击&4&l&n闪烁的红色箭头&r以列出其&7&l前置&r。",
-  "chapter.welcome.quest.5.description.3" : "在色度无尽2中, 玩家可以按照&l&6主线流程&r的任务线以获得游戏指导, 这些主线任务将会主导和构成核心游戏体验。此外还有以各模组为核心的&l&6支线任务&r, 这些任务不是必须的, 玩家可以按自己的节奏自由地探索与尝试这一部分内容。",
+  "chapter.welcome.quest.5.description.1" : "如果&8任务&r没有&7&l前置&r，你可以自行选择何时完成。",
+  "chapter.welcome.quest.5.description.2" : "然而大多数任务都有&7&l前置&r。要解锁这些任务，你可以点击&4&l&n闪烁的红色箭头&r以列出其&7&l前置&r。",
+  "chapter.welcome.quest.5.description.3" : "在色度无尽2中，玩家可以按照&l&6主线流程&r的任务线以获得游戏指导，这些主线任务将会主导和构成核心游戏体验。此外还有以各模组为核心的&l&6支线任务&r，这些任务不是必须的，玩家可以按自己的节奏自由地探索与尝试这一部分内容。",
 
   "chapter.welcome.quest.6.title.1": "食物",
-  "chapter.welcome.quest.6.description.1" : "&a生活调味料: 胡萝卜版&r关注于玩家吃过的食物种类数量。每当该数量抵达特定数值时, 玩家会永久提高生命值上限。如果想提高生命值上限的话, 就多去制作不同种类的食物吧!",
+  "chapter.welcome.quest.6.description.1" : "&a生活调味料：胡萝卜版&r关注于玩家吃过的食物种类数量。每当该数量抵达特定数值时，玩家会永久提高生命值上限。如果想提高生命值上限的话，就多去制作不同种类的食物吧！",
 
   "chapter.welcome.quest.9.title.1": "商店",
   "chapter.welcome.quest.9.subtitle.1" : "I am a rat!",
-  "chapter.welcome.quest.9.description.1" : "完成任务可以获得钱币作为奖励, 获得钱币的种类与任务的困难度有关。",
+  "chapter.welcome.quest.9.description.1" : "完成任务可以获得钱币作为奖励，获得钱币的种类与任务的困难度有关。",
   "chapter.welcome.quest.9.description.2" : "钱币可以用来和村民交易",
-  "chapter.welcome.quest.9.description.3" : "右击钱币可以存入个人钱包中 (在物品栏右上角可以查看钱包)",
+  "chapter.welcome.quest.9.description.3" : "右击钱币可以存入个人钱包中（在物品栏右上角可以查看钱包）",
   "chapter.welcome.quest.9.description.4" : "物品的价格与其稀有度紧密相关",
-  "chapter.welcome.quest.9.description.5" : "不同钱币价值如下:\n\n                    (&#C86A13青铜&r -> &#bcbcbc银&r -> &#FFBE0A金&r)",
+  "chapter.welcome.quest.9.description.5" : "不同钱币价值如下：\n\n                   （&#C86A13青铜&r -> &#bcbcbc银&r -> &#FFBE0A金&r）",
 
   "chapter.welcome.quest.10.title.1": "语言",
-  "chapter.welcome.quest.10.description.1" : "我们希望, 无论你使用什么语言, 你都完成懂色度无尽2的任务。",
-  "chapter.welcome.quest.10.description.2" : "想设置你任务的语言, 只需要修改游戏的语言即可。\n\n译者: 喵喵喵?",
+  "chapter.welcome.quest.10.description.1" : "我们希望，无论你使用什么语言，你都完成色度无尽2的任务。",
+  "chapter.welcome.quest.10.description.2" : "想设置你任务的语言，只需要修改游戏的语言即可。\n\n译者：喵喵喵？",
 
-  "chapter.welcome.quest.12.title.1": "欢迎来到色度无尽2!",
-  "chapter.welcome.quest.12.subtitle.1": "色度无尽2: 魔法、科技、探索之融合",
-  "chapter.welcome.quest.12.description.1": "沉浸于这个重制而完美的 Minecraft 世界吧! 色度无尽2提供了专家级游戏体验, 每个步骤都经过精心设计, 以满足玩家的挑战欲, 给予玩家沉浸感和满足感。",
-  "chapter.welcome.quest.12.description.2": "&l核心特性:&r",
-  "chapter.welcome.quest.12.description.3": "&6&l阶段式流程:&r 世界并非一成不变, 它驱使着你去不断学习, 不断变强, 去掌握每一个模组和机制。",
-  "chapter.welcome.quest.12.description.4": "&b&l科技与魔法:&r 尖端科技与神秘魔法相互融合, 不论你喜欢宏伟而精密的机械还是强大而神秘的法术, 色度无尽2都能满足您的需求。",
-  "chapter.welcome.quest.12.description.5": "&a&l无限探索:&r 探索新的生物群系、未知的维度和遥远的星球。遇见未曾听闻的生物, 发掘隐藏的宝藏。这些只会奖励给那些敢于不走寻常路的人。",
-  "chapter.welcome.quest.12.description.6": "&e&l循序渐进的任务:&r 详尽的任务系统会帮助您了解这个复杂的世界, 并提供对新手和老手都适合的挑战。",
-  "chapter.welcome.quest.12.description.7": "踏上冒险之旅, 探索这个拥有无限可能的世界。Chroma Endless 2不仅仅是一个整合包, 它还是由您书写的故事、由您完成的挑战、由您揭开的谜团。",
+  "chapter.welcome.quest.12.title.1": "欢迎来到色度无尽2！",
+  "chapter.welcome.quest.12.subtitle.1": "色度无尽2：魔法、科技、探索之融合",
+  "chapter.welcome.quest.12.description.1": "沉浸于这个重制而完美的Minecraft世界吧！色度无尽2提供了专家级游戏体验，每个步骤都经过精心设计，以满足玩家的挑战欲，给予玩家沉浸感和满足感。",
+  "chapter.welcome.quest.12.description.2": "&l核心特性：&r",
+  "chapter.welcome.quest.12.description.3": "&6&l阶段式流程：&r世界并非一成不变，它驱使着你去不断学习，不断变强，去掌握每一个模组和机制。",
+  "chapter.welcome.quest.12.description.4": "&b&l科技与魔法：&r尖端科技与神秘魔法相互融合，不论你喜欢宏伟而精密的机械还是强大而神秘的法术，色度无尽2都能满足您的需求。",
+  "chapter.welcome.quest.12.description.5": "&a&l无限探索：&r探索新的生物群系、未知的维度和遥远的星球。遇见未曾听闻的生物，发掘隐藏的宝藏。这些只会奖励给那些敢于不走寻常路的人。",
+  "chapter.welcome.quest.12.description.6": "&e&l循序渐进的任务：&r详尽的任务系统会帮助您了解这个复杂的世界，并提供对新手和老手都适合的挑战。",
+  "chapter.welcome.quest.12.description.7": "踏上冒险之旅，探索这个拥有无限可能的世界。色度无尽2不仅仅是一个整合包，它还是由您书写的故事、由您完成的挑战、由您揭开的谜团。",
 
   "chapter.shop.title": "&l商店",
 
@@ -58,7 +58,7 @@
 
   "chapter.shop.task.title" : "目标显示器",
   "chapter.shop.task.subtitle": "自动任务输入",
-  "chapter.shop.task.description": "目标显示器用于显示世界中任务目标。它们可以绑定到一个任务, 并显示与该任务相关的信息。有些任务需要使用目标显示器才能实现自动化 (例如与能量相关的目标)。您可以通过潜行右击显示器打开显示器设置GUI来更改显示器的任务设置。您还可以更改它们的纹理并使其不可破坏, 这在自定义地图中非常有用。",
+  "chapter.shop.task.description": "目标显示器用于显示世界中任务目标。它们可以绑定到一个任务，并显示与该任务相关的信息。有些任务需要使用目标显示器才能实现自动化（例如与能量相关的目标）。您可以通过潜行右击显示器打开显示器设置GUI来更改显示器的任务设置。您还可以更改它们的纹理并使其不可破坏，这在自定义地图中非常有用。",
 
   "chapter.shop.dj.title": "音乐唱片",
 
@@ -68,7 +68,7 @@
 
   "chapter.shop.artifact.title" : "随机饰品",
   "chapter.shop.angel.title": "钻石指环",
-  "chapter.shop.angel.description": "钻石指环并不能解锁飞行, 它用于制作&6天使指环&r和&9钢喷气背包&。",
+  "chapter.shop.angel.description": "钻石指环并不能解锁飞行，它用于制作&6天使指环&r和&9钢喷气背包&r。",
 
   "chapter.shop.charm.title.1": "睡眠魔符",
   "chapter.shop.charm.title.2": "传送门魔符",
@@ -148,27 +148,27 @@
 
   "chapter.challenges.pickaxe": "Dig with The SS Rank Terra Shelter destruction mode",
 
-  "chapter.challenges.love": "繁育 1500 只动物",
+  "chapter.challenges.love": "繁育1500只动物",
 
   "chapter.challenges.gate": "Defeat 50 Gateaways",
 
-  "chapter.challenges.trade": "与 1000 个村民交易",
+  "chapter.challenges.trade": "与1000个村民交易",
 
-  "chapter.challenges.xp": "3000 级经验",
+  "chapter.challenges.xp": "3000级经验",
 
-  "chapter.challenges.enchant": "&5附魔&r 500 件物品",
+  "chapter.challenges.enchant": "&5附魔&r500件物品",
 
   "chapter.challenge.killing.wither": "击杀 100 x &6凋灵&r",
 
-  "chapter.challenge.potato": "驯养 1000 个小土豆",
+  "chapter.challenge.potato": "驯养1000个小土豆",
 
-  "chapter.challenge.piggy.title.1": "小猪储钱罐 - 第 1 部分",
-  "chapter.challenge.piggy.title.2": "小猪储钱罐 - 第 2 部分",
+  "chapter.challenge.piggy.title.1": "小猪储钱罐 - 第1部分",
+  "chapter.challenge.piggy.title.2": "小猪储钱罐 - 第2部分",
   "chapter.challenge.piggy.subtitle": "Oink Oink !",
-  "chapter.challenge.piggy.description": "&c小猪储钱罐&r是获得钱币的好方法。给小猪储钱罐通电, 然后准备坐享金币雨吧!",
+  "chapter.challenge.piggy.description": "&c小猪储钱罐&r是获得钱币的好方法。给小猪储钱罐通电，然后准备坐享金币雨吧！",
 
   "chapter.challenge.rich.title": "$$ &6百万富翁&r $$",
-  "chapter.challenge.rich.subtitle": "赚的钱都用到这来!",
+  "chapter.challenge.rich.subtitle": "赚的钱都用到这来！",
 
   "useful.title" : "&l实用物品",
 
@@ -176,28 +176,240 @@
   "chapter.useful.title.2": "建筑小帮手",
 
   "chapter.useful.torch.subtitle": "怪物生成 一概禁止",
-  "chapter.useful.torch.description.1": "・阻止敌对生物在 32 格半径范围内自然生成。",
-  "chapter.useful.torch.description.2": "・巨型火把并不会杀死范围内的怪物, 范围外的怪物仍然可以进入范围内。",
+  "chapter.useful.torch.description.1": "・阻止敌对生物在32格半径范围内自然生成。",
+  "chapter.useful.torch.description.2": "・巨型火把并不会杀死范围内的怪物，范围外的怪物仍然可以进入范围内。",
 
   "chapter.useful.quest.1.subtitle": "随地大小变",
-  "chapter.useful.quest.1.description": "用个人缩放装置 Shift 右击可以改变玩家的大小。个人缩放装置需要消耗能量。将玩家缩小可以用来到达平常无法到达的地方。此外, 先左键将实体缩小, 再用玻璃瓶右击可以将其装入玻璃瓶中。",
+  "chapter.useful.quest.1.description": "用个人缩放装置 Shift 右击可以改变玩家的大小。个人缩放装置需要消耗能量。将玩家缩小可以用来到达平常无法到达的地方。此外，先左键将实体缩小，再用玻璃瓶右击可以将其装入玻璃瓶中。",
 
   "chapter.useful.quest.2.subtitle": "方块内的新维度",
-  "chapter.useful.quest.2.description": "这是该模组的核心组件, 用来将复杂的机器装入一个方块中。",
+  "chapter.useful.quest.2.description": "这是该模组的核心组件，用来将复杂的机器装入一个方块中。",
 
   "chapter.useful.quest.3.subtitle": "轻松建造",
-  "chapter.useful.quest.3.description": "用建筑手杖可以一次放置多个方块 (至多 1024 个)。如果放错了, 按 Ctrl + Shift + 右键 还能撤回。",
+  "chapter.useful.quest.3.description": "用建筑手杖可以一次放置多个方块（至多1024个）。如果放错了，按 Ctrl + Shift + 右键 还能撤回。",
 
   "chapter.useful.quest.4.subtitle": "专业建筑师",
-  "chapter.useful.quest.4.description": "有时, 建造大型建筑会有些乏味, 而且要花费很多精力。要知道, 并不是所有人都是出色的建筑师! 建筑小帮手的目的就是让建筑变得更简单。",
-  "chapter.useful.quest.4.description.2": "&4注意!&r 破坏小帮手会直接销毁方块 (没有掉落物)!",
+  "chapter.useful.quest.4.description": "有时，建造大型建筑会有些乏味，而且要花费很多精力。要知道，并不是所有人都是出色的建筑师！建筑小帮手的目的就是让建筑变得更简单。",
+  "chapter.useful.quest.4.description.2": "&4注意！&r破坏小帮手会直接销毁方块（没有掉落物）！",
 
   "chapter.useful.quest.5.subtitle": "逝去的时间会留下些有用的东西",
-  "chapter.useful.quest.5.description": "时间之瓶可以加快熔炉、漏斗等方块的时间刻速率以加速这些方块。时间之瓶在玩家物品栏里会收集流逝的时间 (在背包、AE系统等地方则不行)。Shift + 右键 方块即可使用时间之瓶里的时间。",
+  "chapter.useful.quest.5.description": "时间之瓶可以加快熔炉、漏斗等方块的时间刻速率以加速这些方块。时间之瓶在玩家物品栏里会收集流逝的时间（在背包、AE系统等地方则不行）。Shift + 右键 方块即可使用时间之瓶里的时间。",
 
   "chapter.useful.quest.6.subtitle": "能量计算",
-  "chapter.useful.quest.6.description": "能量表可以用于测量能量传输速率, 其显示屏上会实时显示速率值。",
+  "chapter.useful.quest.6.description": "能量表可以用于测量能量传输速率，其显示屏上会实时显示速率值。",
 
   "chapter.useful.quest.7.subtitle": "再也不用担心找不到什么群系了",
-  "chapter.useful.quest.7.description": "查找所有游戏内有的生物群系, 模组添加的也包含在内。查找前确保你处于正确的维度。"
+  "chapter.useful.quest.7.description": "查找所有游戏内有的生物群系，模组添加的也包含在内。查找前确保你处于正确的维度。",
+
+  "chapter.group.1" : "&e-- &l&6主线流程&r &e--",
+  "chapter.group.2" : "&e-- &l&6支线任务&r &e--",
+
+  "chapter.stage.1.title": "第1章",
+
+  "chapter.stage.1.quest.1.title.1": "原木",
+  "chapter.stage.1.quest.1.subtitle.1": "经典开局",
+  "chapter.stage.1.quest.1.description.1" : "哪有Minecraft开局不砍树的",
+
+  "chapter.stage.1.quest.2.title.1": "木板",
+  "chapter.stage.1.quest.2.subtitle.1": "Planked",
+  "chapter.stage.1.quest.2.description.1" : "不会真有人不知道怎么做木板吧？不会吧不会吧？",
+
+  "chapter.stage.1.quest.3.subtitle.1": "MineCraft，采掘与合成",
+  "chapter.stage.1.quest.3.description.1" : "众合成之始",
+
+  "chapter.stage.1.quest.4.subtitle.1": "热门话题",
+  "chapter.stage.1.quest.4.description.1" : "熔炼时间到！",
+
+  "chapter.stage.1.quest.5.title.1": "安山岩混合物",
+  "chapter.stage.1.quest.5.subtitle.1": "和矿物混合，搅一搅，拌一拌",
+  "chapter.stage.1.quest.5.description.1" : "做点安山合金是必须的。",
+  "chapter.stage.1.quest.5.description.2" : "建议你查一查怎么制作这两种混合物。",
+  "chapter.stage.1.quest.5.description.3" : "别担心，之后会有更好的合成方法的。",
+
+  "chapter.stage.1.quest.6.subtitle.1": "新合金",
+  "chapter.stage.1.quest.6.description.1" : "将安山岩混合物扔入火中以熔炼成安山合金。",
+  "chapter.stage.1.quest.6.description.2" : "与安山岩混合物一样，安山合金之后也会有更好的合成方法。你可以去查看安山合金的配方。",
+
+  "chapter.stage.1.quest.7.subtitle.1": "我转起来了！",
+  "chapter.stage.1.quest.7.description.1" : "传动杆有点像管道，它可以用来传递旋转。",
+
+  "chapter.stage.1.quest.8.subtitle.1": "机械动力的基础部件，用于传递旋转",
+  "chapter.stage.1.quest.8.description.1" : "齿轮可以将旋转传递给相邻的齿轮。",
+  "chapter.stage.1.quest.8.description.2" : "两齿轮相邻称作齿接，其旋转方向相反。",
+  "chapter.stage.1.quest.8.description.3" : "默认按 W 键可以查看其更多信息。",
+
+  "chapter.stage.1.quest.9.subtitle.1": "更大的齿轮",
+  "chapter.stage.1.quest.9.description.1" : "注：大齿轮和齿轮只能对角相接。",
+
+  "chapter.stage.1.quest.10.subtitle.1": "水车是一种应力源",
+  "chapter.stage.1.quest.10.description.1" : "当水或熔岩流过时会产生旋转力（应力）。",
+  "chapter.stage.1.quest.10.description.2" : "由于其低廉的造价，水车可以用作早期的应力源。接上更多的水车可以提高其应力产出。",
+  "chapter.stage.1.quest.10.description.3" : "当水和熔岩流过水车时，水车就会开始旋转。从轴向轴接可以将应力传递给其他组件。",
+  "chapter.stage.1.quest.10.description.4" : "与之前版本的机械动力不同，现在不需要让水车各个面都有流体流过来达到最大应力了，一个面就足够了。",
+
+  "chapter.stage.1.quest.11.subtitle.1": "由风车轴承和风帆组成",
+  "chapter.stage.1.quest.11.description.1": "你可以在风车轴承上接任何你喜欢的方块，但只有羊毛和风帆可以提供应力。而且羊毛和风帆放哪也无所谓，应力产出与形状无关。",
+  "chapter.stage.1.quest.11.description.2": "强力胶可以用于将多个方块组合在一起，但风帆无需强力胶即可与相邻的方块相连。空手右击风车轴承即可启动风车。",
+  "chapter.stage.1.quest.11.description.3": "要让风车停止运作，只需再次空手右击风车轴承即可。扳手可以用来改变风车轴承的朝向。",
+
+  "chapter.stage.1.quest.12.subtitle.1": "动力辊压机可以用于滚压、压块塑形和自动打包",
+  "chapter.stage.1.quest.12.description.1": "动力辊压机是重要的早期机器，例如可以将锭压成板。金属板是合成高级组件的重要材料。",
+  "chapter.stage.1.quest.12.description.2": "动力辊压机内置一根传动杆，用于接受应力输入。输入转速越块，处理效率越高。",
+  "chapter.stage.1.quest.12.description.3": "默认情况下，动力辊压机会对其下的物品应用辊压配方。这有两种可能:",
+  "chapter.stage.1.quest.12.description.4": "● 对于放在普通方块上的物品，辊压机会逐个处理下面所有的物品，不能辊压的物品则保持不变。",
+  "chapter.stage.1.quest.12.description.5": "● 对于传送带上的物品，辊压机会自动处理途径的物品，未处理完的物品会停下来，而不能辊压的物品则会被忽略。",
+
+  "chapter.stage.1.quest.13.title.1": "砂纸",
+  "chapter.stage.1.quest.13.subtitle.1": "Sand Pressing",
+  "chapter.stage.1.quest.13.description.1" : "&4砂纸&r只用于制作磨制玫瑰石英。",
+
+  "chapter.stage.1.quest.14.subtitle.1": "新石英 闪闪发光",
+  "chapter.stage.1.quest.14.description.1" : "&e玫瑰石英&r可以用来制作&c&l磨制玫瑰石英&r。将砂纸放在副手，玫瑰石英放在主手，长按右键即可打磨玫瑰石英。",
+
+  "chapter.stage.1.quest.15.subtitle.1": "红色水晶",
+  "chapter.stage.1.quest.15.description.1" : "制作&c磨制玫瑰石英&r",
+
+  "chapter.stage.1.quest.16.subtitle.1": "这样也就算电器了",
+  "chapter.stage.1.quest.16.description.1" : "用磨制玫瑰石英制作",
+
+  "chapter.stage.1.quest.17.subtitle.1": "金属压制工艺",
+  "chapter.stage.1.quest.17.description.1" : "制作铁板",
+
+  "chapter.stage.1.quest.18.subtitle.1": "动力搅拌器用于将工作盆内物品搅拌或无序合成",
+  "chapter.stage.1.quest.18.description.1" : "动力搅拌器内置一个齿轮用于输入应力。",
+  "chapter.stage.1.quest.18.description.2" : "搅拌器至少需要 32 RPM 的转速才能工作，转速越快效率越高。",
+  "chapter.stage.1.quest.18.description.3" : "与工作盆相隔一格将搅拌器放在其上方，当工作盆内有正确的材料时，搅拌器就会自动开始搅拌。",
+  "chapter.stage.1.quest.18.description.4" : "动力搅拌配方只能用动力搅拌器执行。",
+
+  "chapter.stage.1.quest.19.title.1": "访问维度: &c下界",
+  "chapter.stage.1.quest.19.subtitle.1": "我不管我就要叫它地狱",
+  "chapter.stage.1.quest.19.description.1" : "建议去&4下界&r前做好充足准备，不然后果自负。",
+
+  "chapter.stage.1.quest.20.subtitle.1": "地狱猎手",
+  "chapter.stage.1.quest.20.description.1" : "去下界要塞前别忘了带&c空的烈焰人燃烧室&r去抓烈焰人。",
+  "chapter.stage.1.quest.20.description.2" : "这样可以获得&4烈焰人燃烧室&r。",
+
+  "chapter.stage.1.quest.21.subtitle.1": "捕捉烈焰人",
+  "chapter.stage.1.quest.21.description.1" : "如果可以的话，记得带上抗火药水。",
+
+  "chapter.stage.1.quest.22.subtitle.1": "获得黄铜",
+  "chapter.stage.1.quest.22.description.1" : "将&#B87333铜锭&r和&#BAC4C8锌锭&r放入&4加热&r的&l工作盆&r里搅拌可以制作&#B5A642黄铜&r。",
+
+  "chapter.stage.1.quest.23.subtitle.1": "机械手可以对前方相隔一格的方块模拟玩家操作",
+  "chapter.stage.1.quest.23.description.1" : "机械手默认模拟右键，通过扳手可以改为模拟左键。",
+  "chapter.stage.1.quest.23.description.2" : "机械手有2个物品栏槽：一个对应手持物品，一个是额外的内部槽。机械手收获的物品会进入额外槽并等待其他设备取出，期间机械手会停止工作。玩家无法取出额外槽的物品。",
+
+  "chapter.stage.1.quest.24.subtitle.1": "更好的机壳",
+  "chapter.stage.1.quest.24.description.1" : "用刚刚做的机械手来制作是个好主意……虽然并不是必须的。",
+
+  "chapter.stage.1.quest.25.subtitle.1": "合成新方式",
+  "chapter.stage.1.quest.25.description.1" : "动力合成器可以执行所有的合成配方。",
+  "chapter.stage.1.quest.25.description.2" : "所有动力合成器的指向必须通向同一个出口。",
+
+  "chapter.stage.1.quest.26.subtitle.1": "非常实用的部件",
+  "chapter.stage.1.quest.26.description.1" : "需要重复5次的序列组装。",
+  "chapter.stage.1.quest.26.description.2" : "许多配方都需要用到精密构件。",
+  "chapter.stage.1.quest.26.description.3" : "提示：完成自动化事半功倍。",
+
+  "chapter.stage.1.quest.27.subtitle.1": "到了机械动力采矿时间！",
+  "chapter.stage.1.quest.27.description.1" : "第一步：用探矿杖来寻找矿脉；",
+  "chapter.stage.1.quest.27.description.2" : "第二步：放下矿物钻井或流体提取井并装上钻头；",
+  "chapter.stage.1.quest.27.description.3" : "第三步：输入应力，输出产物。",
+  "chapter.stage.1.quest.27.description.4" : "提示：默认情况下按 W 可以查看更多信息。",
+
+  "chapter.stage.1.quest.28.subtitle.1": "机械动力流体提取",
+  "chapter.stage.1.quest.29.description.1" : "与矿物钻井类似，不过提取的是流体。",
+
+  "chapter.stage.1.quest.30.subtitle.1": "探矿之眼",
+  "chapter.stage.1.quest.30s.description.1" : "用于定位可供钻井或流体井采掘的矿脉或流体。",
+
+  "chapter.stage.1.quest.31.subtitle.1": "匠魂，启动！",
+  "chapter.stage.1.quest.31.description.1" : "匠魂模组非常实用，建议看看相关的配方。",
+  "chapter.stage.1.quest.31.description.2" : "这两张桌子可以用来制作早期匠魂工具。",
+
+  "chapter.stage.1.quest.32.subtitle.1": "存储无用部件",
+  "chapter.stage.1.quest.32.description.1" : "存储不用的匠魂部件非常方便。",
+
+  "chapter.stage.1.quest.33.subtitle.1": "现在或许是种更好的箱子？",
+  "chapter.stage.1.quest.33.description.1" : "工匠箱可以存储64组任意物品，但堆叠上限减少到16。（译注：原本就为16的不受影响）",
+
+  "chapter.stage.1.quest.34.subtitle.1": "我是一块砖！",
+  "chapter.stage.1.quest.34.description.1" : "砖泥都来了，冶炼炉还会远吗？",
+  "chapter.stage.1.quest.34.description.2" : "将沙子、沙砾、黏土混合搅拌以制作砖泥。",
+  "chapter.stage.1.quest.34.description.3" : "别忘了用烈焰人燃烧室加热！",
+
+  "chapter.stage.1.quest.35.subtitle.1": "熔炼砖泥",
+  "chapter.stage.1.quest.35.description.1" : "焦黑砖用于制造冶炼炉的部件。",
+  "chapter.stage.1.quest.35.description.2" : "下个任务会告诉你一些实用的部件。",
+
+  "chapter.stage.1.quest.36.title.1": "焦黑熔化炉",
+  "chapter.stage.1.quest.36.subtitle.1": "迷你版冶炼炉",
+  "chapter.stage.1.quest.36.description.1" : "在做冶炼炉之前，你需要先做一个焦黑熔化炉。",
+  "chapter.stage.1.quest.36.description.2" : "任务里列举了你需要的物品。",
+
+  "chapter.stage.1.quest.37.title.1": "冶炼炉",
+  "chapter.stage.1.quest.37.subtitle.1": "冶炼炉终于来了！",
+  "chapter.stage.1.quest.37.description.1" : "看看任务要求，你又需要焦黑砖了。",
+  "chapter.stage.1.quest.37.description.2" : "某些东西制作需要熔化炉。",
+
+  "chapter.stage.1.quest.38.subtitle.1": "金与锌",
+
+  "chapter.stage.1.quest.39.subtitle.1": "铅、锇、铀",
+
+  "chapter.stage.1.quest.40.subtitle.1": "钴与下界合金",
+
+  "chapter.stage.1.quest.41.subtitle.1": "铜、银、锡",
+
+  "chapter.stage.1.quest.42.subtitle.1": "铁、铝、镍",
+
+  "chapter.stage.1.quest.43.title.1": "矿物筛分机 - Part 1",
+  "chapter.stage.1.quest.43.subtitle.1": "全新的机械动力多方块结构",
+  "chapter.stage.1.quest.43.description.1": "这个自定义多方块结构的接口部分。",
+
+  "chapter.stage.1.quest.44.title.1": "矿物筛分机 - Part 2",
+  "chapter.stage.1.quest.44.subtitle.1": "全新的机械动力多方块结构",
+  "chapter.stage.1.quest.44.description.1": "这个自定义多方块结构的主体部分。",
+
+  "chapter.stage.1.quest.45.title.1": "矿物筛分机",
+  "chapter.stage.1.quest.45.subtitle.1": "高效筛分",
+  "chapter.stage.1.quest.45.description.1": "用于处理&6矿物钻井&r产出的混合矿。",
+  "chapter.stage.1.quest.45.description.2": "需要输入应力和水来工作。",
+
+  "chapter.stage.1.quest.46.subtitle.1": "魔法（羊皮）纸",
+  "chapter.stage.1.quest.46.description.1": "手持皮革右击水或含水炼药锅以获得&5皮纸&r。",
+
+  "chapter.stage.1.quest.47.subtitle.1": "巧工魔艺游戏内Wiki",
+  "chapter.stage.1.quest.47.description.1": "这本书会给你关于&5&l巧工魔艺&r的指导。",
+  "chapter.stage.1.quest.47.description.2": "你可以在书中查询关于这个模组的信息。",
+
+  "chapter.stage.1.quest.48.subtitle.1": "魔法科技树",
+  "chapter.stage.1.quest.48.description.1": "&9奥秘之眼&r会显示玩家的等阶，玩家解锁的魔法和升入下一等阶需要完成的任务。",
+  "chapter.stage.1.quest.48.description.2": "其GUI左侧有标签来显示各种信息，右侧则是玩家等阶升级的进度。",
+
+  "chapter.stage.1.quest.49.subtitle.1": "初见祭坛",
+  "chapter.stage.1.quest.49.description.1": "&5织魔祭坛&r用于制作魔法物品，可以储纳9个物品和6个织魔图样。",
+  "chapter.stage.1.quest.49.description.2": "手持物品右击即可将物品填入，顺序无关紧要。",
+  "chapter.stage.1.quest.49.description.3": "用织魔者魔杖将织魔图样画入织魔祭坛，顺序不能改变。",
+  "chapter.stage.1.quest.49.description.4": "用魔杖右击祭坛可以撤回刚画入的图样。",
+  "chapter.stage.1.quest.49.description.5": "用魔杖 Shift + 右键 祭坛可以与其绑定。",
+  "chapter.stage.1.quest.49.description.6": "用织魔放映机或瓶中魔织可以代替用魔杖画图样。",
+
+  "chapter.stage.1.quest.50.subtitle.1": "法术制作",
+  "chapter.stage.1.quest.50.description.1": "编写桌用来制作法术配方。",
+  "chapter.stage.1.quest.50.description.2": "GUI左上角有三个物品槽，第一个放奥术学家的墨水，第二个放纸，第三个放奥术粉末。",
+  "chapter.stage.1.quest.50.description.3": "有三种法术构件：形态、效果和修饰。编写桌的GUI中有5个槽来放法术构件。",
+  "chapter.stage.1.quest.50.description.4": "其中1个为形态，1个为效果，3个为修饰。",
+  "chapter.stage.1.quest.50.description.5": "修饰影响法术的属性，例如法术距离、持续时间和增强。",
+  "chapter.stage.1.quest.50.description.6": "点击法术构件将其加入配方。形态和效果构件是必须的。",
+  "chapter.stage.1.quest.50.description.7": "要调整修饰构件效果，点击修饰构件，点击出现的黄色箭头以调节属性值。",
+  "chapter.stage.1.quest.50.description.8": "在GUI右侧会显示复杂度、魔力消耗、编写桌物品消耗和法术配方材料。",
+  "chapter.stage.1.quest.50.description.9": "点击GUI顶部的箭头即可制作法术配方。制作法术配方需要一定时间，完成后法术配方在GUI右上角。",
+
+  "chapter.stage.1.quest.51.subtitle.1": "符文锻造",
+  "chapter.stage.1.quest.51.description.1": "&5符文锻炉&r用来制作部分物品，但注意配方的等阶要求。",
+  "chapter.stage.1.quest.51.description.2": "譬如它可以用来制作色度无尽2特有的&5&l暗夜精华&r。",
+
+  "chapter.stage.1.quest.52.subtitle.1": "专业粉碎",
+  "chapter.stage.1.quest.52.description.1": "粉碎轮用于粉碎物品。",
+  "chapter.stage.1.quest.52.description.2": "两粉碎轮需相隔一格，并且旋转方向相反。物品从粉碎轮向内旋转的一侧进入。"
 }
