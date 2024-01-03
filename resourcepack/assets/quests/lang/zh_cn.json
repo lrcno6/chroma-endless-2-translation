@@ -411,5 +411,343 @@
 
   "chapter.stage.1.quest.52.subtitle.1": "专业粉碎",
   "chapter.stage.1.quest.52.description.1": "粉碎轮用于粉碎物品。",
-  "chapter.stage.1.quest.52.description.2": "两粉碎轮需相隔一格，并且旋转方向相反。物品从粉碎轮向内旋转的一侧进入。"
+  "chapter.stage.1.quest.52.description.2": "两粉碎轮需相隔一格，并且旋转方向相反。物品从粉碎轮向内旋转的一侧进入。",
+
+  "chapter.stage.2.title": "第2章",
+
+  "chapter.stage.2.quest.1.subtitle.1": "用来锤炉子（Forge）",
+  "chapter.stage.2.quest.1.description.1": "&9工程师锤&r用来搭建&c沉浸工程的多方块结构&r。",
+  "chapter.stage.2.quest.1.description.2": "建议你在某处随时备着一个工程师锤。\n\n译注：不知道为什么实用工具里没有……变形工具存这种东西非常合适。",
+
+  "chapter.stage.2.quest.2.title.1": "看向 &6合金窑",
+  "chapter.stage.2.quest.2.subtitle.1": "搭建&5合金窑",
+  "chapter.stage.2.quest.2.description.1": "&5合金窑&r在早期用来合金非常方便。",
+
+  "chapter.stage.2.quest.3.title.1": "看向 &6焦炉",
+  "chapter.stage.2.quest.3.subtitle.1": "搭建&6焦炉&r",
+  "chapter.stage.2.quest.3.description.1": "&6焦炉&r产出的&7杂酚油&r可以用来做&4防腐木板&r。",
+
+  "chapter.stage.2.quest.4.title.1": "看向 &6高炉",
+  "chapter.stage.2.quest.4.subtitle.1": "专业熔炼",
+  "chapter.stage.2.quest.4.description.1": "&6高炉&r可以制作&9钢锭&r。",
+
+  "chapter.stage.2.quest.5.subtitle.1": "沉浸工程的工作台……吗？",
+  "chapter.stage.2.quest.5.description.1": "工程师装配台用于制造&5沉浸工程&r的部分部件。",
+  "chapter.stage.2.quest.5.description.2": "Later in the game, a more valuable recipe will be used, but for now we suggest to use that.",
+
+  "chapter.stage.2.quest.6.subtitle.1": "多功能钳子",
+  "chapter.stage.2.quest.6.description.1": "&9工程师剪线钳&r可以暂时用来制作&5沉浸工程&r的模具和金属线。",
+
+  "chapter.stage.2.quest.7.subtitle.1": "你的第一台发电机",
+  "chapter.stage.2.quest.7.description.1": "&9动能发电机&r通过&6水车&r&6风车&r来产生能量。",
+  "chapter.stage.2.quest.7.description.2": "后面的两个任务会讲解&6水车&r和&6风车&r的用法。",
+
+  "chapter.stage.2.quest.8.subtitle.1": "&6水车&r",
+  "chapter.stage.2.quest.8.description.1": "水流过水车会产生&c&lIF&r。",
+  "chapter.stage.2.quest.8.description.2": "要最大化能量产出，你要让水流过上、侧、下三个面。",
+  "chapter.stage.2.quest.8.description.3": "一个动能发电机可以接3个&5水车s&r。",
+
+  "chapter.stage.2.quest.9.subtitle.1": "&6风车&r",
+  "chapter.stage.2.quest.9.description.1": "谈论&5沉浸工程&r的发电方式，就必然会提到风车。",
+  "chapter.stage.2.quest.9.description.2": "风车的能量产出效率取决于其前方空间是否空旷，气流是否会被阻挡。",
+  "chapter.stage.2.quest.9.description.3": "提示：雨天和雷雨天风车能量产出效率更高。",
+
+  "chapter.stage.2.quest.10.title.1": "看向 &6金属冲压机",
+  "chapter.stage.2.quest.10.subtitle.1": "&6金属冲压机&r",
+  "chapter.stage.2.quest.10.description.1": "在其活塞上放上金属模具以冲压金属。",
+  "chapter.stage.2.quest.10.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.10.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.11.subtitle.1": "更强大的&9焦炉&r",
+  "chapter.stage.2.quest.11.description.1": "强化焦炉消耗能量，但效率更高！",
+
+  "chapter.stage.2.quest.12.title.1": "看向 &6混合器",
+  "chapter.stage.2.quest.12.subtitle.1": "&6混合器&r",
+  "chapter.stage.2.quest.12.description.1": "混合器用于向流体中加入物品",
+  "chapter.stage.2.quest.12.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.12.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.13.title.1": "蓄电池",
+  "chapter.stage.2.quest.13.subtitle.1": "储存&cIF&r",
+  "chapter.stage.2.quest.13.description.1": "蓄电池用来储存&cIF&r.",
+  "chapter.stage.2.quest.13.description.2": "可以用工程师锤来修改各个面的配置。",
+
+  "chapter.stage.2.quest.14.title.1": "看向 &6工业发酵机",
+  "chapter.stage.2.quest.14.subtitle.1": "&6工业发酵机&r",
+  "chapter.stage.2.quest.14.description.1": "工业发酵机用来将食物转化为&7&l乙醇&r。",
+  "chapter.stage.2.quest.14.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.14.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.15.title.1": "看向 &6炼油厂",
+  "chapter.stage.2.quest.15.subtitle.1": "&6炼油厂&r",
+  "chapter.stage.2.quest.15.description.1": "炼油厂用于将流体精炼为其他流体。",
+  "chapter.stage.2.quest.15.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.15.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.16.subtitle.1": "用&6炼油厂&r制作",
+  "chapter.stage.2.quest.16.description.1": "后面会用到这种流体的。",
+
+  "chapter.stage.2.quest.17.title.1": "看向 &6灌装机",
+  "chapter.stage.2.quest.17.subtitle.1": "&6灌装机&r",
+  "chapter.stage.2.quest.17.description.1": "灌装机用于向物品注液。",
+  "chapter.stage.2.quest.17.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.17.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.18.subtitle.1": "准备充能",
+  "chapter.stage.2.quest.18.description.1": "充能器很酷，但你需要先做这个玩意。",
+
+  "chapter.stage.2.quest.19.subtitle.1": "陨石猎手",
+  "chapter.stage.2.quest.19.description.1": "陨石非常常见，但如果你找不到你还可以用陨石罗盘。",
+
+  "chapter.stage.2.quest.20.subtitle.1": "Pressing Silicon",
+  "chapter.stage.2.quest.20.description.1": "用于制作硅板。",
+  "chapter.stage.2.quest.20.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
+
+  "chapter.stage.2.quest.21.subtitle.1": "Pressing Gold",
+  "chapter.stage.2.quest.21.description.1": "用于制作逻辑电路板。",
+  "chapter.stage.2.quest.21.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
+
+  "chapter.stage.2.quest.22.subtitle.1": "Pressing Diamond",
+  "chapter.stage.2.quest.22.description.1": "用于制作工程电路板。",
+  "chapter.stage.2.quest.22.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
+
+  "chapter.stage.2.quest.23.subtitle.1": "Pressing Certus Quartz",
+  "chapter.stage.2.quest.23.description.1": "用于制作运算电路板。",
+  "chapter.stage.2.quest.23.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
+
+  "chapter.stage.2.quest.24.subtitle.1": "Printing Silicon",
+
+  "chapter.stage.2.quest.25.subtitle.1": "Printing Gold",
+
+  "chapter.stage.2.quest.26.subtitle.1": "Printing Diamond",
+
+  "chapter.stage.2.quest.27.subtitle.1": "Printing Certus Quartz",
+
+  "chapter.stage.2.quest.28.title.1": "看向 &6电弧炉",
+  "chapter.stage.2.quest.28.subtitle.1": "&6电弧炉&r",
+  "chapter.stage.2.quest.28.description.1": "电弧炉用于熔炼和制作处理器。",
+  "chapter.stage.2.quest.28.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.28.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+
+  "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
+
+  "chapter.stage.2.quest.30.subtitle.1": "Engineering Press",
+
+  "chapter.stage.2.quest.31.subtitle.1": "Logic Press",
+
+  "chapter.stage.2.quest.32.subtitle.1": "给赛特斯石英充能",
+  "chapter.stage.2.quest.32.description.1": "充能器消耗能量给赛特斯石英充能。",
+
+  "chapter.stage.2.quest.33.subtitle.1": "Wall of Projection",
+
+  "chapter.stage.2.quest.34.subtitle.1": "合成新方式",
+
+  "chapter.stage.2.quest.35.subtitle.1": "Accepting Other Energy",
+  "chapter.stage.2.quest.35.description.1": "能源接收器将其他能量转换为AE。",
+
+  "chapter.stage.2.quest.36.subtitle.1": "水晶生长",
+  "chapter.stage.2.quest.36.description.1": "晶体催生器可以加速各种水晶种子生长。",
+
+  "chapter.stage.2.quest.37.subtitle.1": "早期存储方式",
+  "chapter.stage.2.quest.37.description.1": "ME存储总线可以将任何容器接入AE系统。",
+  "chapter.stage.2.quest.37.description.2": "用玻璃线缆连接是个好主意。",
+
+  "chapter.stage.2.quest.38.subtitle.1": "查看物品",
+  "chapter.stage.2.quest.38.description.1": "ME终端可以查看AE系统中的所有物品。",
+  "chapter.stage.2.quest.38.description.2": "用玻璃线缆连接是个好主意。",
+
+  "chapter.stage.2.quest.39.subtitle.1": "应用合成",
+  "chapter.stage.2.quest.39.description.1": "在ME终端中启用合成功能。",
+  "chapter.stage.2.quest.39.description.2": "用玻璃线缆连接是个好主意。",
+
+  "chapter.stage.2.quest.40.subtitle.1": "Mek 启动！",
+  "chapter.stage.2.quest.40.description.1": "新纪元的曙光。",
+  "chapter.stage.2.quest.40.description.2": "目前你只能通过微缩合成来制作，之后会有更简单的方法。",
+
+  "chapter.stage.2.quest.41.subtitle.1": "Infusing at it's best",
+  "chapter.stage.2.quest.41.description.1": "冶金灌注机用于将物质灌注进物品中。",
+  "chapter.stage.2.quest.41.description.2": "每种灌注类型都可以制作新的物品，开辟新的道路。",
+
+  "chapter.stage.2.quest.42.subtitle.1": "Certus Infused",
+  "chapter.stage.2.quest.42.description.1": "向充能赛特斯石英灌注红石。",
+
+  "chapter.stage.2.quest.43.subtitle.1": "Logic Processor Infused",
+  "chapter.stage.2.quest.43.description.1": "向逻辑处理器灌注红石。",
+
+  "chapter.stage.2.quest.44.subtitle.1": "转化为基础工厂",
+  "chapter.stage.2.quest.44.description.1": "用工厂升级 Shift + 右键 可升级的Mek机器可以将其转化为基础工厂。",
+  "chapter.stage.2.quest.44.description.2": "已经到达该等级的机器显然不会再次升级。",
+
+  "chapter.stage.2.quest.45.subtitle.1": "基础灌注",
+  "chapter.stage.2.quest.45.description.1": "向基础控制电路灌注红石。",
+
+  "chapter.stage.2.quest.46.subtitle.1": "粉碎轮的高替",
+  "chapter.stage.2.quest.46.description.1": "粉碎机用于粉碎物品。",
+
+  "chapter.stage.2.quest.47.subtitle.1": "更好的熔炉",
+  "chapter.stage.2.quest.47.description.1": "电力熔炼炉用于烹饪和熔炼物品。",
+
+  "chapter.stage.2.quest.48.subtitle.1": "Fuuusiionnn !",
+  "chapter.stage.2.quest.48.description.1": "融合机用于将两种物品相融合。",
+  "chapter.stage.2.quest.48.description.2": "用JEI查询配方。",
+
+  "chapter.stage.2.quest.49.subtitle.1": "Smelting Mana",
+
+  "chapter.stage.2.quest.50.subtitle.1": "Noon Throwing",
+  "chapter.stage.2.quest.50.description.1": "在中午（3:20 - 6:40）将&5福鲁伊克斯珍珠&r扔入&3熔融魔力&r可以获得&d绛紫晶&r。",
+
+  "chapter.stage.2.quest.51.subtitle.1": "Midnight Throwing",
+  "chapter.stage.2.quest.51.description.1": "在午夜（13:20 - 16:40）将&5福鲁伊克斯珍珠&r扔入&3熔融魔力&r可以获得&b月长石&r。",
+
+  "chapter.stage.2.quest.52.subtitle.1": "组成蔚蓝浩空",
+  "chapter.stage.2.quest.52.description.1": "获得绛紫晶和月长石后，你可以将它们融合成&5御风火石&r。",
+  "chapter.stage.2.quest.52.description.2": "御风火石用于激活守门人小屋的两种传送门。",
+  "chapter.stage.2.quest.52.description.3": "你可以在平原、山地和大部分覆雪群系找到守门人小屋。",
+
+  "chapter.stage.2.quest.53.title.1": "访问维度：&b永昼之地",
+  "chapter.stage.2.quest.53.subtitle.1": "登上天堂",
+  "chapter.stage.2.quest.53.description.1": "永昼之地光明而寒冷，生活着许多野兽和奇异生物，要时刻小心。",
+  "chapter.stage.2.quest.53.description.2": "当心！在暴风雪时能见度极低且会增加刷怪。",
+  "chapter.stage.2.quest.53.description.3": "在永昼之地探索时，你可能会遇到召唤师惑乱高塔和自然城堡，在自然城堡里住着星熠破灭之树。",
+
+  "chapter.stage.2.quest.54.subtitle.1": "红色金属",
+  "chapter.stage.2.quest.54.description.1": "在永昼之地可以找到镰鼬铁矿。",
+  "chapter.stage.2.quest.54.description.2": "你还可以用沉浸工程的挖掘机来获得镰鼬铁。",
+
+  "chapter.stage.2.quest.55.subtitle.1": "升级为高级工厂",
+  "chapter.stage.2.quest.55.description.1": "用工厂升级 Shift + 右键 基础工厂可以将其升级为高级工厂。",
+  "chapter.stage.2.quest.55.description.2": "已经到达该等级的机器显然不会再次升级。",
+
+  "chapter.stage.2.quest.56.title.1": "访问维度：&c恒晓之地",
+  "chapter.stage.2.quest.56.subtitle.1": "黑暗是你新的归宿",
+  "chapter.stage.2.quest.56.description.1": "恒晓之地永恒保持在日出，炎热潮湿，充斥着大量的昆虫和爬行动物。",
+  "chapter.stage.2.quest.56.description.2": "在进入恒晓之地前，建议准备些防剧毒和抗火的东西。",
+  "chapter.stage.2.quest.56.description.3": "跨越众多地貌，寻找炼金术士惑乱高塔和猛毒地牢——幽咽蛛王的老巢。",
+
+  "chapter.stage.2.quest.57.subtitle.1": "Sky of Beginning",
+  "chapter.stage.2.quest.57.description.1": "花药台用于将神秘花瓣和符文转化为产能花和功能花。",
+
+  "chapter.stage.2.quest.58.subtitle.1": "转换之花",
+  "chapter.stage.2.quest.58.description.1" : "白雏菊会将水平方向周围8格的方块转换为其他方块。",
+
+  "chapter.stage.2.quest.59.subtitle.1": "高纯之木",
+  "chapter.stage.2.quest.59.description.1": "由白雏菊转换&7枫树原木&r获得。",
+  "chapter.stage.2.quest.59.description.2": "转换时间大约1分钟。",
+  "chapter.stage.2.quest.59.description.3": "枫树苗在恒晓之地的落日枫林群系中可以找到。",
+
+  "chapter.stage.2.quest.60.subtitle.1": "高纯之石",
+  "chapter.stage.2.quest.60.description.1": "由白雏菊转换明月石获得。",
+  "chapter.stage.2.quest.60.description.2": "转换时间大约1分钟。",
+  "chapter.stage.2.quest.60.description.3": "明月石可以在恒晓之地找到。",
+
+  "chapter.stage.2.quest.61.subtitle.1": "魔力存储……还不够",
+  "chapter.stage.2.quest.61.description.1": "这是你能做的第一个魔力池，但它的容量只有魔力池的百分之一。",
+  "chapter.stage.2.quest.61.description.2": "制作稀释魔力池，需要放置1个灵魂沙，在相邻4格放活石，",
+  "chapter.stage.2.quest.61.description.3": "点燃灵魂沙后，向灵魂火中丢入一个炼药锅。",
+
+  "chapter.stage.2.quest.62.subtitle.1": "第一个魔力存储器",
+
+  "chapter.stage.2.quest.63.subtitle.1": "水之魔力",
+  "chapter.stage.2.quest.63.description.1" : "将水绣球放在水旁以产生魔力",
+  "chapter.stage.2.quest.63.description.2" : "水绣球会凋谢，你需要不断补充。",
+
+  "chapter.stage.2.quest.64.subtitle.1": "火之魔力",
+  "chapter.stage.2.quest.64.description.1" : "火红莲用可燃物产生魔力。",
+  "chapter.stage.2.quest.64.description.2" : "丢给火红莲的燃烧物不同，产生的魔力量有可能不同。",
+
+  "chapter.stage.2.quest.65.subtitle.1": "魔力运输",
+  "chapter.stage.2.quest.65.description.1" : "魔力发射器将魔力运给魔力存储方块。",
+
+  "chapter.stage.2.quest.66.subtitle.1": "钢遇上魔力",
+  "chapter.stage.2.quest.66.description.1": "将钢锭扔进魔力池以制作魔力钢。",
+
+  "chapter.stage.2.quest.67.subtitle.1": "符文制作",
+  "chapter.stage.2.quest.67.description.1": "用符文工匠锤和符文工匠凿在符文刻印桌制作符文样板。",
+  "chapter.stage.2.quest.67.description.2": "在GUI左侧有三个槽，第一个放符文锤，第二个放符文凿，第三个放黏土。",
+  "chapter.stage.2.quest.67.description.3": "制作符文不需要黏土，黏土用于填补刻痕。",
+  "chapter.stage.2.quest.67.description.4": "GUI中部的槽用于放符文样板，右上角用于放刻印配方。在右上角放入刻印配方后会在其下方展示对应图案。",
+  "chapter.stage.2.quest.67.description.5": "右下角的25个槽用于储存刻印配方。将符文样板放入后将会出现一个点格图。",
+  "chapter.stage.2.quest.67.description.6": "点击相邻两点之间可以在此划出一道刻痕，并消耗工具耐久。",
+  "chapter.stage.2.quest.67.description.7": "点击刻痕可以消耗黏土和经验来抹去刻痕。",
+  "chapter.stage.2.quest.67.description.8": "当你划出的图案匹配时会自动制作成对应的符文样板。",
+
+  "chapter.stage.2.quest.68.subtitle.1": "成为一名符文工匠吧！",
+
+  "chapter.stage.2.quest.69.subtitle.1": "Chiseling the Avatar Rune",
+
+  "chapter.stage.2.quest.70.subtitle.1": "Chiseling the Magma Rune",
+
+  "chapter.stage.2.quest.71.subtitle.1": "Chiseling the Terra Rune",
+
+  "chapter.stage.2.quest.72.subtitle.1": "Chiseling the Aqua Rune",
+
+  "chapter.stage.2.quest.73.subtitle.1": "符文锻造",
+  "chapter.stage.2.quest.73.description.1": "使用符文铁砧：先放上样板，再放上&b活石&r、&b镰鼬铁&r等材料，最后用符文工匠锤锻造。",
+  "chapter.stage.2.quest.73.description.2": "当你到达魔力等级5时，原版矿物有概率会掉落&6秘鸣宝石&r：",
+  "chapter.stage.2.quest.73.description.3": "当你到达魔力等级5时，&a绿宝石矿石&r有90%%的概率掉落秘鸣宝石；",
+  "chapter.stage.2.quest.73.description.4": "当你到达魔力等级10时，&b钻石矿石&r有60%%的概率掉落秘鸣宝石；",
+  "chapter.stage.2.quest.73.description.5": "当你到达魔力等级20时，&8煤矿石&r有30%%的概率掉落秘鸣宝石。",
+
+  "chapter.stage.2.quest.74.subtitle.1": "Avatar Rune",
+  "chapter.stage.2.quest.74.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
+
+  "chapter.stage.2.quest.75.subtitle.1": "Magma Rune",
+  "chapter.stage.2.quest.75.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
+
+  "chapter.stage.2.quest.76.subtitle.1": "Terra Rune",
+  "chapter.stage.2.quest.76.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
+
+  "chapter.stage.2.quest.77.subtitle.1": "Aqua Rune",
+  "chapter.stage.2.quest.77.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
+
+  "chapter.stage.2.quest.78.subtitle.1": "Discovering Runic Knowledge",
+  "chapter.stage.2.quest.78.description.1": "符文核心用于制作符文祭坛。",
+
+  "chapter.stage.2.quest.79.subtitle.1": "符文制作",
+  "chapter.stage.2.quest.79.description.1": "符文祭坛用于制作符文。",
+
+  "chapter.stage.2.quest.80.subtitle.1": "高级符文",
+
+  "chapter.stage.2.quest.81.subtitle.1": "魔力之板",
+  "chapter.stage.2.quest.81.description.1": "泰拉凝聚板消耗魔力将多个物品融合。",
+
+  "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
+
+  "chapter.stage.2.quest.83.title.1": "访问维度：&5末地&r",
+  "chapter.stage.2.quest.83.subtitle.1": "龙之巢穴",
+  "chapter.stage.2.quest.83.description.1": "在末地你能获得许多资源，其中包括一种重要材料。",
+  "chapter.stage.2.quest.83.description.2": "在末地用玻璃瓶右键可以获得&a瓶装末地空气&r。",
+  "chapter.stage.2.quest.83.description.3": "用瓶装末地空气右键可以将其扔出，将7x7x7范围内最多64块石头转化为末地石。",
+
+  "chapter.stage.2.quest.84.title.1": "精灵传送门",
+  "chapter.stage.2.quest.84.subtitle.1": "The Magical Portal",
+  "chapter.stage.2.quest.84.description.1": "精灵传送门用于交换（制作）某些物品。",
+  "chapter.stage.2.quest.84.description.2": "将结构搭建完成后，用森林法杖来激活传送门。",
+  "chapter.stage.2.quest.84.description.3": "如果魔力不足，或者结构被破坏，传送门将关闭。",
+
+  "chapter.stage.2.quest.85.subtitle.1": "Wonderful Pylon",
+  "chapter.stage.2.quest.85.description.1": "盖亚水晶用于搭建盖亚仪式所需结构。",
+
+  "chapter.stage.2.quest.86.subtitle.1": "盖亚仪式",
+  "chapter.stage.2.quest.86.description.1": "盖亚仪式用于召唤盖亚守护者，其是盖亚之魂的来源。",
+  "chapter.stage.2.quest.86.description.2": "要进行盖亚仪式需要信标和4个盖亚水晶。具体位置可以从植物魔法辞典的结构预览中查看。",
+  "chapter.stage.2.quest.86.description.3": "搭建好结构后，用泰拉钢锭 Shift + 右击 信标来召唤盖亚守护者。如果结构不完整或者区域有阻挡，会有粉色粒子指示相关的位置。",
+  "chapter.stage.2.quest.86.description.4": "用盖亚魂锭来召唤的话会生成一个更强的盖亚守护者，并会掉落更多的战利品。",
+
+  "chapter.stage.2.quest.87.description.1": "用泰拉凝聚板制作盖亚魂锭。",
+  "chapter.stage.2.quest.87.description.2": "Later, you will be able to do it through the &dIndustrial Agglomeration Factory&r.",
+
+  "chapter.stage.2.quest.88.subtitle.1": "魔法转化",
+  "chapter.stage.2.quest.88.description.1": "炼金催化剂可以解锁更多的魔力灌注配方。",
+  "chapter.stage.2.quest.88.description.2": "将其放在魔力池下方来使用。",
+  "chapter.stage.2.quest.88.description.3": "用来解锁Powah和制作硅脂。",
+
+  "chapter.stage.2.quest.89.subtitle.1": "好多好多资源",
+  "chapter.stage.2.quest.89.description.1": "右键挖矿传送门进入采矿维度。",
+
+  "chapter.stage.2.quest.90.title.1": "看向 &6工业挤压机",
+  "chapter.stage.2.quest.90.subtitle.1": "&6工业挤压机&r",
+  "chapter.stage.2.quest.90.description.1": "&6工业挤压机&r用来制作植物油和高定向热解石墨粉。",
+  "chapter.stage.2.quest.90.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
+  "chapter.stage.2.quest.90.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。"
 }

@@ -1,0 +1,2532 @@
+{
+	id: "2B780B6962F7CF7D"
+	group: "23866070F89333B0"
+	order_index: 1
+	filename: "stage_2"
+	title: "{chapter.stage.2.title}"
+	icon: {
+		id: "immersiveengineering:hammer"
+		Count: 1
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "immersiveengineering:coke_oven"
+			x: 8.0d
+			y: 1.5d
+			subtitle: "{chapter.stage.2.quest.3.subtitle.1}"
+			description: ["{chapter.stage.2.quest.3.description.1}"]
+			dependencies: ["3125B28DBC36530F"]
+			id: "36A47B57CA00D3A9"
+			tasks: [
+				{
+					id: "0AD7B9BED2950392"
+					type: "observation"
+					title: "{chapter.stage.2.quest.3.title.1}"
+					icon: "immersiveengineering:coke_oven"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:coke_oven"
+				}
+				{
+					id: "34303B442EC1A118"
+					type: "item"
+					item: "immersiveengineering:cokebrick"
+					count: 27L
+				}
+			]
+			rewards: [{
+				id: "5810436C4364E64A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "immersiveengineering:alloy_smelter"
+			x: 6.5d
+			y: 1.0d
+			subtitle: "{chapter.stage.2.quest.2.subtitle.1}"
+			description: ["{chapter.stage.2.quest.2.description.1}"]
+			dependencies: ["3125B28DBC36530F"]
+			id: "62E491DE99C883DB"
+			tasks: [
+				{
+					id: "005B4A68EDB17393"
+					type: "observation"
+					title: "{chapter.stage.2.quest.2.title.1}"
+					icon: "immersiveengineering:alloy_smelter"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:alloy_smelter"
+				}
+				{
+					id: "7E2FE078DE578E45"
+					type: "item"
+					item: "immersiveengineering:alloybrick"
+					count: 8L
+				}
+			]
+			rewards: [{
+				id: "4BA927151E417B8E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "immersiveengineering:blast_furnace"
+			x: 8.5d
+			y: 3.0d
+			subtitle: "{chapter.stage.2.quest.4.subtitle.1}"
+			description: ["{chapter.stage.2.quest.4.description.1}"]
+			dependencies: ["36A47B57CA00D3A9"]
+			id: "3A8FD39A74BFEC82"
+			tasks: [
+				{
+					id: "240F37CC63C84AC8"
+					type: "observation"
+					title: "{chapter.stage.2.quest.4.title.1}"
+					icon: "immersiveengineering:blast_furnace"
+					timer: 0L
+					observe_type: 0
+					to_observe: "immersiveengineering:blast_furnace"
+				}
+				{
+					id: "3B0D69CFB8422A9E"
+					type: "item"
+					item: "immersiveengineering:blastbrick"
+					count: 27L
+				}
+			]
+			rewards: [{
+				id: "6CC980204598F32B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.0d
+			y: 4.5d
+			subtitle: "{chapter.stage.2.quest.7.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.7.description.1}"
+				""
+				"{chapter.stage.2.quest.7.description.2}"
+			]
+			dependencies: ["3B7A75A246E2901B"]
+			id: "12F111E653EB49D7"
+			tasks: [{
+				id: "7B8CE4B2A48B4A23"
+				type: "item"
+				item: "immersiveengineering:dynamo"
+			}]
+			rewards: [{
+				id: "7ACAE1AD0F69D4F2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 5.0d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.9.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.9.description.1}"
+				""
+				"{chapter.stage.2.quest.9.description.2}"
+				""
+				"{chapter.stage.2.quest.9.description.3}"
+			]
+			dependencies: ["12F111E653EB49D7"]
+			id: "6999573AAA0BCA7E"
+			tasks: [{
+				id: "5BE581B4724E219C"
+				type: "item"
+				item: "immersiveengineering:windmill"
+			}]
+			rewards: [{
+				id: "5C2D0187F9D47722"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 4.0d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.8.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.8.description.1}"
+				""
+				"{chapter.stage.2.quest.8.description.2}"
+				""
+				"{chapter.stage.2.quest.8.description.3}"
+			]
+			dependencies: ["12F111E653EB49D7"]
+			id: "169DD90F2CB9E99C"
+			tasks: [{
+				id: "38E246E53A1824E6"
+				type: "item"
+				item: "immersiveengineering:watermill"
+			}]
+			rewards: [{
+				id: "4FAD9037538384B0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 10.0d
+			y: 4.5d
+			subtitle: "{chapter.stage.2.quest.5.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.5.description.1}"
+				""
+				"{chapter.stage.2.quest.5.description.2}"
+			]
+			dependencies: ["4E0E34A0AC440055"]
+			id: "1DF0F7DDAAFED205"
+			tasks: [{
+				id: "23A1A4540F67E01C"
+				type: "item"
+				item: "immersiveengineering:workbench"
+			}]
+			rewards: [{
+				id: "54A0EE4E5D52EF51"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.5d
+			y: 12.0d
+			subtitle: "{chapter.stage.2.quest.33.subtitle.1}"
+			dependencies: [
+				"2E1963E47109832F"
+				"72C1D1F2706BBF55"
+				"1A5A8A30F151EAE4"
+			]
+			id: "2E90A31C97E6772E"
+			tasks: [{
+				id: "740ACD4865CA9140"
+				type: "item"
+				item: "compactmachines:wall"
+			}]
+			rewards: [{
+				id: "04D1F7FEBDE9FC61"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 18.5d
+			y: 12.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.34.subtitle.1}"
+			dependencies: ["2E90A31C97E6772E"]
+			id: "4BDF9BFA4CBA1DC9"
+			tasks: [{
+				id: "0F86D2FE14E04F5B"
+				type: "item"
+				item: "compactcrafting:field_projector"
+			}]
+			rewards: [{
+				id: "6F0F2116A3275CAC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.5d
+			y: 9.0d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.28.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.28.description.1}"
+				""
+				"{chapter.stage.2.quest.28.description.2}"
+				""
+				"{chapter.stage.2.quest.28.description.3}"
+			]
+			dependencies: [
+				"47F5A21D9347D0FA"
+				"7A3D66E658CEC24D"
+				"5588AE1D76749708"
+				"01EA9408E903745F"
+			]
+			dependency_requirement: "one_completed"
+			id: "0383C24238A24FF5"
+			tasks: [{
+				id: "7268B2807D37E5A0"
+				type: "observation"
+				title: "{chapter.stage.2.quest.28.title.1}"
+				icon: "immersiveengineering:arc_furnace"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:arc_furnace"
+			}]
+			rewards: [{
+				id: "194B5400872D4162"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.0d
+			y: 5.0d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.10.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.10.description.1}"
+				""
+				"{chapter.stage.2.quest.10.description.2}"
+				""
+				"{chapter.stage.2.quest.10.description.3}"
+			]
+			dependencies: [
+				"6999573AAA0BCA7E"
+				"169DD90F2CB9E99C"
+			]
+			dependency_requirement: "one_completed"
+			id: "5399655B3844833B"
+			tasks: [{
+				id: "7724DE7618877AD1"
+				type: "observation"
+				title: "{chapter.stage.2.quest.10.title.1}"
+				icon: "immersiveengineering:metal_press"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:metal_press"
+			}]
+			rewards: [{
+				id: "13327D8471F1638A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.5d
+			y: 5.0d
+			subtitle: "{chapter.stage.2.quest.19.subtitle.1}"
+			description: ["{chapter.stage.2.quest.19.description.1}"]
+			dependencies: [
+				"5399655B3844833B"
+				"1F0B01FEFC273FA8"
+			]
+			id: "57A247A0D095A713"
+			tasks: [{
+				id: "427AEF74E58B18DA"
+				type: "item"
+				item: "ae2:sky_compass"
+			}]
+			rewards: [{
+				id: "0481B468C44796F9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.0d
+			y: 6.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.23.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.23.description.1}"
+				""
+				"{chapter.stage.2.quest.23.description.2}"
+			]
+			dependencies: ["57A247A0D095A713"]
+			id: "4E220E0F28468E0E"
+			tasks: [{
+				id: "36D0DD2130E15500"
+				type: "item"
+				item: "ae2:calculation_processor_press"
+			}]
+			rewards: [{
+				id: "5C181341E284BDD7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 21.0d
+			y: 6.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.22.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.22.description.1}"
+				""
+				"{chapter.stage.2.quest.23.description.2}"
+			]
+			dependencies: ["57A247A0D095A713"]
+			id: "19BEEEBF323F21CC"
+			tasks: [{
+				id: "61C71126A4438336"
+				type: "item"
+				item: "ae2:engineering_processor_press"
+			}]
+			rewards: [{
+				id: "6454BC44DD81C470"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: 6.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.21.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.21.description.1}"
+				""
+				"{chapter.stage.2.quest.21.description.2}"
+			]
+			dependencies: ["57A247A0D095A713"]
+			id: "15C3063853827D1E"
+			tasks: [{
+				id: "780467912F8078DF"
+				type: "item"
+				item: "ae2:logic_processor_press"
+			}]
+			rewards: [{
+				id: "5A2DF8EA6375051B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 6.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.20.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.20.description.1}"
+				""
+				"{chapter.stage.2.quest.20.description.2}"
+			]
+			dependencies: ["57A247A0D095A713"]
+			id: "1A540A83039A4BDB"
+			tasks: [{
+				id: "553374534B88C075"
+				type: "item"
+				item: "ae2:silicon_press"
+			}]
+			rewards: [{
+				id: "5F80CE32EDEE6059"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 7.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.24.subtitle.1}"
+			dependencies: ["1A540A83039A4BDB"]
+			id: "7A3D66E658CEC24D"
+			tasks: [{
+				id: "66751F1A1749C377"
+				type: "item"
+				item: "ae2:printed_silicon"
+			}]
+			rewards: [{
+				id: "7077698AFF61AF65"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: 7.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.25.subtitle.1}"
+			dependencies: ["15C3063853827D1E"]
+			id: "01EA9408E903745F"
+			tasks: [{
+				id: "5A64F16403A8E822"
+				type: "item"
+				item: "ae2:printed_logic_processor"
+			}]
+			rewards: [{
+				id: "79CBFA6175BCDAEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 21.0d
+			y: 7.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.26.subtitle.1}"
+			dependencies: ["19BEEEBF323F21CC"]
+			id: "47F5A21D9347D0FA"
+			tasks: [{
+				id: "0304B37AA3C1465E"
+				type: "item"
+				item: "ae2:printed_engineering_processor"
+			}]
+			rewards: [{
+				id: "4FAB4C379A41577F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.0d
+			y: 7.5d
+			shape: "hexagon"
+			subtitle: "{chapter.stage.2.quest.27.subtitle.1}"
+			dependencies: ["4E220E0F28468E0E"]
+			id: "5588AE1D76749708"
+			tasks: [{
+				id: "4A20AB7CB4B4C31E"
+				type: "item"
+				item: "ae2:printed_calculation_processor"
+			}]
+			rewards: [{
+				id: "5996142D1B93A966"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 10.5d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.29.subtitle.1}"
+			dependencies: ["0383C24238A24FF5"]
+			id: "2E1963E47109832F"
+			tasks: [{
+				id: "1886C743A8A2BC06"
+				type: "item"
+				item: "ae2:calculation_processor"
+			}]
+			rewards: [{
+				id: "5E58BFEC149C7B81"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.5d
+			y: 10.5d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.30.subtitle.1}"
+			dependencies: ["0383C24238A24FF5"]
+			id: "1A5A8A30F151EAE4"
+			tasks: [{
+				id: "30EF5FB576C9E267"
+				type: "item"
+				item: "ae2:engineering_processor"
+			}]
+			rewards: [{
+				id: "26BA623347813800"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 21.5d
+			y: 10.5d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.31.subtitle.1}"
+			dependencies: ["0383C24238A24FF5"]
+			id: "72C1D1F2706BBF55"
+			tasks: [{
+				id: "74B802B3497CB8C4"
+				type: "item"
+				item: "ae2:logic_processor"
+			}]
+			rewards: [{
+				id: "14053A8905D2BEAE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 16.0d
+			y: 12.5d
+			subtitle: "{chapter.stage.2.quest.35.subtitle.1}"
+			description: ["{chapter.stage.2.quest.35.description.1}"]
+			dependencies: ["4BDF9BFA4CBA1DC9"]
+			id: "3E4448B567A6C9FB"
+			tasks: [{
+				id: "71E8F1F83986F185"
+				type: "item"
+				item: "ae2:energy_acceptor"
+			}]
+			rewards: [{
+				id: "25F95DA037257C85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 14.5d
+			subtitle: "{chapter.stage.2.quest.37.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.37.description.1}"
+				""
+				"{chapter.stage.2.quest.37.description.2}"
+			]
+			dependencies: ["348A642859B8BA03"]
+			id: "5A24B092050F9126"
+			tasks: [{
+				id: "11A6C9C508E45D55"
+				type: "item"
+				item: "ae2:storage_bus"
+			}]
+			rewards: [{
+				id: "25EF248F70260A8E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 12.5d
+			subtitle: "{chapter.stage.2.quest.36.subtitle.1}"
+			description: ["{chapter.stage.2.quest.36.description.1}"]
+			dependencies: [
+				"3E4448B567A6C9FB"
+				"435075825CDEB1EA"
+			]
+			id: "348A642859B8BA03"
+			tasks: [{
+				id: "70DF29183934B087"
+				type: "item"
+				item: "ae2:quartz_growth_accelerator"
+			}]
+			rewards: [{
+				id: "7A2525EAC39FA84D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 10.5d
+			subtitle: "{chapter.stage.2.quest.32.subtitle.1}"
+			description: ["{chapter.stage.2.quest.32.description.1}"]
+			dependencies: [
+				"16EC93F4101F247F"
+				"0D9276F1C221C682"
+				"7379508342AA6E87"
+			]
+			id: "435075825CDEB1EA"
+			tasks: [{
+				id: "1F0B01FEFC273FA8"
+				type: "item"
+				item: "ae2:charger"
+			}]
+			rewards: [{
+				id: "6A2E332A7E504D51"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.0d
+			y: 15.5d
+			subtitle: "{chapter.stage.2.quest.38.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.38.description.1}"
+				""
+				"{chapter.stage.2.quest.38.description.2}"
+			]
+			dependencies: ["5A24B092050F9126"]
+			id: "6D09641708449BA5"
+			tasks: [{
+				id: "78C9F1729ED476F1"
+				type: "item"
+				item: "ae2:terminal"
+			}]
+			rewards: [{
+				id: "2BA5AAA8E5C4AF15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: 15.5d
+			subtitle: "{chapter.stage.2.quest.39.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.39.description.1}"
+				""
+				"{chapter.stage.2.quest.39.description.2}"
+			]
+			dependencies: ["6D09641708449BA5"]
+			id: "466BD2A63BCCFB37"
+			tasks: [{
+				id: "6B15295AEF10D925"
+				type: "item"
+				item: "ae2:crafting_terminal"
+			}]
+			rewards: [{
+				id: "60F18D9BCA005C64"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 18.0d
+			y: 15.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.40.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.40.description.1}"
+				""
+				"{chapter.stage.2.quest.40.description.2}"
+			]
+			dependencies: ["466BD2A63BCCFB37"]
+			id: "4FD497654B78F06A"
+			tasks: [{
+				id: "392E5A6724DA4ECD"
+				type: "item"
+				item: "mekanism:steel_casing"
+			}]
+			rewards: [{
+				id: "29E4E6764DAD5EEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: 17.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.43.subtitle.1}"
+			description: ["{chapter.stage.2.quest.43.description.1}"]
+			dependencies: ["440C256F6ADDE5EB"]
+			id: "07880249468AFCF2"
+			tasks: [{
+				id: "1D0EA35225FAEC50"
+				type: "item"
+				item: "mekanism:basic_control_circuit"
+			}]
+			rewards: [{
+				id: "17CF772120CF5305"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 17.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.42.subtitle.1}"
+			description: ["{chapter.stage.2.quest.42.description.1}"]
+			dependencies: ["440C256F6ADDE5EB"]
+			id: "55D4E4CB80D386B1"
+			tasks: [{
+				id: "29CA847A9244922E"
+				type: "item"
+				item: "mekanism:alloy_infused"
+			}]
+			rewards: [{
+				id: "14CF246DBD3CF534"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 15.5d
+			subtitle: "{chapter.stage.2.quest.41.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.41.description.1}"
+				""
+				"{chapter.stage.2.quest.41.description.2}"
+			]
+			dependencies: ["4FD497654B78F06A"]
+			id: "440C256F6ADDE5EB"
+			tasks: [{
+				id: "1AC96ABD3746AEF3"
+				type: "item"
+				item: "mekanism:metallurgic_infuser"
+			}]
+			rewards: [{
+				id: "262C53CC22F8BD48"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 19.0d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.48.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.48.description.1}"
+				""
+				"{chapter.stage.2.quest.48.description.2}"
+			]
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			id: "039A029B112E4968"
+			tasks: [{
+				id: "466645FFFBFA4CD9"
+				type: "item"
+				item: "mekanism:combiner"
+			}]
+			rewards: [{
+				id: "41AD5AE0F0408650"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 18.0d
+			y: 18.5d
+			subtitle: "{chapter.stage.2.quest.46.subtitle.1}"
+			description: ["{chapter.stage.2.quest.46.description.1}"]
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			optional: true
+			id: "707B4706F46C74E8"
+			tasks: [{
+				id: "77EABFBBE7F2EB84"
+				type: "item"
+				item: "mekanism:crusher"
+			}]
+			rewards: [{
+				id: "4B4048BE7B4451C5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 21.0d
+			y: 18.5d
+			subtitle: "{chapter.stage.2.quest.47.subtitle.1}"
+			description: ["{chapter.stage.2.quest.47.description.1}"]
+			dependencies: [
+				"07880249468AFCF2"
+				"55D4E4CB80D386B1"
+			]
+			optional: true
+			id: "636DE9088F9C05CE"
+			tasks: [{
+				id: "66C70EFEF1B69126"
+				type: "item"
+				item: "mekanism:energized_smelter"
+			}]
+			rewards: [{
+				id: "44A431A53A41F6B6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 22.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.50.subtitle.1}"
+			description: ["{chapter.stage.2.quest.50.description.1}"]
+			dependencies: ["61957907C7651D25"]
+			id: "2768C19463C75BA3"
+			tasks: [{
+				id: "5F07813D55C05155"
+				type: "item"
+				item: "blue_skies:charoite"
+			}]
+			rewards: [{
+				id: "35C479187FD73613"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: 22.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.51.subtitle.1}"
+			description: ["{chapter.stage.2.quest.51.description.1}"]
+			dependencies: ["61957907C7651D25"]
+			id: "6E107C64FA75362B"
+			tasks: [{
+				id: "65F643DABF86E5A7"
+				type: "item"
+				item: "blue_skies:moonstone_shard"
+			}]
+			rewards: [{
+				id: "543E21021B03512F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 23.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.52.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.52.description.1}"
+				""
+				"{chapter.stage.2.quest.52.description.2}"
+				""
+				"{chapter.stage.2.quest.52.description.3}"
+			]
+			dependencies: [
+				"2768C19463C75BA3"
+				"6E107C64FA75362B"
+			]
+			id: "27323BB58AF0FE83"
+			tasks: [{
+				id: "6AB4BA7A345EB413"
+				type: "item"
+				item: {
+					id: "blue_skies:zeal_lighter"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "018D29DB0AB9C26D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.0d
+			y: 25.0d
+			subtitle: "{chapter.stage.2.quest.53.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.53.description.1}"
+				""
+				"{chapter.stage.2.quest.53.description.2}"
+				""
+				"{chapter.stage.2.quest.53.description.3}"
+			]
+			dependencies: ["27323BB58AF0FE83"]
+			id: "55B4AA98A711328F"
+			tasks: [{
+				id: "6F7F91FC9757A0F9"
+				type: "dimension"
+				title: "{chapter.stage.2.quest.53.title.1}"
+				icon: "blue_skies:everbright_portal"
+				dimension: "blue_skies:everbright"
+			}]
+			rewards: [{
+				id: "00E6B5B2726C1988"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 20.0d
+			y: 25.0d
+			subtitle: "{chapter.stage.2.quest.56.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.56.description.1}"
+				""
+				"{chapter.stage.2.quest.56.description.2}"
+				""
+				"{chapter.stage.2.quest.56.description.3}"
+			]
+			dependencies: ["27323BB58AF0FE83"]
+			id: "4C6F0300E6E6D3B6"
+			tasks: [{
+				id: "5C0C60777832BB48"
+				type: "dimension"
+				title: "{chapter.stage.2.quest.56.title.1}"
+				icon: "blue_skies:everdawn_portal"
+				dimension: "blue_skies:everdawn"
+			}]
+			rewards: [{
+				id: "28CE66267619C92C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.0d
+			y: 25.0d
+			subtitle: "{chapter.stage.2.quest.57.subtitle.1}"
+			description: ["{chapter.stage.2.quest.57.description.1}"]
+			dependencies: ["4C6F0300E6E6D3B6"]
+			id: "7086ED069AC8A5B8"
+			tasks: [{
+				id: "1798517404C8C78D"
+				type: "item"
+				item: "botania:apothecary_default"
+			}]
+			rewards: [{
+				id: "068E0D1153D0C285"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.5d
+			y: 23.5d
+			subtitle: "{chapter.stage.2.quest.58.subtitle.1}"
+			description: ["{chapter.stage.2.quest.58.description.1}"]
+			dependencies: ["7086ED069AC8A5B8"]
+			id: "6546D195299D1EBD"
+			tasks: [{
+				id: "0903C07A00ADFE25"
+				type: "item"
+				item: "botania:pure_daisy"
+			}]
+			rewards: [{
+				id: "243D7A020D8B63E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 24.0d
+			y: 24.0d
+			subtitle: "{chapter.stage.2.quest.60.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.60.description.1}"
+				""
+				"{chapter.stage.2.quest.60.description.2}"
+				""
+				"{chapter.stage.2.quest.60.description.3}"
+			]
+			dependencies: ["6546D195299D1EBD"]
+			id: "443B482619653BF7"
+			tasks: [{
+				id: "4E7732337275369E"
+				type: "item"
+				item: "botania:livingrock"
+			}]
+			rewards: [{
+				id: "6E19666C15668DF4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 24.0d
+			y: 23.0d
+			subtitle: "{chapter.stage.2.quest.59.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.59.description.1}"
+				""
+				"{chapter.stage.2.quest.59.description.2}"
+				""
+				"{chapter.stage.2.quest.59.description.3}"
+			]
+			dependencies: ["6546D195299D1EBD"]
+			id: "2AEA88B0F2C05725"
+			tasks: [{
+				id: "417518C3FF13A58C"
+				type: "item"
+				item: "botania:livingwood_log"
+			}]
+			rewards: [{
+				id: "02F562E079BC3B8E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 25.5d
+			y: 23.5d
+			subtitle: "{chapter.stage.2.quest.61.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.61.description.1}"
+				""
+				"{chapter.stage.2.quest.61.description.2}"
+				""
+				"{chapter.stage.2.quest.61.description.3}"
+				""
+				"{image:chroma:textures/quests/mana_pool.png width:150 height:100 align:1}"
+			]
+			dependencies: ["443B482619653BF7"]
+			id: "3B9A0BF812ABC8E9"
+			tasks: [{
+				id: "158FB62A930BE7C6"
+				type: "item"
+				item: "botania:diluted_pool"
+			}]
+			rewards: [{
+				id: "4A598D4DEA1C6DCA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.0d
+			y: 23.0d
+			subtitle: "{chapter.stage.2.quest.62.subtitle.1}"
+			dependencies: ["3B9A0BF812ABC8E9"]
+			id: "2E55C3207AF48ACF"
+			tasks: [{
+				id: "50B01063D5ACB985"
+				type: "item"
+				item: "botania:mana_pool"
+			}]
+			rewards: [{
+				id: "004F27BA99A0C3FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 26.5d
+			y: 21.5d
+			subtitle: "{chapter.stage.2.quest.64.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.64.description.1}"
+				""
+				"{chapter.stage.2.quest.64.description.2}"
+			]
+			dependencies: ["2E55C3207AF48ACF"]
+			id: "06854B7C766D8A73"
+			tasks: [{
+				id: "29129306A2775B83"
+				type: "item"
+				item: "botania:endoflame"
+			}]
+			rewards: [{
+				id: "47027FE2E0650FBC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.0d
+			y: 20.0d
+			subtitle: "{chapter.stage.2.quest.65.subtitle.1}"
+			description: ["{chapter.stage.2.quest.65.description.1}"]
+			dependencies: [
+				"06854B7C766D8A73"
+				"388512CE78939690"
+			]
+			dependency_requirement: "one_completed"
+			id: "0C71EE3AAE7D6074"
+			tasks: [{
+				id: "168078BF55BB895F"
+				type: "item"
+				item: "botania:mana_spreader"
+			}]
+			rewards: [{
+				id: "5895540D601E6CFA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.0d
+			y: 18.5d
+			subtitle: "{chapter.stage.2.quest.66.subtitle.1}"
+			description: ["{chapter.stage.2.quest.66.description.1}"]
+			dependencies: ["0C71EE3AAE7D6074"]
+			id: "04D8E4DADAF56059"
+			tasks: [{
+				id: "20B51F35FE2238E3"
+				type: "item"
+				item: "botania:manasteel_ingot"
+			}]
+			rewards: [{
+				id: "43A87F0720F71FEF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 29.0d
+			y: 13.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.73.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.73.description.1}"
+				""
+				"{chapter.stage.2.quest.73.description.2}"
+				""
+				"{chapter.stage.2.quest.73.description.3}"
+				"{chapter.stage.2.quest.73.description.4}"
+				"{chapter.stage.2.quest.73.description.5}"
+			]
+			dependencies: [
+				"671AE16E7E9B4E0D"
+				"6BBF7E74DA9AD1B2"
+				"630273D976A60B55"
+				"4AC826C9EEDBCFA3"
+			]
+			dependency_requirement: "one_completed"
+			min_width: 270
+			id: "683DB2F4EE7ED1C3"
+			tasks: [{
+				id: "794860803B1676F0"
+				type: "item"
+				item: "mna:runic_anvil"
+			}]
+			rewards: [{
+				id: "59E8E799AD902633"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.0d
+			y: 17.0d
+			subtitle: "{chapter.stage.2.quest.67.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.67.description.1}"
+				""
+				"{chapter.stage.2.quest.67.description.2}"
+				""
+				"{chapter.stage.2.quest.67.description.3}"
+				""
+				"{chapter.stage.2.quest.67.description.4}"
+				""
+				"{chapter.stage.2.quest.67.description.5}"
+				""
+				"{chapter.stage.2.quest.67.description.6}"
+				""
+				"{chapter.stage.2.quest.67.description.7}"
+				""
+				"{chapter.stage.2.quest.67.description.8}"
+			]
+			dependencies: ["04D8E4DADAF56059"]
+			min_width: 300
+			id: "7C3DC69937715118"
+			tasks: [{
+				id: "7628FA37F9A6CD3B"
+				type: "item"
+				item: "mna:runescribing_table"
+			}]
+			rewards: [{
+				id: "005428C59C6A0235"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.0d
+			y: 15.5d
+			subtitle: "{chapter.stage.2.quest.68.subtitle.1}"
+			dependencies: ["7C3DC69937715118"]
+			id: "4C43B1BB7D64F61A"
+			tasks: [
+				{
+					id: "5B8552DE0AC17D65"
+					type: "item"
+					item: {
+						id: "mna:runesmith_hammer"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4854716F9DFF6C9E"
+					type: "item"
+					item: {
+						id: "mna:runesmith_chisel"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "29BAC4704F77587E"
+					type: "item"
+					item: "minecraft:clay_ball"
+				}
+			]
+			rewards: [{
+				id: "36097ED21648874D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 26.5d
+			y: 13.0d
+			shape: "square"
+			subtitle: "{chapter.stage.2.quest.69.subtitle.1}"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "6BBF7E74DA9AD1B2"
+			tasks: [{
+				id: "443E2FB2ECAEAE08"
+				type: "item"
+				item: "chroma:rune_pattern_air_rune"
+			}]
+			rewards: [{
+				id: "1FA098A51CC9DF08"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 26.5d
+			y: 14.0d
+			shape: "square"
+			subtitle: "{chapter.stage.2.quest.72.subtitle.1}"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "4AC826C9EEDBCFA3"
+			tasks: [{
+				id: "0F12E50C8684940A"
+				type: "item"
+				item: "chroma:rune_pattern_water_rune"
+			}]
+			rewards: [{
+				id: "0DCE7320CC55C3B5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.5d
+			y: 14.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.70.subtitle.1}"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "630273D976A60B55"
+			tasks: [{
+				id: "6541155B5E638E01"
+				type: "item"
+				item: "chroma:rune_pattern_fire_rune"
+			}]
+			rewards: [{
+				id: "2B75FD11C94B4B44"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.5d
+			y: 13.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.71.subtitle.1}"
+			dependencies: ["4C43B1BB7D64F61A"]
+			id: "671AE16E7E9B4E0D"
+			tasks: [{
+				id: "771710A44F73A3E7"
+				type: "item"
+				item: "chroma:rune_pattern_earth_rune"
+			}]
+			rewards: [{
+				id: "6F73E8D9ECC856C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 30.5d
+			y: 13.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.77.subtitle.1}"
+			description: ["{chapter.stage.2.quest.77.description.1}"]
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "6A7CB0F130F71DB6"
+			tasks: [{
+				id: "52CF8E3E7EAD6B93"
+				type: "item"
+				item: "botania:rune_water"
+			}]
+			rewards: [{
+				id: "7ED7A9926D877BF7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 30.5d
+			y: 14.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.75.subtitle.1}"
+			description: ["{chapter.stage.2.quest.75.description.1}"]
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "57412CCB6CF9D8BB"
+			tasks: [{
+				id: "7521D5E0F116CE0B"
+				type: "item"
+				item: "botania:rune_fire"
+			}]
+			rewards: [{
+				id: "56693183C09DA7D1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 31.5d
+			y: 13.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.76.subtitle.1}"
+			description: ["{chapter.stage.2.quest.76.description.1}"]
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "3BAE5C160C37B005"
+			tasks: [{
+				id: "13E3864E418EE59F"
+				type: "item"
+				item: "botania:rune_earth"
+			}]
+			rewards: [{
+				id: "746BE1A946BD03D5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 31.5d
+			y: 14.0d
+			shape: "rsquare"
+			subtitle: "{chapter.stage.2.quest.74.subtitle.1}"
+			description: ["{chapter.stage.2.quest.74.description.1}"]
+			dependencies: ["683DB2F4EE7ED1C3"]
+			id: "2AC94C74009F8D48"
+			tasks: [{
+				id: "30DEE32DE4983720"
+				type: "item"
+				item: "botania:rune_air"
+			}]
+			rewards: [{
+				id: "7E8F63ED7A10496B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 33.5d
+			y: 13.5d
+			subtitle: "{chapter.stage.2.quest.78.subtitle.1}"
+			description: ["{chapter.stage.2.quest.78.description.1}"]
+			dependencies: [
+				"57412CCB6CF9D8BB"
+				"3BAE5C160C37B005"
+				"2AC94C74009F8D48"
+				"6A7CB0F130F71DB6"
+			]
+			id: "7489F01C52411506"
+			tasks: [{
+				id: "0B0D708ABE86E321"
+				type: "item"
+				item: "chroma:runic_core"
+			}]
+			rewards: [{
+				id: "53F01479346160D1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 35.5d
+			y: 13.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.79.subtitle.1}"
+			description: ["{chapter.stage.2.quest.79.description.1}"]
+			dependencies: ["7489F01C52411506"]
+			id: "2B815DF673A39C57"
+			tasks: [{
+				id: "28E22365E0100240"
+				type: "item"
+				item: "botania:runic_altar"
+			}]
+			rewards: [{
+				id: "51517C948D31C776"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 37.0d
+			y: 14.5d
+			subtitle: "{chapter.stage.2.quest.80.subtitle.1}"
+			dependencies: ["2B815DF673A39C57"]
+			id: "22E39874F58EB90E"
+			tasks: [{
+				id: "201E63805F110550"
+				type: "item"
+				item: "botania:rune_mana"
+			}]
+			rewards: [{
+				id: "6E606D485E126853"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 39.0d
+			y: 14.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.81.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.81.description.1}"
+				""
+				"{image:chroma:textures/quests/terrestial_agglomeration_plate.png width:100 height:100 align:1}"
+			]
+			dependencies: ["22E39874F58EB90E"]
+			id: "50EAC087E5BAF117"
+			tasks: [{
+				id: "32DA6BA7BC606F8D"
+				type: "item"
+				item: "botania:terra_plate"
+			}]
+			rewards: [{
+				id: "24FAB121AE2C43EB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 39.0d
+			y: 13.0d
+			subtitle: "{chapter.stage.2.quest.82.subtitle.1}"
+			dependencies: ["50EAC087E5BAF117"]
+			id: "02734B9915D7AD67"
+			tasks: [{
+				id: "59AABBC4BBEF4A00"
+				type: "item"
+				item: "botania:terrasteel_ingot"
+			}]
+			rewards: [{
+				id: "0ABFD99945B14559"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 39.0d
+			y: 11.5d
+			subtitle: "{chapter.stage.2.quest.83.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.83.description.1}"
+				""
+				"{chapter.stage.2.quest.83.description.2}"
+				""
+				"{chapter.stage.2.quest.83.description.3}"
+			]
+			dependencies: ["02734B9915D7AD67"]
+			min_width: 300
+			id: "6B63E59473EAC48E"
+			tasks: [{
+				id: "464933A1BA43B817"
+				type: "dimension"
+				title: "{chapter.stage.2.quest.83.title.1}"
+				icon: "minecraft:end_portal_frame"
+				dimension: "minecraft:the_end"
+			}]
+			rewards: [{
+				id: "340A51C2ACC54B9D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 8.0d
+			y: -0.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.1.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.1.description.1}"
+				""
+				"{chapter.stage.2.quest.1.description.2}"
+			]
+			dependencies: ["44677FAB528C2D42"]
+			size: 1.5d
+			id: "3125B28DBC36530F"
+			tasks: [{
+				id: "3CD7977D3545BD61"
+				type: "item"
+				item: {
+					id: "immersiveengineering:hammer"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "15884E2A973C3D42"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.5d
+			y: 4.5d
+			subtitle: "{chapter.stage.2.quest.6.subtitle.1}"
+			description: ["{chapter.stage.2.quest.6.description.1}"]
+			dependencies: ["1DF0F7DDAAFED205"]
+			id: "3B7A75A246E2901B"
+			tasks: [{
+				id: "511D88B1CB1D4EB4"
+				type: "item"
+				item: {
+					id: "immersiveengineering:wirecutter"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "12DFDA9DA3D13C49"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 19.5d
+			y: 20.5d
+			subtitle: "{chapter.stage.2.quest.49.subtitle.1}"
+			dependencies: ["039A029B112E4968"]
+			id: "61957907C7651D25"
+			tasks: [{
+				id: "4AA60A285C2138C1"
+				type: "item"
+				item: "chroma:molten_mana_bucket"
+			}]
+			rewards: [{
+				id: "0343FFF86E836D04"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 27.5d
+			y: 21.5d
+			subtitle: "{chapter.stage.2.quest.63.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.63.description.1}"
+				""
+				"{chapter.stage.2.quest.63.description.2}"
+			]
+			dependencies: ["2E55C3207AF48ACF"]
+			optional: true
+			id: "388512CE78939690"
+			tasks: [{
+				id: "4604747060117C77"
+				type: "item"
+				item: "botania:hydroangeas"
+			}]
+			rewards: [{
+				id: "50D09FAB6F01F823"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.stage.2.quest.84.title.1}"
+			x: 38.0d
+			y: 10.5d
+			subtitle: "{chapter.stage.2.quest.84.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.84.description.1}"
+				""
+				"{chapter.stage.2.quest.84.description.2}"
+				""
+				"{chapter.stage.2.quest.84.description.3}"
+				""
+				"{image:chroma:textures/quests/botania_portal_to_alfheim.png width:100 height:100 align:1}"
+			]
+			dependencies: ["6B63E59473EAC48E"]
+			min_width: 250
+			id: "5671138804373AE9"
+			tasks: [
+				{
+					id: "571350701F02785E"
+					type: "item"
+					item: "botania:alfheim_portal"
+				}
+				{
+					id: "70FE67C3E57B26D9"
+					type: "item"
+					item: "botania:glimmering_livingwood"
+					count: 3L
+				}
+				{
+					id: "6F38F63543CDEC8E"
+					type: "item"
+					item: "botania:livingwood"
+					count: 8L
+				}
+				{
+					id: "10792700F6283CFC"
+					type: "item"
+					item: "botania:natura_pylon"
+					count: 2L
+				}
+			]
+			rewards: [{
+				id: "3947D4AC1C9C9724"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 36.5d
+			y: 10.0d
+			subtitle: "{chapter.stage.2.quest.85.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.85.description.1}"
+				""
+				"{image:chroma:textures/quests/ritual_of_gaia.png width:100 height:100 align:1}"
+			]
+			dependencies: ["5671138804373AE9"]
+			min_width: 300
+			id: "119E0C4BAEC5B619"
+			tasks: [{
+				id: "1D59981B5CA2A63D"
+				type: "item"
+				item: "botania:gaia_pylon"
+				count: 4L
+			}]
+			rewards: [{
+				id: "3F5DE7E3FB88AC6D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 35.5d
+			y: 9.0d
+			subtitle: "{chapter.stage.2.quest.86.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.86.description.1}"
+				""
+				"{chapter.stage.2.quest.86.description.2}"
+				""
+				"{chapter.stage.2.quest.86.description.3}"
+				""
+				"{chapter.stage.2.quest.86.description.4}"
+			]
+			dependencies: ["119E0C4BAEC5B619"]
+			min_width: 300
+			id: "14E5EBEE823AD723"
+			tasks: [{
+				id: "74F6F56D247163AE"
+				type: "kill"
+				icon: "botania:gaia_head"
+				entity: "botania:doppleganger"
+				value: 1L
+			}]
+			rewards: [{
+				id: "242730FACF68BE2F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 35.0d
+			y: 7.5d
+			description: [
+				"{chapter.stage.2.quest.87.description.1}"
+				""
+				"{chapter.stage.2.quest.87.description.2}"
+			]
+			dependencies: ["14E5EBEE823AD723"]
+			id: "2E8FE3D9F5CE8C97"
+			tasks: [{
+				id: "1C4563D67AD149E0"
+				type: "item"
+				item: "botania:gaia_ingot"
+			}]
+			rewards: [{
+				id: "6618B76AF5088CC0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 33.5d
+			y: 7.0d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.89.subtitle.1}"
+			description: ["{chapter.stage.2.quest.89.description.1}"]
+			dependencies: ["2E8FE3D9F5CE8C97"]
+			id: "259EE3C9817E98D8"
+			tasks: [{
+				id: "1C82C5C456170D22"
+				type: "item"
+				item: "jamd:mine_portal_block"
+			}]
+			rewards: [{
+				id: "44AD81014975AEB9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 12.5d
+			y: 8.5d
+			subtitle: "{chapter.stage.2.quest.13.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.13.description.1}"
+				""
+				"{chapter.stage.2.quest.13.description.2}"
+			]
+			dependencies: ["55E7C7CB89308F66"]
+			dependency_requirement: "one_completed"
+			id: "7379508342AA6E87"
+			tasks: [{
+				id: "6163C7F39BBE1823"
+				type: "item"
+				title: "{chapter.stage.2.quest.13.title.1}"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "immersiveengineering:capacitor_lv"
+								Count: 1
+							}
+							{
+								id: "immersiveengineering:capacitor_mv"
+								Count: 1
+							}
+							{
+								id: "immersiveengineering:capacitor_hv"
+								Count: 1
+							}
+						]
+					}
+				}
+			}]
+			rewards: [{
+				id: "7F2804E0EB648C96"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: 8.5d
+			subtitle: "{chapter.stage.2.quest.15.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.15.description.1}"
+				""
+				"{chapter.stage.2.quest.15.description.2}"
+				""
+				"{chapter.stage.2.quest.15.description.3}"
+			]
+			dependencies: ["792CF5A76F057B55"]
+			id: "4420897B0A0E24F6"
+			tasks: [{
+				id: "4486B56633B55060"
+				type: "observation"
+				title: "{chapter.stage.2.quest.15.title.1}"
+				icon: "immersiveengineering:refinery"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:refinery"
+			}]
+			rewards: [{
+				id: "279ACCA3A016B560"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.0d
+			y: 7.0d
+			subtitle: "{chapter.stage.2.quest.14.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.14.description.1}"
+				""
+				"{chapter.stage.2.quest.14.description.2}"
+				""
+				"{chapter.stage.2.quest.14.description.3}"
+			]
+			dependencies: ["5399655B3844833B"]
+			id: "792CF5A76F057B55"
+			tasks: [{
+				id: "544DD24AAF70E387"
+				type: "observation"
+				title: "{chapter.stage.2.quest.14.title.1}"
+				icon: "immersiveengineering:fermenter"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:fermenter"
+			}]
+			rewards: [{
+				id: "0F2CC33E7FDA4617"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.0d
+			y: 10.5d
+			subtitle: "{chapter.stage.2.quest.17.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.17.description.1}"
+				""
+				"{chapter.stage.2.quest.17.description.2}"
+				""
+				"{chapter.stage.2.quest.17.description.3}"
+			]
+			dependencies: ["1844BB8ABB0EB755"]
+			id: "723407EA53E21AA9"
+			tasks: [{
+				id: "06DA82B60EE2CE0F"
+				type: "observation"
+				title: "{chapter.stage.2.quest.17.title.1}"
+				icon: "immersiveengineering:bottling_machine"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:bottling_machine"
+			}]
+			rewards: [{
+				id: "0CDAF2F41772B8B0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.5d
+			y: 10.5d
+			subtitle: "{chapter.stage.2.quest.18.subtitle.1}"
+			description: ["{chapter.stage.2.quest.18.description.1}"]
+			dependencies: ["723407EA53E21AA9"]
+			id: "16EC93F4101F247F"
+			tasks: [{
+				id: "551449B4EDDC8ABA"
+				type: "item"
+				item: "immersiveengineering:plate_duroplast"
+			}]
+			rewards: [{
+				id: "44A5C2002D03E3C0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.0d
+			y: 8.5d
+			subtitle: "{chapter.stage.2.quest.16.subtitle.1}"
+			description: ["{chapter.stage.2.quest.16.description.1}"]
+			dependencies: ["4420897B0A0E24F6"]
+			id: "1844BB8ABB0EB755"
+			tasks: [{
+				id: "4C564865CE2AD975"
+				type: "item"
+				item: "immersiveengineering:phenolic_resin_bucket"
+			}]
+			rewards: [{
+				id: "01DD86A550E958C2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "Improved Coke Oven"
+			x: 12.5d
+			y: 6.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.11.subtitle.1}"
+			description: ["{chapter.stage.2.quest.11.description.1}"]
+			dependencies: ["7379508342AA6E87"]
+			id: "3B91255318311593"
+			tasks: [
+				{
+					id: "74DEBAEA233987A6"
+					type: "item"
+					item: "chroma:coke"
+				}
+				{
+					id: "6A91B2DBEC8ABE13"
+					type: "item"
+					item: "chroma:coke_item_input"
+				}
+				{
+					id: "6540B97A50A17CC2"
+					type: "item"
+					item: "chroma:coke_item_output"
+				}
+				{
+					id: "5927186CA86EE2EC"
+					type: "item"
+					item: "chroma:energy_coke_input"
+				}
+				{
+					id: "05D4B179B3141E0B"
+					type: "item"
+					item: "immersiveengineering:cokebrick"
+					count: 48L
+				}
+				{
+					id: "74BEE1913BF6FBFE"
+					type: "item"
+					item: "immersiveengineering:heavy_engineering"
+					count: 5L
+				}
+				{
+					id: "49BE4C047FF722D5"
+					type: "item"
+					item: "chipped:shroomlight_12"
+					count: 4L
+				}
+				{
+					id: "33DAC504DA0C2AD0"
+					type: "item"
+					item: "ae2:sky_stone_tank"
+				}
+			]
+			rewards: [{
+				id: "0AB31EBBC98031C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.5d
+			y: 6.5d
+			subtitle: "{chapter.stage.2.quest.12.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.12.description.1}"
+				""
+				"{chapter.stage.2.quest.12.description.2}"
+				""
+				"{chapter.stage.2.quest.12.description.3}"
+			]
+			dependencies: ["5399655B3844833B"]
+			id: "55E7C7CB89308F66"
+			tasks: [{
+				id: "6009310C36253A47"
+				type: "observation"
+				title: "{chapter.stage.2.quest.12.title.1}"
+				icon: "immersiveengineering:mixer"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:mixer"
+			}]
+			rewards: [{
+				id: "66BB1152C3A7647E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 14.0d
+			y: 8.5d
+			subtitle: "{chapter.stage.2.quest.90.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.90.description.1}"
+				""
+				"{chapter.stage.2.quest.90.description.2}"
+				""
+				"{chapter.stage.2.quest.90.description.3}"
+			]
+			dependencies: ["5399655B3844833B"]
+			id: "0D9276F1C221C682"
+			tasks: [{
+				id: "118695236B013C69"
+				type: "observation"
+				title: "{chapter.stage.2.quest.90.title.1}"
+				icon: "immersiveengineering:squeezer"
+				timer: 0L
+				observe_type: 0
+				to_observe: "immersiveengineering:squeezer"
+			}]
+			rewards: [{
+				id: "1606431A5FC5031E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.5d
+			y: 17.5d
+			subtitle: "{chapter.stage.2.quest.45.subtitle.1}"
+			description: ["{chapter.stage.2.quest.45.description.1}"]
+			dependencies: ["07880249468AFCF2"]
+			id: "6A6CD169877E3DD4"
+			tasks: [{
+				id: "157F51065B323051"
+				type: "item"
+				item: "mekanism:advanced_control_circuit"
+			}]
+			rewards: [{
+				id: "469FEE5FD334941A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 36.0d
+			y: 6.5d
+			shape: "gear"
+			subtitle: "{chapter.stage.2.quest.88.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.88.description.1}"
+				""
+				"{chapter.stage.2.quest.88.description.2}"
+				""
+				"{chapter.stage.2.quest.88.description.3}"
+			]
+			dependencies: ["2E8FE3D9F5CE8C97"]
+			id: "297AC75422C840AB"
+			tasks: [{
+				id: "6ABED9561A459055"
+				type: "item"
+				item: "botania:alchemy_catalyst"
+			}]
+			rewards: [{
+				id: "5CEBF0AB4E553CCD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 22.0d
+			y: 16.0d
+			subtitle: "{chapter.stage.2.quest.44.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.44.description.1}"
+				""
+				"{chapter.stage.2.quest.44.description.2}"
+			]
+			dependencies: ["07880249468AFCF2"]
+			id: "79740F89CBF63E23"
+			tasks: [{
+				id: "5E2AF044887D0630"
+				type: "item"
+				item: "mekanism:basic_tier_installer"
+			}]
+			rewards: [{
+				id: "6F40D450323F501C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 16.0d
+			y: 25.0d
+			subtitle: "{chapter.stage.2.quest.55.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.55.description.1}"
+				""
+				"{chapter.stage.2.quest.55.description.2}"
+			]
+			dependencies: ["4230CFAE65B1F5BF"]
+			id: "25C4A26F2020ABC7"
+			tasks: [{
+				id: "509271881958B6CA"
+				type: "item"
+				item: "mekanism:advanced_tier_installer"
+			}]
+			rewards: [{
+				id: "13CB0C0B9C5AB4C8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.5d
+			y: 26.0d
+			subtitle: "{chapter.stage.2.quest.54.subtitle.1}"
+			description: [
+				"{chapter.stage.2.quest.54.description.1}"
+				""
+				"{chapter.stage.2.quest.54.description.2}"
+			]
+			dependencies: ["55B4AA98A711328F"]
+			id: "4230CFAE65B1F5BF"
+			tasks: [{
+				id: "5838ED9C144F89CC"
+				type: "item"
+				item: "blue_skies:ventium_ingot"
+			}]
+			rewards: [{
+				id: "51B8E11B03579F6D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 10.0d
+			y: 3.0d
+			dependencies: ["3A8FD39A74BFEC82"]
+			id: "4E0E34A0AC440055"
+			tasks: [{
+				id: "1091CA21E5592E1E"
+				type: "item"
+				item: "immersiveengineering:ingot_steel"
+			}]
+			rewards: [{
+				id: "1D611D22DB426D4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}
