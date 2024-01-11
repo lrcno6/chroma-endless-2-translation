@@ -2,7 +2,7 @@
 
 整合包网址：https://www.curseforge.com/minecraft/modpacks/chroma-endless-2
 
-当前整合包版本：1.0.5
+当前整合包版本：1.0.7
 
 进度：
 

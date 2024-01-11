@@ -1,0 +1,780 @@
+{
+	id: "08C1FC091DCAAEC7"
+	group: ""
+	order_index: 2
+	filename: "challenges"
+	title: "{chapter.challenges.title}"
+	icon: "minecraft:dragon_head"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 6.5d
+			y: -4.5d
+			width: 5.5d
+			height: 5.5d
+			rotation: 0.0d
+			image: "supplementaries:textures/blocks/clock_front.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 6.5d
+			y: 5.0d
+			width: 3.0d
+			height: 3.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: 9.0d
+			y: 0.5d
+			shape: "octagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "0B1292772204A5D0"
+			tasks: [{
+				id: "778949662007943A"
+				type: "stat"
+				title: "{chapter.challenges.gate}"
+				icon: {
+					id: "gateways:gate_pearl"
+					Count: 1
+					tag: {
+						gateway: "gateways:enderman_gate_large"
+					}
+				}
+				stat: "gateways:gates_defeated"
+				value: 50
+			}]
+			rewards: [{
+				id: "0C76824BBE272D4B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			shape: "octagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			hide: false
+			id: "65CDD90D89742F48"
+			tasks: [{
+				id: "7331E9F5C2ACA33A"
+				type: "stat"
+				title: "{chapter.challenge.potato}"
+				icon: "botania:tiny_potato"
+				stat: "botania:tiny_potatoes_petted"
+				value: 1000
+			}]
+			rewards: [{
+				id: "21B90BAD35D6202D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "16209855C86CEB93"
+			tasks: [{
+				id: "61D5AC281A2F213A"
+				type: "stat"
+				icon: {
+					id: "tombstone:decorative_tombstone"
+					Count: 1
+					tag: {
+						model_texture: 0
+					}
+				}
+				stat: "minecraft:time_since_death"
+				value: 720000
+			}]
+			rewards: [{
+				id: "7A095E9A0D421803"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.607142857142861d
+			y: -5.660714285714278d
+			shape: "gear"
+			hide_dependency_lines: true
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "24049E4C6E5CD12B"
+			tasks: [{
+				id: "7E5902E8C5F9B145"
+				type: "stat"
+				title: "{chapter.challenges.title.time.1}"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 72000
+			}]
+			rewards: [{
+				id: "0652A7FF1FC9C695"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.9642857142857295d
+			y: -4.339285714285708d
+			shape: "gear"
+			hide_dependency_lines: true
+			dependencies: [
+				"24049E4C6E5CD12B"
+				"51B5C098A8CFF70E"
+			]
+			size: 1.5d
+			id: "70291CF98BFF0BDE"
+			tasks: [{
+				id: "0D528A4F23E105BC"
+				type: "stat"
+				title: "{chapter.challenges.title.time.2}"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 720000
+			}]
+			rewards: [{
+				id: "4D06C1F7B8714B0C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.785714285714292d
+			y: -3.3035714285714164d
+			shape: "gear"
+			hide_dependency_lines: true
+			dependencies: [
+				"70291CF98BFF0BDE"
+				"51B5C098A8CFF70E"
+			]
+			size: 2.0d
+			id: "2DD16595D24B3E1D"
+			tasks: [{
+				id: "0CC16265FE70AC8C"
+				type: "stat"
+				title: "{chapter.challenges.title.time.3}"
+				icon: "supplementaries:clock_block"
+				stat: "minecraft:play_time"
+				value: 7200000
+			}]
+			rewards: [{
+				id: "7D3B0B48F2238700"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 6.0d
+			shape: "square"
+			hide_dependency_lines: true
+			dependencies: [
+				"2D5A2E021DE701A0"
+				"51B5C098A8CFF70E"
+			]
+			id: "20DBFEBF84B14EA9"
+			tasks: [{
+				id: "2F85784FED4C5B5A"
+				type: "forge_energy"
+				value: 1000000000L
+				max_input: 1000L
+			}]
+			rewards: [{
+				id: "198F64A86D25824E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 11
+			}]
+		}
+		{
+			x: 7.5d
+			y: 5.0d
+			shape: "square"
+			hide_dependency_lines: true
+			dependencies: [
+				"5BC8B957851861BD"
+				"51B5C098A8CFF70E"
+			]
+			id: "5085CC1BD3A0D94B"
+			tasks: [{
+				id: "5513408F79558604"
+				type: "forge_energy"
+				value: 1000000L
+				max_input: 1000L
+			}]
+			rewards: [{
+				id: "6DBCDB18AE699BDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 4.0d
+			shape: "square"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "5BC8B957851861BD"
+			tasks: [{
+				id: "4635F5F581006155"
+				type: "forge_energy"
+				value: 100000L
+				max_input: 1000L
+			}]
+			rewards: [{
+				id: "4260BC34F73CEB6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 5
+			}]
+		}
+		{
+			x: 6.5d
+			y: 1.5d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "62876211627DFE04"
+			tasks: [{
+				id: "705677AA5ADDBDA7"
+				type: "kill"
+				title: "{chapter.challenge.killing.wither}"
+				entity: "minecraft:wither"
+				value: 100L
+			}]
+			rewards: [
+				{
+					id: "35F9B08CF25A00EC"
+					type: "item"
+					item: {
+						id: "numismaticoverhaul:gold_coin"
+						Count: 1
+						tag: { }
+					}
+				}
+				{
+					id: "6A82506481024965"
+					type: "item"
+					item: {
+						id: "chroma:ban_hammer"
+						Count: 1
+						tag: {
+							HideFlags: 3
+							AttributeModifiers: [
+								{
+									AttributeName: "generic.knockback_resistance"
+									UUID: [I;
+										-123525
+										18232
+										1113
+										-36464
+									]
+									Amount: 255
+									Name: "generic.knockback_resistance"
+								}
+								{
+									Amount: 255
+									Slot: "head"
+									AttributeName: "generic.armor"
+									Operation: 2
+									UUID: [I;
+										-123525
+										18332
+										1113
+										-36664
+									]
+									Name: "generic.armor"
+								}
+								{
+									Amount: 255
+									Slot: "head"
+									AttributeName: "generic.armor_toughness"
+									Operation: 2
+									UUID: [I;
+										-123525
+										18432
+										1113
+										-36864
+									]
+									Name: "generic.armor_toughness"
+								}
+								{
+									AttributeName: "generic.attack_knockback"
+									UUID: [I;
+										-123525
+										18532
+										1113
+										-37064
+									]
+									Amount: 255
+									Name: "generic.attack_knockback"
+								}
+							]
+							display: {
+								Lore: [
+									"[{\"text\":\"+\",\"italic\":false,\"color\":\"dark_red\",\"obfuscated\":true},{\"text\":\"-------------------------------------\",\"obfuscated\":false},{\"text\":\"+\"},{\"text\":\"\",\"obfuscated\":false,\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"I  see   that  you've   found   something     \",\"color\":\"dark_purple\"},{\"text\":\" |\"},{\"text\":\" \",\"color\":\"dark_purple\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"This  weapon,  I call it  the Ban  Hammer      \",\"color\":\"dark_purple\"},{\"text\":\" |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"It was used long ago by mighty   creatures \",\"color\":\"dark_purple\"},{\"text\":\" |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"who  harnessed  the power  of both  great \",\"color\":\"dark_purple\"},{\"text\":\" |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"creation and great destruction.The   power  \",\"color\":\"dark_purple\"},{\"text\":\"|\",\"color\":\"#990000\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"|\",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\" \",\"color\":\"990000\"},{\"text\":\"of disappearance still lingers within  it\",\"color\":\"dark_purple\"},{\"text\":\"        |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"so  use it carefully.Legend has  it  that   \",\"color\":\"dark_purple\"},{\"text\":\"   |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"once  this weapon  is used,  the cries of  \",\"color\":\"dark_purple\"},{\"text\":\"   |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"| \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"your enemies will forever echo in the sky\",\"color\":\"dark_purple\"},{\"text\":\"    |\"},{\"text\":\"\",\"color\":\"dark_purple\"}]"
+									"[{\"text\":\"+\",\"italic\":false,\"color\":\"dark_red\",\"obfuscated\":true},{\"text\":\"-------------------------------------\",\"obfuscated\":false},{\"text\":\"+\"}]"
+								]
+								Name: "[{\"text\":\"       \",\"italic\":false,\"color\":\"dark_red\"},{\"text\":\"dfg\",\"obfuscated\":true},{\"text\":\" The Ban Hammer \",\"obfuscated\":false,\"underlined\":true},{\"text\":\"dfg\",\"obfuscated\":true,\"underlined\":false}]"
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 7.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "7BCFA4DF4DACE204"
+			tasks: [{
+				id: "0B6FE0E31A9185B5"
+				type: "fluid"
+				fluid: "minecraft:flowing_lava"
+				amount: 1000000000L
+			}]
+			rewards: [{
+				id: "0323FE45B1D85322"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			hide: false
+			id: "78D29B5A044B58FB"
+			tasks: [{
+				id: "29685DFDCB838EE5"
+				type: "xp"
+				title: "{chapter.challenges.xp}"
+				value: 3000L
+				points: false
+			}]
+			rewards: [{
+				id: "7C00A6BECAD89D28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 1.0d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "41E60944015F5083"
+			tasks: [{
+				id: "16F5060D547FC29A"
+				type: "stat"
+				title: "{chapter.challenges.enchant}"
+				icon: "minecraft:enchanting_table"
+				stat: "minecraft:enchant_item"
+				value: 500
+			}]
+			rewards: [{
+				id: "2D3EFAEA9C8EC8DE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "443BF18289FEA101"
+			tasks: [{
+				id: "33AB0BA8914531B1"
+				type: "stat"
+				title: "{chapter.challenges.love}"
+				icon: "artifacts:crystal_heart"
+				stat: "minecraft:animals_bred"
+				value: 1500
+			}]
+			rewards: [{
+				id: "5896D44369A9A4D6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: -0.5d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "363900DE60F021AE"
+			tasks: [{
+				id: "5A8716E35706B30E"
+				type: "stat"
+				title: "{chapter.challenges.title.bis}"
+				icon: "apotheosis:boss_summoner"
+				stat: "minecraft:mob_kills"
+				value: 1000000
+			}]
+			rewards: [{
+				id: "269E2E92051499FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.5d
+			shape: "hexagon"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "4C44EC53E43BF6E3"
+			tasks: [{
+				id: "12BD84D37DDA2BBF"
+				type: "stat"
+				title: "{chapter.challenges.trade}"
+				icon: {
+					id: "ftbquests:custom_icon"
+					Count: 1
+					tag: {
+						Icon: "chroma:textures/quests/villtra.png"
+					}
+				}
+				stat: "minecraft:traded_with_villager"
+				value: 1000
+			}]
+			rewards: [{
+				id: "6447A9844EDC3228"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 2.5d
+			shape: "rsquare"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "01B0988B7786A73D"
+			tasks: [{
+				id: "563BDE5B42CF614E"
+				type: "item"
+				item: "chemlib:water"
+				count: 1000000L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "18D28C97A5FE4C6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: -1.5d
+			shape: "diamond"
+			dependencies: ["51B5C098A8CFF70E"]
+			id: "51ABF2C65CD68898"
+			tasks: [{
+				id: "026C5D69B0F50E53"
+				type: "advancement"
+				title: "{chapter.challenges.pickaxe}"
+				advancement: "botania:challenge/rank_ss_pick"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "461F1C08B23BD026"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: 5.0d
+			shape: "square"
+			hide_dependency_lines: true
+			dependencies: [
+				"5085CC1BD3A0D94B"
+				"51B5C098A8CFF70E"
+			]
+			id: "2D5A2E021DE701A0"
+			tasks: [{
+				id: "78430938B1D12224"
+				type: "forge_energy"
+				value: 10000000L
+				max_input: 1000L
+			}]
+			rewards: [{
+				id: "369CA1F785303659"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 12
+			}]
+		}
+		{
+			title: "{chapter.challenge.rich.title}"
+			x: 6.5d
+			y: 9.0d
+			shape: "hexagon"
+			subtitle: "{chapter.challenge.rich.subtitle}"
+			dependencies: [
+				"51B5C098A8CFF70E"
+				"4E5B52E9FDD59AA2"
+				"34398A2894F63C4F"
+			]
+			size: 1.5d
+			id: "609570CE56E454C5"
+			tasks: [{
+				id: "418EFE03834070CC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+				count: 1000000L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7613BA9DB653B80D"
+				type: "item"
+				item: "chroma:shard_of_creativity"
+			}]
+		}
+		{
+			title: "{chapter.challenge.piggy.title.2}"
+			x: 7.5d
+			y: 8.0d
+			shape: "hexagon"
+			subtitle: "{chapter.challenge.piggy.subtitle}"
+			description: ["{chapter.challenge.piggy.description}"]
+			dependencies: ["5CF4B23EB1E98F87"]
+			size: 1.5d
+			id: "34398A2894F63C4F"
+			tasks: [
+				{
+					id: "0816625B955E510C"
+					type: "item"
+					item: "numismaticoverhaul:piggy_bank"
+					count: 2L
+				}
+				{
+					id: "4DC05F0D6CDCAB5A"
+					type: "item"
+					item: "mekanism:ultimate_induction_provider"
+					count: 66L
+				}
+				{
+					id: "4EF0DEB4BD638A82"
+					type: "item"
+					item: "vtones:iszm_block_0"
+					count: 330L
+				}
+				{
+					id: "06BF3DDAB1E7FF06"
+					type: "item"
+					item: "beyond_earth:calorite_block"
+					count: 173L
+				}
+				{
+					id: "68E058BB18481216"
+					type: "item"
+					item: "tconstruct:pig_iron_block"
+					count: 250L
+				}
+				{
+					id: "016B25403EBC15C0"
+					type: "item"
+					item: "mysticalagradditions:insanium_ingot_block"
+					count: 17L
+				}
+				{
+					id: "096C6F4936F5D19C"
+					type: "item"
+					item: "draconicevolution:awakened_draconium_block"
+					count: 16L
+				}
+				{
+					id: "3EA4376335E73378"
+					type: "item"
+					item: "chipped:raw_gold_block_7"
+					count: 8L
+				}
+				{
+					id: "2FC6755099447868"
+					type: "item"
+					item: "extendedcrafting:crystaltine_block"
+					count: 48L
+				}
+				{
+					id: "1499252916D5CE2C"
+					type: "item"
+					item: "minecraft:black_concrete"
+					count: 15L
+				}
+				{
+					id: "4BFF14B442DB9B8A"
+					type: "item"
+					item: "minecraft:pink_concrete"
+					count: 522L
+				}
+				{
+					id: "5A6ED086AD00C786"
+					type: "item"
+					item: "minecraft:white_concrete"
+					count: 22L
+				}
+				{
+					id: "7F7BE596632363B0"
+					type: "item"
+					item: "minecraft:pink_terracotta"
+					count: 17L
+				}
+				{
+					id: "28BE69FAE92FF20E"
+					type: "item"
+					item: "minecraft:white_terracotta"
+					count: 2L
+				}
+			]
+			rewards: [{
+				id: "718A8A953DADE2CC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.challenge.piggy.title.1}"
+			x: 5.5d
+			y: 8.0d
+			shape: "hexagon"
+			subtitle: "{chapter.challenge.piggy.subtitle}"
+			description: ["{chapter.challenge.piggy.description}"]
+			dependencies: [
+				"6D0C7C568AC768C8"
+				"07DE1E6DE9F7522F"
+				"5A1A6AD70392E5F2"
+				"5C2E4E06A851BC2D"
+				"4CC844E6755B5FA2"
+			]
+			size: 1.5d
+			id: "4E5B52E9FDD59AA2"
+			tasks: [
+				{
+					id: "5CF4B23EB1E98F87"
+					type: "item"
+					item: "chroma:piggy_bank"
+				}
+				{
+					id: "1C5E3CEC6F82E6D4"
+					type: "item"
+					item: "chroma:piggy_item_output"
+				}
+				{
+					id: "40579D95168F0B14"
+					type: "item"
+					item: "chroma:piggy_energy_input"
+				}
+			]
+			rewards: [{
+				id: "385082283D4B7315"
+				type: "item"
+				item: "numismaticoverhaul:piggy_bank"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
