@@ -1473,7 +1473,7 @@
   "chapter.stage.5.quest.7.description.1": "当你把带有紫色镭射透镜的流体镭射钻基座放置在凋灵上方时，它会缓慢地生产以太气体。这种气体是制作Industrial Foregoing里最高级物品所必需的，当然这包括超级机器框架！",
 
   "chapter.stage.5.quest.8.subtitle.1": "捕获怪物的灵魂",
-  "chapter.stage.5.quest.8.description.1": "为了创建一个怪物的数据模型，你必须拿这玩意儿对着怪物右键一下。",
+  "chapter.stage.5.quest.8.description.1": "为了创建一个怪物的数据模型，你必须拿着空白数据模型对着怪物右键一下。",
 
   "chapter.stage.5.quest.9.subtitle.1": "怪物学习农业",
   "chapter.stage.5.quest.9.description.1": "深度学习器允许你在里面存放一些生物数据模型并训练它们。所有模型一开始都处于缺陷等级，你必须把它训练到基础等级才能使用。",
@@ -1490,7 +1490,7 @@
   "chapter.stage.5.quest.13.subtitle.1": "战利品制造",
   "chapter.stage.5.quest.13.description.1": "怪物预测产物需要放入战利品制造器中处理。这是一种使用能量将怪物预测产物转化为战利品的机器，产生的战利品取决于该生物的战利品表。你可以手动设定目标，而这台机器将会记住你的选择，因此你可以将多种类型的预测产物输入到这台机器中。",
 
-  "chapter.stage.5.quest.14.subtitle.1": "让盖亚老登爆爆金币",
+  "chapter.stage.5.quest.14.subtitle.1": "从盖亚身上掠夺点什么",
   "chapter.stage.5.quest.14.description.1": "用战利品制造器处理盖亚守护者预测产物能够让我们获得一些盖亚之皮。",
 
   "chapter.stage.5.quest.15.subtitle.1": "自动型植物酿造台",
