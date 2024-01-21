@@ -1447,5 +1447,75 @@
   "chapter.stage.4.quest.131.description.1": "To automate Extended Crafting, one needs to make &d2 Package Recipe Holders&r and encode them with a &aPackage Recipe Encoder&r.",
   "chapter.stage.4.quest.131.description.2": "Then, one needs to put a Package Recipe Holder in a &bPackager&r, and the other in an &bUnpackager&r, both connected to a ME Network.",
   "chapter.stage.4.quest.131.description.3": "The Packager will accept items and make them into Recipe Packages and the Unpackager will take them and output items into an adjacent inventory.",
-  "chapter.stage.4.quest.131.description.4": "Both machines tell the ME Network what it can do according to the package recipe holder, and the Packager, when connected, ejects packages into the network."
+  "chapter.stage.4.quest.131.description.4": "Both machines tell the ME Network what it can do according to the package recipe holder, and the Packager, when connected, ejects packages into the network.",
+ 
+  "chapter.stage.5.title": "第5章",
+
+  "chapter.stage.5.quest.1.subtitle.1": "一个比“更好”还要好的机器框架",
+  "chapter.stage.5.quest.1.description.1": "使用戴斯锭、流明齿轮、塑料片、绝对控制电路、中级机器框架与粉红粘液在化学溶解室里组装获得。",
+
+  "chapter.stage.5.quest.2.subtitle.1": "到了激光采矿时间！",
+  "chapter.stage.5.quest.2.description.1": "为了获取不同的资源，你应该至少制作四个。",
+
+  "chapter.stage.5.quest.3.subtitle.1": "激光采矿的核心",
+  "chapter.stage.5.quest.3.description.1": "这是激光矿机的主机，您需要如下图所示在它周围放置四个镭射钻！",
+
+  "chapter.stage.5.quest.4.subtitle.1": "液体钻机",
+  "chapter.stage.5.quest.4.description.1": "它的用法与镭射钻基座一样，只不过这一次是流体！",
+
+  "chapter.stage.5.quest.5.subtitle.1": "凋灵稳定装置",
+  "chapter.stage.5.quest.5.description.1": "冷凝室是一台来自Industrial Foregoing的机器，它的作用是冻结和治疗其工作范围内的一切生物，凋灵也不例外!",
+
+  "chapter.stage.5.quest.6.subtitle.1": "也许可以用它从凋灵身上得到点什么",
+  "chapter.stage.5.quest.6.description.1": "由化学溶解室制作，你可以放进流体镭射钻基座让它从凋灵身上提取以太气体。",
+
+  "chapter.stage.5.quest.7.subtitle.1": "获得以太气体",
+  "chapter.stage.5.quest.7.description.1": "当你把带有紫色镭射透镜的流体镭射钻基座放置在凋灵上方时，它会缓慢的生产以太气体。这种气体是制作Industrial Foregoing最的高级物品所必需的，当然这包括超级机器框架！",
+
+  "chapter.stage.5.quest.8.subtitle.1": "捕获怪物们的灵魂",
+  "chapter.stage.5.quest.8.description.1": "为了创建一个怪物的数据模型，你必须拿这玩意儿对着怪物右键一下。",
+
+  "chapter.stage.5.quest.9.subtitle.1": "学习生物农场",
+  "chapter.stage.5.quest.9.description.1": "深度学习器允许你在里面存放一些生物数据模型并训练它们。所有的模型一开始都处于缺陷等级，你必须把它训练到基础等级才能使用。",
+
+  "chapter.stage.5.quest.10.subtitle.1": "战利品模型",
+  "chapter.stage.5.quest.10.description.1": "运行生物模拟通常需要能量（取决于数据模型类型）与催化剂，而大多数时候这个催化剂是预测矩阵。",
+
+  "chapter.stage.5.quest.11.subtitle.1": "预测生物战利品",
+  "chapter.stage.5.quest.11.description.1": "一旦生物数据模型升到了基础或更高的等级，你就可以把它放入模拟室来进行战利品的预测。模拟室将始终进行广义预测并有概率制造怪物预测产物，而怪物预测产物的产出概率取决于数据模型的等级，等级为自我意识时将会有99.5%的产出概率。",
+
+  "chapter.stage.5.quest.12.subtitle.1": "模拟盖亚！",
+  "chapter.stage.5.quest.12.description.1": "使用模拟室获得盖亚预测产物。",
+
+  "chapter.stage.5.quest.13.subtitle.1": "战利品制造者",
+  "chapter.stage.5.quest.13.description.1": "怪物预测产物需要放入战利品制造器中处理，这是一种使用能量将怪物预测产物转化为战利品的机器。产生的战利品取决于该生物的战利品表，你可以进行手动设定目标，而这台机器将会记住你的选择，因此你可以将多种类型的预测产物输入到这台机器中。",
+
+  "chapter.stage.5.quest.14.subtitle.1": "让盖亚老登爆爆金币",
+  "chapter.stage.5.quest.14.description.1": "多亏了盖亚守护者预测产物，我们能得到一些盖亚的皮肤。",
+
+  "chapter.stage.5.quest.15.subtitle.1": "自动型植物酿造台",
+
+  "chapter.stage.5.quest.16.subtitle.1": "自动型魔力池",
+
+  "chapter.stage.5.quest.17.subtitle.1": "自动型白雏菊",
+
+  "chapter.stage.5.quest.18.subtitle.1": "自动型符文祭坛",
+
+  "chapter.stage.5.quest.19.subtitle.1": "自动型泰拉凝聚板",
+
+  "chapter.stage.5.quest.20.subtitle.1": "自动型精灵门",
+
+  "chapter.stage.5.quest.21.subtitle.1": "自动型花药台",
+
+  "chapter.stage.5.quest.22.subtitle.1": "可以存储或输出Mana",
+  "chapter.stage.5.quest.22.description.1": "这是植物机械里一个重要的方块，它能帮你存储Mana或把Mana发送给其他机械。别忘了给你的火花加上你想要的升级（取决于你想怎么使用）！",
+
+  "chapter.stage.5.quest.23.subtitle.1": "当心维京人！",
+  "chapter.stage.5.quest.23.description.1": "多亏了盖亚守护者预测产物，我们能得到一些阿斯加德符文。",
+
+  "chapter.stage.5.quest.24.subtitle.1": "更好的凝聚板",
+  "chapter.stage.5.quest.24.description.1": "将Mana注入这个新的多方块结构，你将能够更快地制造泰拉钢并且能制造&6精灵钢&r。",
+
+  "chapter.stage.5.quest.25.subtitle.1": "一种新的植物锭",
+  "chapter.stage.5.quest.25.description.1": "把两个魔力池量的Mana注入精灵凝聚板，你就可以制作出&6精灵钢&r。"
 }
