@@ -1454,10 +1454,10 @@
   "chapter.stage.5.quest.1.subtitle.1": "一个比“更好”还要好的机器框架",
   "chapter.stage.5.quest.1.description.1": "使用戴斯锭、流明齿轮、塑料片、绝对控制电路、中级机器框架与粉红粘液在化学溶解室里组装获得。",
 
-  "chapter.stage.5.quest.2.subtitle.1": "到了激光采矿时间！",
+  "chapter.stage.5.quest.2.subtitle.1": "到了镭射采矿时间！",
   "chapter.stage.5.quest.2.description.1": "为了获取不同的资源，你应该至少制作四个。",
 
-  "chapter.stage.5.quest.3.subtitle.1": "激光采矿的核心",
+  "chapter.stage.5.quest.3.subtitle.1": "镭射采矿的核心",
   "chapter.stage.5.quest.3.description.1": "这是镭射钻系统的核心，您需要如下图所示在它周围放置四个镭射钻！",
 
   "chapter.stage.5.quest.4.subtitle.1": "流体钻机",
@@ -1470,7 +1470,7 @@
   "chapter.stage.5.quest.6.description.1": "由化学溶解室制作，你可以放进流体镭射钻基座让它从凋灵身上提取以太气体。",
 
   "chapter.stage.5.quest.7.subtitle.1": "获得以太气体",
-  "chapter.stage.5.quest.7.description.1": "当你把带有紫色镭射透镜的流体镭射钻基座放置在凋灵上方时，它会缓慢的生产以太气体。这种气体是制作Industrial Foregoing最的高级物品所必需的，当然这包括超级机器框架！",
+  "chapter.stage.5.quest.7.description.1": "当你把带有紫色镭射透镜的流体镭射钻基座放置在凋灵上方时，它会缓慢地生产以太气体。这种气体是制作Industrial Foregoing里最高级物品所必需的，当然这包括超级机器框架！",
 
   "chapter.stage.5.quest.8.subtitle.1": "捕获怪物的灵魂",
   "chapter.stage.5.quest.8.description.1": "为了创建一个怪物的数据模型，你必须拿这玩意儿对着怪物右键一下。",
@@ -1479,7 +1479,7 @@
   "chapter.stage.5.quest.9.description.1": "深度学习器允许你在里面存放一些生物数据模型并训练它们。所有模型一开始都处于缺陷等级，你必须把它训练到基础等级才能使用。",
 
   "chapter.stage.5.quest.10.subtitle.1": "战利品模型",
-  "chapter.stage.5.quest.10.description.1": "运行生物模拟通常需要能量（取决于数据模型类型）与催化剂，而大多数时候这个催化剂是预测矩阵。",
+  "chapter.stage.5.quest.10.description.1": "进行生物模拟工作需要能量（取决于数据模型类型）与催化剂，而大多数时候这个催化剂是预测矩阵。",
 
   "chapter.stage.5.quest.11.subtitle.1": "预测生物战利品",
   "chapter.stage.5.quest.11.description.1": "一旦生物数据模型升到了基础或更高的等级，你就可以把它放入模拟室来进行战利品的预测。模拟室一定会产出一个通用预测产物，并有概率制造怪物预测产物，而怪物预测产物的产出概率取决于数据模型的等级，等级为自我意识时将会有99.5%的产率。",
@@ -1508,7 +1508,7 @@
   "chapter.stage.5.quest.21.subtitle.1": "自动型花药台",
 
   "chapter.stage.5.quest.22.subtitle.1": "可以存储和传输魔力",
-  "chapter.stage.5.quest.22.description.1": "这是植物机械里一个重要的方块，它能帮你存储Mana或把Mana发送给其他机械。别忘了给你的火花加上你想要的升级（取决于你想怎么使用）！",
+  "chapter.stage.5.quest.22.description.1": "这是植物机械里一个重要的方块，它能帮你存储魔力或把魔力发送给其他机械。别忘了给你的火花加上你想要的升级（取决于你想怎么使用）！",
 
   "chapter.stage.5.quest.23.subtitle.1": "当心维京人！",
   "chapter.stage.5.quest.23.description.1": "多亏了盖亚守护者预测产物，我们能得到一些阿斯加德符文。",
@@ -1516,6 +1516,6 @@
   "chapter.stage.5.quest.24.subtitle.1": "更好的凝聚板",
   "chapter.stage.5.quest.24.description.1": "将魔力注入这个新的多方块结构，你将能更快地制造泰拉钢并且能够制造&6精灵钢&r。",
 
-  "chapter.stage.5.quest.25.subtitle.1": "一种新的植物锭",
+  "chapter.stage.5.quest.25.subtitle.1": "新的植物魔法锭",
   "chapter.stage.5.quest.25.description.1": "把两个魔力池量的魔力注入注魔板，你就可以制作出&6精灵钢&r。"
 }
