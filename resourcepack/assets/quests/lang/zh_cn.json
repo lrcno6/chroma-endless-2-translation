@@ -460,7 +460,7 @@
   "chapter.stage.2.quest.10.subtitle.1": "&6金属冲压机&r",
   "chapter.stage.2.quest.10.description.1": "在其活塞上放上金属模具以冲压金属。",
   "chapter.stage.2.quest.10.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.10.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.10.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.11.subtitle.1": "更强大的&9焦炉&r",
   "chapter.stage.2.quest.11.description.1": "强化焦炉消耗能量，但效率更高！",
@@ -469,7 +469,7 @@
   "chapter.stage.2.quest.12.subtitle.1": "&6混合器&r",
   "chapter.stage.2.quest.12.description.1": "混合器用于向流体中加入物品",
   "chapter.stage.2.quest.12.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.12.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.12.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.13.title.1": "蓄电池",
   "chapter.stage.2.quest.13.subtitle.1": "储存&cIF&r",
@@ -480,13 +480,13 @@
   "chapter.stage.2.quest.14.subtitle.1": "&6工业发酵机&r",
   "chapter.stage.2.quest.14.description.1": "工业发酵机用来将食物转化为&7&l乙醇&r。",
   "chapter.stage.2.quest.14.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.14.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.14.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.15.title.1": "看向 &6炼油厂",
   "chapter.stage.2.quest.15.subtitle.1": "&6炼油厂&r",
   "chapter.stage.2.quest.15.description.1": "炼油厂用于将流体精炼为其他流体。",
   "chapter.stage.2.quest.15.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.15.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.15.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.16.subtitle.1": "用&6炼油厂&r制作",
   "chapter.stage.2.quest.16.description.1": "后面会用到这种流体的。",
@@ -495,7 +495,7 @@
   "chapter.stage.2.quest.17.subtitle.1": "&6灌装机&r",
   "chapter.stage.2.quest.17.description.1": "灌装机用于向物品注液。",
   "chapter.stage.2.quest.17.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.17.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.17.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.18.subtitle.1": "准备充能",
   "chapter.stage.2.quest.18.description.1": "充能器很酷，但你需要先做这个玩意。",
@@ -531,7 +531,7 @@
   "chapter.stage.2.quest.28.subtitle.1": "&6电弧炉&r",
   "chapter.stage.2.quest.28.description.1": "电弧炉用于熔炼和制作处理器。",
   "chapter.stage.2.quest.28.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.28.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.28.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
 
@@ -753,7 +753,7 @@
   "chapter.stage.2.quest.90.subtitle.1": "&6工业挤压机&r",
   "chapter.stage.2.quest.90.description.1": "&6工业挤压机&r用来制作植物油和高定向热解石墨粉。",
   "chapter.stage.2.quest.90.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
-  "chapter.stage.2.quest.90.description.3": "提示：用工程师锤右击红色方块（红石工程块）以搭建。",
+  "chapter.stage.2.quest.90.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.3.title": "第3章",
 
