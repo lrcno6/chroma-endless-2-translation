@@ -2,10 +2,10 @@
   "chapter.welcome.title": "&l欢迎",
 
   "chapter.welcome.quest.2.title.1": "认领与加载区块",
-  "chapter.welcome.quest.2.description.1" : "FTB Chunks可以让你&4认领区块&r来&4保护&r你放下的方块，并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r，然后&6左击&r或&6右击&r地图以认领或取消认领区块，按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
+  "chapter.welcome.quest.2.description.1" : "FTB Chunks 可以让你&4认领区块&r来&4保护&r你放下的方块，并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r，然后&6左击&r或&6右击&r地图以认领或取消认领区块，按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
 
   "chapter.welcome.quest.3.title.1": "连锁采集",
-  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r模组对挖矿非常有用。",
+  "chapter.welcome.quest.3.description.1" : "&6&lUltimine&r 模组对挖矿非常有用。",
   "chapter.welcome.quest.3.description.2" : "默认按 ` 键后会显示&n白色轮廓&r，即&c&l连锁区域&r以表示连锁采集的范围。",
   "chapter.welcome.quest.3.description.3" : "&c&l连锁区域&r可以改变。按住 Shift + ` 后，用鼠标滚轮即可改变连锁区域的形状。",
 
@@ -37,7 +37,7 @@
 
   "chapter.welcome.quest.12.title.1": "欢迎来到色度无尽2！",
   "chapter.welcome.quest.12.subtitle.1": "色度无尽2：魔法、科技、探索之融合",
-  "chapter.welcome.quest.12.description.1": "沉浸于这个重制而完美的Minecraft世界吧！色度无尽2提供了专家级游戏体验，每个步骤都经过精心设计，以满足玩家的挑战欲，给予玩家沉浸感和满足感。",
+  "chapter.welcome.quest.12.description.1": "沉浸于这个重制而完美的 Minecraft 世界吧！色度无尽2提供了专家级游戏体验，每个步骤都经过精心设计，以满足玩家的挑战欲，给予玩家沉浸感和满足感。",
   "chapter.welcome.quest.12.description.2": "&l核心特性：&r",
   "chapter.welcome.quest.12.description.3": "&6&l阶段式流程：&r世界并非一成不变，它驱使着你去不断学习，不断变强，去掌握每一个模组和机制。",
   "chapter.welcome.quest.12.description.4": "&b&l科技与魔法：&r尖端科技与神秘魔法相互融合，不论你喜欢宏伟而精密的机械还是强大而神秘的法术，色度无尽2都能满足您的需求。",
@@ -134,13 +134,13 @@
   "chapter.shop.killing.title.17": "击杀 50 x &2幻翼&r",
   "chapter.shop.killing.title.18": "击杀 100 x &5守卫者&r",
 
-  "chapter.shop.fluid.title.1": "1000B 水",
-  "chapter.shop.fluid.title.2": "1000B 煤油",
-  "chapter.shop.fluid.title.3": "1000B 柴油",
-  "chapter.shop.fluid.title.4": "1000B 汽油",
-  "chapter.shop.fluid.title.5": "1000B 液化石油气",
-  "chapter.shop.fluid.title.6": "1000B 酵母菌",
-  "chapter.shop.fluid.title.7": "1000B 杂酚油",
+  "chapter.shop.fluid.title.1": "1000 B 水",
+  "chapter.shop.fluid.title.2": "1000 B 煤油",
+  "chapter.shop.fluid.title.3": "1000 B 柴油",
+  "chapter.shop.fluid.title.4": "1000 B 汽油",
+  "chapter.shop.fluid.title.5": "1000 B 液化石油气",
+  "chapter.shop.fluid.title.6": "1000 B 酵母菌",
+  "chapter.shop.fluid.title.7": "1000 B 杂酚油",
 
   "chapter.challenges.title": "&l挑战",
 
@@ -212,7 +212,7 @@
 
   "chapter.stage.1.quest.1.title.1": "原木",
   "chapter.stage.1.quest.1.subtitle.1": "经典开局",
-  "chapter.stage.1.quest.1.description.1" : "哪有Minecraft开局不砍树的",
+  "chapter.stage.1.quest.1.description.1" : "哪有 Minecraft 开局不砍树的",
 
   "chapter.stage.1.quest.2.title.1": "木板",
   "chapter.stage.1.quest.2.subtitle.1": "Planked",
@@ -382,7 +382,7 @@
   "chapter.stage.1.quest.46.subtitle.1": "魔法（羊皮）纸",
   "chapter.stage.1.quest.46.description.1": "手持皮革右击水或含水炼药锅以获得&5皮纸&r。",
 
-  "chapter.stage.1.quest.47.subtitle.1": "巧工魔艺游戏内Wiki",
+  "chapter.stage.1.quest.47.subtitle.1": "巧工魔艺游戏内 Wiki",
   "chapter.stage.1.quest.47.description.1": "这本书会给你关于&5&l巧工魔艺&r的指导。",
   "chapter.stage.1.quest.47.description.2": "你可以在书中查询关于这个模组的信息。",
 
@@ -400,14 +400,14 @@
 
   "chapter.stage.1.quest.50.subtitle.1": "法术制作",
   "chapter.stage.1.quest.50.description.1": "编写桌用来制作法术配方。",
-  "chapter.stage.1.quest.50.description.2": "GUI左上角有三个物品槽，第一个放奥术学家的墨水，第二个放纸，第三个放奥术粉末。",
-  "chapter.stage.1.quest.50.description.3": "有三种法术构件：形态、效果和修饰。编写桌的GUI中有5个槽来放法术构件。",
+  "chapter.stage.1.quest.50.description.2": "GUI 左上角有三个物品槽，第一个放奥术学家的墨水，第二个放纸，第三个放奥术粉末。",
+  "chapter.stage.1.quest.50.description.3": "有三种法术构件：形态、效果和修饰。编写桌的 GUI 中有5个槽来放法术构件。",
   "chapter.stage.1.quest.50.description.4": "其中1个为形态，1个为效果，3个为修饰。",
   "chapter.stage.1.quest.50.description.5": "修饰影响法术的属性，例如法术距离、持续时间和增强。",
   "chapter.stage.1.quest.50.description.6": "点击法术构件将其加入配方。形态和效果构件是必需的。",
   "chapter.stage.1.quest.50.description.7": "要调整修饰构件效果，点击修饰构件，点击出现的黄色箭头以调节属性值。",
-  "chapter.stage.1.quest.50.description.8": "在GUI右侧会显示复杂度、魔力消耗、编写桌物品消耗和法术配方材料。",
-  "chapter.stage.1.quest.50.description.9": "点击GUI顶部的箭头即可制作法术配方。制作法术配方需要一定时间，完成后法术配方在GUI右上角。",
+  "chapter.stage.1.quest.50.description.8": "在 GUI 右侧会显示复杂度、魔力消耗、编写桌物品消耗和法术配方材料。",
+  "chapter.stage.1.quest.50.description.9": "点击 GUI 顶部的箭头即可制作法术配方。制作法术配方需要一定时间，完成后法术配方在 GUI 右上角。",
 
   "chapter.stage.1.quest.51.subtitle.1": "符文锻造",
   "chapter.stage.1.quest.51.description.1": "&5符文锻炉&r用来制作部分物品，但注意配方的等阶要求。",
@@ -447,7 +447,7 @@
   "chapter.stage.2.quest.7.description.2": "后面的两个任务会讲解&6水车&r和&6风车&r的用法。",
 
   "chapter.stage.2.quest.8.subtitle.1": "&6水车&r",
-  "chapter.stage.2.quest.8.description.1": "水流过水车会产生&c&lIF&r。",
+  "chapter.stage.2.quest.8.description.1": "水流过水车会产生 &c&lIF&r。",
   "chapter.stage.2.quest.8.description.2": "要最大化能量产出，你要让水流过上、侧、下三个面。",
   "chapter.stage.2.quest.8.description.3": "一个动能发电机可以接3个&5水车s&r。",
 
@@ -472,7 +472,7 @@
   "chapter.stage.2.quest.12.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
   "chapter.stage.2.quest.13.title.1": "蓄电池",
-  "chapter.stage.2.quest.13.subtitle.1": "储存&cIF&r",
+  "chapter.stage.2.quest.13.subtitle.1": "储存 &cIF&r",
   "chapter.stage.2.quest.13.description.1": "蓄电池用来储存&cIF&r.",
   "chapter.stage.2.quest.13.description.2": "可以用工程师锤来修改各个面的配置。",
 
@@ -547,21 +547,21 @@
   "chapter.stage.2.quest.34.subtitle.1": "合成新方式",
 
   "chapter.stage.2.quest.35.subtitle.1": "外部能量接收",
-  "chapter.stage.2.quest.35.description.1": "能源接收器将其他能量转换为AE。",
+  "chapter.stage.2.quest.35.description.1": "能源接收器将其他能量转换为 AE。",
 
   "chapter.stage.2.quest.36.subtitle.1": "水晶生长",
   "chapter.stage.2.quest.36.description.1": "晶体催生器可以加速各种水晶种子生长。",
 
   "chapter.stage.2.quest.37.subtitle.1": "早期存储方式",
-  "chapter.stage.2.quest.37.description.1": "ME存储总线可以将任何容器接入AE系统。",
+  "chapter.stage.2.quest.37.description.1": "ME 存储总线可以将任何容器接入 AE 系统。",
   "chapter.stage.2.quest.37.description.2": "用玻璃线缆连接是个好主意。",
 
   "chapter.stage.2.quest.38.subtitle.1": "查看物品",
-  "chapter.stage.2.quest.38.description.1": "ME终端可以查看AE系统中的所有物品。",
+  "chapter.stage.2.quest.38.description.1": "ME 终端可以查看 AE 系统中的所有物品。",
   "chapter.stage.2.quest.38.description.2": "用玻璃线缆连接是个好主意。",
 
   "chapter.stage.2.quest.39.subtitle.1": "应用合成",
-  "chapter.stage.2.quest.39.description.1": "在ME终端中启用合成功能。",
+  "chapter.stage.2.quest.39.description.1": "在 ME 终端中启用合成功能。",
   "chapter.stage.2.quest.39.description.2": "用玻璃线缆连接是个好主意。",
 
   "chapter.stage.2.quest.40.subtitle.1": "Mek 启动！",
@@ -579,7 +579,7 @@
   "chapter.stage.2.quest.43.description.1": "向逻辑处理器灌注红石。",
 
   "chapter.stage.2.quest.44.subtitle.1": "转化为基础工厂",
-  "chapter.stage.2.quest.44.description.1": "用工厂升级 Shift + 右键 可升级的Mek机器可以将其转化为基础工厂。",
+  "chapter.stage.2.quest.44.description.1": "用工厂升级 Shift + 右键 可升级的 Mek 机器可以将其转化为基础工厂。",
   "chapter.stage.2.quest.44.description.2": "已经到达该等级的机器显然不会再次升级。",
 
   "chapter.stage.2.quest.45.subtitle.1": "基础灌注",
@@ -667,9 +667,9 @@
 
   "chapter.stage.2.quest.67.subtitle.1": "符文制作",
   "chapter.stage.2.quest.67.description.1": "用符文工匠锤和符文工匠凿在符文刻印桌制作符文样板。",
-  "chapter.stage.2.quest.67.description.2": "在GUI左侧有三个槽，第一个放符文锤，第二个放符文凿，第三个放黏土。",
+  "chapter.stage.2.quest.67.description.2": "在 GUI 左侧有三个槽，第一个放符文锤，第二个放符文凿，第三个放黏土。",
   "chapter.stage.2.quest.67.description.3": "制作符文不需要黏土，黏土用于填补刻痕。",
-  "chapter.stage.2.quest.67.description.4": "GUI中部的槽用于放符文样板，右上角用于放刻印配方。在右上角放入刻印配方后会在其下方展示对应图案。",
+  "chapter.stage.2.quest.67.description.4": "GUI 中部的槽用于放符文样板，右上角用于放刻印配方。在右上角放入刻印配方后会在其下方展示对应图案。",
   "chapter.stage.2.quest.67.description.5": "右下角的25个槽用于储存刻印配方。将符文样板放入后将会出现一个点格图。",
   "chapter.stage.2.quest.67.description.6": "点击相邻两点之间可以在此划出一道刻痕，并消耗工具耐久。",
   "chapter.stage.2.quest.67.description.7": "点击刻痕可以消耗黏土和经验来抹去刻痕。",
@@ -744,7 +744,7 @@
   "chapter.stage.2.quest.88.subtitle.1": "魔法转化",
   "chapter.stage.2.quest.88.description.1": "炼金催化剂可以解锁更多的魔力灌注配方。",
   "chapter.stage.2.quest.88.description.2": "将其放在魔力池下方来使用。",
-  "chapter.stage.2.quest.88.description.3": "用来解锁Powah和制作硅脂。",
+  "chapter.stage.2.quest.88.description.3": "用来解锁 Powah 和制作硅脂。",
 
   "chapter.stage.2.quest.89.subtitle.1": "好多好多资源",
   "chapter.stage.2.quest.89.description.1": "右键挖矿传送门进入采矿维度。",
@@ -827,7 +827,7 @@
   "chapter.stage.3.quest.21.description.1": "空气压缩机燃烧固体燃料来制造压缩空气。",
 
   "chapter.stage.3.quest.22.subtitle.1": "燃油空气压缩",
-  "chapter.stage.3.quest.22.description.1": "液体压缩机用液态燃料制造压缩空气。记得查看JEI。",
+  "chapter.stage.3.quest.22.description.1": "液体压缩机用液态燃料制造压缩空气。记得查看 JEI。",
 
   "chapter.stage.3.quest.23.subtitle.1": "冷热通吃",
   "chapter.stage.3.quest.23.description.1": "导热框架必须放在容器上，根据温度高低熔炼或冷冻容器内物品。",
@@ -868,9 +868,9 @@
   "chapter.stage.3.quest.32.description.1" : "向高级控制电路灌注压缩钢以制作精英控制电路。",
 
   "chapter.stage.3.quest.33.subtitle.1": "实用部件",
-  "chatper.stage.3.quest.33.description.1" : "&b能量板&f是一种可携带可充电的电源，可以存储1000kJ（400kFE）的能量来驱动其他机器。还有许多配方直接需要能量板。",
+  "chatper.stage.3.quest.33.description.1" : "&b能量板&f是一种可携带可充电的电源，可以存储 1000 kJ（400 kFE）的能量来驱动其他机器。还有许多配方直接需要能量板。",
 
-  "chapter.stage.3.quest.34.subtitle.1": "夜晚无用论",
+  "chapter.stage.3.quest.34.subtitle.1": "夜晚无用论", 
   "chapter.stage.3.quest.34.description.1" : "通过太阳能来生成能量。之后还能安装升级。",
 
   "chapter.stage.3.quest.35.subtitle.1": "风能！",
@@ -920,13 +920,13 @@
   "chapter.stage.3.quest.52.description.1": "消耗能量来进行高级自动合成。",
 
   "chapter.stage.3.quest.53.subtitle.1": "更好的合成组件",
-  "chapter.stage.3.quest.53.description.1": "将暗夜钢板、流明精华和充能钢充能获得。在JEI查看更多信息。",
+  "chapter.stage.3.quest.53.description.1": "将暗夜钢板、流明精华和充能钢充能获得。在 JEI 查看更多信息。",
 
   "chapter.stage.3.quest.54.subtitle.1": "更好的合成催化剂",
   "chapter.stage.3.quest.54.description.1": "将高级合成组件和硬化电容放入压力室加压获得。",
 
   "chapter.stage.3.quest.55.subtitle.1": "高级合成",
-  "chapter.stage.3.quest.55.description.1": "将高级合成催化剂、基础工作台和充能钢块充能获得。在JEI查看更多信息。",
+  "chapter.stage.3.quest.55.description.1": "将高级合成催化剂、基础工作台和充能钢块充能获得。在 JEI 查看更多信息。",
 
   "chapter.stage.3.quest.56.subtitle.1": "用锇压缩机处理萤石粉",
 
@@ -939,11 +939,11 @@
   "chapter.stage.3.quest.59.subtitle.1": "更好的能量板",
 
   "chapter.stage.3.quest.60.subtitle.1": "压印处理器",
-  "chapter.stage.3.quest.60.description.1": "&b压印器&r不仅可以将AE2的各种石英水晶磨成粉末，还能用来制造&6电路板&r和&6处理器&r。",
+  "chapter.stage.3.quest.60.description.1": "&b压印器&r不仅可以将 AE2 的各种石英水晶磨成粉末，还能用来制造&6电路板&r和&6处理器&r。",
 
-  "chapter.stage.3.quest.61.subtitle.1": "存储AE能量",
-  "chapter.stage.3.quest.61.description.1": "每个&b能源元件&r可以给ME网络提高200kAE（400kFE）的能量存储。",
-  "chapter.stage.3.quest.61.description.2": "&b致密能源元件&r可以存储1.6MAE（3.2MFE）能量，&b超密能源元件&r可以存储12.8MAE（25.6MFE）。",
+  "chapter.stage.3.quest.61.subtitle.1": "存储 AE 能量",
+  "chapter.stage.3.quest.61.description.1": "每个&b能源元件&r可以给ME网络提高 200 kAE（400 kFE）的能量存储。",
+  "chapter.stage.3.quest.61.description.2": "&b致密能源元件&r可以存储 1.6 MAE（3.2 MFE）能量，&b超密能源元件&r可以存储 12.8 MAE（25.6 MFE）。",
   "chapter.stage.3.quest.61.description.3": "只要将能源元件接入网络就能提升能量上限，而与放的位置无关。",
 
   "chapter.stage.3.quest.62.subtitle.1": "拿什么聚合好呢",
@@ -961,35 +961,35 @@
   "chapter.stage.3.quest.65.description.1": "将福鲁伊克斯水晶、含碳福鲁伊克斯粉和铁锭物质注入获得。",
 
   "chapter.stage.3.quest.66.subtitle.1": "福鲁伊克斯控制",
-  "chapter.stage.3.quest.66.description.1": "&bME控制器&r是大型ME网络的必需品。",
-  "chapter.stage.3.quest.66.description.2": "ME控制器可以将ME网络的频道数从点对点网络的8个频道提升至ME控制器每个面有32个频道，6个面共216个频道。",
-  "chapter.stage.3.quest.66.description.3": "此外，ME控制器还可以搭建成多方块结构，在7x7x7的范围内任意放置（相连的）ME控制器方块，只要其相连的ME控制器方块小于4个，其每个露出的面都能提供32个频道。",
-  "chapter.stage.3.quest.66.description.4": "一个ME网络只能拥有一个ME控制器多方块结构，尝试连接多个会是整个网络崩溃。",
+  "chapter.stage.3.quest.66.description.1": "&bME 控制器&r是大型 ME 网络的必需品。",
+  "chapter.stage.3.quest.66.description.2": "ME 控制器可以将 ME 网络的频道数从点对点网络的8个频道提升至 ME 控制器每个面有32个频道，6个面共216个频道。",
+  "chapter.stage.3.quest.66.description.3": "此外，ME 控制器还可以搭建成多方块结构，在7x7x7的范围内任意放置（相连的）ME 控制器方块，只要其相连的ME控制器方块小于4个，其每个露出的面都能提供32个频道。",
+  "chapter.stage.3.quest.66.description.4": "一个 ME 网络只能拥有一个 ME 控制器多方块结构，尝试连接多个会是整个网络崩溃。",
 
   "chapter.stage.3.quest.67.subtitle.1": "存储访问",
-  "chapter.stage.3.quest.67.description.1": "ME无线访问点是&6无线终端&r访问ME网络的接入点。在无线访问点中插入一定数量的&b无线信号增幅器&r可以提高信号半径，以给一块有限的区域提供服务。",
+  "chapter.stage.3.quest.67.description.1": "ME 无线访问点是&6无线终端&r访问 ME 网络的接入点。在无线访问点中插入一定数量的&b无线信号增幅器&r可以提高信号半径，以给一块有限的区域提供服务。",
 
   "chapter.stage.3.quest.68.subtitle.1": "无线存储",
-  "chapter.stage.3.quest.68.description.1": "&b无线终端&r与普通的ME终端一样，只是可以远程访问。多么好理解。",
+  "chapter.stage.3.quest.68.description.1": "&b无线终端&r与普通的 ME 终端一样，只是可以远程访问。多么好理解。",
 
   "chapter.stage.3.quest.69.subtitle.1": "无线存储与合成",
   "chapter.stage.3.quest.69.description.1": "给无线终端添加合成功能。",
 
   "chapter.stage.3.quest.70.subtitle.1": "提高无线信号范围",
-  "chapter.stage.3.quest.70.description.1": "&5无线信号增幅器&r用于提高ME无线访问点的服务范围。",
+  "chapter.stage.3.quest.70.description.1": "&5无线信号增幅器&r用于提高 ME 无线访问点的服务范围。",
 
-  "chapter.stage.3.quest.71.subtitle.1": "ME服务器",
-  "chapter.stage.3.quest.71.description.1": "&bME驱动器&r可以插入10个不同的存储元件，并且只占用一个频道。与ME箱子不同，ME驱动器不自带终端，需要使用网络上的外置终端来访问。",
+  "chapter.stage.3.quest.71.subtitle.1": "ME 服务器",
+  "chapter.stage.3.quest.71.description.1": "&bME 驱动器&r可以插入10个不同的存储元件，并且只占用一个频道。与 ME 箱子不同，ME 驱动器不自带终端，需要使用网络上的外置终端来访问。",
 
   "chapter.stage.3.quest.72.title.1": "物品存储元件",
-  "chapter.stage.3.quest.72.subtitle.1": "存储物品的ME磁盘",
-  "chapter.stage.3.quest.72.description.1": "&bME存储元件&r可以存储多达63种物品，每存储一种物品消耗8字节记录类型，每一个字节可以存储一种8个物品。",
-  "chapter.stage.3.quest.72.description.2": "例如，1k-ME存储元件对于单种物品可以存储(1024-1*8)*8=8128个。",
+  "chapter.stage.3.quest.72.subtitle.1": "存储物品的 ME 磁盘",
+  "chapter.stage.3.quest.72.description.1": "&bME 存储元件&r可以存储多达63种物品，每存储一种物品消耗8字节记录类型，每一个字节可以存储一种8个物品。",
+  "chapter.stage.3.quest.72.description.2": "例如，1k-ME 存储元件对于单种物品可以存储 (1024-1*8)*8=8128 个。",
 
   "chapter.stage.3.quest.73.title.1": "流体存储单元",
-  "chapter.stage.3.quest.73.subtitle.1": "存储流体的ME磁盘",
-  "chapter.stage.3.quest.73.description.1": "事实上，并不是只有存储物品的存储元件。&bME流体存储元件&r可以存储水、熔岩、各种油和液体燃料等流体。",
-  "chapter.stage.3.quest.73.description.2": "对于流体，每个字节可以存储一种8B（8000mB）的流体。（注意每种流体仍然占用8字节）",
+  "chapter.stage.3.quest.73.subtitle.1": "存储流体的 ME 磁盘",
+  "chapter.stage.3.quest.73.description.1": "事实上，并不是只有存储物品的存储元件。&bME 流体存储元件&r可以存储水、熔岩、各种油和液体燃料等流体。",
+  "chapter.stage.3.quest.73.description.2": "对于流体，每个字节可以存储一种 8 B（8000 mB）的流体。（注意每种流体仍然占用8字节）",
 
   "chapter.stage.3.quest.74.subtitle.1": "制造框架",
   "chapter.stage.3.quest.74.description.1": "向&5物质注入机&r中放入锡齿轮、绝缘外壳和钢板来制造热力的机器框架。",
@@ -997,13 +997,13 @@
   "chapter.stage.3.quest.75.subtitle.1": "将物品熔炼成流体",
   "chapter.stage.3.quest.75.description.1": "熔岩炉用于将物品熔化成对应的流体。",
 
-  "chapter.stage.3.quest.76.subtitle.1": "制作RF工具的机器框架",
-  "chapter.stage.3.quest.76.description.1": "向&5物质注入机&r中放入红石伺服器、精英控制电路和机器基座来制作RF工具的机器框架。",
+  "chapter.stage.3.quest.76.subtitle.1": "制作 RF 工具的机器框架",
+  "chapter.stage.3.quest.76.description.1": "向&5物质注入机&r中放入红石伺服器、精英控制电路和机器基座来制作 RF 工具的机器框架。",
 
   "chapter.stage.3.quest.77.subtitle.1": "向物品和方块注入流体",
   "chapter.stage.3.quest.77.description.1": "向物品注入流体。",
 
-  "chapter.stage.3.quest.78.subtitle.1": "第一个RF工具机器框架",
+  "chapter.stage.3.quest.78.subtitle.1": "第一个 RF 工具机器框架",
   "chapter.stage.3.quest.78.description.1": "在热气动加工机中向强化石注入不稳红石获得。",
 
   "chapter.stage.3.quest.79.subtitle.1": "红石伺服器",
@@ -1013,7 +1013,7 @@
   "chapter.stage.3.quest.80.description.1": "向琥珀金棒灌装不稳红石获得。",
 
   "chapter.stage.3.quest.81.subtitle.1": "热力熔炼",
-  "chapter.stage.3.quest.81.description.1": "将最多3中物品熔炼成新物品，主要用于合金。在JEI查看更多信息。",
+  "chapter.stage.3.quest.81.description.1": "将最多3中物品熔炼成新物品，主要用于合金。在 JEI 查看更多信息。",
 
   "chapter.stage.3.quest.82.subtitle.1": "模块化布线",
   "chapter.stage.3.quest.82.description.1": "&b模块化路由器&r是一个非常灵活的模组，可以用多种方法运输物品。只需要物品路由器一个方块和一些模块，你可以从抽屉等容器中取出物品，将其送至其他容器，当作方块放置，以掉落物形式扔出，或是破坏方块等等。物品路由器就像是个可配置的超级漏斗……",
@@ -1037,13 +1037,13 @@
   "chapter.stage.3.quest.89.subtitle.1": "熔炼钪粉",
 
   "chapter.stage.3.quest.90.subtitle.1": "精英升级",
-  "chapter.stage.3.quest.90.description.1": "将Mek的高级工厂升级为精英工厂。",
+  "chapter.stage.3.quest.90.description.1": "将 Mek 的高级工厂升级为精英工厂。",
 
   "chapter.stage.3.quest.92.subtitle.1": "注入末影锭",
   "chapter.stage.3.quest.92.description.1": "将4个末影锭和一个末影之星末影合成获得。",
 
   "chapter.stage.3.quest.93.subtitle.1": "末影版合成组件",
-  "chapter.stage.3.quest.93.description.1": "将暗影钢板、流明精华和增强末影锭充能获得。在JEI查看更多信息。",
+  "chapter.stage.3.quest.93.description.1": "将暗影钢板、流明精华和增强末影锭充能获得。在 JEI 查看更多信息。",
 
   "chapter.stage.3.quest.94.subtitle.1": "末影版催化剂",
   "chapter.stage.3.quest.94.description.1": "将增强末影合成组件和末影核心放入压力室加压获得。",
@@ -1087,7 +1087,7 @@
   "chapter.stage.4.quest.12.subtitle.1": "制作未组装的印刷电路板",
   "chapter.stage.4.quest.12.description.1": "现在你只能用蚀刻器来制作。之后你可以通过装配来制作。",
 
-  "chapter.stage.4.quest.13.subtitle.1": "PCB的最后一步",
+  "chapter.stage.4.quest.13.subtitle.1": "PCB 的最后一步",
   "chapter.stage.4.quest.13.description.1": "将晶体管、电容和未组装的印刷电路板放入物质注入机获得。",
 
   "chapter.stage.4.quest.14.subtitle.1": "模块扩展",
@@ -1192,7 +1192,7 @@
   "chapter.stage.4.quest.47.description.1": "向精英控制电路灌注强化黑曜石获得。",
 
   "chapter.stage.4.quest.48.subtitle.1": "量子之板",
-  "chapter.stage.4.quest.48.description.1": "量子能量板可以存储3.60MFE的能量。",
+  "chapter.stage.4.quest.48.description.1": "量子能量板可以存储 3.60 MFE 的能量。",
 
   "chapter.stage.4.quest.49.subtitle.1": "原子合金",
   "chapter.stage.4.quest.49.description.1": "向强化合金灌注强化黑曜石获得。",
@@ -1204,7 +1204,7 @@
   "chapter.stage.4.quest.51.description.1": "向&4量子压缩机&r中输入传送核心和256个御腐水晶获得。",
 
   "chapter.stage.4.quest.52.subtitle.1": "高效采矿",
-  "chapter.stage.4.quest.52.description.1": "数字型采矿机可以挖掘你指定的所有方块。在JEI查看配方。",
+  "chapter.stage.4.quest.52.description.1": "数字型采矿机可以挖掘你指定的所有方块。在 JEI 查看配方。",
 
   "chapter.stage.4.quest.53.subtitle.1": "遗忆组件",
   "chapter.stage.4.quest.53.description.1": "将遗忆锭、暗夜钢板和流明精华充能获得。",
@@ -1216,7 +1216,7 @@
   "chapter.stage.4.quest.56.description.1": "向化学溶解室输入精英合成组件、高级工作台、精英合成催化剂、遗忆块和熔融御腐获得。",
 
   "chapter.stage.4.quest.57.subtitle.1": "遗忆自动工作台",
-  "chapter.stage.4.quest.57.description.1": "在末影工作台中合成精英自动工作台。在JEI查看配方。",
+  "chapter.stage.4.quest.57.description.1": "在末影工作台中合成精英自动工作台。在 JEI 查看配方。",
 
   "chapter.stage.4.quest.58.subtitle.1": "流体分离",
   "chapter.stage.4.quest.58.description.1": "将流体分解为两种不同的流体。",
@@ -1236,14 +1236,14 @@
   "chapter.stage.4.quest.63.description.1": "用富集仓制作高密度聚乙烯片。",
 
   "chapter.stage.4.quest.64.subtitle.1": "自动化狂人",
-  "chapter.stage.4.quest.64.description.1": "AE式自动化将从&bME样板供应器&r开始。样板供应器可以储存&b样板&r（在之后的任务中介绍）。样板用于记录配方的输入物品和输出物品。一个样板供应器可以存储9个样板。",
+  "chapter.stage.4.quest.64.description.1": "AE 式自动化将从 &bME 样板供应器&r开始。样板供应器可以储存&b样板&r（在之后的任务中介绍）。样板用于记录配方的输入物品和输出物品。一个样板供应器可以存储9个样板。",
 
   "chapter.stage.4.quest.65.subtitle.1": "合成装配",
   "chapter.stage.4.quest.65.description.1": "分子装配室能与相邻的其他ME设备传递能量和频道，但自身并不占用频道。一个样板供应器最多可以与6个分子装配式相连，从而同时合成多个物品。",
   "chapter.stage.4.quest.65.description.2": "每个分子装配室还额外拥有一个样板槽。在放入样板后，只要有能量，分子装配室就可以用输入的物品自动合成该配方。",
 
   "chapter.stage.4.quest.66.subtitle.1": "配方管理",
-  "chapter.stage.4.quest.66.description.1": "通常，你会在基地里各个地方放样板供应器。想要集中管理ME网络里的所有样板供应器，你需要一个&bME样板管理终端&r来远程访问各个样板供应器里的样板。",
+  "chapter.stage.4.quest.66.description.1": "通常，你会在基地里各个地方放样板供应器。想要集中管理ME网络里的所有样板供应器，你需要一个 &bME 样板管理终端&r来远程访问各个样板供应器里的样板。",
 
   "chapter.stage.4.quest.67.subtitle.1": "Encode Crafts Part 1",
   "chapter.stage.4.quest.67.description.1": "Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader '&6processing&r' recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units.",
