@@ -4,6 +4,8 @@
 
 当前整合包版本：1.0.7
 
+巧工魔艺（MNA）汉化使用了mcmod社区下载的汉化（QQ酱740777、清秋）
+
 进度：
 
 - [x] 改名物品汉化
@@ -29,3 +31,20 @@
 欢迎大家来贡献翻译，指正错误，提出建议等
 
 ~~也可以坐等VM把我收了（~~
+
+---
+
+## 汉化安装教学
+
+首先需要自行下载[I18N汉化模组](https://www.modrinth.com/mod/i18nupdatemod/versions)。
+
+再在GitHub/Gitee界面点击克隆/下载（Code），再点击下载ZIP（Download ZIP）下载ZIP文件。
+
+![Gitee下载](gitee-download.png)
+![GitHub下载](github-download.png)
+
+下载完成后解压到你的整合包目录下：
+
+![整合包目录](modpack-folder.png)
+
+最后，进入游戏启用CE2-i18n和mna-i18n两个资源包。
