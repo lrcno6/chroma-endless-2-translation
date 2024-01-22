@@ -404,7 +404,7 @@
   "chapter.stage.1.quest.50.description.3": "有三种法术构件：形态、效果和修饰。编写桌的GUI中有5个槽来放法术构件。",
   "chapter.stage.1.quest.50.description.4": "其中1个为形态，1个为效果，3个为修饰。",
   "chapter.stage.1.quest.50.description.5": "修饰影响法术的属性，例如法术距离、持续时间和增强。",
-  "chapter.stage.1.quest.50.description.6": "点击法术构件将其加入配方。形态和效果构件是必须的。",
+  "chapter.stage.1.quest.50.description.6": "点击法术构件将其加入配方。形态和效果构件是必需的。",
   "chapter.stage.1.quest.50.description.7": "要调整修饰构件效果，点击修饰构件，点击出现的黄色箭头以调节属性值。",
   "chapter.stage.1.quest.50.description.8": "在GUI右侧会显示复杂度、魔力消耗、编写桌物品消耗和法术配方材料。",
   "chapter.stage.1.quest.50.description.9": "点击GUI顶部的箭头即可制作法术配方。制作法术配方需要一定时间，完成后法术配方在GUI右上角。",
@@ -503,29 +503,29 @@
   "chapter.stage.2.quest.19.subtitle.1": "陨石猎手",
   "chapter.stage.2.quest.19.description.1": "陨石非常常见，但如果你找不到你还可以用陨石罗盘。",
 
-  "chapter.stage.2.quest.20.subtitle.1": "Pressing Silicon",
+  "chapter.stage.2.quest.20.subtitle.1": "压印硅",
   "chapter.stage.2.quest.20.description.1": "用于制作硅板。",
   "chapter.stage.2.quest.20.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
 
-  "chapter.stage.2.quest.21.subtitle.1": "Pressing Gold",
+  "chapter.stage.2.quest.21.subtitle.1": "压印金锭",
   "chapter.stage.2.quest.21.description.1": "用于制作逻辑电路板。",
   "chapter.stage.2.quest.21.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
 
-  "chapter.stage.2.quest.22.subtitle.1": "Pressing Diamond",
+  "chapter.stage.2.quest.22.subtitle.1": "压印钻石",
   "chapter.stage.2.quest.22.description.1": "用于制作工程电路板。",
   "chapter.stage.2.quest.22.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
 
-  "chapter.stage.2.quest.23.subtitle.1": "Pressing Certus Quartz",
+  "chapter.stage.2.quest.23.subtitle.1": "压印赛特斯石英",
   "chapter.stage.2.quest.23.description.1": "用于制作运算电路板。",
   "chapter.stage.2.quest.23.description.2": "只能在&7陨石&r中的&7陨石箱子&r里找到。",
 
-  "chapter.stage.2.quest.24.subtitle.1": "Printing Silicon",
+  "chapter.stage.2.quest.24.subtitle.1": "压印硅板",
 
-  "chapter.stage.2.quest.25.subtitle.1": "Printing Gold",
+  "chapter.stage.2.quest.25.subtitle.1": "压印逻辑电路板",
 
-  "chapter.stage.2.quest.26.subtitle.1": "Printing Diamond",
+  "chapter.stage.2.quest.26.subtitle.1": "压印工程电路板",
 
-  "chapter.stage.2.quest.27.subtitle.1": "Printing Certus Quartz",
+  "chapter.stage.2.quest.27.subtitle.1": "压印运算电路板",
 
   "chapter.stage.2.quest.28.title.1": "看向 &6电弧炉",
   "chapter.stage.2.quest.28.subtitle.1": "&6电弧炉&r",
@@ -533,20 +533,20 @@
   "chapter.stage.2.quest.28.description.2": "不知道怎么搭建的话，可以看&6工程师手册&r。",
   "chapter.stage.2.quest.28.description.3": "提示：用工程师锤右击标红的方块以搭建。",
 
-  "chapter.stage.2.quest.29.subtitle.1": "Calculating Press",
+  "chapter.stage.2.quest.29.subtitle.1": "运算压印",
 
-  "chapter.stage.2.quest.30.subtitle.1": "Engineering Press",
+  "chapter.stage.2.quest.30.subtitle.1": "工程压印",
 
-  "chapter.stage.2.quest.31.subtitle.1": "Logic Press",
+  "chapter.stage.2.quest.31.subtitle.1": "逻辑压印",
 
   "chapter.stage.2.quest.32.subtitle.1": "给赛特斯石英充能",
   "chapter.stage.2.quest.32.description.1": "充能器消耗能量给赛特斯石英充能。",
 
-  "chapter.stage.2.quest.33.subtitle.1": "Wall of Projection",
+  "chapter.stage.2.quest.33.subtitle.1": "投影之墙",
 
   "chapter.stage.2.quest.34.subtitle.1": "合成新方式",
 
-  "chapter.stage.2.quest.35.subtitle.1": "Accepting Other Energy",
+  "chapter.stage.2.quest.35.subtitle.1": "外部能量接收",
   "chapter.stage.2.quest.35.description.1": "能源接收器将其他能量转换为AE。",
 
   "chapter.stage.2.quest.36.subtitle.1": "水晶生长",
@@ -568,14 +568,14 @@
   "chapter.stage.2.quest.40.description.1": "新纪元的曙光。",
   "chapter.stage.2.quest.40.description.2": "目前你只能通过微缩合成来制作，之后会有更简单的方法。",
 
-  "chapter.stage.2.quest.41.subtitle.1": "Infusing at it's best",
+  "chapter.stage.2.quest.41.subtitle.1": "灌注专家",
   "chapter.stage.2.quest.41.description.1": "冶金灌注机用于将物质灌注进物品中。",
   "chapter.stage.2.quest.41.description.2": "每种灌注类型都可以制作新的物品，开辟新的道路。",
 
-  "chapter.stage.2.quest.42.subtitle.1": "Certus Infused",
+  "chapter.stage.2.quest.42.subtitle.1": "给赛特斯灌注",
   "chapter.stage.2.quest.42.description.1": "向充能赛特斯石英灌注红石。",
 
-  "chapter.stage.2.quest.43.subtitle.1": "Logic Processor Infused",
+  "chapter.stage.2.quest.43.subtitle.1": "给逻辑灌注",
   "chapter.stage.2.quest.43.description.1": "向逻辑处理器灌注红石。",
 
   "chapter.stage.2.quest.44.subtitle.1": "转化为基础工厂",
@@ -595,12 +595,12 @@
   "chapter.stage.2.quest.48.description.1": "融合机用于将两种物品相融合。",
   "chapter.stage.2.quest.48.description.2": "用JEI查询配方。",
 
-  "chapter.stage.2.quest.49.subtitle.1": "Smelting Mana",
+  "chapter.stage.2.quest.49.subtitle.1": "魔力熔炼",
 
-  "chapter.stage.2.quest.50.subtitle.1": "Noon Throwing",
+  "chapter.stage.2.quest.50.subtitle.1": "午时已到！",
   "chapter.stage.2.quest.50.description.1": "在中午（3:20 - 6:40）将&5福鲁伊克斯珍珠&r扔入&3熔融魔力&r可以获得&d绛紫晶&r。",
 
-  "chapter.stage.2.quest.51.subtitle.1": "Midnight Throwing",
+  "chapter.stage.2.quest.51.subtitle.1": "子时而出",
   "chapter.stage.2.quest.51.description.1": "在午夜（13:20 - 16:40）将&5福鲁伊克斯珍珠&r扔入&3熔融魔力&r可以获得&b月长石&r。",
 
   "chapter.stage.2.quest.52.subtitle.1": "组成蔚蓝浩空",
@@ -628,7 +628,7 @@
   "chapter.stage.2.quest.56.description.2": "在进入恒晓之地前，建议准备些防剧毒和抗火的东西。",
   "chapter.stage.2.quest.56.description.3": "跨越众多地貌，寻找炼金术士惑乱高塔和猛毒地牢——幽咽蛛王的老巢。",
 
-  "chapter.stage.2.quest.57.subtitle.1": "Sky of Beginning",
+  "chapter.stage.2.quest.57.subtitle.1": "浩空之石（始）",
   "chapter.stage.2.quest.57.description.1": "花药台用于将神秘花瓣和符文转化为产能花和功能花。",
 
   "chapter.stage.2.quest.58.subtitle.1": "转换之花",
@@ -677,13 +677,13 @@
 
   "chapter.stage.2.quest.68.subtitle.1": "成为一名符文工匠吧！",
 
-  "chapter.stage.2.quest.69.subtitle.1": "Chiseling the Avatar Rune",
+  "chapter.stage.2.quest.69.subtitle.1": "凿刻风之符文",
 
-  "chapter.stage.2.quest.70.subtitle.1": "Chiseling the Magma Rune",
+  "chapter.stage.2.quest.70.subtitle.1": "凿刻火之符文",
 
-  "chapter.stage.2.quest.71.subtitle.1": "Chiseling the Terra Rune",
+  "chapter.stage.2.quest.71.subtitle.1": "凿刻地之符文",
 
-  "chapter.stage.2.quest.72.subtitle.1": "Chiseling the Aqua Rune",
+  "chapter.stage.2.quest.72.subtitle.1": "凿刻水之符文",
 
   "chapter.stage.2.quest.73.subtitle.1": "符文锻造",
   "chapter.stage.2.quest.73.description.1": "使用符文铁砧：先放上样板，再放上&b活石&r、&b镰鼬铁&r等材料，最后用符文工匠锤锻造。",
@@ -692,19 +692,19 @@
   "chapter.stage.2.quest.73.description.4": "当你到达魔力等级10时，&b钻石矿石&r有60%%的概率掉落秘鸣宝石；",
   "chapter.stage.2.quest.73.description.5": "当你到达魔力等级20时，&8煤矿石&r有30%%的概率掉落秘鸣宝石。",
 
-  "chapter.stage.2.quest.74.subtitle.1": "Avatar Rune",
+  "chapter.stage.2.quest.74.subtitle.1": "阿凡达符文",
   "chapter.stage.2.quest.74.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
 
-  "chapter.stage.2.quest.75.subtitle.1": "Magma Rune",
+  "chapter.stage.2.quest.75.subtitle.1": "岩浆符文",
   "chapter.stage.2.quest.75.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
 
-  "chapter.stage.2.quest.76.subtitle.1": "Terra Rune",
+  "chapter.stage.2.quest.76.subtitle.1": "大地符文",
   "chapter.stage.2.quest.76.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
 
-  "chapter.stage.2.quest.77.subtitle.1": "Aqua Rune",
+  "chapter.stage.2.quest.77.subtitle.1": "水蓝符文",
   "chapter.stage.2.quest.77.description.1": "这个符文必须先用符文铁砧制作，之后你才能用符文祭坛来制作。",
 
-  "chapter.stage.2.quest.78.subtitle.1": "Discovering Runic Knowledge",
+  "chapter.stage.2.quest.78.subtitle.1": "符文的更多奥秘",
   "chapter.stage.2.quest.78.description.1": "符文核心用于制作符文祭坛。",
 
   "chapter.stage.2.quest.79.subtitle.1": "符文制作",
@@ -715,7 +715,7 @@
   "chapter.stage.2.quest.81.subtitle.1": "魔力之板",
   "chapter.stage.2.quest.81.description.1": "泰拉凝聚板消耗魔力将多个物品融合。",
 
-  "chapter.stage.2.quest.82.subtitle.1": "Terrestrial Luxury",
+  "chapter.stage.2.quest.82.subtitle.1": "大地之宝",
 
   "chapter.stage.2.quest.83.title.1": "访问维度：&5末地&r",
   "chapter.stage.2.quest.83.subtitle.1": "龙之巢穴",
@@ -724,12 +724,12 @@
   "chapter.stage.2.quest.83.description.3": "用瓶装末地空气右键可以将其扔出，将7x7x7范围内最多64块石头转化为末地石。",
 
   "chapter.stage.2.quest.84.title.1": "精灵传送门",
-  "chapter.stage.2.quest.84.subtitle.1": "The Magical Portal",
+  "chapter.stage.2.quest.84.subtitle.1": "魔法之门",
   "chapter.stage.2.quest.84.description.1": "精灵传送门用于交换（制作）某些物品。",
   "chapter.stage.2.quest.84.description.2": "将结构搭建完成后，用森林法杖来激活传送门。",
   "chapter.stage.2.quest.84.description.3": "如果魔力不足，或者结构被破坏，传送门将关闭。",
 
-  "chapter.stage.2.quest.85.subtitle.1": "Wonderful Pylon",
+  "chapter.stage.2.quest.85.subtitle.1": "奇妙之塔",
   "chapter.stage.2.quest.85.description.1": "盖亚水晶用于搭建盖亚仪式所需结构。",
 
   "chapter.stage.2.quest.86.subtitle.1": "盖亚仪式",
@@ -739,7 +739,7 @@
   "chapter.stage.2.quest.86.description.4": "用盖亚魂锭来召唤的话会生成一个更强的盖亚守护者，并会掉落更多的战利品。",
 
   "chapter.stage.2.quest.87.description.1": "用泰拉凝聚板制作盖亚魂锭。",
-  "chapter.stage.2.quest.87.description.2": "Later, you will be able to do it through the &dIndustrial Agglomeration Factory&r.",
+  "chapter.stage.2.quest.87.description.2": "之后你可以用&d工业凝聚板&r来制作。",
 
   "chapter.stage.2.quest.88.subtitle.1": "魔法转化",
   "chapter.stage.2.quest.88.description.1": "炼金催化剂可以解锁更多的魔力灌注配方。",
@@ -765,7 +765,7 @@
 
   "chapter.stage.3.quest.3.title": "绝缘棒",
 
-  "chapter.stage.3.quest.4.subtitle.1": "Casing Building",
+  "chapter.stage.3.quest.4.subtitle.1": "搭建外壳",
   "chapter.stage.3.quest.4.description.1": "现在你需要用绝缘棒和钢块融合来制作绝缘外壳。",
   "chapter.stage.3.quest.4.description.2": "别担心，之后会有更好的制作方法的。",
 
@@ -837,7 +837,7 @@
   "chapter.stage.3.quest.24.subtitle.1": "压力合成",
   "chapter.stage.3.quest.24.description.1": "压力室是一种用于压缩材料的多方块结构。",
   "chapter.stage.3.quest.24.description.2": "要搭建压力室，你需要用压力室墙壁和压力室玻璃搭建一个空心立方体。",
-  "chapter.stage.3.quest.24.description.3": "压力室的大小需要在3x3x3到5x5x5之间。压力室玻璃不是必须的。",
+  "chapter.stage.3.quest.24.description.3": "压力室的大小需要在3x3x3到5x5x5之间。压力室玻璃不是必需的。",
   "chapter.stage.3.quest.24.description.4": "压力室还需要一个和内部空气相连的气阀。",
   "chapter.stage.3.quest.24.description.5": "压力室至少需要一个气阀，但你可以放多个气阀。当压力室建造完成时，右键其任一方块都能打开其GUI。",
   "chapter.stage.3.quest.24.description.6": "压力室结构用于输入输出压力室内物品。",
@@ -890,12 +890,6 @@
   "chapter.stage.3.quest.40.subtitle.1": "混合流体",
   "chapter.stage.3.quest.40.description.1": "用气压将两种流体混合压缩以产出新流体和物品。",
 
-  "chapter.stage.3.quest.41.subtitle.1": "Inert Processing",
-  "chapter.stage.3.quest.41.description.1": "Process Bio-diesel and Inferium Essence in the Thermopneumatic Processor and get an Inert Luminessence.",
-
-  "chapter.stage.3.quest.42.subtitle.1": "Crafting Luminessence",
-  "chapter.stage.3.quest.42.description.1": "Simply infuse an Inert Luminessence with Refined Glowstone infusion.",
-
   "chapter.stage.3.quest.43.subtitle.1": "第一个合成组件",
   "chapter.stage.3.quest.43.description.1": "将暗夜钢板、流明精华和钢锭充能获得。",
 
@@ -905,8 +899,8 @@
   "chapter.stage.3.quest.45.subtitle.1": "第一个合成扩展工作台",
   "chapter.stage.3.quest.45.description.1": "将基础合成催化剂、压缩钢和工程师工作台充能获得。在JEI可以获得更多信息。",
 
-  "chapter.stage.3.quest.46.subtitle.1": "First infusion",
-  "chapter.stage.3.quest.46.description.1": "Simply infuse Silicon Paste with Carbon infusion.",
+  "chapter.stage.3.quest.46.subtitle.1": "给硅脂灌注",
+  "chapter.stage.3.quest.46.description.1": "向硅脂灌注碳获得。",
 
   "chapter.stage.3.quest.47.subtitle.1": "第一个合成扩展锭",
   "chapter.stage.3.quest.47.description.1": "将灵魂钢和末影珍珠充能获得。",
@@ -916,9 +910,6 @@
 
   "chapter.stage.3.quest.49.subtitle.1": "更多能量！",
   "chapter.stage.3.quest.49.description.1": "给末影工作台加速，放得越多速度越快。",
-
-  "chapter.stage.3.quest.50.subtitle.1": "Auto-Crafting Preparation",
-  "chapter.stage.3.quest.50.description.1": "With the Pressure chamber combine Redstone Components and a Capacitor.",
 
   "chapter.stage.3.quest.51.subtitle.1": "基础自动合成",
   "chapter.stage.3.quest.51.description.1": "消耗能量来自动合成！",
@@ -970,7 +961,7 @@
   "chapter.stage.3.quest.65.description.1": "将福鲁伊克斯水晶、含碳福鲁伊克斯粉和铁锭物质注入获得。",
 
   "chapter.stage.3.quest.66.subtitle.1": "福鲁伊克斯控制",
-  "chapter.stage.3.quest.66.description.1": "&bME控制器&r是大型ME网络的必须品。",
+  "chapter.stage.3.quest.66.description.1": "&bME控制器&r是大型ME网络的必需品。",
   "chapter.stage.3.quest.66.description.2": "ME控制器可以将ME网络的频道数从点对点网络的8个频道提升至ME控制器每个面有32个频道，6个面共216个频道。",
   "chapter.stage.3.quest.66.description.3": "此外，ME控制器还可以搭建成多方块结构，在7x7x7的范围内任意放置（相连的）ME控制器方块，只要其相连的ME控制器方块小于4个，其每个露出的面都能提供32个频道。",
   "chapter.stage.3.quest.66.description.4": "一个ME网络只能拥有一个ME控制器多方块结构，尝试连接多个会是整个网络崩溃。",
@@ -1015,10 +1006,10 @@
   "chapter.stage.3.quest.78.subtitle.1": "第一个RF工具机器框架",
   "chapter.stage.3.quest.78.description.1": "在热气动加工机中向强化石注入不稳红石获得。",
 
-  "chapter.stage.3.quest.79.subtitle.1": "Servo with Redstone",
+  "chapter.stage.3.quest.79.subtitle.1": "红石伺服器",
   "chapter.stage.3.quest.79.description.1": "向铁板灌装不稳红石获得。",
 
-  "chapter.stage.3.quest.80.subtitle.1": "Coil with Redstone",
+  "chapter.stage.3.quest.80.subtitle.1": "红石线圈",
   "chapter.stage.3.quest.80.description.1": "向琥珀金棒灌装不稳红石获得。",
 
   "chapter.stage.3.quest.81.subtitle.1": "热力熔炼",
@@ -1071,8 +1062,8 @@
 
   "chapter.stage.4.quest.4.subtitle.1": "辊压树脂",
 
-  "chapter.stage.4.quest.5.subtitle.1": "A Better Frame",
-  "chapter.stage.4.quest.5.description.1": "Using the Dissolution Chamber, assemble Plastics, Platinum Ingots, Reinforced Alloy, a Constantan Gear and a Pity Machine Frame with Latex.",
+  "chapter.stage.4.quest.5.subtitle.1": "更好的机器框架",
+  "chapter.stage.4.quest.5.description.1": "向化学溶解室输入塑料片、铂锭、强化合金、康铜齿轮、低级机器框架和胶乳获得。",
 
   "chapter.stage.4.quest.6.subtitle.1": "准备制作电路板",
   "chapter.stage.4.quest.6.description.1": "将琥珀金粒、树脂板和红石伺服器放入压力室加压获得。",
@@ -1109,9 +1100,9 @@
   "chapter.stage.4.quest.15.description.3": "你只需要给装配控制器提供压缩空气即可驱动整个装配台。",
 
   "chapter.stage.4.quest.16.subtitle.1": "另一个划算的交易",
-  "chapter.stage.4.quest.16.description.1": "在亚马龙平台交易获得。钻头&激光的程序可以有钻头程序和激光程序合成获得。",
+  "chapter.stage.4.quest.16.description.1": "在亚马龙平台交易获得。钻头-激光的程序可以由钻头程序和激光程序合成获得。",
 
-  "chapter.stage.4.quest.17.subtitle.1": "Industrial First Unassembled Frame",
+  "chapter.stage.4.quest.17.subtitle.1": "你的第一个（未组装的）工业先锋机器框架",
   "chapter.stage.4.quest.17.description.1": "用原木、强化石和红石伺服器合成。",
 
   "chapter.stage.4.quest.18.subtitle.1": "组装你的第一个工业先锋机器框架",
@@ -1175,84 +1166,84 @@
   "chapter.stage.4.quest.38.description.1": "要进入&2深暗之园&r，你需要用石砖像搭&5下界传送门&r一样搭一个传送门框架。",
   "chapter.stage.4.quest.38.description.2": "然后用&b深园催化石激活&r。",
 
-  "chapter.stage.4.quest.39.subtitle.1": "Undergarden Ores : Regalium",
-  "chapter.stage.4.quest.39.description.1": "Find Regalium Ore in &2The Undergarden&r.",
+  "chapter.stage.4.quest.39.subtitle.1": "深园矿石：贵豪",
+  "chapter.stage.4.quest.39.description.1": "在&2深暗之园&r找到贵豪矿石。",
 
-  "chapter.stage.4.quest.40.subtitle.1": "Energizing Regalium",
-  "chapter.stage.4.quest.40.description.1": "Energize a Regalium Crystal and get an &e&lBlazing Crystal&r !",
+  "chapter.stage.4.quest.40.subtitle.1": "给贵豪充能",
+  "chapter.stage.4.quest.40.description.1": "给贵豪充能获得&e&l烈焰水晶&r。",
 
-  "chapter.stage.4.quest.41.subtitle.1": "The Power of the Sun, in the Palm of My Hand",
-  "chapter.stage.4.quest.41.description.1": "A Better way of generating FE with the Sun. You can use this for the Thermal Evaporation Tower.",
+  "chapter.stage.4.quest.41.subtitle.1": "太阳之力，由我掌控！",
+  "chapter.stage.4.quest.41.description.1": "更好的利用太阳能产出FE的方式，还能用来给热力蒸馏塔供热。",
 
-  "chapter.stage.4.quest.42.subtitle.1": "Undergarden Dungeons",
-  "chapter.stage.4.quest.42.description.1": "Beat the Forgotten Guardian and get Forgotten Nuggets in order to craft the Ingot.",
+  "chapter.stage.4.quest.42.subtitle.1": "深园地牢",
+  "chapter.stage.4.quest.42.description.1": "击杀遗忆守卫掉落遗忆粒，再合成遗忆锭。",
 
-  "chapter.stage.4.quest.43.subtitle.1": "Energizing Forgotten Ingots",
-  "chapter.stage.4.quest.43.description.1": "Energize a Forgotten Ingot and get an &e&lNiotic Crystal&r !",
+  "chapter.stage.4.quest.43.subtitle.1": "给遗忆锭充能",
+  "chapter.stage.4.quest.43.description.1": "向遗忆锭充能以获得&e&l钻石水晶&r。",
 
-  "chapter.stage.4.quest.44.subtitle.1": "Enriching Niotic Crystals",
+  "chapter.stage.4.quest.44.subtitle.1": "富集钻石水晶",
 
-  "chapter.stage.4.quest.45.subtitle.1": "Infusing Obsidian",
-  "chapter.stage.4.quest.45.description.1": "Simply Infuse an Obsidian Dust with Niotic infusion.",
+  "chapter.stage.4.quest.45.subtitle.1": "向黑曜石灌注",
+  "chapter.stage.4.quest.45.description.1": "向黑曜石粉灌注钻石水晶获得。",
 
-  "chapter.stage.4.quest.46.subtitle.1": "Osmium Compressing Refined Obsidian",
+  "chapter.stage.4.quest.46.subtitle.1": "向锇压缩机输入强化黑曜石粉获得\n\n译注：用匠魂炉合金可以逃课（），1.0.7有效。",
 
-  "chapter.stage.4.quest.47.subtitle.1": "Ultimate Controling",
-  "chapter.stage.4.quest.47.description.1": "Simply Infuse an Elite Control Circuit with Refined Obsidian infusion.",
+  "chapter.stage.4.quest.47.subtitle.1": "终极控制",
+  "chapter.stage.4.quest.47.description.1": "向精英控制电路灌注强化黑曜石获得。",
 
-  "chapter.stage.4.quest.48.subtitle.1": "Quantum Tablet",
-  "chapter.stage.4.quest.48.description.1": "A really good tablet that can hold 3.60 MFE",
+  "chapter.stage.4.quest.48.subtitle.1": "量子之板",
+  "chapter.stage.4.quest.48.description.1": "量子能量板可以存储3.60MFE的能量。",
 
-  "chapter.stage.4.quest.49.subtitle.1": "Atomic Alloying",
-  "chapter.stage.4.quest.49.description.1": "Simply Infuse an Reinfoced Alloy with Refined Obsidian infusion.",
+  "chapter.stage.4.quest.49.subtitle.1": "原子合金",
+  "chapter.stage.4.quest.49.description.1": "向强化合金灌注强化黑曜石获得。",
 
-  "chapter.stage.4.quest.50.subtitle.1": "Teleportation Master",
-  "chapter.stage.4.quest.50.description.1": "Mainly used as a Crafting Component",
+  "chapter.stage.4.quest.50.subtitle.1": "传送专家",
+  "chapter.stage.4.quest.50.description.1": "主要用作合成材料。",
 
-  "chapter.stage.4.quest.51.subtitle.1": "Mining Master",
-  "chapter.stage.4.quest.51.description.1": "With the &4Quantum Compressor&r put 256 Utherium Crystals and The Teleporation Core as Catalyst.",
+  "chapter.stage.4.quest.51.subtitle.1": "采矿专家",
+  "chapter.stage.4.quest.51.description.1": "向&4量子压缩机&r中输入传送核心和256个御腐水晶获得。",
 
-  "chapter.stage.4.quest.52.subtitle.1": "Mining At It's Best",
-  "chapter.stage.4.quest.52.description.1": "The Digital Miner mines everything you tell him to mine. Check it's recipe on JEI.",
+  "chapter.stage.4.quest.52.subtitle.1": "高效采矿",
+  "chapter.stage.4.quest.52.description.1": "数字型采矿机可以挖掘你指定的所有方块。在JEI查看配方。",
 
-  "chapter.stage.4.quest.53.subtitle.1": "Forgotten Component",
-  "chapter.stage.4.quest.53.description.1": "Simply Energize Forgotten Ingots, Black Steel Plate and a Luminessence.",
+  "chapter.stage.4.quest.53.subtitle.1": "遗忆组件",
+  "chapter.stage.4.quest.53.description.1": "将遗忆锭、暗夜钢板和流明精华充能获得。",
 
-  "chapter.stage.4.quest.54.subtitle.1": "Forgotten Catalyst",
-  "chapter.stage.4.quest.54.description.1": "Use the Pressure Chamber to craft the Elite Catalyst.",
+  "chapter.stage.4.quest.54.subtitle.1": "遗忆催化剂",
+  "chapter.stage.4.quest.54.description.1": "用压力室制作精英合成催化剂。",
 
-  "chapter.stage.4.quest.56.subtitle.1": "Forgotten Crafting Table",
-  "chapter.stage.4.quest.56.description.1": "Using the Dissolution Chamber, assemble Elite Components , Advanced Crafting Tables, Elite Catalyst and a Forgotten Metal Block with Molten Utherium",
+  "chapter.stage.4.quest.56.subtitle.1": "遗忆工作台",
+  "chapter.stage.4.quest.56.description.1": "向化学溶解室输入精英合成组件、高级工作台、精英合成催化剂、遗忆块和熔融御腐获得。",
 
-  "chapter.stage.4.quest.57.subtitle.1": "Forgotten Auto Crafting Table",
-  "chapter.stage.4.quest.57.description.1": "Using the Ender Crafting, assemble the Elite Auto Crafting Table. Check JEI for the recipe.",
+  "chapter.stage.4.quest.57.subtitle.1": "遗忆自动工作台",
+  "chapter.stage.4.quest.57.description.1": "在末影工作台中合成精英自动工作台。在JEI查看配方。",
 
-  "chapter.stage.4.quest.58.subtitle.1": "Separating Fluid",
-  "chapter.stage.4.quest.58.description.1": "Separates any compatible fluid into two another fluids.",
+  "chapter.stage.4.quest.58.subtitle.1": "流体分离",
+  "chapter.stage.4.quest.58.description.1": "将流体分解为两种不同的流体。",
 
-  "chapter.stage.4.quest.59.subtitle.1": "Chemical Transformation",
-  "chapter.stage.4.quest.59.description.1": "Condensentrate any Gaz into Fluid and Decondensentrate any fluid into Gaz.",
+  "chapter.stage.4.quest.59.subtitle.1": "物态转化",
+  "chapter.stage.4.quest.59.description.1": "将气体冷凝成液体或者将液体蒸发成气体。",
 
-  "chapter.stage.4.quest.60.subtitle.1": "Enough Pressure",
-  "chapter.stage.4.quest.60.description.1": "Pressurize a Liquid and a Gaz with any item to get a reaction. You will get another item plus sometimes an extra gaz.",
+  "chapter.stage.4.quest.60.subtitle.1": "加压！加压！",
+  "chapter.stage.4.quest.60.description.1": "将液体、气体和物品加压反应，产出其他物品和气体。",
 
-  "chapter.stage.4.quest.61.subtitle.1": "HDPE Creation",
-  "chapter.stage.4.quest.61.description.1": "Simply Pressurize Liquid Ethylene and Oxygen Gaz with Substrate.",
+  "chapter.stage.4.quest.61.subtitle.1": "高密度聚乙烯制造",
+  "chapter.stage.4.quest.61.description.1": "将液态乙烯、氧气和基片加压反应获得。",
 
-  "chapter.stage.4.quest.62.subtitle.1": "Rod Assemby",
+  "chapter.stage.4.quest.62.subtitle.1": "杆组件",
 
-  "chapter.stage.4.quest.63.subtitle.1": "Enriching HDPE",
-  "chapter.stage.4.quest.63.description.1": "Simply use an Enrichment Chamber to get HDPE Sheets.",
+  "chapter.stage.4.quest.63.subtitle.1": "富集高密度聚乙烯",
+  "chapter.stage.4.quest.63.description.1": "用富集仓制作高密度聚乙烯片。",
 
-  "chapter.stage.4.quest.64.subtitle.1": "Autocrafting Maniac",
-  "chapter.stage.4.quest.64.description.1": "AE2's automated crafting mechanism begins with the &bME Pattern Provider&r. This device serves as a repository for specific items referred to as &bPatterns&r (elaborated on in the subsequent quest). These patterns are designed to encompass recipes that transform input items into specified outputs. A single provider can accommodate up to 9 patterns simultaneously.",
+  "chapter.stage.4.quest.64.subtitle.1": "自动化狂人",
+  "chapter.stage.4.quest.64.description.1": "AE式自动化将从&bME样板供应器&r开始。样板供应器可以储存&b样板&r（在之后的任务中介绍）。样板用于记录配方的输入物品和输出物品。一个样板供应器可以存储9个样板。",
 
-  "chapter.stage.4.quest.65.subtitle.1": "Crafting Assembling",
-  "chapter.stage.4.quest.65.description.1": "Molecular Assemblers possess the capacity to transmit both power and channels to other ME devices linked to them, without consuming a channel themselves. In cases where a Pattern Provider is employed, up to 6 Molecular Assemblers can be linked to it, enabling the execution of multiple crafting tasks concurrently.",
-  "chapter.stage.4.quest.65.description.2": "Each Molecular Assembler (MA) features an exclusive slot designated for a single crafting pattern. This attribute empowers MAs to function autonomously when powered. In this mode, any items inserted into the MA that align with the crafting pattern will be automatically transformed into the resulting product of the pattern.",
+  "chapter.stage.4.quest.65.subtitle.1": "合成装配",
+  "chapter.stage.4.quest.65.description.1": "分子装配室能与相邻的其他ME设备传递能量和频道，但自身并不占用频道。一个样板供应器最多可以与6个分子装配式相连，从而同时合成多个物品。",
+  "chapter.stage.4.quest.65.description.2": "每个分子装配室还额外拥有一个样板槽。在放入样板后，只要有能量，分子装配室就可以用输入的物品自动合成该配方。",
 
-  "chapter.stage.4.quest.66.subtitle.1": "Crafts Checker",
-  "chapter.stage.4.quest.66.description.1": "Frequently, you'll find yourself employing multiple pattern providers distributed across your base. To facilitate seamless access to the contents of all providers within your expansive ME network, the &bPattern Access Terminal&r proves invaluable. This terminal enables remote access to the patterns stored in various providers.",
+  "chapter.stage.4.quest.66.subtitle.1": "配方管理",
+  "chapter.stage.4.quest.66.description.1": "通常，你会在基地里各个地方放样板供应器。想要集中管理ME网络里的所有样板供应器，你需要一个&bME样板管理终端&r来远程访问各个样板供应器里的样板。",
 
   "chapter.stage.4.quest.67.subtitle.1": "Encode Crafts Part 1",
   "chapter.stage.4.quest.67.description.1": "Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader '&6processing&r' recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units.",
