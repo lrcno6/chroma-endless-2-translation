@@ -1060,6 +1060,8 @@
 		{
 			x: 34.0d
 			y: 4.5d
+			subtitle: "{chapter.stage.3.quest.41.subtitle.1}"
+			description: ["{chapter.stage.3.quest.41.description.1}"]
 			dependencies: ["614011CEF48B8B5E"]
 			id: "7DE5779201181C3F"
 			tasks: [{
@@ -1080,6 +1082,8 @@
 		{
 			x: 35.5d
 			y: 4.0d
+			subtitle: "{chapter.stage.3.quest.42.subtitle.1}"
+			description: ["{chapter.stage.3.quest.42.description.1}"]
 			dependencies: ["7DE5779201181C3F"]
 			id: "677044057205F200"
 			tasks: [{
@@ -1232,6 +1236,8 @@
 		{
 			x: 33.0d
 			y: 11.0d
+			subtitle: "{chapter.stage.3.quest.50.subtitle.1}"
+			description: ["{chapter.stage.3.quest.50.description.1}"]
 			dependencies: ["5A07D65389C70B25"]
 			id: "78ABD52B36D196F3"
 			tasks: [{

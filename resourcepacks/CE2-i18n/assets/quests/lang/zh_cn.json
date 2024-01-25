@@ -1,6 +1,11 @@
 {
   "chapter.welcome.title": "&l欢迎",
 
+  "chapter.welcome.quest.1.title.1": "Get a server!",
+  "chapter.welcome.quest.1.description.1": "BisectHosting offers simple, fast and high quality server hosting with over a dozen locations available worldwide, guaranteeing low latency. After your purchase, the server is already configured and ready to use.",
+  "chapter.welcome.quest.1.description.2": "Use the code &l&bCHROMATECH&r to get 25%% off your first month as a new customer for one of their game servers.",
+  "chapter.welcome.quest.1.description.3" : "Promo code : &l&aCHROMATECH&r",
+
   "chapter.welcome.quest.2.title.1": "认领与加载区块",
   "chapter.welcome.quest.2.description.1" : "FTB Chunks 可以让你&4认领区块&r来&4保护&r你放下的方块，并且还提供&9小地图和大地图&r的功能。你可以在打开物品栏时在左上角找到。\n\n在世界地图上&6右击&r可以添加路径点。\n\n&6右击&r路径点和死亡路径点可以编辑和移除。\n\n点击&1认领区块按钮&r，然后&6左击&r或&6右击&r地图以认领或取消认领区块，按住 Shift 对认领区块&6左击&r或&6右击&r可以切换区块是否强制加载。",
 
@@ -23,6 +28,18 @@
   "chapter.welcome.quest.6.title.1": "食物",
   "chapter.welcome.quest.6.description.1" : "&a生活调味料：胡萝卜版&r关注于玩家吃过的食物种类数量。每当该数量抵达特定数值时，玩家会永久提高生命值上限。如果想提高生命值上限的话，就多去制作不同种类的食物吧！",
 
+  "chapter.welcome.quest.7.title.1": "Discord",
+  "chapter.welcome.quest.7.description.1" : "On &bGogo08's Discord server&r, you will find support channels for Chroma Endless 2.",
+  "chapter.welcome.quest.7.description.2" : "It's a french community server, but you can also speak english, the community and staff will most certainly try to help you.",
+  "chapter.welcome.quest.7.description.3" : "Gogo08's Discord server.",
+
+  "chapter.welcome.quest.8.title.1": "Website",
+  "chapter.welcome.quest.8.subtitle.1": "Chroma Team's website",
+  "chapter.welcome.quest.8.description.1" : "On this website you will find more informations about &6&lChroma Endless 2&r, the Chroma Team and our other modpacks.",
+  "chapter.welcome.quest.8.description.2" : "Here is a list of what can be found:",
+  "chapter.welcome.quest.8.description.3" : "→ Who developped this modpack and their descriptions.",
+  "chapter.welcome.quest.8.description.4" : "→ The other packs developped by the Chroma Team.",
+
   "chapter.welcome.quest.9.title.1": "商店",
   "chapter.welcome.quest.9.subtitle.1" : "I am a rat!",
   "chapter.welcome.quest.9.description.1" : "完成任务可以获得钱币作为奖励，获得钱币的种类与任务的困难度有关。",
@@ -34,6 +51,9 @@
   "chapter.welcome.quest.10.title.1": "语言",
   "chapter.welcome.quest.10.description.1" : "我们希望，无论你使用什么语言，你都完成色度无尽2的任务。",
   "chapter.welcome.quest.10.description.2" : "想设置你任务的语言，只需要修改游戏的语言即可。\n\n译者：喵喵喵？",
+
+  "chapter.welcome.quest.11.title.1": "Contribution to the modpack",
+  "chapter.welcome.quest.11.description.1" : "If you would like to help us with translating quests into different languages, you can do so directly on the modpack's Github.",
 
   "chapter.welcome.quest.12.title.1": "欢迎来到色度无尽2！",
   "chapter.welcome.quest.12.subtitle.1": "色度无尽2：魔法、科技、探索之融合",
@@ -133,14 +153,6 @@
   "chapter.shop.killing.title.16": "击杀 100 x &d女巫&r",
   "chapter.shop.killing.title.17": "击杀 50 x &2幻翼&r",
   "chapter.shop.killing.title.18": "击杀 100 x &5守卫者&r",
-
-  "chapter.shop.fluid.title.1": "1000 B 水",
-  "chapter.shop.fluid.title.2": "1000 B 煤油",
-  "chapter.shop.fluid.title.3": "1000 B 柴油",
-  "chapter.shop.fluid.title.4": "1000 B 汽油",
-  "chapter.shop.fluid.title.5": "1000 B 液化石油气",
-  "chapter.shop.fluid.title.6": "1000 B 酵母菌",
-  "chapter.shop.fluid.title.7": "1000 B 杂酚油",
 
   "chapter.challenges.title": "&l挑战",
 
@@ -366,11 +378,11 @@
 
   "chapter.stage.1.quest.42.subtitle.1": "铁、铝、镍",
 
-  "chapter.stage.1.quest.43.title.1": "矿物筛分机 - Part 1",
+  "chapter.stage.1.quest.43.title.1": "矿物筛分机 - 第1部分",
   "chapter.stage.1.quest.43.subtitle.1": "全新的机械动力多方块结构",
   "chapter.stage.1.quest.43.description.1": "这个自定义多方块结构的接口部分。",
 
-  "chapter.stage.1.quest.44.title.1": "矿物筛分机 - Part 2",
+  "chapter.stage.1.quest.44.title.1": "矿物筛分机 - 第2部分",
   "chapter.stage.1.quest.44.subtitle.1": "全新的机械动力多方块结构",
   "chapter.stage.1.quest.44.description.1": "这个自定义多方块结构的主体部分。",
 
@@ -578,7 +590,7 @@
   "chapter.stage.2.quest.43.subtitle.1": "给逻辑灌注",
   "chapter.stage.2.quest.43.description.1": "向逻辑处理器灌注红石。",
 
-  "chapter.stage.2.quest.44.subtitle.1": "转化为基础工厂",
+  "chapter.stage.2.quest.44.subtitle.1": "工厂升级",
   "chapter.stage.2.quest.44.description.1": "用工厂升级 Shift + 右键 可升级的 Mek 机器可以将其转化为基础工厂。",
   "chapter.stage.2.quest.44.description.2": "已经到达该等级的机器显然不会再次升级。",
 
@@ -618,7 +630,7 @@
   "chapter.stage.2.quest.54.description.1": "在永昼之地可以找到镰鼬铁矿。",
   "chapter.stage.2.quest.54.description.2": "你还可以用沉浸工程的挖掘机来获得镰鼬铁。",
 
-  "chapter.stage.2.quest.55.subtitle.1": "升级为高级工厂",
+  "chapter.stage.2.quest.55.subtitle.1": "高级升级",
   "chapter.stage.2.quest.55.description.1": "用工厂升级 Shift + 右键 基础工厂可以将其升级为高级工厂。",
   "chapter.stage.2.quest.55.description.2": "已经到达该等级的机器显然不会再次升级。",
 
@@ -890,19 +902,25 @@
   "chapter.stage.3.quest.40.subtitle.1": "混合流体",
   "chapter.stage.3.quest.40.description.1": "用气压将两种流体混合压缩以产出新流体和物品。",
 
+  "chapter.stage.3.quest.41.subtitle.1": "惰性处理",
+  "chapter.stage.3.quest.41.description.1": "用热气动加工机处理生物柴油和下级精华获得。",
+
+  "chapter.stage.3.quest.42.subtitle.1": "制作流明精华",
+  "chapter.stage.3.quest.42.description.1": "向惰性流明精华灌注强化荧石获得。",
+
   "chapter.stage.3.quest.43.subtitle.1": "第一个合成组件",
   "chapter.stage.3.quest.43.description.1": "将暗夜钢板、流明精华和钢锭充能获得。",
 
   "chapter.stage.3.quest.44.subtitle.1": "第一个合成催化剂",
   "chapter.stage.3.quest.44.description.1": "将基础合成组件和基础电容放入压力室加压获得。",
 
-  "chapter.stage.3.quest.45.subtitle.1": "第一个合成扩展工作台",
+  "chapter.stage.3.quest.45.subtitle.1": "第一个合成拓展工作台",
   "chapter.stage.3.quest.45.description.1": "将基础合成催化剂、压缩钢和工程师工作台充能获得。在JEI可以获得更多信息。",
 
   "chapter.stage.3.quest.46.subtitle.1": "给硅脂灌注",
   "chapter.stage.3.quest.46.description.1": "向硅脂灌注碳获得。",
 
-  "chapter.stage.3.quest.47.subtitle.1": "第一个合成扩展锭",
+  "chapter.stage.3.quest.47.subtitle.1": "第一个合成拓展锭",
   "chapter.stage.3.quest.47.description.1": "将灵魂钢和末影珍珠充能获得。",
 
   "chapter.stage.3.quest.48.subtitle.1": "用末影能量合成",
@@ -910,6 +928,9 @@
 
   "chapter.stage.3.quest.49.subtitle.1": "更多能量！",
   "chapter.stage.3.quest.49.description.1": "给末影工作台加速，放得越多速度越快。",
+
+  "chapter.stage.3.quest.50.subtitle.1": "自动合成准备",
+  "chapter.stage.3.quest.50.description.1": "将红石合成组件和电容在压力室中加压获得。",
 
   "chapter.stage.3.quest.51.subtitle.1": "基础自动合成",
   "chapter.stage.3.quest.51.description.1": "消耗能量来自动合成！",
@@ -1063,7 +1084,7 @@
   "chapter.stage.4.quest.4.subtitle.1": "辊压树脂",
 
   "chapter.stage.4.quest.5.subtitle.1": "更好的机器框架",
-  "chapter.stage.4.quest.5.description.1": "向化学溶解室输入塑料片、铂锭、强化合金、康铜齿轮、低级机器框架和胶乳获得。",
+  "chapter.stage.4.quest.5.description.1": "将塑料片、铂锭、强化合金、康铜齿轮、低级机器框架和胶乳在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.6.subtitle.1": "准备制作电路板",
   "chapter.stage.4.quest.6.description.1": "将琥珀金粒、树脂板和红石伺服器放入压力室加压获得。",
@@ -1125,22 +1146,22 @@
   "chapter.stage.4.quest.24.description.1": "对压缩空间机械使用传送器以进入，再次使用以返回主世界。",
 
   "chapter.stage.4.quest.25.subtitle.1": "Tiny Compact Machine",
-  "chapter.stage.4.quest.25.description.1": "向化学溶解室输入压缩空间壁和熔融铜获得。",
+  "chapter.stage.4.quest.25.description.1": "将压缩空间壁和熔融铜在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.26.subtitle.1": "Small Compact Machine",
-  "chapter.stage.4.quest.26.description.1": "向化学溶解室输入压缩空间壁、红石伺服器、微型压缩空间机械和熔融铁获得。",
+  "chapter.stage.4.quest.26.description.1": "将压缩空间壁、红石伺服器、微型压缩空间机械和熔融铁在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.27.subtitle.1": "Normal Compact Machine",
-  "chapter.stage.4.quest.27.description.1": "向化学溶解室输入压缩空间壁、灌注合金、小型压缩空间机械和熔融金获得。",
+  "chapter.stage.4.quest.27.description.1": "将压缩空间壁、灌注合金、小型压缩空间机械和熔融金在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.28.subtitle.1": "Large Compact Machine",
-  "chapter.stage.4.quest.28.description.1": "向化学溶解室输入压缩空间壁、强化合金、普通压缩空间机械和熔融黑曜石获得。",
+  "chapter.stage.4.quest.28.description.1": "将压缩空间壁、强化合金、普通压缩空间机械和熔融黑曜石在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.29.subtitle.1": "Giant Compact Machine",
-  "chapter.stage.4.quest.29.description.1": "向化学溶解室输入压缩空间壁、低级机器框架、大型压缩空间机械和熔融钻石获得。",
+  "chapter.stage.4.quest.29.description.1": "将压缩空间壁、低级机器框架、大型压缩空间机械和熔融钻石在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.30.subtitle.1": "Maximum Compact Machine",
-  "chapter.stage.4.quest.30.description.1": "向化学溶解室输入压缩空间壁、中级机器框架、巨型压缩空间机械和熔融下界合金获得。",
+  "chapter.stage.4.quest.30.description.1": "将压缩空间壁、中级机器框架、巨型压缩空间机械和熔融下界合金在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.31.subtitle.1": "必需的矿物",
   "chapter.stage.4.quest.31.description.1": "溶解淡灰色染料可以获得硫酸镁。",
@@ -1159,7 +1180,7 @@
   "chapter.stage.4.quest.36.subtitle.1": "熔炼钪粉",
 
   "chapter.stage.4.quest.37.subtitle.1": "深园之钥",
-  "chapter.stage.4.quest.37.description.1": "向化学溶解室输入钪锭、镁锭和熔融魔力获得。",
+  "chapter.stage.4.quest.37.description.1": "将钪锭、镁锭和熔融魔力在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.38.title": "访问维度：&2深暗之园",
   "chapter.stage.4.quest.38.subtitle.1": "新维度",
@@ -1213,7 +1234,7 @@
   "chapter.stage.4.quest.54.description.1": "用压力室制作精英合成催化剂。",
 
   "chapter.stage.4.quest.56.subtitle.1": "遗忆工作台",
-  "chapter.stage.4.quest.56.description.1": "向化学溶解室输入精英合成组件、高级工作台、精英合成催化剂、遗忆块和熔融御腐获得。",
+  "chapter.stage.4.quest.56.description.1": "将精英合成组件、高级工作台、精英合成催化剂、遗忆块和熔融御腐在化学溶解室里组装获得。",
 
   "chapter.stage.4.quest.57.subtitle.1": "遗忆自动工作台",
   "chapter.stage.4.quest.57.description.1": "在末影工作台中合成精英自动工作台。在 JEI 查看配方。",
@@ -1236,7 +1257,7 @@
   "chapter.stage.4.quest.63.description.1": "用富集仓制作高密度聚乙烯片。",
 
   "chapter.stage.4.quest.64.subtitle.1": "自动化狂人",
-  "chapter.stage.4.quest.64.description.1": "AE 式自动化将从 &bME 样板供应器&r开始。样板供应器可以储存&b样板&r（在之后的任务中介绍）。样板用于记录配方的输入物品和输出物品。一个样板供应器可以存储9个样板。",
+  "chapter.stage.4.quest.64.description.1": "AE2 的自动合成将从 &bME 样板供应器&r开始。样板供应器可以储存&b样板&r（在之后的任务中介绍）。样板用于记录配方的输入物品和输出物品。一个样板供应器可以存储9个样板。",
 
   "chapter.stage.4.quest.65.subtitle.1": "合成装配",
   "chapter.stage.4.quest.65.description.1": "分子装配室能与相邻的其他ME设备传递能量和频道，但自身并不占用频道。一个样板供应器最多可以与6个分子装配式相连，从而同时合成多个物品。",
@@ -1245,205 +1266,210 @@
   "chapter.stage.4.quest.66.subtitle.1": "配方管理",
   "chapter.stage.4.quest.66.description.1": "通常，你会在基地里各个地方放样板供应器。想要集中管理ME网络里的所有样板供应器，你需要一个 &bME 样板管理终端&r来远程访问各个样板供应器里的样板。",
 
-  "chapter.stage.4.quest.67.subtitle.1": "Encode Crafts Part 1",
-  "chapter.stage.4.quest.67.description.1": "Patterns offer the flexibility of holding either a conventional &6crafting&r recipe or a broader '&6processing&r' recipe. Crafting recipes entail the utilization of a &6Molecular Assembler&r positioned on the Provider's interface. Conversely, processing recipes involve sending input items from the provider to external machinery or dedicated processing units.",
+  "chapter.stage.4.quest.67.subtitle.1": "配方编码 - 第1部分",
+  "chapter.stage.4.quest.67.description.1": "样板既可以存储传统的&6合成&r配方，也可以存储更加广泛的&6处理&r配方。合成配方需要使用与样板供应器相连的&6分子装配室&r，而处理配方将使样板供应器将输入物品送给外部机器或是一整个处理单元。",
 
-  "chapter.stage.4.quest.68.subtitle.1": "Encode Crafts Part 2",
-  "chapter.stage.4.quest.68.description.1": "&bPatterns&r function as repositories for encoded recipes that can be executed by a Pattern Provider. To encode a recipe onto a pattern, the process involves utilizing the &bME Pattern Encoding Terminal&r.",
+  "chapter.stage.4.quest.68.subtitle.1": "配方编码 - 第2部分",
+  "chapter.stage.4.quest.68.description.1": "&b样板&r负责存储编码好的配方，而样板供应器负责根据样板内容来发配物品。想要给样板编码配方，你需要一个 &bME 样板终端&r。",
 
-  "chapter.stage.4.quest.69.subtitle.1": "Autocrafting Component",
-  "chapter.stage.4.quest.69.description.1": "Using the Dissolution Chamber, assemble HDPE Sheets , All Processors, a ME Fluix Glass with Molten Certuz Quartz.",
+  "chapter.stage.4.quest.69.subtitle.1": "自动合成组件",
+  "chapter.stage.4.quest.69.description.1": "将高密度聚乙烯片、三种处理器、ME玻璃线缆和熔融赛特斯石英在化学溶解室里组装获得。",
 
-  "chapter.stage.4.quest.70.title": "Crafting Storages",
-  "chapter.stage.4.quest.70.subtitle.1": "Operating Autocrafts",
-  "chapter.stage.4.quest.70.description.1": "Prior to executing an auto-crafting operation, you must possess a dedicated device to house the crafting request as well as any intermediate items necessary for multi-step crafts. This specialized device is referred to as a &6crafting CPU&r.",
-  "chapter.stage.4.quest.70.description.2": "A crafting CPU is a composite structure formed by assembling multiple blocks into a coherent unit. At a minimum, it necessitates a &bCrafting Storage&r block, and it can also incorporate additional Crafting Units. The configuration of this multiblock can vary in size, but it must be shaped as a solid cuboid in order to successfully establish and operate.",
+  "chapter.stage.4.quest.70.title": "合成存储",
+  "chapter.stage.4.quest.70.subtitle.1": "自动合成执行",
+  "chapter.stage.4.quest.70.description.1": "在进行自动合成之前，你需要&6合成处理单元&r（CPU）来存储合成请求和中间产物。",
+  "chapter.stage.4.quest.70.description.2": "合成处理单元是由多种方块组成的多方块结构。一个 CPU 至少需要一个&b合成存储器&r，也可以放置合成单元用来占位。CPU 的大小并不固定，但其形状必须是实心长方体才能工作。",
 
-  "chapter.stage.4.quest.71.subtitle.1": "Watching Operations",
+  "chapter.stage.4.quest.71.subtitle.1": "操作观察",
 
-  "chapter.stage.4.quest.72.subtitle.1": "Speeding Things Up",
-  "chapter.stage.4.quest.72.description.1": "The &bCrafting Co-Processing Unit&r significantly enhances the speed of crafting tasks by enabling pattern providers to either expedite the transfer of items to their linked devices or to collaborate concurrently on the creation of multiple necessary components.",
-  "chapter.stage.4.quest.72.description.2": "The fundamental AE2 co-processor furnishes a single co-processor 'thread' to support these operations. Conversely, the co-processing unit derived from &dMEGA Cells&r offers a remarkable 4 threads within a single block, thereby bolstering the efficiency of crafting processes.",
+  "chapter.stage.4.quest.72.subtitle.1": "开始加速",
+  "chapter.stage.4.quest.72.description.1": "&b并行处理单元&r可以提高物品向设备输出的频率，或是同时合成多种物品，从而提高合成效率。",
+  "chapter.stage.4.quest.72.description.2": "AE2 基本的每个并行处理单元只能提供一个线程，而每个 &dMEGA 并行处理单元&r可以提供4个线程，进一步提高合成处理的速度。",
 
-  "chapter.stage.4.quest.73.subtitle.1": "Another Red Ore?",
+  "chapter.stage.4.quest.73.subtitle.1": "又一种红色矿物？",
 
-  "chapter.stage.4.quest.74.subtitle.1": "Utheric Component",
-  "chapter.stage.4.quest.74.description.1": "Simply Energize Utherium Crystals with Black Steel Slate and a Luminessence.",
+  "chapter.stage.4.quest.74.subtitle.1": "御腐组件",
+  "chapter.stage.4.quest.74.description.1": "将御腐水晶、暗夜钢板和流明精华充能获得。",
 
-  "chapter.stage.4.quest.75.subtitle.1": "Utheric Catalyst",
-  "chapter.stage.4.quest.75.description.1": "Use the Pressure Chamber to craft the Supra Catalyst.",
+  "chapter.stage.4.quest.75.subtitle.1": "御腐催化剂",
+  "chapter.stage.4.quest.75.description.1": "用压力室制作 Supra 合成催化剂。",
 
-  "chapter.stage.4.quest.76.subtitle.1": "Extended Frame",
+  "chapter.stage.4.quest.76.subtitle.1": "框架拓展",
 
-  "chapter.stage.4.quest.77.subtitle.1": "Multi Compressing",
-  "chapter.stage.4.quest.77.description.1": "The &cQuantum Compressor&r allows you to create powerful items. Put any compatible item in the main slot and the corresponding Catalyst on the left.",
-  "chapter.stage.4.quest.77.description.2": "With some energy you will have to put the exact number to create the item that will be in the right slot.",
+  "chapter.stage.4.quest.77.subtitle.1": "超级压缩",
+  "chapter.stage.4.quest.77.description.1": "&c量子压缩机&r用来制作各种重要物品。在左侧槽位放置催化剂，在主要槽放需要消耗的物品即可。",
+  "chapter.stage.4.quest.77.description.2": "在消耗大量的物品和能量后，产物会出现在右侧槽位。",
 
-  "chapter.stage.4.quest.78.subtitle.1": "Compressing Carbon",
-  "chapter.stage.4.quest.78.description.1": "With the Quantum Compressor, compress 512 Carbon with the Compress Mold as Catalyst.",
+  "chapter.stage.4.quest.78.subtitle.1": "压缩碳",
+  "chapter.stage.4.quest.78.description.1": "在量子压缩机中，用压缩模具压缩512份碳元素获得。",
 
-  "chapter.stage.4.quest.79.subtitle.1": "Nobody Can Hear You Dying",
-  "chapter.stage.4.quest.79.description.1": "Without this you won't be able to breathe in Space.",
+  "chapter.stage.4.quest.79.subtitle.1": "你死了都不会有人知道",
+  "chapter.stage.4.quest.79.description.1": "氧气储罐用来保证你在太空的呼吸。",
 
-  "chapter.stage.4.quest.80.title" : "Space Armor",
-  "chapter.stage.4.quest.80.subtitle.1": "Space Protection",
-  "chapter.stage.4.quest.80.description.1": "A Really Good protection for space exploration.",
-  "chapter.stage.4.quest.80.description.2": "To refill your oxygen armor, you can utilize Mekanism oxygen. Simply put, place your armor in a chemical tank filled with oxygen.",
+  "chapter.stage.4.quest.80.title" : "航天服",
+  "chapter.stage.4.quest.80.subtitle.1": "太空保护",
+  "chapter.stage.4.quest.80.description.1": "在太空探索时给予你充分的保护。",
+  "chapter.stage.4.quest.80.description.2": "Mek 的氧气就可以使用。你可以直接将你的航天服放入 Mek 的化学品储罐中来补充氧气。",
 
-  "chapter.stage.4.quest.81.subtitle.1": "Space Crafting Table",
-  "chapter.stage.4.quest.81.description.1": "Assemble your rockets in this new crafting table.",
+  "chapter.stage.4.quest.81.subtitle.1": "太空工作台",
+  "chapter.stage.4.quest.81.description.1": "用于组装火箭。",
 
-  "chapter.stage.4.quest.82.subtitle.1": "Your First Rocket",
-  "chapter.stage.4.quest.82.description.1": "Using the Nasa Workbench, craft the T1 Rocket.",
+  "chapter.stage.4.quest.82.subtitle.1": "第一个火箭",
+  "chapter.stage.4.quest.82.description.1": "用 NASA 工作台制作一阶火箭。",
 
-  "chapter.stage.4.quest.83.subtitle.1": "Dissolving Emeralds",
-  "chapter.stage.4.quest.83.description.1": "Dissolve some Emeralds to get Chromium.",
+  "chapter.stage.4.quest.83.subtitle.1": "溶解绿宝石",
+  "chapter.stage.4.quest.83.description.1": "溶解绿宝石以获得铬元素。",
 
-  "chapter.stage.4.quest.84.subtitle.1": "Dissolving Debris",
-  "chapter.stage.4.quest.84.description.1": "Dissolve some Ancient Debris to get Tungsten.",
+  "chapter.stage.4.quest.84.subtitle.1": "溶解远古残骸",
+  "chapter.stage.4.quest.84.description.1": "溶解远古残骸以获得钨元素。",
 
-  "chapter.stage.4.quest.85.subtitle.1": "Compacting Chromium",
+  "chapter.stage.4.quest.85.subtitle.1": "压缩铬元素",
 
-  "chapter.stage.4.quest.86.subtitle.1": "Compacting Tungsten",
+  "chapter.stage.4.quest.86.subtitle.1": "压缩钨元素",
 
-  "chapter.stage.4.quest.87.subtitle.1": "Smelting Compact Chromium",
+  "chapter.stage.4.quest.87.subtitle.1": "熔炼铬粉",
 
-  "chapter.stage.4.quest.88.subtitle.1": "Smelting Compact Tungsten",
+  "chapter.stage.4.quest.88.subtitle.1": "熔炼钨粉",
 
-  "chapter.stage.4.quest.89.subtitle.1": "Lauching Rockets",
-  "chapter.stage.4.quest.89.description.1": "In order to go to space, you will have to place your Rockets a 3x3 Launch Pad.",
+  "chapter.stage.4.quest.89.subtitle.1": "发射火箭",
+  "chapter.stage.4.quest.89.description.1": "要使火箭飞上太空，你需要一个3x3的火箭发射台。",
 
-  "chapter.stage.4.quest.90.subtitle.1": "Dissolving Coal",
-  "chapter.stage.4.quest.90.description.1": "Dissolve some Ancient Debris to get Graphite.",
+  "chapter.stage.4.quest.90.subtitle.1": "溶解煤炭",
+  "chapter.stage.4.quest.90.description.1": "溶解煤炭以获得石墨。",
 
-  "chapter.stage.4.quest.91.subtitle.1": "Compacting Graphite",
+  "chapter.stage.4.quest.91.subtitle.1": "压缩石墨",
 
-  "chapter.stage.4.quest.92.subtitle.1": "Smelting Compact Graphite",
+  "chapter.stage.4.quest.92.subtitle.1": "熔炼石墨粉",
 
-  "chapter.stage.4.quest.93.subtitle.1": "Reactor Structuring",
-  "chapter.stage.4.quest.93.description.1": "Simply Energize Graphite Blocks, Uranium Blocks with Energized Steel Blocks and a Redstone Ingot Block.",
+  "chapter.stage.4.quest.93.subtitle.1": "反应堆结构",
+  "chapter.stage.4.quest.93.description.1": "将石墨块、铀块、充能钢块和红石锭块充能获得。",
 
-  "chapter.stage.4.quest.94.subtitle.1": "Building The Reactor",
-  "chapter.stage.4.quest.94.description.1": "These parts will be useful to build your custom Reactor.",
+  "chapter.stage.4.quest.94.subtitle.1": "搭建反应堆",
+  "chapter.stage.4.quest.94.description.1": "这些是你搭反应堆时用得上的方块。",
 
-  "chapter.stage.4.quest.95.subtitle.1": "Reactor Waste",
-  "chapter.stage.4.quest.95.description.1": "In order to work, your Reactor needs Uranium. Cyanite is the waste produced by your reactor.",
+  "chapter.stage.4.quest.95.subtitle.1": "反应堆废料",
+  "chapter.stage.4.quest.95.description.1": "反应堆需要铀作为燃料，并产生蓝晶作为废料。",
 
-  "chapter.stage.4.quest.96.subtitle.1": "Reprocesing Waste",
+  "chapter.stage.4.quest.96.subtitle.1": "废料再处理",
 
-  "chapter.stage.4.quest.97.subtitle.1": "Cyanite Recycling",
-  "chapter.stage.4.quest.97.description.1": "Reprocess your Cyanite and create some Blutonium? Simply add water and energy.",
+  "chapter.stage.4.quest.97.subtitle.1": "蓝晶循环",
+  "chapter.stage.4.quest.97.description.1": "蓝晶 + 水 + 能量 = 蓝钚",
 
-  "chapter.stage.4.quest.98.subtitle.1": "Starting Space Compressing",
-  "chapter.stage.4.quest.98.description.1": "Using the Dissolution Chamber, assemble Blutonium Ingots , Blaze Rods and Enderium Blocks with Pink Slime.",
+  "chapter.stage.4.quest.98.subtitle.1": "准备太空压缩",
+  "chapter.stage.4.quest.98.description.1": "将蓝钚锭、烈焰棒、末影块和粉红黏液在化学溶解室里组装获得。",
 
-  "chapter.stage.4.quest.99.subtitle.1": "Space Molds",
+  "chapter.stage.4.quest.99.task.1": "压缩模具",
+  "chapter.stage.4.quest.99.subtitle.1": "太空模具",
 
-  "chapter.stage.4.quest.100.subtitle.1": "Space Compressor",
-  "chapter.stage.4.quest.100.description.1": "Compress any compatible material.",
+  "chapter.stage.4.quest.100.subtitle.1": "太空压缩机",
+  "chapter.stage.4.quest.100.description.1": "用于压缩金属。",
 
-  "chapter.stage.4.quest.101.subtitle.1": "Space Refinery",
-  "chapter.stage.4.quest.101.description.1": "Refines Oil into Fuel for your Rockets .",
+  "chapter.stage.4.quest.101.subtitle.1": "太空精炼",
+  "chapter.stage.4.quest.101.description.1": "将石油精炼为燃油以供火箭使用。",
 
-  "chapter.stage.4.quest.102.subtitle.1": "Rocket Fuel",
+  "chapter.stage.4.quest.102.subtitle.1": "火箭燃料",
 
-  "chapter.stage.4.quest.103b.subtitle.1": "Fuelling Station",
-  "chapter.stage.4.quest.103b.description.1": "Crafted with The Ender Crafting process, the Fuel Loader will load the fuel in your Rockets.",
+  "chapter.stage.4.quest.103b.subtitle.1": "加油站",
+  "chapter.stage.4.quest.103b.description.1": "用末影工作台合成，用于将燃油输入火箭。",
 
-  "chapter.stage.4.quest.103.subtitle.1": "Solar Tower",
-  "chapter.stage.4.quest.103.description.1": "The &bThermal Evaporation Plant&f is a multiblock structure with the purpose of converting Water to &eBrine&f, which can be further converted to &eLithium&f by the use of a second Thermal Evaporation Plant.",
-  "chapter.stage.4.quest.103.description.2": "The minimum height of the structure is 3 blocks. To increase the internal storage and rate of evaporation, the structure can be raised up to 18 blocks high.",
+  "chapter.stage.4.quest.103.subtitle.1": "太阳能塔",
+  "chapter.stage.4.quest.103.description.1": "&b热力蒸馏塔&f是一种多方块结构，用于将水转化成&e盐水&f，或是将盐水转化成&e液态锂&f。",
+  "chapter.stage.4.quest.103.description.2": "热力蒸馏塔最少需要有3格高。提高高度可以扩大容积并增大转化效率，最高可以有18格高。",
 
-  "chapter.stage.4.quest.104.subtitle.1": "Boiling Water",
-  "chapter.stage.4.quest.104.description.1": "In order to get Brine put Water in the Thermal Evaporation Tower.",
+  "chapter.stage.4.quest.104.subtitle.1": "烧开水",
+  "chapter.stage.4.quest.104.description.1": "用热力蒸馏塔将水转化成盐水。",
 
-  "chapter.stage.4.quest.105.subtitle.1": "Crystallizing",
-  "chapter.stage.4.quest.105.description.1": "This allows you to crystallize any compatible Slurry.",
+  "chapter.stage.4.quest.105.subtitle.1": "结晶",
+  "chapter.stage.4.quest.105.description.1": "用于从浆液中结晶以提取固体。",
 
-  "chapter.stage.4.quest.106.subtitle.1": "Lithium Crystallizer",
-  "chapter.stage.4.quest.106.description.1": "Crystallize Lithium Gaz in order to get Lithium Dusts.",
+  "chapter.stage.4.quest.106.subtitle.1": "将锂单质结晶",
+  "chapter.stage.4.quest.106.description.1": "将气态锂结晶获得锂粉。",
 
-  "chapter.stage.4.quest.107.subtitle.1": "Condensing Lithium",
+  "chapter.stage.4.quest.107.subtitle.1": "浓缩锂元素",
 
-  "chapter.stage.4.quest.108.subtitle.1": "MultiCrafting",
-  "chapter.stage.4.quest.108.description.1": "Allows you to craft Endgame items. Becareful to place the exact number of pillars for each component items.",
+  "chapter.stage.4.quest.108.subtitle.1": "组合合成",
+  "chapter.stage.4.quest.108.description.1": "用于制作毕业物品。注意摆放基座的数量要和配方物品的数量一致。",
 
-  "chapter.stage.4.quest.109.title.1": "Visit dimension : &6The Moon",
-  "chapter.stage.4.quest.109.subtitle.1": "Moon Travel",
-  "chapter.stage.4.quest.109.description.1": "At least you are ready to fly to the moon !",
+  "chapter.stage.4.quest.109.title.1": "访问维度：&6月球",
+  "chapter.stage.4.quest.109.subtitle.1": "月球旅行",
+  "chapter.stage.4.quest.109.description.1": "至少你已经飞到月球了！",
 
-  "chapter.stage.4.quest.110.subtitle.1": "Excavating Moon Ores",
+  "chapter.stage.4.quest.110.subtitle.1": "月矿采掘",
 
-  "chapter.stage.4.quest.111.subtitle.1": "Combining Press",
-  "chapter.stage.4.quest.111.description.1": "Combine all Applied Energistics Press into one",
+  "chapter.stage.4.quest.111.subtitle.1": "统一压印",
+  "chapter.stage.4.quest.111.description.1": "将 AE2 的各种压印模板整合成一个。",
 
-  "chapter.stage.4.quest.112.subtitle.1": "Universal Parallel Process",
-  "chapter.stage.4.quest.112.description.1": "Inscribe a Parallel Circuit and a Printed Silicon with the Universal Press to get the Parallel Processor.",
+  "chapter.stage.4.quest.112.subtitle.1": "通用并行处理器",
+  "chapter.stage.4.quest.112.description.1": "将并行电路板、硅板和戴斯锭压印获得。",
 
-  "chapter.stage.4.quest.113.subtitle.1": "Ultimate Transformation",
-  "chapter.stage.4.quest.113.description.1": "Transforms any Advanced Mekanism into Ultimate Tier",
+  "chapter.stage.4.quest.113.subtitle.1": "终极升级",
+  "chapter.stage.4.quest.113.description.1": "将 Mek 的精英工厂升级为终极工厂。",
 
-  "chapter.stage.4.quest.114.subtitle.1": "Really Smart Unit",
+  "chapter.stage.4.quest.114.subtitle.1": "真正的智能单元",
 
-  "chapter.stage.4.quest.115.subtitle.1": "Aggregation Energistics",
-  "chapter.stage.4.quest.115.description.1" : "The &bFluix Aggregator&r facilitates in-world crafting by combining Crystal Growth Accelerators.",
+  "chapter.stage.4.quest.115.subtitle.1": "聚合能源",
+  "chapter.stage.4.quest.115.description.1" : "&b福鲁伊克斯聚合器&r整合了晶体催生器的世界内合成功能。",
 
-  "chapter.stage.4.quest.116.subtitle.1": "A Really Better Inscriber",
+  "chapter.stage.4.quest.116.subtitle.1": "更好的压印器",
 
-  "chapter.stage.4.quest.117.subtitle.1": "Grinding with Flux",
+  "chapter.stage.4.quest.117.subtitle.1": "通量粉碎",
 
-  "chapter.stage.4.quest.118.subtitle.1": "Crafting Requesting Block",
-  "chapter.stage.4.quest.118.description.1" : "The &bME Requester&r is a block essential to an ME network for operation, designed to store up to 6 different types of items. Its configuration can be accessed by right-clicking, and all necessary information is provided there. An additional tip suggests dragging and dropping specific items from the JEI page if they are currently unavailable.",
-  "chapter.stage.4.quest.118.description.2" :"Regarding request batches, while the request count specifies the desired stock quantity, the batch size determines the number of items requested each time the Requester initiates a job. For clarity, consider an example: configuring the Requester with planks, a count of 10, and a batch size of 20, if the stock falls below 10, the Requester will ask for 20 planks at once (not 20 recipes). After crafting, you'll have 20 planks until the count dips below 10 for the next request.",
+  "chapter.stage.4.quest.118.subtitle.1": "合成请求",
+  "chapter.stage.4.quest.118.description.1" : "&bME 请求器&r对于 ME 网络来说非常有用。它可以存储多达6种不同的物品。右击它可以对其进行配置，并查看相关的信息。此外，如果你想添加一个你暂时还没有的物品，可以从 JEI 中拖拽过来。",
+  "chapter.stage.4.quest.118.description.2" :"请求次数指当物品数量低于请求数量时，ME 请求器请求合成物品的数量。例如：当我们请求木板，请求数量为10，请求次数为20；当木板的数量低于10时，ME 请求器会请求制作20个木板（不是20遍配方）。",
 
-  "chapter.stage.4.quest.119.subtitle.1": "Extracting Space Nebulation Part 1",
-  "chapter.stage.4.quest.119.description.1": "This first part is containing the blocks for the main core of the Nebula Extractor Multiblock.",
+  "chapter.stage.4.quest.119.title.1": "1级星体提取机 - 第1部分",
+  "chapter.stage.4.quest.119.subtitle.1": "提取星体精华",
+  "chapter.stage.4.quest.119.description.1": "星体提取机多方块结构的核心部分。",
 
-  "chapter.stage.4.quest.120.subtitle.1": "Extracting Space Nebulation Part 2",
-  "chapter.stage.4.quest.120.description.1": "This second part is containing the more decoratives blocks of the Nebula Extractor Multiblock.",
+  "chapter.stage.4.quest.120.title.1": "1级星体提取机 - 第2部分",
+  "chapter.stage.4.quest.120.subtitle.1": "提取星体精华",
+  "chapter.stage.4.quest.120.description.1": "星体提取机多方块结构的装饰部分。",
 
-  "chapter.stage.4.quest.121.subtitle.1": "Assemble the Nebula Extractor Tier 1",
+  "chapter.stage.4.quest.121.subtitle.1": "搭建1级星体提取机",
 
-  "chapter.stage.4.quest.122.subtitle.1": "First Extraction",
-  "chapter.stage.4.quest.122.description.1": "Extract the Star of the Moon : Lunaris Nova, by using the Nebula Extractor in the Moon Desert Biome.",
+  "chapter.stage.4.quest.122.subtitle.1": "第一次星体提取",
+  "chapter.stage.4.quest.122.description.1": "在月球搭建星体提取机以获得月之星。",
 
-  "chapter.stage.4.quest.123.subtitle.1": "Enriching Lunaris",
-  "chapter.stage.4.quest.123.description.1": "Get Compressed Lunaris Nova simply by using the Enrichment Chamber.",
+  "chapter.stage.4.quest.123.subtitle.1": "富集月之星",
+  "chapter.stage.4.quest.123.description.1": "用富集仓制作富集月之星。",
 
-  "chapter.stage.4.quest.124.subtitle.1": "Absolute Alloying",
-  "chapter.stage.4.quest.124.description.1": "Simply Infuse an Atomic Alloy with Lunaris Nova infusion.",
+  "chapter.stage.4.quest.124.subtitle.1": "绝对合金",
+  "chapter.stage.4.quest.124.description.1": "向原子合金灌注月之星获得。",
 
-  "chapter.stage.4.quest.125.subtitle.1": "Absolute Controlling",
-  "chapter.stage.4.quest.125.description.1": "Simply Infuse an Ultimate Control Circuit with Lunaris Nova infusion.",
+  "chapter.stage.4.quest.125.subtitle.1": "绝对控制",
+  "chapter.stage.4.quest.125.description.1": "向终极控制电路灌注月之星获得。",
 
-  "chapter.stage.4.quest.126.subtitle.1": "Spectral Storing Tablet",
+  "chapter.stage.4.quest.126.subtitle.1": "光谱储存板",
 
-  "chapter.stage.4.quest.127.subtitle.1": "Induction Storing",
-  "chapter.stage.4.quest.127.description.1": "The Induction Matrix can store a really big amount of FE. These are the main part for building it.",
+  "chapter.stage.4.quest.127.subtitle.1": "输导存储",
+  "chapter.stage.4.quest.127.description.1": "输导矩阵用于存储大量 FE。这些方块用来搭建其外壳。",
 
-  "chapter.stage.4.quest.128.title": "Induction Cells",
-  "chapter.stage.4.quest.128.subtitle.1": "Mekanism Energy Component Part 1",
-  "chapter.stage.4.quest.128.description.1": "&bInduction Cells&f are components in the &eInduction Matrix&f. Each cell &dincreases the total energy storage&f of a Matrix.",
+  "chapter.stage.4.quest.128.title": "输导元件",
+  "chapter.stage.4.quest.128.task.1": "输导元件",
+  "chapter.stage.4.quest.128.subtitle.1": "Mek 能量组件 - 第1部分",
+  "chapter.stage.4.quest.128.description.1": "&b输导元件&f是&e输导矩阵&f的部件，用于增加输导矩阵的能量储量。",
 
-  "chapter.stage.4.quest.129.title": "Induction Providers",
-  "chapter.stage.4.quest.129.subtitle.1": "Mekanism Energy Component Part 1",
-  "chapter.stage.4.quest.129.description.1": "The &bInduction Providers&f are used in the &eInduction Matrix&f to determine &dhow much energy it is able to output per trick&f through the Induction Port.",
+  "chapter.stage.4.quest.129.title": "输导供应器",
+  "chapter.stage.4.quest.129.task.1": "输导供应器",
+  "chapter.stage.4.quest.129.subtitle.1": "Mek 能量组件 - 第2部分",
+  "chapter.stage.4.quest.129.description.1": "&b输导供应器&f用于提高&e输导矩阵&f的能量传输速率。",
 
-  "chapter.stage.4.quest.130.subtitle.1": "Accessing The Void",
-  "chapter.stage.4.quest.130.description.1": "Using the Miniaturization Crafting, Build the Multiblock with Processed Obsidian Blocks, Obsidian, Dark Glass, Forgotten Metal Blocks, Blazing Crystal Blocks and the Maximum Compact Machine.",
-  "chapter.stage.4.quest.130.description.2": "Check JEI in order to build the multiblock. Don't forget to throw The Void Patch.",
+  "chapter.stage.4.quest.130.subtitle.1": "访问虚空",
+  "chapter.stage.4.quest.130.description.1": "用精制黑曜石块、黑曜石、暗色玻璃、遗忆块、烈焰晶体块和超大型压缩空间机械搭建多方块结构微缩合成获得。",
+  "chapter.stage.4.quest.130.description.2": "在 JEI 查看多方块结构的搭建方法。别忘了最后要扔出一个虚空。",
 
-  "chapter.stage.4.quest.131.title.1": "How to automate Extended Crafting ?",
-  "chapter.stage.4.quest.131.subtitle.1": "Automation of Extended Crafting",
-  "chapter.stage.4.quest.131.description.1": "To automate Extended Crafting, one needs to make &d2 Package Recipe Holders&r and encode them with a &aPackage Recipe Encoder&r.",
-  "chapter.stage.4.quest.131.description.2": "Then, one needs to put a Package Recipe Holder in a &bPackager&r, and the other in an &bUnpackager&r, both connected to a ME Network.",
-  "chapter.stage.4.quest.131.description.3": "The Packager will accept items and make them into Recipe Packages and the Unpackager will take them and output items into an adjacent inventory.",
-  "chapter.stage.4.quest.131.description.4": "Both machines tell the ME Network what it can do according to the package recipe holder, and the Packager, when connected, ejects packages into the network.",
+  "chapter.stage.4.quest.131.title.1": "合成拓展如何自动化？",
+  "chapter.stage.4.quest.131.subtitle.1": "合成拓展自动化",
+  "chapter.stage.4.quest.131.description.1": "想要自动化合成拓展，你需要2个&d封包配方存储器&r并用&a封包配方编码器&r对其进行编码。",
+  "chapter.stage.4.quest.131.description.2": "之后，将封包配方存储器分别放入&b封包机&r和&b解包机&r，并连入 ME 网络。",
+  "chapter.stage.4.quest.131.description.3": "现在封包机可以接受相应物品并将其打包成配方包，而解包机可以将配方包解包并输出到相邻的容器中。",
+  "chapter.stage.4.quest.131.description.4": "封包机和解包机都能根据其拥有的封包配方存储器来告诉 ME 网络相关的配方。封包机还会自动将配方包送回 ME 网络。",
  
   "chapter.stage.5.title": "第5章",
 
   "chapter.stage.5.quest.1.subtitle.1": "一个比“更好”还要好的机器框架",
-  "chapter.stage.5.quest.1.description.1": "使用戴斯锭、流明齿轮、塑料片、绝对控制电路、中级机器框架与粉红粘液在化学溶解室里组装获得。",
+  "chapter.stage.5.quest.1.description.1": "将戴斯锭、流明齿轮、塑料片、绝对控制电路、中级机器框架与粉红粘液在化学溶解室里组装获得。",
 
   "chapter.stage.5.quest.2.subtitle.1": "到了镭射采矿时间！",
   "chapter.stage.5.quest.2.description.1": "为了获取不同的资源，你应该至少制作四个。",
@@ -1458,7 +1484,7 @@
   "chapter.stage.5.quest.5.description.1": "工业先锋的冷凝室可以冻结和治疗工作范围内的一切生物，凋灵也不例外!",
 
   "chapter.stage.5.quest.6.subtitle.1": "也许可以用它从凋灵身上得到点什么",
-  "chapter.stage.5.quest.6.description.1": "由化学溶解室制作，你可以放进流体镭射钻基座让它从凋灵身上提取以太气体。",
+  "chapter.stage.5.quest.6.description.1": "通过化学溶解室制作，你可以放进流体镭射钻基座让它从凋灵身上提取以太气体。",
 
   "chapter.stage.5.quest.7.subtitle.1": "获得以太气体",
   "chapter.stage.5.quest.7.description.1": "当你把带有紫色镭射聚焦透镜的流体镭射钻基座放置在凋灵上方时，它会缓慢地生产以太气体。这种气体是制作工业先锋最高级物品所必需的，当然这包括超级机器框架！",

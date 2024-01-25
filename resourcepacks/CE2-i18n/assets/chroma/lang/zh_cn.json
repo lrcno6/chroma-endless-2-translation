@@ -83,8 +83,8 @@
   "item.chroma.blank_integral_components": "空白整合组件",
   "item.chroma.fluxo_core": "磁铁通量核心",
   "item.chroma.magnet_core": "磁铁核心",
-  "item.chroma.supra_component": "Supra 组件",
-  "item.chroma.supra_catalyst": "Supra 催化剂",
+  "item.chroma.supra_component": "Supra 合成组件",
+  "item.chroma.supra_catalyst": "Supra 合成催化剂",
   "item.chroma.carbon_fiber": "碳纤维",
   "item.chroma.miner_core": "采矿核心",
   "item.chroma.lunaris_nova": "月之星",
@@ -97,7 +97,6 @@
   "item.chroma.resin_plate": "树脂板",
   "item.chroma.raw_resin": "粗树脂",
   "item.chroma.diglycidyl_ether_of_bisphenol_a": "双酚A二缩水甘油醚",
-  "item.chroma.ban_hammer": "Ban Hammer",
   "item.chroma.incomplete_basic_sieving_factory_controller": "矿物筛分机控制器（半成品）",
   "item.chroma.inferium_seed_base": "下级种子基底",
   "item.chroma.prudentium_seed_base": "初级种子基底",
@@ -204,5 +203,8 @@
   "slurry.chroma.dirty_crystaltine": "污浊晶素浆液",
 
   "fluid.chroma.molten_mana": "§3熔融魔力",
-  "fluid.chroma.molten_insanium": "熔融究极精华"
+  "fluid.chroma.molten_insanium": "熔融究极精华",
+
+  "recipes.lychee.item_inside.moonstone.condition.description": "在午夜（13:20 - 16:40）转化，放得时间过长会变回来。",
+  "recipes.lychee.item_inside.charoite.condition.description": "在中午（3:20 - 6:40）转化，放得时间过长会变回来。"
 }
