@@ -160,7 +160,7 @@
   "chapter.challenges.title.time.2": "在线10小时",
   "chapter.challenges.title.time.3": "在线100小时",
 
-  "chapter.challenges.title.bis": "击杀 1 000 000 只怪物",
+  "chapter.challenges.title.bis": "击杀 1,000,000 只怪物",
 
   "chapter.challenges.pickaxe": "Dig with The SS Rank Terra Shelter destruction mode",
 
@@ -1534,5 +1534,139 @@
   "chapter.stage.5.quest.24.description.1": "将魔力注入这个新的多方块结构，你将能更快地制造泰拉钢并且能够制造&6精灵钢&r。",
 
   "chapter.stage.5.quest.25.subtitle.1": "新的植物魔法锭",
-  "chapter.stage.5.quest.25.description.1": "把两个魔力池量的魔力注入注魔板，你就可以制作出&6精灵钢&r。"
+  "chapter.stage.5.quest.25.description.1": "把两个魔力池量的魔力注入注魔板，你就可以制作出&6精灵钢&r。",
+
+  "chapter.stage.6.title": "第6章",
+
+  "chapter.stage.6.quest.1.subtitle.1": "通量创造",
+  "chapter.stage.6.quest.1.description.1": "向含碳福鲁伊克斯粉灌注火之星获得。",
+
+  "chapter.stage.6.quest.2.subtitle.1": "通量组件",
+
+  "chapter.stage.6.quest.3.subtitle.1": "通量压缩",
+
+  "chapter.stage.6.quest.4.subtitle.1": "通量输送",
+  "chapter.stage.6.quest.4.description.1": "被动接收相邻方块的能量，向网络增加能量。",
+
+  "chapter.stage.6.quest.5.subtitle.1": "通量控制",
+  "chapter.stage.6.quest.5.description.1": "给通量网络启用无线充电。",
+
+  "chapter.stage.6.quest.6.subtitle.1": "通量输送",
+  "chapter.stage.6.quest.6.description.1": "主动向相邻方块供给能量，从网络移除能量。",
+
+  "chapter.stage.6.quest.7.subtitle.1": "基础通量存储",
+  "chapter.stage.6.quest.7.description.1": "为你的网络存储能量。能量容量：2,000,000 FE。",
+
+  "chapter.stage.6.quest.8.subtitle.1": "大型通量存储",
+  "chapter.stage.6.quest.8.description.1": "为你的网络存储能量。能量容量：16,000,000 FE。",
+
+  "chapter.stage.6.quest.9.subtitle.1": "超大型通量存储",
+  "chapter.stage.6.quest.9.description.1": "为你的网络存储能量。能量容量：128,000,000 FE。",
+
+  "chapter.stage.6.quest.10.subtitle.1": "超级机壳",
+  "chapter.stage.6.quest.10.description.1": "将塑料片、最高控制电路、通量核心、钚靶丸、高级机器框架和以太气体在化学溶解室里组装获得。",
+
+  "chapter.stage.6.quest.11.subtitle.1": "下界创造",
+  "chapter.stage.6.quest.11.description.1": "将通量方块、镥块和钚靶丸充能获得。",
+
+  "chapter.stage.6.quest.12.subtitle.1": "融合！",
+  "chapter.stage.6.quest.12.description.1": "将富生水晶、耐热金属和霜钢锭充能获得。",
+
+  "chapter.stage.6.quest.13.subtitle.1": "三阶火箭 - 部件1",
+
+  "chapter.stage.6.quest.14.subtitle.1": "三阶火箭 - 部件2",
+
+  "chapter.stage.6.quest.15.subtitle.1": "三阶火箭 - 部件3",
+
+  "chapter.stage.6.quest.16.subtitle.1": "三阶火箭 - 部件4",
+
+  "chapter.stage.6.quest.17.subtitle.1": "三阶火箭 - 部件5",
+
+  "chapter.stage.6.quest.18.subtitle.1": "组装三阶火箭",
+  "chapter.stage.6.quest.18.description.1": "在 NASA 工作台将以上部件组装为三阶火箭。",
+
+  "chapter.stage.6.quest.19.title": "访问维度：&b金星",
+  "chapter.stage.6.quest.19.subtitle.1": "冰冻三尺",
+  "chapter.stage.6.quest.19.description.1": "在金星可以找到耐热金属矿。",
+
+  "chapter.stage.6.quest.20.title": "访问维度：&4水星",
+  "chapter.stage.6.quest.20.subtitle.1": "地狱酷热",
+
+  "chapter.stage.6.quest.21.subtitle.1": "获得耐热金属",
+
+  "chapter.stage.6.quest.22.subtitle.1": "熔炼耐热金属矿",
+
+  "chapter.stage.6.quest.23.title" : "2级虚空采矿机",
+  "chapter.stage.6.quest.23.subtitle.1": "更好的虚空采矿机",
+
+  "chapter.stage.6.quest.24.subtitle.1": "龙之矿素",
+  "chapter.stage.6.quest.24.description.1": "用2级虚空采矿机挖掘龙矿石。",
+
+  "chapter.stage.6.quest.25.subtitle.1": "熔炼龙矿石",
+
+  "chapter.stage.6.quest.26.subtitle.1": "初始核心",
+
+  "chapter.stage.6.quest.27.subtitle.1": "龙之聚合",
+  "chapter.stage.6.quest.27.description.1": "聚合核心是龙之进化的聚合装置的一部分。随着注入等级的提高，其可以用来制作非常高级的物品。",
+
+  "chapter.stage.6.quest.28.subtitle.1": "初始注入等级",
+  "chapter.stage.6.quest.28.description.1": "基础注入器只用来制作飞龙注入器和龙箱。",
+
+  "chapter.stage.6.quest.29.subtitle.1": "飞龙升级",
+
+  "chapter.stage.6.quest.30.subtitle.1": "飞龙注入",
+  "chapter.stage.6.quest.30.description.1": "解锁飞龙等级聚合合成。",
+
+  "chapter.stage.6.quest.31.title.1": "3级星体提取机 - 第1部分",
+  "chapter.stage.6.quest.31.subtitle.1": "3级星体提取",
+
+  "chapter.stage.6.quest.32.title.1": "3级星体提取机 - 第2部分",
+  "chapter.stage.6.quest.32.subtitle.1": "3级星体提取",
+
+  "chapter.stage.6.quest.33.subtitle.1": "提取金之星",
+  "chapter.stage.6.quest.33.description.1": "在金星搭建星体提取机以提取金之星。",
+
+  "chapter.stage.6.quest.34.subtitle.1": "富集金之星",
+  "chapter.stage.6.quest.34.description.1": "将金之星富集获得。",
+
+  "chapter.stage.6.quest.35.subtitle.1": "宇宙控制",
+  "chapter.stage.6.quest.35.description.1": "向最高控制电路灌注金之星获得。",
+
+  "chapter.stage.6.quest.36.subtitle.1": "宇宙合金",
+  "chapter.stage.6.quest.36.description.1": "向最高合金灌注金之星获得。",
+
+  "chapter.stage.6.quest.37.title" : "聚变反应堆",
+  "chapter.stage.6.quest.37.subtitle.1": "终极反应堆",
+  "chapter.stage.6.quest.37.description.1": "&b聚变反应堆&r是一种多方块结构。其允许输入3种燃料：氘、氚和氘氚燃料。如果向反应堆供水的话，反应堆将在产出能量的同时产出蒸汽，用产出的蒸汽去带动工业蒸汽涡轮可以获得更高的能量。",
+  "chapter.stage.6.quest.37.description.2": "• 75x 聚变堆框架（搭建用+其他部件的材料）",
+  "chapter.stage.6.quest.37.description.3": "• 2x 聚变反应堆端口",
+  "chapter.stage.6.quest.37.description.4": "• 1x 聚变堆控制器",
+  "chapter.stage.6.quest.37.description.5": "• 8x 强化玻璃",
+  "chapter.stage.6.quest.37.description.6": "• 1x 激光聚焦矩阵",
+
+  "chapter.stage.6.quest.39.title": "聚变堆启动组件",
+  "chapter.stage.6.quest.39.subtitle.1": "反应堆启动装置",
+  "chapter.stage.6.quest.39.description.1": "&b聚变反应堆&r无法自行启动。它需要激光增幅器的能量和少量的氘氚燃料以启动聚变过程。一旦聚变堆启动，它将开始将氘和氚转化为氘氚燃料并产生能量。此外你还可以用电阻加热装置将聚变堆加热至 100.00 MK，一个电阻加热装置最多能消耗 10 MFE/t 的能量。",
+  "chapter.stage.6.quest.39.description.2": "&b黑体辐射腔&r可以存储 10 mB 的氘氚燃料用于启动聚变堆。要将氘氚燃料装入黑体辐射腔，将其放入合成氘氚燃料的化学灌注器即可。在装满氘氚燃料后，将黑体辐射腔放入聚变堆控制器中。",
+  "chapter.stage.6.quest.39.description.3": "在统计信息页面可以看到启动聚变堆所需的温度。将多束激光射向激光增幅器，并由激光增幅器将激光射向激光聚焦矩阵是一个好主意。启动反应堆需要 400 MFE 的能量。为了防止热量散失，这些能量最好一次性射向激光聚焦矩阵，所以需要给激光增幅器添加红石控制或是设置最小能量输出以免过早输出能量。",
+  "chapter.stage.6.quest.39.description.4": "将黑体辐射腔放入聚变堆控制器并给激光增幅器充满能量后，发射激光即可启动聚变反应堆。如果温度足够，你可以看到和听到其运行。要维持聚变堆运行，其温度不能低于启动温度，务必确保输入速率足够并且燃料供应充足。",
+
+  "chapter.stage.6.quest.40.subtitle.1": "浆液清洗",
+  "chapter.stage.6.quest.40.description.1": "用水将污浊浆液清洗为纯净浆液。",
+
+  "chapter.stage.6.quest.41.subtitle.1": "吸光存储板",
+
+  "chapter.stage.6.quest.42.subtitle.1": "宇宙能量存储",
+
+  "chapter.stage.6.quest.43.title": "化学聚变仓",
+  "chapter.stage.6.quest.43.subtitle.1": "化学元素聚变",
+  "chapter.stage.6.quest.43.description.1": "将两种元素融合成原子量更大的元素。",
+
+  "chapter.stage.6.quest.44.subtitle.1": "3级虚空采矿机",
+  "chapter.stage.6.quest.44.description.1": "比2级更好",
+
+  "chapter.stage.6.quest.45.subtitle.1": "龙之进化自动合成",
+  "chapter.stage.6.quest.45.description.1": "&d聚合封包合成器&r可以用于自动化龙之进化的聚合合成。",
+  "chapter.stage.6.quest.45.description.2": "你需要用&b聚合封包合成器&r替换聚合核心，用&b标记聚合注入器&r替换注入器。",
+  "chapter.stage.6.quest.45.description.3": "在聚合封包合成器上方放置&b解包器&r和&b封包器&r，就像你自动化合成拓展时一样。"
 }
