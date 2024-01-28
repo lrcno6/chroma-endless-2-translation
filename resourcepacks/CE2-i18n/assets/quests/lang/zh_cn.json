@@ -1536,6 +1536,136 @@
   "chapter.stage.5.quest.25.subtitle.1": "新的植物魔法锭",
   "chapter.stage.5.quest.25.description.1": "把两个魔力池量的魔力注入注魔板，你就可以制作出&6精灵钢&r。",
 
+  "chapter.stage.5.quest.26.subtitle.1": "密米尔在召唤",
+
+  "chapter.stage.5.quest.27.subtitle.1": "天赐之水",
+  "chapter.stage.5.quest.27.description.1": "右击将加拉尔号角放在已放置好的世界树的枝干上，使用魔力发射器向世界树的枝干输入魔力。",
+
+  "chapter.stage.5.quest.28.subtitle.1": "干杯！",
+  "chapter.stage.5.quest.28.description.1": "当号角装满水之后，空手右击即可获得密米尔之泉水。",
+
+  "chapter.stage.5.quest.29.subtitle.1": "新的盖亚战利品",
+  "chapter.stage.5.quest.29.description.1": "在喝下密米尔之泉水后，击杀盖亚守护者 II 获得。",
+
+  "chapter.stage.5.quest.30.subtitle.1": "符文仪式",
+  "chapter.stage.5.quest.30.description.1": "神话植物学添加了一种新的合成方式。你需要一个大师符文支架和与材料数量等同的符文支架。",
+  "chapter.stage.5.quest.30.description.2": "当物品摆放完成后，将消耗物品扔在大师符文支架附近开始合成。",
+
+  "chapter.stage.5.quest.31.subtitle.1": "你不是吸血鬼",
+  "chapter.stage.5.quest.31.description.1": "通过符文仪式制作&4克瓦西尔之血&r。别忘了魔力石板和森林法杖。",
+
+  "chapter.stage.5.quest.32.subtitle.1": "天赐之蜜",
+  "chapter.stage.5.quest.32.description.1": "再来一杯！",
+
+  "chapter.stage.5.quest.33.title.1": "访问维度：&b亚尔夫海姆&r",
+  "chapter.stage.5.quest.33.subtitle.1": "穿过精灵门",
+
+  "chapter.stage.5.quest.34.subtitle.1": "亚尔夫海姆之旅",
+
+  "chapter.stage.5.quest.35.title.1": "裂变仓",
+  "chapter.stage.5.quest.35.subtitle.1": "搭建裂变仓",
+  "chapter.stage.5.quest.35.description.1": "集多种合成方式于一身的裂变仓可以通过裂变来制作高级元素。",
+
+  "chapter.stage.5.quest.36.subtitle.1": "他的确需要一点薄荷糖",
+  "chapter.stage.5.quest.36.description.1": "用末影龙预测产物制作龙息。",
+
+  "chapter.stage.5.quest.37.subtitle.1": "溶解龙息",
+  "chapter.stage.5.quest.37.description.1": "用化学溶解机溶解&5龙息&r获得。",
+
+  "chapter.stage.5.quest.38.subtitle.1": "鿫元素裂变",
+  "chapter.stage.5.quest.38.description.1": "用裂变仓裂变鿫元素获得。",
+
+  "chapter.stage.5.quest.39.subtitle.1": "压缩镨元素",
+
+  "chapter.stage.5.quest.40.subtitle.1": "熔炼镨粉",
+
+  "chapter.stage.5.quest.41.subtitle.1": "绿色转化",
+  "chapter.stage.5.quest.41.description.1": "将镨锭充能获得富生水晶。",
+
+  "chapter.stage.5.quest.42.title.1": "1级虚空采矿机",
+  "chapter.stage.5.quest.42.subtitle.1": "矿物生成多方块结构",
+  "chapter.stage.5.quest.42.description.1": "有了富生水晶之后，你就可以制作我们自定义的采矿多方块结构。",
+
+  "chapter.stage.5.quest.43.subtitle.1": "溶解末地石",
+  "chapter.stage.5.quest.43.description.1": "用化学溶解机溶解&5末地石&r获得。",
+
+  "chapter.stage.5.quest.44.subtitle.1": "钍元素裂变",
+  "chapter.stage.5.quest.44.description.1": "用裂变仓制作铑元素。",
+
+  "chapter.stage.5.quest.45.subtitle.1": "搭建涡轮机",
+  "chapter.stage.5.quest.45.description.1": "涡轮机外壳用于搭建涡轮机。将铑元素、石墨块与蓝晶块充能获得。",
+
+  "chapter.stage.5.quest.46.subtitle.1": "溶解恶魂之泪",
+  "chapter.stage.5.quest.46.description.1": "用化学溶解机溶解&3恶魂之泪&r获得钋元素。",
+
+  "chapter.stage.5.quest.47.subtitle.1": "钋元素裂变",
+  "chapter.stage.5.quest.47.description.1": "用裂变仓制作钼元素。",
+
+  "chapter.stage.5.quest.48.subtitle.1": "搭建热交换器",
+  "chapter.stage.5.quest.48.description.1": "热交换器并不是必需的，你可以只用反应堆来产生蒸汽。（将反应堆能量接口换成两个冷却端口即可，一个用于输入水一个用于输出蒸汽）",
+  "chapter.stage.5.quest.48.description.2": "热交换器只在你想将其他流体输入反应堆（例如钠）。",
+
+  "chapter.stage.5.quest.49.subtitle.1": "功能三合一",
+  "chapter.stage.5.quest.49.description.1": "先进压缩机可以像普通压缩机一样压缩物品，但此外它还可以进行轧制和挤压。",
+
+  "chapter.stage.5.quest.50.subtitle.1": "二阶火箭 - 部件1",
+
+  "chapter.stage.5.quest.51.subtitle.1": "二阶火箭 - 部件2",
+
+  "chapter.stage.5.quest.52.subtitle.1": "二阶火箭 - 部件3",
+
+  "chapter.stage.5.quest.53.subtitle.1": "二阶火箭 - 部件4",
+
+  "chapter.stage.5.quest.54.subtitle.1": "二阶火箭 - 部件5",
+
+  "chapter.stage.5.quest.55.subtitle.1": "组装二阶火箭",
+  "chapter.stage.5.quest.55.description.1": "在 NASA 工作台将以上物品组装成二阶火箭。",
+
+  "chapter.stage.5.quest.56.title": "访问维度：&c火星&r",
+  "chapter.stage.5.quest.56.subtitle.1": "地狱星球",
+  "chapter.stage.5.quest.56.description.1": "火星上可以找到&c紫金矿&r。",
+
+  "chapter.stage.5.quest.57.subtitle.1": "火星矿物挖掘",
+
+  "chapter.stage.5.quest.58.title.1": "2级星体提取机 - 第1部分",
+  "chapter.stage.5.quest.58.subtitle.1": "2级星体提取",
+
+  "chapter.stage.5.quest.59.title.1": "2级星体提取机 - 第2部分",
+  "chapter.stage.5.quest.59.subtitle.1": "2级星体提取",
+
+  "chapter.stage.5.quest.60.subtitle.1": "提取火之星",
+  "chapter.stage.5.quest.60.description.1": "在火星搭建星体提取机以提取火之星。",
+
+  "chapter.stage.5.quest.61.subtitle.1": "富集火之星",
+  "chapter.stage.5.quest.61.description.1": "用富集仓制作富集火之星。",
+
+  "chapter.stage.5.quest.62.subtitle.1": "最高控制",
+  "chapter.stage.5.quest.62.description.1": "向绝对控制电路灌注火之星获得。",
+
+  "chapter.stage.5.quest.63.subtitle.1": "最高合金",
+  "chapter.stage.5.quest.63.description.1": "向绝对合金灌注火之星获得。",
+
+  "chapter.stage.5.quest.64.subtitle.1": "非凡存储板",
+
+  "chapter.stage.5.quest.65.title.1": "裂变反应堆",
+  "chapter.stage.5.quest.65.subtitle.1": "Mek 裂变反应堆",
+  "chapter.stage.5.quest.65.description.1": "裂变反应堆用于制造核废料。后面有处理核废料的办法。",
+
+  "chapter.stage.5.quest.66.subtitle.1": "又见太阳能",
+  "chapter.stage.5.quest.66.description.1": "太阳能中子活化器只有两个用途：将锂转化为氚，将核废料转化为钋。",
+
+  "chapter.stage.5.quest.67.subtitle.1": "同位素分离",
+  "chapter.stage.5.quest.67.description.1": "同位素离心机只有两个用途：将六氟化铀转化为裂变燃料，将核废料转化为钚。",
+
+  "chapter.stage.5.quest.68.subtitle.1": "加压反应",
+  "chapter.stage.5.quest.68.description.1": "将液体、气体和物品加压反应，产出其他物品和气体。",
+
+  "chapter.stage.5.quest.69.subtitle.1": "钚靶丸制作",
+  "chapter.stage.5.quest.69.description.1": "将钚、水和氟石粉加压反应制得钚靶丸。注意产生的用尽的核废料具有放射性！你可以用放射性废料桶来存储核废料。",
+
+  "chapter.stage.5.quest.70.subtitle.1": "钋靶丸制作",
+  "chapter.stage.5.quest.70.description.1": "将钋、水和氟石粉加压反应制得钋靶丸。注意产生的用尽的核废料具有放射性！你可以用放射性废料桶来存储核废料。",
+
   "chapter.stage.6.title": "第6章",
 
   "chapter.stage.6.quest.1.subtitle.1": "通量创造",
