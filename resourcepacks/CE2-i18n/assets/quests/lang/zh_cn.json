@@ -628,7 +628,7 @@
 
   "chapter.stage.2.quest.54.subtitle.1": "红色金属",
   "chapter.stage.2.quest.54.description.1": "在永昼之地可以找到镰鼬铁矿。",
-  "chapter.stage.2.quest.54.description.2": "你还可以用沉浸工程的挖掘机来获得镰鼬铁。",
+  "chapter.stage.2.quest.54.description.2": "你还可以用机械动力的矿物钻井、工业先锋的镭射钻以及植物魔法的凝矿兰来获得镰鼬铁。",
 
   "chapter.stage.2.quest.55.subtitle.1": "高级升级",
   "chapter.stage.2.quest.55.description.1": "用工厂升级 Shift + 右键 基础工厂可以将其升级为高级工厂。",
@@ -880,7 +880,7 @@
   "chapter.stage.3.quest.32.description.1" : "向高级控制电路灌注压缩钢以制作精英控制电路。",
 
   "chapter.stage.3.quest.33.subtitle.1": "实用部件",
-  "chatper.stage.3.quest.33.description.1" : "&b能量板&f是一种可携带可充电的电源，可以存储 1000 kJ（400 kFE）的能量来驱动其他机器。还有许多配方直接需要能量板。",
+  "chatper.stage.3.quest.33.description.1" : "&b能量板&f是一种可携带可充电的电源，可以存储 1000 kJ（400k FE）的能量来驱动其他机器。还有许多配方直接需要能量板。",
 
   "chapter.stage.3.quest.34.subtitle.1": "夜晚无用论", 
   "chapter.stage.3.quest.34.description.1" : "通过太阳能来生成能量。之后还能安装升级。",
@@ -963,8 +963,8 @@
   "chapter.stage.3.quest.60.description.1": "&b压印器&r不仅可以将 AE2 的各种石英水晶磨成粉末，还能用来制造&6电路板&r和&6处理器&r。",
 
   "chapter.stage.3.quest.61.subtitle.1": "存储 AE 能量",
-  "chapter.stage.3.quest.61.description.1": "每个&b能源元件&r可以给ME网络提高 200 kAE（400 kFE）的能量存储。",
-  "chapter.stage.3.quest.61.description.2": "&b致密能源元件&r可以存储 1.6 MAE（3.2 MFE）能量，&b超密能源元件&r可以存储 12.8 MAE（25.6 MFE）。",
+  "chapter.stage.3.quest.61.description.1": "每个&b能源元件&r可以给ME网络提高 200k AE（400k FE）的能量存储。",
+  "chapter.stage.3.quest.61.description.2": "&b致密能源元件&r可以存储 1.6M AE（3.2M FE）能量，&b超密能源元件&r可以存储 12.8M AE（25.6M FE）。",
   "chapter.stage.3.quest.61.description.3": "只要将能源元件接入网络就能提升能量上限，而与放的位置无关。",
 
   "chapter.stage.3.quest.62.subtitle.1": "拿什么聚合好呢",
@@ -1194,7 +1194,7 @@
   "chapter.stage.4.quest.40.description.1": "给贵豪充能获得&e&l烈焰水晶&r。",
 
   "chapter.stage.4.quest.41.subtitle.1": "太阳之力，由我掌控！",
-  "chapter.stage.4.quest.41.description.1": "更好的利用太阳能产出FE的方式，还能用来给热力蒸馏塔供热。",
+  "chapter.stage.4.quest.41.description.1": "更好的利用太阳能产出 FE 的方式，还能用来给热力蒸馏塔供热。",
 
   "chapter.stage.4.quest.42.subtitle.1": "深园地牢",
   "chapter.stage.4.quest.42.description.1": "击杀遗忆守卫掉落遗忆粒，再合成遗忆锭。",
@@ -1213,7 +1213,7 @@
   "chapter.stage.4.quest.47.description.1": "向精英控制电路灌注强化黑曜石获得。",
 
   "chapter.stage.4.quest.48.subtitle.1": "量子之板",
-  "chapter.stage.4.quest.48.description.1": "量子能量板可以存储 3.60 MFE 的能量。",
+  "chapter.stage.4.quest.48.description.1": "量子能量板可以存储 3.60M FE 的能量。",
 
   "chapter.stage.4.quest.49.subtitle.1": "原子合金",
   "chapter.stage.4.quest.49.description.1": "向强化合金灌注强化黑曜石获得。",
@@ -1737,7 +1737,7 @@
   "chapter.stage.6.quest.26.subtitle.1": "初始核心",
 
   "chapter.stage.6.quest.27.subtitle.1": "龙之聚合",
-  "chapter.stage.6.quest.27.description.1": "聚合核心是龙之进化的聚合装置的一部分。随着注入等级的提高，其可以用来制作非常高级的物品。",
+  "chapter.stage.6.quest.27.description.1": "聚合核心是龙之研究的聚合装置的一部分。随着注入等级的提高，其可以用来制作非常高级的物品。",
 
   "chapter.stage.6.quest.28.subtitle.1": "初始注入等级",
   "chapter.stage.6.quest.28.description.1": "基础注入器只用来制作飞龙注入器和龙箱。",
@@ -1778,7 +1778,7 @@
   "chapter.stage.6.quest.39.subtitle.1": "反应堆启动装置",
   "chapter.stage.6.quest.39.description.1": "&b聚变反应堆&r无法自行启动。它需要激光增幅器的能量和少量的氘氚燃料以启动聚变过程。一旦聚变堆启动，它将开始将氘和氚转化为氘氚燃料并产生能量。此外你还可以用电阻加热装置将聚变堆加热至 100.00 MK，一个电阻加热装置最多能消耗 10 MFE/t 的能量。",
   "chapter.stage.6.quest.39.description.2": "&b黑体辐射腔&r可以存储 10 mB 的氘氚燃料用于启动聚变堆。要将氘氚燃料装入黑体辐射腔，将其放入合成氘氚燃料的化学灌注器即可。在装满氘氚燃料后，将黑体辐射腔放入聚变堆控制器中。",
-  "chapter.stage.6.quest.39.description.3": "在统计信息页面可以看到启动聚变堆所需的温度。将多束激光射向激光增幅器，并由激光增幅器将激光射向激光聚焦矩阵是一个好主意。启动反应堆需要 400 MFE 的能量。为了防止热量散失，这些能量最好一次性射向激光聚焦矩阵，所以需要给激光增幅器添加红石控制或是设置最小能量输出以免过早输出能量。",
+  "chapter.stage.6.quest.39.description.3": "在统计信息页面可以看到启动聚变堆所需的温度。将多束激光射向激光增幅器，并由激光增幅器将激光射向激光聚焦矩阵是一个好主意。启动反应堆需要 400M FE 的能量。为了防止热量散失，这些能量最好一次性射向激光聚焦矩阵，所以需要给激光增幅器添加红石控制或是设置最小能量输出以免过早输出能量。",
   "chapter.stage.6.quest.39.description.4": "将黑体辐射腔放入聚变堆控制器并给激光增幅器充满能量后，发射激光即可启动聚变反应堆。如果温度足够，你可以看到和听到其运行。要维持聚变堆运行，其温度不能低于启动温度，务必确保输入速率足够并且燃料供应充足。",
 
   "chapter.stage.6.quest.40.subtitle.1": "浆液清洗",
@@ -1795,8 +1795,190 @@
   "chapter.stage.6.quest.44.subtitle.1": "3级虚空采矿机",
   "chapter.stage.6.quest.44.description.1": "比2级更好",
 
-  "chapter.stage.6.quest.45.subtitle.1": "龙之进化自动合成",
-  "chapter.stage.6.quest.45.description.1": "&d聚合封包合成器&r可以用于自动化龙之进化的聚合合成。",
+  "chapter.stage.6.quest.45.subtitle.1": "龙之研究自动合成",
+  "chapter.stage.6.quest.45.description.1": "&d聚合封包合成器&r可以用于自动化龙之研究的聚合合成。",
   "chapter.stage.6.quest.45.description.2": "你需要用&b聚合封包合成器&r替换聚合核心，用&b标记聚合注入器&r替换注入器。",
-  "chapter.stage.6.quest.45.description.3": "在聚合封包合成器上方放置&b解包器&r和&b封包器&r，就像你自动化合成拓展时一样。"
+  "chapter.stage.6.quest.45.description.3": "在聚合封包合成器上方放置&b解包器&r和&b封包器&r，就像你自动化合成拓展时一样。",
+
+  "chapter.stage.7.title": "第7章",
+
+  "chapter.stage.7.quest.1.subtitle.1": "聚变成铯元素",
+  "chapter.stage.7.quest.1.description.1": "用化学聚变仓制作铯元素。",
+
+  "chapter.stage.7.quest.2.subtitle.1": "压缩铯元素",
+
+  "chapter.stage.7.quest.3.subtitle.1": "熔炼铯粉",
+
+  "chapter.stage.7.quest.4.subtitle.1": "铯合成组件",
+  "chapter.stage.7.quest.4.description.1": "将铯锭、流明精华和暗夜钢板充能获得。",
+
+  "chapter.stage.7.quest.5.subtitle.1": "铯合成催化剂",
+  "chapter.stage.7.quest.5.description.1": "将4个终极合成组件和1个双足飞龙核心放入压力室加压获得。",
+
+  "chapter.stage.7.quest.6.subtitle.1": "铯工作台",
+  "chapter.stage.7.quest.6.description.1": "在飞龙聚合等级下，将终极合成组件、宇宙合金、终极合成催化剂、铯块与精英工作台聚合成终极工作台。",
+
+  "chapter.stage.7.quest.7.subtitle.1": "自动终极合成！",
+
+  "chapter.stage.7.quest.8.subtitle.1": "大师合成",
+  "chapter.stage.7.quest.8.description.1": "支持3个以上配方的自动合成，适配 AE。在第4章关于合成拓展自动化的部分有说明。",
+
+  "chapter.stage.7.quest.9.subtitle.1": "聚变成铋元素",
+  "chapter.stage.7.quest.9.description.1": "用化学聚变仓制作铋元素",
+
+  "chapter.stage.7.quest.10.subtitle.1": "压缩铋元素",
+
+  "chapter.stage.7.quest.11.subtitle.1": "熔炼铋粉",
+
+  "chapter.stage.7.quest.12.subtitle.1": "四阶火箭 - 部件1",
+
+  "chapter.stage.7.quest.13.subtitle.1": "四阶火箭 - 部件2",
+
+  "chapter.stage.7.quest.14.subtitle.1": "四阶火箭 - 部件3",
+
+  "chapter.stage.7.quest.15.subtitle.1": "四阶火箭 - 部件4",
+
+  "chapter.stage.7.quest.16.subtitle.1": "四阶火箭 - 部件5",
+
+  "chapter.stage.7.quest.17.subtitle.1": "组装四阶火箭",
+  "chapter.stage.7.quest.17.description.1": "在 NASA 工作台中将以上部件组装为四阶火箭。",
+
+  "chapter.stage.7.quest.18.title": "访问维度：&b&l霜原星&r",
+  "chapter.stage.7.quest.18.subtitle.1": "冰冻卫星",
+  "chapter.stage.7.quest.18.description.1": "在&b霜原星&r你可以找到霜原晶素矿石。",
+
+  "chapter.stage.7.quest.19.subtitle.1": "获得晶素",
+
+  "chapter.stage.7.quest.20.subtitle.1": "霜原碎块",
+  "chapter.stage.7.quest.20.description.1": "在提纯仓用氧气将晶素碎片转化为晶素碎块。",
+
+  "chapter.stage.7.quest.21.subtitle.1": "晶素充能",
+  "chapter.stage.7.quest.21.description.1": "将晶素碎块、锕锭和末影之星充能获得。",
+
+  "chapter.stage.7.quest.22.subtitle.1": "霜原组件",
+  "chapter.stage.7.quest.22.description.1": "将晶素锭、暗夜钢板和流明精华充能获得。",
+
+  "chapter.stage.7.quest.23.subtitle.1": "霜原催化剂",
+  "chapter.stage.7.quest.23.description.1": "将4个晶素合成组件和1个钋靶丸放入压力室加压获得。",
+
+  "chapter.stage.7.quest.24.subtitle.1": "4级星体提取机 - 第1部分",
+
+  "chapter.stage.7.quest.25.subtitle.1": "4级星体提取机 - 第2部分",
+
+  "chapter.stage.7.quest.26.subtitle.1": "霜原星提取",
+  "chapter.stage.7.quest.26.description.1": "在霜原星搭建星体提取机以提取永恒北极之星。",
+
+  "chapter.stage.7.quest.27.subtitle.1": "霜原星富集",
+  "chapter.stage.7.quest.27.description.1": "用富集仓获得富集永恒北极之星。",
+
+  "chapter.stage.7.quest.28.subtitle.1": "无穷合金",
+  "chapter.stage.7.quest.28.description.1": "向4个宇宙合金灌注永恒北极之星获得。",
+
+  "chapter.stage.7.quest.29.subtitle.1": "无穷控制",
+  "chapter.stage.7.quest.29.description.1": "向4个宇宙控制电路灌注永恒北极之星获得。",
+
+  "chapter.stage.7.quest.30.subtitle.1": "光子能量存储",
+
+  "chapter.stage.7.quest.31.title": "龙研能量存储",
+  "chapter.stage.7.quest.31.subtitle.1": "存储龙之能量",
+  "chapter.stage.7.quest.31.description.1": "龙之研究的&d能量核心&r用于存储大量能量。",
+  "chapter.stage.7.quest.31.description.2": "&d能量核心&r是龙球的核心。",
+  "chapter.stage.7.quest.31.description.3": "&d能量塔&r用于输入输出能量。在其顶部或底部放置玻璃以激活。",
+  "chapter.stage.7.quest.31.description.4": "&d能量核心稳定器&r用于稳定龙球。",
+  "chapter.stage.7.quest.31.description.5": "需要放在距离核心1-8格范围内。",
+  "chapter.stage.7.quest.31.description.6": "&d1级&r（容量 45.5M RF）：",
+  "chapter.stage.7.quest.31.description.7": "• 4x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.8": "&d2级&r（容量 273M RF）：",
+  "chapter.stage.7.quest.31.description.9": "• 6x 龙块",
+  "chapter.stage.7.quest.31.description.10": "• 4x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.11": "&d3级&r（容量 1.6G RF）：",
+  "chapter.stage.7.quest.31.description.12": "• 6x 龙块",
+  "chapter.stage.7.quest.31.description.13": "• 4x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.14": "&d4级&r（容量 9.8G RF）：",
+  "chapter.stage.7.quest.31.description.15": "• 54x 龙块",
+  "chapter.stage.7.quest.31.description.16": "• 26x 红石块",
+  "chapter.stage.7.quest.31.description.17": "• 4x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.18": "&d5级 &r（容量 59.3G RF）：",
+  "chapter.stage.7.quest.31.description.19": "• 150x 龙块",
+  "chapter.stage.7.quest.31.description.20": "• 178x 红石块",
+  "chapter.stage.7.quest.31.description.21": "• 36x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.22": "&d6级&r（容量 356G RF）：",
+  "chapter.stage.7.quest.31.description.23": "• 150x 龙块",
+  "chapter.stage.7.quest.31.description.24": "• 178x 红石块",
+  "chapter.stage.7.quest.31.description.25": "• 36x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.26": "&d7级&r（容量 2.14T RF）：",
+  "chapter.stage.7.quest.31.description.27": "• 210x 龙块",
+  "chapter.stage.7.quest.31.description.28": "• 328x 红石块",
+  "chapter.stage.7.quest.31.description.29": "• 36x 能量核心稳定器",
+  "chapter.stage.7.quest.31.description.30": "&d8级&r（容量近乎无限 ► 9,223,372,036,854,775,807 RF）：",
+  "chapter.stage.7.quest.31.description.31": "• 378x 觉醒龙块",
+  "chapter.stage.7.quest.31.description.32": "• 786x 龙块",
+  "chapter.stage.7.quest.31.description.33": "• 36x 能量核心稳定器",
+
+  "chapter.stage.7.quest.32.title": "超临界移相器",
+  "chapter.stage.7.quest.32.subtitle.1": "紫色靶丸",
+  "chapter.stage.7.quest.32.description.1": "&d超临界移相器&r是一个消耗大量能量和钋来制造反物质的多方块结构。反物质可以结晶成反物质靶丸，而反物质靶丸用于制作许多毕业物品。",
+  "chapter.stage.7.quest.32.description.2": "最优最小的搭建方案为：",
+  "chapter.stage.7.quest.32.description.3": "• 60x 超临界移相器外壳（此外还要12个用于制作3个超临界移相器端口）",
+  "chapter.stage.7.quest.32.description.4": "• 123x 强化玻璃或结构玻璃",
+  "chapter.stage.7.quest.32.description.5": "• 3x 超临界移相器端口",
+  "chapter.stage.7.quest.32.description.6": "• 1x 增压线圈",
+
+  "chapter.stage.7.quest.33.subtitle.1": "反物质结晶",
+  "chapter.stage.7.quest.33.description.1": "用超临界移相器将钋转化为反物质，然后结晶获得反物质靶丸。",
+
+  "chapter.stage.7.quest.34.subtitle.1": "反物质物品转化",
+  "chapter.stage.7.quest.34.description.1": "用反物质将物品转化为另一种物品。",
+
+  "chapter.stage.7.quest.35.subtitle.1": "无穷能量存储",
+
+  "chapter.stage.7.quest.36.subtitle.1": "龙族正在觉醒",
+  "chapter.stage.7.quest.36.description.1": "在飞龙聚合等级下，将龙芯、龙之心、永恒北极之星与4个龙块聚合成4个觉醒龙块。",
+
+  "chapter.stage.7.quest.37.subtitle.1": "核心觉醒",
+  "chapter.stage.7.quest.37.description.1": "在飞龙聚合等级下，将双足飞龙核心、觉醒龙锭与下界之星聚合成觉醒核心。",
+
+  "chapter.stage.7.quest.38.title.1": "4级虚空采矿机",
+  "chapter.stage.7.quest.38.subtitle.1": "比3级更好",
+
+  "chapter.stage.7.quest.39.subtitle.1": "觉醒注入",
+  "chapter.stage.7.quest.39.description.1": "在飞龙聚合等级下，将双足飞龙核心、觉醒核心、晶素锭、无穷控制电路、觉醒龙块与飞龙注入器聚合为神龙注入器。",
+
+  "chapter.stage.7.quest.40.subtitle.1": "龙之控制",
+  "chapter.stage.7.quest.40.description.1": "在神龙聚合等级下，将双足飞龙能量控制器、觉醒龙锭、无穷控制电路与双足飞龙核心聚合为神龙能量控制器。",
+
+  "chapter.stage.7.quest.41.title": "击杀&4混沌守卫",
+  "chapter.stage.7.quest.41.subtitle.1": "直面远古巨兽",
+  "chapter.stage.7.quest.41.description.1": "在末地 x 和 z 坐标均为 10000 倍数的地方挑战混沌守卫，例如 x = -10000 z = 10000。",
+
+  "chapter.stage.7.quest.42.subtitle.1": "混沌战利品",
+
+  "chapter.stage.7.quest.43.subtitle.1": "混沌控制",
+  "chapter.stage.7.quest.43.description.1": "在混沌聚合等级下，将神龙能量控制器、小型混沌残片、无穷控制电路与觉醒核心聚合成混沌能量控制器。",
+
+  "chapter.stage.7.quest.44.subtitle.1": "混沌之心",
+  "chapter.stage.7.quest.44.description.1": "在神龙聚合等级下，将觉醒核心、觉醒龙锭与大型混沌残片聚合成混沌核心。",
+
+  "chapter.stage.7.quest.45.subtitle.1": "混沌注入",
+  "chapter.stage.7.quest.45.description.1": "在飞龙聚合等级下，将觉醒核心、大型混沌残片、龙蛋、反物质靶丸、混沌核心与神龙注入器聚合成混沌注入器。",
+
+  "chapter.stage.7.quest.46.subtitle.1": "混沌农场",
+  "chapter.stage.7.quest.46.description.1": "在混沌聚合等级下，将末影龙预测产物、金龙之鳞、混沌核心、龙之心、龙首、混沌碎片与空白数据模型聚合成混沌守卫数据模型。",
+
+  "chapter.stage.7.quest.47.subtitle.1": "混沌模拟",
+  "chapter.stage.7.quest.47.description.1": "用模拟室获得混沌守卫预测产物",
+
+  "chapter.stage.7.quest.48.subtitle.1": "混沌产物1",
+  "chapter.stage.7.quest.48.description.1": "通过混沌守卫预测产物获得微型混沌残片。",
+
+  "chapter.stage.7.quest.49.subtitle.1": "混沌产物2",
+  "chapter.stage.7.quest.49.description.1": "通过混沌守卫预测产物获得混沌之心。",
+
+  "chapter.final.title": "终章",
+
+  "chapter.final.particle.title": "粒子加速器",
+  "chapter.final.particle.subtitle": "创造转化",
+  "chapter.final.particle.description": "&3粒子加速器&r利用氘、氦气和能量将&5究极精华&r转化为&6创造精华&r。",
+
+  "chapter.final.tablet.description": "这个符文仪式需要整整两个魔力石板的魔力。"
 }
