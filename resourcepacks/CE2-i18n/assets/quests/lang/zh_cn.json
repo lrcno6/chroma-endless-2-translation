@@ -1004,13 +1004,13 @@
 
   "chapter.stage.3.quest.72.title.1": "物品存储元件",
   "chapter.stage.3.quest.72.subtitle.1": "存储物品的 ME 磁盘",
-  "chapter.stage.3.quest.72.description.1": "&bME 存储元件&r可以存储多达63种物品，每存储一种物品消耗8字节记录类型，每一个字节可以存储一种8个物品。",
+  "chapter.stage.3.quest.72.description.1": "&bME 存储元件&r可以存储多达63种物品，每存储一种物品消耗总字节数的一部分来记录类型，每一个字节可以存储一种8个物品。",
   "chapter.stage.3.quest.72.description.2": "例如，1k-ME 存储元件对于单种物品可以存储 (1024-1*8)*8=8128 个。",
 
   "chapter.stage.3.quest.73.title.1": "流体存储单元",
   "chapter.stage.3.quest.73.subtitle.1": "存储流体的 ME 磁盘",
   "chapter.stage.3.quest.73.description.1": "事实上，并不是只有存储物品的存储元件。&bME 流体存储元件&r可以存储水、熔岩、各种油和液体燃料等流体。",
-  "chapter.stage.3.quest.73.description.2": "对于流体，每个字节可以存储一种 8 B（8000 mB）的流体。（注意每种流体仍然占用8字节）",
+  "chapter.stage.3.quest.73.description.2": "对于流体，每个字节可以存储一种 8 B（8000 mB）的流体。（注意每种流体还需要占据一定的字节）",
 
   "chapter.stage.3.quest.74.subtitle.1": "制造框架",
   "chapter.stage.3.quest.74.description.1": "向&5物质注入机&r中放入锡齿轮、绝缘外壳和钢板来制造热力的机器框架。",
@@ -1207,7 +1207,7 @@
   "chapter.stage.4.quest.45.subtitle.1": "向黑曜石灌注",
   "chapter.stage.4.quest.45.description.1": "向黑曜石粉灌注钻石水晶获得。",
 
-  "chapter.stage.4.quest.46.subtitle.1": "向锇压缩机输入强化黑曜石粉获得\n\n译注：用匠魂炉合金可以逃课（），1.0.7有效。",
+  "chapter.stage.4.quest.46.subtitle.1": "向锇压缩机输入强化黑曜石粉获得\n\n译注：用匠魂炉合金可以逃课（），1.0.8有效。",
 
   "chapter.stage.4.quest.47.subtitle.1": "终极控制",
   "chapter.stage.4.quest.47.description.1": "向精英控制电路灌注强化黑曜石获得。",
@@ -1980,5 +1980,330 @@
   "chapter.final.particle.subtitle": "创造转化",
   "chapter.final.particle.description": "&3粒子加速器&r利用氘、氦气和能量将&5究极精华&r转化为&6创造精华&r。",
 
-  "chapter.final.tablet.description": "这个符文仪式需要整整两个魔力石板的魔力。"
+  "chapter.final.tablet.description": "这个符文仪式需要整整两个魔力石板的魔力。",
+
+  "chapter.machinery.title": "沉浸工程重型机器",
+
+  "chapter.machinery.quest.1.title.1": "看向&6粉碎机",
+  "chapter.machinery.quest.1.subtitle.1": "沉浸粉碎",
+  "chapter.machinery.quest.1.description.1": "粉碎机是沉浸工程的一种3×5×3的多方块结构，用于将矿石磨成粉，可以提高矿物产量。",
+  "chapter.machinery.quest.1.description.2": "粉碎机没有 GUI，在其顶部可以接受 FE、RF 等形式的能量。",
+
+  "chapter.machinery.quest.2.title.1": "看向&6锯木机",
+  "chapter.machinery.quest.2.subtitle.1": "锯木头",
+  "chapter.machinery.quest.2.description.1": "锯木机是沉浸工程的一种3×5×3的多方块结构，可以将一个原木锯成6个木板。",
+
+  "chapter.machinery.quest.3.title.1": "看向&6装配机",
+  "chapter.machinery.quest.3.subtitle.1": "沉浸自动合成",
+  "chapter.machinery.quest.3.description.1": "装配机是沉浸工程的一种3x3x3的多方块结构，用于自动合成物品。在装配机内部可以设置合成的配方。其内可以储存一定流体，用来代替防腐木等配方中需要的流体桶。",
+
+  "chapter.machinery.quest.4.title.1": "看向&6自动化工程师装配台",
+  "chapter.machinery.quest.4.subtitle.1": "蓝图自动化",
+  "chapter.machinery.quest.4.description.1": "自动化工程师装配台是沉浸工程的一种3x2x3的多方块结构，是工程师装配台的自动化版本。其需要输入 RF 才能工作。搭建时的轻型工程块处用于输入物品。需要在 GUI 里放一张工程师蓝图才能工作。",
+
+  "chapter.machinery.quest.5.title.1": "看向&6流体储罐",
+  "chapter.machinery.quest.5.subtitle.1": "流体储存",
+  "chapter.machinery.quest.5.description.1": "流体储罐可以储存 512,000 mB（512 B）流体。从顶部输入流体，从底部输出。给予红石信号可以使其自动输出，但使用沉浸工程的流体泵输出速度更高。",
+
+  "chapter.machinery.quest.6.title.1": "看向&6储物筒仓",
+  "chapter.machinery.quest.6.subtitle.1": "物品存储",
+  "chapter.machinery.quest.6.description.1": "储物筒仓可以存储一种41472个物品（相当于24个箱子的容量）。从顶部输入，从底部输出。给予红石信号能自动输出。侧面会显示其内部储存物品及其数量。",
+
+  "chapter.machinery.quest.7.title.1": "看向&6储油罐",
+  "chapter.machinery.quest.7.subtitle.1": "更好的沉浸流体存储",
+  "chapter.machinery.quest.7.description.1": "储油罐是能自动平均分配的流体储罐，容量比流体储罐稍大，其侧面、顶部和底部均有流体输入输出口。它最多能存储 1024 B 的非气态流体。",
+
+  "chapter.machinery.quest.8.title.1": "看向&6强化高炉",
+  "chapter.machinery.quest.8.subtitle.1": "真正的热门话题",
+  "chapter.machinery.quest.8.description.1": "强化高炉是沉浸工程的一种多方块结构，用于将铁和焦炭合金成钢。它是高炉的升级版，允许自动输入输出并且可以通过添加高炉预热器来加速。",
+  "chapter.machinery.quest.8.description.2": "强化高炉有输出口来将钢和炉渣输出到朝向的容器。焦炭和铁从顶部输入，钢从前面输出，炉渣从后面输出，而两侧用于接高炉预热器。",
+
+  "chapter.machinery.quest.9.title.1": "看向&6高压精炼装置",
+  "chapter.machinery.quest.9.subtitle.1": "沉浸炼油",
+  "chapter.machinery.quest.9.description.1": "高压精炼装置能在其主反应室中加热并化合流体。它是现代原油精炼次级加工链中不可或缺的一环，例如裂解和脱硫。",
+
+  "chapter.machinery.quest.10.title.1": "看向&6蒸馏塔",
+  "chapter.machinery.quest.10.subtitle.1": "蒸馏之塔",
+  "chapter.machinery.quest.10.description.1": "蒸馏塔是沉浸原油的一种4x16x4的多方块结构，可以将流体分馏出其他流体，主要用于将石油分馏成可用的含硫柴油、润滑油、煤油和石脑油，同时产出沥青作为副产物。",
+
+  "chapter.machinery.quest.11.title.1": "看向&6井架",
+  "chapter.machinery.quest.11.subtitle.1": "寻油之塔",
+  "chapter.machinery.quest.11.description.1": "如何获得沉浸原油里的各种流体？",
+  "chapter.machinery.quest.11.description.2": "首先，你需要制作一个&6震波探测器&r。将其放下后，手持鹿弹右击，在一声爆响后再次右击以获得流体储层的探测结果。",
+  "chapter.machinery.quest.11.description.3": "然后你需要搭建一个&3井架&r，向其提供流体管道、液态混凝土和能量以钻探。混凝土用于固化和稳定流体管道。接下来，它会要求你输入水以继续钻探。钻探完成后你需要管道来输出钻取的流体。",
+  "chapter.machinery.quest.11.description.4": "最后，当流体储层的液压差降至0后（流体储层的50%%流体），将井架拆除，改用&5抽油机&r以抽取剩下的流体。注意抽油机的抽取口要和钻井铺设的管道对齐。",
+
+  "chapter.machinery.quest.12.title.1": "看向&6焦炭塔",
+  "chapter.machinery.quest.12.subtitle.1": "沥青裂解",
+  "chapter.machinery.quest.12.description.1": "焦炭塔是一个巨大的多方块结构，可将精炼残余物沥青裂解焦化为石油焦和含硫柴油。",
+
+  "chapter.machinery.quest.13.title.1": "看向&6挖掘机",
+  "chapter.machinery.quest.13.subtitle.1": "矿物生产",
+  "chapter.machinery.quest.13.description.1": "挖掘机是沉浸工程的一种8×3×7的多方块结构，用于将基岩下矿脉里的矿物挖出。",
+
+  "chapter.machinery.quest.14.title.1": "看向&6抽油机",
+  "chapter.machinery.quest.14.subtitle.1": "采油专家",
+
+  "chapter.machinery.quest.15.title.1": "看向&6避雷针",
+  "chapter.machinery.quest.15.subtitle.1": "雷电之能",
+  "chapter.machinery.quest.15.description.1": "避雷针相对容易搭建。它需要8个铜线圈、4个钢脚手架、4个高压蓄电池、4个轻型工程块、4个防腐木栅栏和3个高压线圈。",
+
+  "chapter.machinery.quest.16.title.1": "看向&6柴油发电机",
+  "chapter.machinery.quest.16.subtitle.1": "终极沉浸发电机",
+  "chapter.machinery.quest.16.description.1": "柴油发电机是沉浸工程的一种3×5×3的多方块结构，通过燃烧生物柴油或其他液体燃料来产生 IF/RF。柴油发电机在工作时会发出较大的噪音，可以戴隔音耳罩来选择性消除噪音。",
+
+  "chapter.powah.quest.1.title": "反应堆指南",
+  "chapter.powah.quest.1.subtitle.1": "反应堆是一种以晶质铀为燃料的发电机多方块结构",
+  "chapter.powah.quest.1.description.1": "搭建反应堆需要36个反应堆方块，在一个3x3x4的空间里放下，反应堆即会自动搭建。",
+  "chapter.powah.quest.1.description.2": "在产出能量的同时，反应堆会升温，使得燃料消耗速率加快，FE 产出降低。你需要输入水等冷却剂来冷却。你还可以使用雪、冰等固体冷却剂以达到更好的冷却效果，但流体冷却剂是必需的。",
+
+  "chapter.powah.quest.2.title": "太阳能板指南",
+  "chapter.powah.quest.2.subtitle.1": "太阳之力",
+  "chapter.powah.quest.2.description.1": "太阳能板在日光照射时产生 FE，等级越高产能速率越高。有方块挡住日光会使其停止工作。",
+
+  "chapter.powah.quest.3.title": "岩浆发电机指南",
+  "chapter.powah.quest.3.subtitle.1": "岩浆发电机通过熔岩等高温流体来产出 FE",
+  "chapter.powah.quest.3.description.1": "其单位燃料的产出不变，等级越高燃烧燃料的速率越快，产能速率越高。",
+
+  "chapter.powah.quest.4.title": "熔炉发电机指南",
+  "chapter.powah.quest.4.subtitle.1": "熔炉发电机是一种使用煤炭、木头等固体燃料的发电机",
+  "chapter.powah.quest.4.description.1": "其单位燃料的产出不变，等级越高燃烧燃料的速率越快，产能速率越高。",
+
+  "chapter.powah.quest.5.title": "热力发电机指南",
+  "chapter.powah.quest.5.subtitle.1": "热腾腾的",
+  "chapter.powah.quest.5.description.1": "热力发电机在熔岩等高温流体/方块上产出 FE。需要消耗水等流体冷却剂。",
+
+  "chapter.powah.quest.6.title": "电池指南",
+  "chapter.powah.quest.6.subtitle.1": "充电",
+  "chapter.powah.quest.6.description.1": "当放在玩家物品栏时可以给其他物品充电。还可以在末影单元的 GUI 里用来提高末影网络频道的能量容量，电池里已有的能量也会存入末影网络频道。",
+
+  "chapter.powah.quest.7.title": "能量单元指南",
+  "chapter.powah.quest.7.subtitle.1": "能量单元用于储存能量",
+  "chapter.powah.quest.7.description.1": "还可以在末影单元的 GUI 里用来提高末影网络频道的能量容量，能量单元里已有的能量也会存入末影网络频道。",
+
+  "chapter.powah.quest.8.title": "末影单元指南",
+  "chapter.powah.quest.8.subtitle.1": "末影单元用于向所有者的末影网络的一个频道存储能量。",
+  "chapter.powah.quest.8.description.1": "只要频道有一定的能量容量，你可以在任何地方访问其中的能量。",
+  "chapter.powah.quest.8.description.2": "你可以在末影单元 GUI 里 Shift + 单击能量单元或电池来提高频道的能量容量。",
+  "chapter.powah.quest.8.description.3": "增加的能量容量与你加入物品的储量相等，最高可达 9E FE。",
+
+  "chapter.powah.quest.9.title": "线缆指南",
+  "chapter.powah.quest.9.subtitle.1": "能量线缆用于在机器间传输能量",
+  "chapter.powah.quest.9.description.1": "你可以用配置模式的扳手右击来改变其传输模式。",
+
+  "chapter.powah.quest.10.title": "末影道门",
+  "chapter.powah.quest.10.subtitle.1": "末影传输",
+  "chapter.powah.quest.10.description.1": "在相邻方块和末影网络间传输能量。",
+  "chapter.powah.quest.10.description.2": "与末影单元不同，你不能在其 GUI 里提高频道能量容量。",
+
+  "chapter.powah.quest.11.title": "能量提取",
+  "chapter.powah.quest.11.subtitle.1": "能量排水口",
+  "chapter.powah.quest.11.description.1": "能量提取器用于将物品内储存的能量取出并存入其内部存储。通过线缆可以将能量输出以重新利用。",
+
+  "chapter.powah.quest.12.title": "能量漏斗",
+  "chapter.powah.quest.12.subtitle.1": "物品充电",
+  "chapter.powah.quest.12.description.1": "能量漏斗可以给面朝方向的箱子等容器里的物品充电。",
+
+  "chapter.powah.quest.13.title": "玩家供电仪",
+  "chapter.powah.quest.13.subtitle.1": "物品栏充电器",
+  "chapter.powah.quest.13.description.1": "玩家供电仪用于给玩家物品栏、护甲、副手的物品无线充电。使用普通绑定卡可以在同一维度充电，而使用跨纬度绑定卡可以跨纬度充电。",
+
+  "chapter.powah.quest.14.title": "充能棒",
+  "chapter.powah.quest.14.subtitle.1": "合成之棒",
+  "chapter.powah.quest.14.description.1": "充能台用于给物品充能。其需要至少一个充能棒在其9x9范围内才能工作。充能棒数量越多，等级越高，充能速度越快。",
+
+  "chapter.thermal.title": "热力系列",
+
+  "chapter.thermal.quest.1.title": "空白升级",
+  "chapter.thermal.quest.1.subtitle.1": "升级组件",
+
+  "chapter.thermal.quest.2.title": "流体过滤规制",
+  "chapter.thermal.quest.2.subtitle.1": "约束",
+  "chapter.thermal.quest.2.description.1": "允许限制输入的流体种类。",
+
+  "chapter.thermal.quest.3.subtitle.1": "节省能量",
+  "chapter.thermal.quest.3.description.1": "防止线圈饱和后的 RF 损失。",
+
+  "chapter.thermal.quest.4.subtitle.1": "高效催化",
+  "chapter.thermal.quest.4.description.1": "触媒回收室将催化剂消耗率降低至0.8倍，而将处理耗能提升至1.25倍。",
+
+  "chapter.thermal.quest.5.subtitle.1": "更多能量！",
+  "chapter.thermal.quest.5.description.1": "扩展通量线圈将 RF 传输和 RF 容量提升至4倍。",
+
+  "chapter.thermal.quest.6.subtitle.1": "节能主义",
+  "chapter.thermal.quest.6.description.1": "通量效率升级可以将处理耗能降低至0.9倍，但最大能耗将降低10%%。",
+
+  "chapter.thermal.quest.7.subtitle.1": "范围升级",
+  "chapter.thermal.quest.7.description.1": "径向范围拓展将扩大工具或机器的工作范围。",
+  "chapter.thermal.quest.7.description.2": "每个径向范围拓展会将最大半径提高1格。",
+
+  "chapter.thermal.quest.8.subtitle.1": "燃料效率提升",
+  "chapter.thermal.quest.8.description.1": "提高燃料效率。",
+
+  "chapter.thermal.quest.9.subtitle.1": "辅助销毁器",
+  "chapter.thermal.quest.9.description.1": "销毁多余的副产物。",
+
+  "chapter.thermal.quest.10.subtitle.1": "更多流体",
+  "chapter.thermal.quest.10.description.1": "扩容储罐构造可以将机器、设备、能源炉或工具的储罐容积提升至4倍。",
+
+  "chapter.thermal.quest.11.subtitle.1": "更好的能源炉",
+  "chapter.thermal.quest.11.description.1": "辅助反应室可以将能源炉的最大输出增加100%%，但燃料产能将下降至0.9倍。",
+
+  "chapter.thermal.quest.12.subtitle.1": "第二产物",
+  "chapter.thermal.quest.12.description.1": "辅助处理筛可以将副产物产出提升15%%，但处理耗能将增加至1.25倍。",
+
+  "chapter.thermal.quest.13.subtitle.1": "自动化升级",
+  "chapter.thermal.quest.13.description.1": "循环处理升级可以将产物循环至输入槽，对于自动化非常有用。",
+
+  "chapter.thermal.quest.14.subtitle.1": "能量放大",
+  "chapter.thermal.quest.14.description.1": "通量连接放大器可以将基础运速提升100%%，但处理耗能将增加至1.1倍。",
+
+  "chapter.thermal.quest.15.subtitle.1": "药水升级",
+  "chapter.thermal.quest.15.description.1": "炼金延长器可以将药水效果时长提升100%%，对即时生效效果无效。",
+
+  "chapter.thermal.quest.16.subtitle.1": "药水放大",
+  "chapter.thermal.quest.16.description.1": "炼金放大器可以将药水的等级提高1，但效果时长降低25%%。",
+
+  "chapter.thermal.quest.17.subtitle.1": "能量升级",
+  "chapter.thermal.quest.17.description.1": "强导通量线圈将 RF 容量提升至2倍，将 RF 传输提升至6倍。",
+
+  "chapter.thermal.quest.18.subtitle.1": "经验储存",
+  "chapter.thermal.quest.18.description.1": "允许存储与提取经验",
+
+  "chapter.thermal.quest.19.subtitle.1": "强大过滤",
+  "chapter.thermal.quest.19.description.1": "物品过滤规制可以让机器、设备或装备过滤输入的物品。",
+  "chapter.thermal.quest.19.description.2": "过滤规制有专门的配置 GUI。通过 Shift + 右击安装了过滤配制的方块或物品，或是在方块 GUI 里的标签可以找到配置 GUI。",
+  "chapter.thermal.quest.19.description.3": "物品过滤规制最多可以添加15种物品，并且可以选择黑白名单模式以及是否忽略 NBT。",
+
+  "chapter.thermal.quest.20.subtitle.1": "化石能源",
+  "chapter.thermal.quest.20.description.1": "斯特林能源炉可以燃烧可燃物品以产生 RF。",
+
+  "chapter.thermal.quest.21.subtitle.1": "桶装能源",
+  "chapter.thermal.quest.21.description.1": "压缩能源炉可以燃烧树油等液体燃料以产生 RF。",
+
+  "chapter.thermal.quest.22.subtitle.1": "嘿嘿……小钱钱……",
+  "chapter.thermal.quest.22.description.1": "通货能源炉可以消耗钱币来产生 RF。",
+
+  "chapter.thermal.quest.23.subtitle.1": "闪耀宝石",
+  "chapter.thermal.quest.23.description.1": "珠宝能源炉可以消耗水晶和宝石来产生 RF。",
+
+  "chapter.thermal.quest.24.subtitle.1": "已附魔",
+  "chapter.thermal.quest.24.description.1": "祛魔能源炉可以用附魔书等附魔物品来产生 RF。",
+
+  "chapter.thermal.quest.25.subtitle.1": "有吃的！",
+  "chapter.thermal.quest.25.description.1": "饕餮能源炉可以消耗食物来产生 RF。",
+
+  "chapter.thermal.quest.26.subtitle.1": "垃圾桶",
+  "chapter.thermal.quest.26.description.1": "销毁器可以将输入的物品和流体全数销毁。",
+  "chapter.thermal.quest.26.description.2": "自动输入进销毁器的物品和流体会立即销毁，而通过 GUI 放入的物品进入存储，在按下销毁按键后才会销毁。",
+  "chapter.thermal.quest.26.description.3": "可以插入过滤规制以过滤输入。",
+  "chapter.thermal.quest.26.description.4": "红石控制只对自动输入的物品和流体有效。",
+
+  "chapter.thermal.quest.27.subtitle.1": "物品充能",
+  "chapter.thermal.quest.27.description.1": "可以进行电力充能、流体灌装及装载增强功能。",
+
+  "chapter.thermal.quest.28.subtitle.1": "蜂蜜提取机",
+  "chapter.thermal.quest.28.description.1": "蜂箱漏斗可以从顶部的蜂箱里提取蜜脾和液态蜂蜜。",
+
+  "chapter.thermal.quest.29.subtitle.1": "不要再伐林了",
+  "chapter.thermal.quest.29.description.1": "树汁提取器可以从相邻的树里提取流体。",
+  "chapter.thermal.quest.29.description.2": "可以加入肥料来提高产量。",
+  "chapter.thermal.quest.29.description.3": "骨粉可以在8个处理循环里提供1.5倍产出，而植育一号可以在16个处理循环里提供2倍产出。",
+  "chapter.thermal.quest.29.description.4": "不同的树会产出不同的流体。在 JEI 查看更多信息。",
+
+  "chapter.thermal.quest.30.subtitle.1": "作物种植",
+  "chapter.thermal.quest.30.description.1": "植育土注能机可以消耗能量来加快附近的通量植育土上的作物生长。基础情况下，其工作范围为3x3x3。加入径向范围拓展可以将其范围拓展至7x3x7。",
+  "chapter.thermal.quest.30.description.2": "整合组件可以提高其催熟效果。",
+
+  "chapter.thermal.quest.31.subtitle.1": "吸收器",
+  "chapter.thermal.quest.31.description.1": "真空箱子可以收集工作范围内的掉落物。",
+  "chapter.thermal.quest.31.description.2": "安装知识浓缩器后其可以收集经验球。",
+  "chapter.thermal.quest.31.description.3": "基础情况下，真空箱子可以收集9x9x9范围内的物品。安装径向范围拓展后范围拓展至15x15x15。",
+
+  "chapter.thermal.quest.32.subtitle.1": "快速充电",
+  "chapter.thermal.quest.32.description.1": "可以同时快速给多个物品充电。",
+
+  "chapter.thermal.quest.33.subtitle.1": "生态环保",
+  "chapter.thermal.quest.33.description.1": "用有机废料产出堆肥。",
+
+  "chapter.thermal.quest.34.subtitle.1": "钓鱼机",
+  "chapter.thermal.quest.34.description.1": "水产捕捞器在放在水体里时可以被动产出鱼。",
+  "chapter.thermal.quest.34.description.2": "产出鱼的速率与群系、天气和增强有关系。基础情况下每几分钟会产出1条鱼。",
+
+  "chapter.thermal.quest.35.subtitle.1": "无限水",
+  "chapter.thermal.quest.35.description.1": "蓄水器可以生成无限的水。",
+  "chapter.thermal.quest.35.description.2": "要使其产出水，蓄水器需要与两个水源相邻。",
+  "chapter.thermal.quest.35.description.3": "其上方和下方的水源不计其内。",
+
+  "chapter.thermal.quest.36.subtitle.1": "自动施药",
+  "chapter.thermal.quest.36.description.1": "药水雾化器可以周期性地喷洒药水以对附近生物施加效果。",
+  "chapter.thermal.quest.36.description.2": "其持续时间只有原药水的1/4。",
+  "chapter.thermal.quest.36.description.3": "当工作范围内没有生物时，其将自动停止工作。",
+  "chapter.thermal.quest.36.description.4": "基础情况下，药水雾化器工作范围为9x9x9。安装径向范围拓展后范围拓展至15x15x15。",
+
+  "chapter.thermal.quest.37.subtitle.1": "刷石机",
+  "chapter.thermal.quest.37.description.1": "造石机会根据相邻方块与流体的不同无限产出不同的石头。",
+  "chapter.thermal.quest.37.description.2": "它需要与一个熔岩源和一个冷却方块相邻，有时底部还需要放一种方块。",
+
+  "chapter.thermal.quest.38.subtitle.1": "热力流体储罐",
+  "chapter.thermal.quest.38.description.1": "流体单元可以存储和输出流体。",
+
+  "chapter.thermal.quest.39.subtitle.1": "能量存储",
+  "chapter.thermal.quest.39.description.1": "红石通量单元可以存储和输出 RF。",
+
+  "chapter.thermal.quest.40.subtitle.1": "通量熔炉",
+  "chapter.thermal.quest.40.description.1": "红石熔炼炉可以向普通熔炉一样熔炼物品。",
+
+  "chapter.thermal.quest.41.subtitle.1": "这何尝不是一种粉碎机",
+  "chapter.thermal.quest.41.description.1": "离心分离机可以将混合材料分离成单独的材料，例如将合金粉分离成各种基础金属粉。",
+  "chapter.thermal.quest.41.description.2": "还可以用来从花中高效提取染料。",
+
+  "chapter.thermal.quest.42.subtitle.1": "燃料生产",
+  "chapter.thermal.quest.42.description.1": "热解炉可以在高温低氧环境下将物质分解。",
+  "chapter.thermal.quest.42.description.2": "通常（只能）用来将有机物质（原木和沥青）和煤炭热解成清洁高效的燃料。",
+
+  "chapter.thermal.quest.43.subtitle.1": "木材加工",
+  "chapter.thermal.quest.43.description.1": "锯木机可以将原木锯成木板，并有比合成更高的产出，还会产出锯末作为副产物。",
+
+  "chapter.thermal.quest.44.subtitle.1": "物品打包",
+  "chapter.thermal.quest.44.description.1": "多驱冲压机可以根据模具的不同将金属压成不同的形状或是将物品/方块打包/解包。",
+
+  "chapter.thermal.quest.45.subtitle.1": "流体灌装",
+  "chapter.thermal.quest.45.description.1": "流体灌装机可以给桶、玻璃瓶等物品灌装流体。",
+  "chapter.thermal.quest.45.description.2":  "可以用来自动给药水酿造机制作的药水装瓶。",
+
+  "chapter.thermal.quest.46.subtitle.1": "粉碎",
+  "chapter.thermal.quest.46.description.1": "磨粉机用来粉碎物品和矿物。可以提高矿物产量，并且加入增强和催化剂可以进一步提高产量。",
+
+  "chapter.thermal.quest.47.subtitle.1": "钢也能给你熔咯",
+  "chapter.thermal.quest.47.description.1": "熔岩炉用于将物品熔炼成流体。",
+
+  "chapter.thermal.quest.48.subtitle.1": "药水酿造",
+  "chapter.thermal.quest.48.description.1": "药水酿造机可以酿药。",
+  "chapter.thermal.quest.48.description.2": "与酿造台酿制药水瓶不同，药水酿造机可以直接酿造药水流体。",
+  "chapter.thermal.quest.48.description.3": "一个材料可以酿造一桶药水，相当于4瓶药。",
+
+  "chapter.thermal.quest.49.subtitle.1": "更好的熔炉",
+  "chapter.thermal.quest.49.description.1": "感应炉可以熔炼多种物品，用于制作合金。",
+  "chapter.thermal.quest.49.description.2": "也可以熔炼矿物，并且可以加入催化剂以提高产量。",
+  "chapter.thermal.quest.49.description.3": "熔炼矿物有概率可以产出副产物富炉渣，其可以用作催化剂或是合成植育一号。",
+
+  "chapter.thermal.quest.50.subtitle.1": "固化",
+  "chapter.thermal.quest.50.description.1": "急速冷冻机可以将水、熔融金属等流体冷却成固态。",
+  "chapter.thermal.quest.50.description.2": "可以放入铸模来确定产物的形状。",
+
+  "chapter.thermal.quest.51.subtitle.1": "重塑",
+  "chapter.thermal.quest.51.description.1": "结晶器可以将宝石粉结晶成宝石。",
+
+  "chapter.thermal.quest.52.subtitle.1": "植物繁殖",
+  "chapter.thermal.quest.52.description.1": "有机灌注器消耗 RF、水和可选的肥料来种植作物、花和树苗。",
+
+  "chapter.thermal.quest.53.subtitle.1": "精炼",
+  "chapter.thermal.quest.53.description.1": "流体精炼机可以精炼树脂、树汁等流体。",
+
+  "chapter.thermal.quest.54.subtitle.1": "自动合成",
+  "chapter.thermal.quest.54.description.1": "序列装配台可以自动合成物品。",
+
+  "chapter.thermal.quest.55.subtitle.1": "更多能量存储",
+  "chapter.thermal.quest.55.description.1" : "将 RF 容量提升至6倍，将 RF 传输提升至2倍。"
 }

@@ -26,6 +26,23 @@
 		- [x] 第7章
 		- [x] 最终章
 	- [ ] 支线任务
+		- [x] 沉浸工程重型机器
+		- [x] Powah
+		- [x] 热力系列
+		- [ ] 禁忌与奥秘
+		- [ ] 通用机械
+		- [ ] 元素周期表
+		- [ ] 深度怪物学习
+		- [ ] 深暗之园
+		- [ ] 大型反应堆
+		- [ ] 千面厨房
+		- [ ] 应用能源
+		- [ ] 蔚蓝浩空
+		- [ ] 邪恶工艺
+		- [ ] 巧工魔艺
+		- [ ] 神秘农业
+		- [ ] 神化
+		- [ ] Spirit
 - [x] 思索
 
 欢迎大家来贡献翻译，指正错误，提出建议等
@@ -38,8 +55,8 @@
 
 再在 GitHub/Gitee 界面点击克隆/下载（Code），再点击下载 ZIP（Download ZIP）下载 ZIP 文件。
 
-![Gitee下载](gitee-download.png)
-![GitHub下载](github-download.png)
+![Gitee 下载](gitee-download.png)
+![GitHub 下载](github-download.png)
 
 下载完成后解压到你的整合包目录下：
 
