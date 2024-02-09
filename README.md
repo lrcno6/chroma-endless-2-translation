@@ -4,7 +4,9 @@
 
 当前整合包版本：1.0.8
 
-巧工魔艺（MNA）汉化使用了 mcmod 社区下载的汉化（QQ酱740777、清秋）
+巧工魔艺（MNA）汉化使用了mcmod社区下载的汉化（QQ酱740777、清秋）
+
+注：资源包名字有改动，更新汉化时可能需要将之前的资源包删除。
 
 进度：
 
@@ -29,7 +31,7 @@
 		- [x] 沉浸工程重型机器
 		- [x] Powah
 		- [x] 热力系列
-		- [ ] 禁忌与奥秘
+		- [x] 禁忌与奥秘
 		- [ ] 通用机械
 		- [ ] 元素周期表
 		- [ ] 深度怪物学习
@@ -51,15 +53,15 @@
 
 ## 汉化安装教学
 
-首先需要自行下载 [I18N 汉化模组](https://www.modrinth.com/mod/i18nupdatemod/versions)。
+首先需要自行下载[I18N汉化模组](https://www.modrinth.com/mod/i18nupdatemod/versions)。
 
-再在 GitHub/Gitee 界面点击克隆/下载（Code），再点击下载 ZIP（Download ZIP）下载 ZIP 文件。
+再在GitHub/Gitee界面点击克隆/下载（Code），再点击下载ZIP（Download ZIP）下载ZIP文件。
 
-![Gitee 下载](gitee-download.png)
-![GitHub 下载](github-download.png)
+![Gitee下载](gitee-download.png)
+![GitHub下载](github-download.png)
 
 下载完成后解压到你的整合包目录下：
 
 ![整合包目录](modpack-folder.png)
 
-最后，进入游戏启用 CE2-i18n 和 mna-i18n 两个资源包。
+最后，进入游戏启用CE2-l10n、mna-l10n和i18n-patch三个资源包。
