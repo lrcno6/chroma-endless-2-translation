@@ -1,0 +1,1828 @@
+{
+	id: "29D5CE6B1873EE23"
+	group: "6E1FC0F5596E1533"
+	order_index: 2
+	filename: "thermal"
+	title: "{chapter.thermal.title}"
+	icon: "thermal:redstone_servo"
+	default_quest_shape: "rsquare"
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -4.5d
+			y: -6.0d
+			width: 18.0d
+			height: 0.15d
+			rotation: 0.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 6.0d
+			width: 18.0d
+			height: 0.15d
+			rotation: 0.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			width: 14.0d
+			height: 0.15d
+			rotation: 90.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 0.0d
+			width: 14.0d
+			height: 0.15d
+			rotation: 90.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -8.5d
+			y: -4.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/thermal_augments.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: 2.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/thermal_machines.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -8.5d
+			y: 4.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/thermal_generation.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: -5.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/thermal_other.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: -1.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/thermal_storage.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -8.5d
+			y: 3.0d
+			width: 9.0d
+			height: 0.15d
+			rotation: 0.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			width: 9.0d
+			height: 0.15d
+			rotation: 0.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -0.5d
+			y: -1.5d
+			width: 9.0d
+			height: 0.15d
+			rotation: 0.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			width: 14.0d
+			height: 0.15d
+			rotation: 90.0d
+			image: "mekanism:textures/block/dynamic_tank.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/devices/nyi/heat_sink_back_on.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/energy_cell_bottom.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -12.5d
+			y: 3.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: -6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/item/slot_seal.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -4.5d
+			y: 6.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "thermal:textures/block/cells/item_cell_side.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: -1.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.28.subtitle.1}"
+			description: ["{chapter.thermal.quest.28.description.1}"]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "5ADD538A430A6BD1"
+			tasks: [{
+				id: "2E513BDDE620003B"
+				type: "item"
+				item: "thermal:device_hive_extractor"
+			}]
+			rewards: [{
+				id: "6872DDC09229F593"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.29.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.29.description.1}"
+				""
+				"{chapter.thermal.quest.29.description.2}"
+				""
+				"{chapter.thermal.quest.29.description.3}"
+				""
+				"{chapter.thermal.quest.29.description.4}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "1C8B10373C662F87"
+			tasks: [{
+				id: "2EA6BAD508F7830E"
+				type: "item"
+				item: "thermal:device_tree_extractor"
+			}]
+			rewards: [{
+				id: "0910B55BF7D60207"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.34.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.34.description.1}"
+				""
+				"{chapter.thermal.quest.34.description.2}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "49AAD4E5CBD806A1"
+			tasks: [{
+				id: "5A8E8B93ABCDAD3A"
+				type: "item"
+				item: "thermal:device_fisher"
+			}]
+			rewards: [{
+				id: "7D73818DE096B939"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.33.subtitle.1}"
+			description: ["{chapter.thermal.quest.33.description.1}"]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "0990768DB7AC7D1C"
+			tasks: [{
+				id: "3177B32C0465D259"
+				type: "item"
+				item: "thermal:device_composter"
+			}]
+			rewards: [{
+				id: "1FCB4B393BD77DC3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.30.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.30.description.1}"
+				""
+				"{chapter.thermal.quest.30.description.2}"
+			]
+			dependencies: ["15FBBAAF0B428AF1"]
+			id: "6092850D854A0A8E"
+			tasks: [{
+				id: "2A0BF6721164FFF2"
+				type: "item"
+				item: "thermal:device_soil_infuser"
+			}]
+			rewards: [{
+				id: "4D1E3D9FCB167A9F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.35.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.35.description.1}"
+				""
+				"{chapter.thermal.quest.35.description.2}"
+				""
+				"{chapter.thermal.quest.35.description.3}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "1E7042ECC96A2B31"
+			tasks: [{
+				id: "31AB766D27F20BFA"
+				type: "item"
+				item: "thermal:device_water_gen"
+			}]
+			rewards: [{
+				id: "65E3FE7306347BCF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.37.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.37.description.1}"
+				""
+				"{chapter.thermal.quest.37.description.2}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "1E13364D0C67775D"
+			tasks: [{
+				id: "63DD2C6389896317"
+				type: "item"
+				item: "thermal:device_rock_gen"
+			}]
+			rewards: [{
+				id: "037F834728643C07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.31.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.31.description.1}"
+				""
+				"{chapter.thermal.quest.31.description.2}"
+				""
+				"{chapter.thermal.quest.31.description.3}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "19B6A548FC89F462"
+			tasks: [{
+				id: "67C119244B601ABF"
+				type: "item"
+				item: "thermal:device_collector"
+			}]
+			rewards: [{
+				id: "71FABE0509C9ABED"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.26.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.26.description.1}"
+				""
+				"{chapter.thermal.quest.26.description.2}"
+				""
+				"{chapter.thermal.quest.26.description.3}"
+				""
+				"{chapter.thermal.quest.26.description.4}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "514C048411C4EEA8"
+			tasks: [{
+				id: "3CAA50D84A61CEE0"
+				type: "item"
+				item: "thermal:device_nullifier"
+			}]
+			rewards: [{
+				id: "0ADDBC4445DD9744"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.36.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.36.description.1}"
+				""
+				"{chapter.thermal.quest.36.description.2}"
+				""
+				"{chapter.thermal.quest.36.description.3}"
+				""
+				"{chapter.thermal.quest.36.description.4}"
+			]
+			dependencies: ["0ED2881C63A829C5"]
+			id: "6AF5B5A35F41C0D0"
+			tasks: [{
+				id: "1DCB7E86F4C4AF1E"
+				type: "item"
+				item: "thermal:device_potion_diffuser"
+			}]
+			rewards: [{
+				id: "02D9F5E04658FBD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.0d
+			subtitle: "{chapter.thermal.quest.27.subtitle.1}"
+			description: ["{chapter.thermal.quest.27.description.1}"]
+			dependencies: ["15FBBAAF0B428AF1"]
+			id: "26060567F25C9142"
+			tasks: [{
+				id: "0BD5CF06D681A3CC"
+				type: "item"
+				item: "thermal:tinker_bench"
+			}]
+			rewards: [{
+				id: "04540D170BBD1A2E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -3.0d
+			subtitle: "{chapter.thermal.quest.32.subtitle.1}"
+			description: ["{chapter.thermal.quest.32.description.1}"]
+			dependencies: ["15FBBAAF0B428AF1"]
+			id: "704F93C71960DB61"
+			tasks: [{
+				id: "7AD47EB0419B698A"
+				type: "item"
+				item: "thermal:charge_bench"
+			}]
+			rewards: [{
+				id: "6D12F1BB2C7FA276"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			subtitle: "{chapter.thermal.quest.39.subtitle.1}"
+			description: ["{chapter.thermal.quest.39.description.1}"]
+			dependencies: [
+				"3BE4BF5D7EC90BC9"
+				"0F637CFEAD9104E1"
+			]
+			id: "24C2910D8AEC4ADE"
+			tasks: [{
+				id: "3110CCAF3D56494F"
+				type: "item"
+				item: {
+					id: "thermal:energy_cell"
+					Count: 1
+					tag: {
+						BlockEntityTag: {
+							EnergyMax: 1000000
+							EnergySend: 1000
+							Energy: 0
+							EnergyRecv: 1000
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6C7F69D7CEDCA3E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			subtitle: "{chapter.thermal.quest.38.subtitle.1}"
+			description: ["{chapter.thermal.quest.38.description.1}"]
+			dependencies: [
+				"3BE4BF5D7EC90BC9"
+				"0F637CFEAD9104E1"
+			]
+			id: "637F34FF5916EA5B"
+			tasks: [{
+				id: "2B0BAF585507C5B6"
+				type: "item"
+				item: {
+					id: "thermal:fluid_cell"
+					Count: 1
+					tag: {
+						BlockEntityTag: {
+							TankInv: [{
+								FluidName: "minecraft:empty"
+								Capacity: 32000
+								Tank: 0b
+								Amount: 0
+							}]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "050971AA35D57024"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -2.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.18.subtitle.1}"
+			description: ["{chapter.thermal.quest.18.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "46019001B5CC8EF6"
+			tasks: [{
+				id: "1D20ABB632DB0734"
+				type: "item"
+				item: "thermal:xp_storage_augment"
+			}]
+			rewards: [{
+				id: "306EE095CCA0B384"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: -2.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.5.subtitle.1}"
+			description: ["{chapter.thermal.quest.5.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "5616729557DAAA3F"
+			tasks: [{
+				id: "058960A237CDEB61"
+				type: "item"
+				item: "thermal:rf_coil_augment"
+			}]
+			rewards: [{
+				id: "1A2F58A1BF07EF33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.55.subtitle.1}"
+			description: ["{chapter.thermal.quest.55.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "75C240AE82EE45E1"
+			tasks: [{
+				id: "6263E7A2866639AF"
+				type: "item"
+				item: "thermal:rf_coil_storage_augment"
+			}]
+			rewards: [{
+				id: "3FAAF4856266BF6E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: -1.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.17.subtitle.1}"
+			description: ["{chapter.thermal.quest.17.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "596EF613AC75F6F9"
+			tasks: [{
+				id: "50901D97324B288B"
+				type: "item"
+				item: "thermal:rf_coil_xfer_augment"
+			}]
+			rewards: [{
+				id: "2321C10727FBE3F1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.10.subtitle.1}"
+			description: ["{chapter.thermal.quest.10.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "3303E4F904EC9DC5"
+			tasks: [{
+				id: "149653EF4EE55327"
+				type: "item"
+				item: "thermal:fluid_tank_augment"
+			}]
+			rewards: [{
+				id: "78B081863915EA06"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: -2.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.19.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.19.description.1}"
+				""
+				"{chapter.thermal.quest.19.description.1}"
+				""
+				"{chapter.thermal.quest.19.description.1}"
+			]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "6C1A64AB7478ED94"
+			tasks: [{
+				id: "7221C781B9A44F5F"
+				type: "item"
+				item: "thermal:item_filter_augment"
+			}]
+			rewards: [{
+				id: "3E2C41A1721475D2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.thermal.quest.2.title}"
+			x: -9.0d
+			y: -2.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.2.subtitle.1}"
+			description: ["{chapter.thermal.quest.2.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "219E41A99F65B3F7"
+			tasks: [{
+				id: "04C5E3425CAB5E11"
+				type: "item"
+				item: "thermal:fluid_filter_augment"
+			}]
+			rewards: [{
+				id: "7D40AF14CF4F1FF1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.14.subtitle.1}"
+			description: ["{chapter.thermal.quest.14.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "1A18766CBFE5CAB9"
+			tasks: [{
+				id: "6CB4AEEAFF7B8E65"
+				type: "item"
+				item: "thermal:machine_speed_augment"
+			}]
+			rewards: [{
+				id: "5C526F80CEBBD87A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.6.subtitle.1}"
+			description: ["{chapter.thermal.quest.6.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "57CDC7BDF791004B"
+			tasks: [{
+				id: "4A1E63F93B30B18B"
+				type: "item"
+				item: "thermal:machine_efficiency_augment"
+			}]
+			rewards: [{
+				id: "6AD875E3B12CECCF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.12.subtitle.1}"
+			description: ["{chapter.thermal.quest.12.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "5EFA8AD1C3D774EF"
+			tasks: [{
+				id: "7F37F91CDA3A40F1"
+				type: "item"
+				item: "thermal:machine_output_augment"
+			}]
+			rewards: [{
+				id: "565562E07FFD05FF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: -1.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.4.subtitle.1}"
+			description: ["{chapter.thermal.quest.4.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "47AE7B40831D79FF"
+			tasks: [{
+				id: "56470F76065252F7"
+				type: "item"
+				item: "thermal:machine_catalyst_augment"
+			}]
+			rewards: [{
+				id: "0FC9056C14B03C38"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.13.subtitle.1}"
+			description: ["{chapter.thermal.quest.13.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "4E6D5AA39CBE712E"
+			tasks: [{
+				id: "049567E2C2E7B422"
+				type: "item"
+				item: "thermal:machine_cycle_augment"
+			}]
+			rewards: [{
+				id: "749A0F1F86700DB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.9.subtitle.1}"
+			description: ["{chapter.thermal.quest.9.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "1DC5972E37492322"
+			tasks: [{
+				id: "252D218F0431FF54"
+				type: "item"
+				item: "thermal:machine_null_augment"
+			}]
+			rewards: [{
+				id: "7E32379985F00421"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.11.subtitle.1}"
+			description: ["{chapter.thermal.quest.11.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "16B5556843D96D27"
+			tasks: [{
+				id: "0FF98DF2E8AC984D"
+				type: "item"
+				item: "thermal:dynamo_output_augment"
+			}]
+			rewards: [{
+				id: "630C2B64C998E3AF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.8.subtitle.1}"
+			description: ["{chapter.thermal.quest.8.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "51BC1903B482156D"
+			tasks: [{
+				id: "1B397E3BE37BE7EA"
+				type: "item"
+				item: "thermal:dynamo_fuel_augment"
+			}]
+			rewards: [{
+				id: "0171B59425A848FA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -2.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.3.subtitle.1}"
+			description: ["{chapter.thermal.quest.3.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "7EEA850EADBA7364"
+			tasks: [{
+				id: "4441D9ACB687B363"
+				type: "item"
+				item: "thermal:dynamo_throttle_augment"
+			}]
+			rewards: [{
+				id: "1DAB2FD5F437A192"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.7.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.7.description.1}"
+				""
+				"{chapter.thermal.quest.7.description.2}"
+			]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "20DF25E14BA20685"
+			tasks: [{
+				id: "07A7FD351C261D84"
+				type: "item"
+				item: "thermal:area_radius_augment"
+			}]
+			rewards: [{
+				id: "54DDB9C4FFFEF434"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.16.subtitle.1}"
+			description: ["{chapter.thermal.quest.16.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "54F571CA4C41A930"
+			tasks: [{
+				id: "5AA1FA25EA4A6A35"
+				type: "item"
+				item: "thermal:potion_amplifier_augment"
+			}]
+			rewards: [{
+				id: "4F0A730DC315C176"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.15.subtitle.1}"
+			description: ["{chapter.thermal.quest.15.description.1}"]
+			dependencies: ["7798E5C49F1FD162"]
+			id: "7834878457FC30CF"
+			tasks: [{
+				id: "69C928D5FAF3CAC7"
+				type: "item"
+				item: "thermal:potion_duration_augment"
+			}]
+			rewards: [{
+				id: "4B6310212F547360"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 3.0d
+			subtitle: "{chapter.thermal.quest.40.subtitle.1}"
+			description: ["{chapter.thermal.quest.40.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"0ED2881C63A829C5"
+			]
+			id: "7C761BC5BA44B326"
+			tasks: [{
+				id: "67BCF90ACB924F36"
+				type: "item"
+				item: "thermal:machine_furnace"
+			}]
+			rewards: [{
+				id: "2E88472290148D55"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 3.0d
+			subtitle: "{chapter.thermal.quest.43.subtitle.1}"
+			description: ["{chapter.thermal.quest.43.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"15FBBAAF0B428AF1"
+			]
+			id: "203EA1158296D6D0"
+			tasks: [{
+				id: "2EB416742D16FF5A"
+				type: "item"
+				item: "thermal:machine_sawmill"
+			}]
+			rewards: [{
+				id: "47781E3DFA299202"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 3.0d
+			subtitle: "{chapter.thermal.quest.46.subtitle.1}"
+			description: ["{chapter.thermal.quest.46.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"15FBBAAF0B428AF1"
+			]
+			id: "72540344452B01C0"
+			tasks: [{
+				id: "1AFCD8D554C93ADB"
+				type: "item"
+				item: "thermal:machine_pulverizer"
+			}]
+			rewards: [{
+				id: "2108466027D4A1A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 3.0d
+			subtitle: "{chapter.thermal.quest.49.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.49.description.1}"
+				"{chapter.thermal.quest.49.description.2}"
+				"{chapter.thermal.quest.49.description.3}"
+			]
+			dependencies: ["5399919BFAC7C979"]
+			id: "0277A8C188158B74"
+			tasks: [{
+				id: "5315AA976C763C73"
+				type: "item"
+				item: "thermal:machine_smelter"
+			}]
+			rewards: [{
+				id: "2FFB84305FB81D26"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.0d
+			subtitle: "{chapter.thermal.quest.52.subtitle.1}"
+			description: ["{chapter.thermal.quest.52.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"0ED2881C63A829C5"
+			]
+			id: "0037F89FAA401AFF"
+			tasks: [{
+				id: "3DA94A98DA6C3FA5"
+				type: "item"
+				item: "thermal:machine_insolator"
+			}]
+			rewards: [{
+				id: "7FCE33401612496D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 4.0d
+			subtitle: "{chapter.thermal.quest.41.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.41.description.1}"
+				"{chapter.thermal.quest.41.description.2}"
+			]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"15FBBAAF0B428AF1"
+			]
+			id: "588F2C5C29F2E35D"
+			tasks: [{
+				id: "1BEBC372D720DA87"
+				type: "item"
+				item: "thermal:machine_centrifuge"
+			}]
+			rewards: [{
+				id: "73103B3C8CE559B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 4.0d
+			subtitle: "{chapter.thermal.quest.44.subtitle.1}"
+			description: ["{chapter.thermal.quest.44.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"15FBBAAF0B428AF1"
+			]
+			id: "36F0E92316E422F4"
+			tasks: [{
+				id: "4C3EC10BB4CDF546"
+				type: "item"
+				item: "thermal:machine_press"
+			}]
+			rewards: [{
+				id: "2D6FC29C60239162"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 4.0d
+			subtitle: "{chapter.thermal.quest.47.subtitle.1}"
+			description: ["{chapter.thermal.quest.47.description.1}"]
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "411947AEDD4F7599"
+			tasks: [{
+				id: "603BCB7DF6077E80"
+				type: "item"
+				item: "thermal:machine_crucible"
+			}]
+			rewards: [{
+				id: "26E3D263943C5191"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 4.0d
+			subtitle: "{chapter.thermal.quest.50.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.50.description.1}"
+				"{chapter.thermal.quest.50.description.2}"
+			]
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "4D91E6CE74E4B1C7"
+			tasks: [{
+				id: "0603F7AD916DEE95"
+				type: "item"
+				item: "thermal:machine_chiller"
+			}]
+			rewards: [{
+				id: "5B24657A4B853B61"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.0d
+			subtitle: "{chapter.thermal.quest.53.subtitle.1}"
+			description: ["{chapter.thermal.quest.53.description.1}"]
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "7C3F5BF78B47CC1C"
+			tasks: [{
+				id: "11BF620E3E47EA36"
+				type: "item"
+				item: "thermal:machine_refinery"
+			}]
+			rewards: [{
+				id: "6AC6AFB00BD042BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.42.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.42.description.1}"
+				"{chapter.thermal.quest.42.description.2}"
+			]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"0ED2881C63A829C5"
+			]
+			id: "0EEA4F88FE0B4709"
+			tasks: [{
+				id: "61ED364E8A03C22F"
+				type: "item"
+				item: "thermal:machine_pyrolyzer"
+			}]
+			rewards: [{
+				id: "0642D0A6EB0C9734"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.45.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.45.description.1}"
+				"{chapter.thermal.quest.45.description.2}"
+			]
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "30C01B5A106F5C47"
+			tasks: [{
+				id: "2559AEB54A24A2BD"
+				type: "item"
+				item: "thermal:machine_bottler"
+			}]
+			rewards: [{
+				id: "49F5D7FC48762273"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.48.subtitle.1}"
+			description: [
+				"{chapter.thermal.quest.48.description.1}"
+				""
+				"{chapter.thermal.quest.48.description.2}"
+				""
+				"{chapter.thermal.quest.48.description.3}"
+			]
+			dependencies: ["665D9EF37D9E06B2"]
+			id: "4F3D0ED5C13058E1"
+			tasks: [{
+				id: "7811C28FFCA83866"
+				type: "item"
+				item: "thermal:machine_brewer"
+			}]
+			rewards: [{
+				id: "2ED82473AB0CFEC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.51.subtitle.1}"
+			description: ["{chapter.thermal.quest.51.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"0ED2881C63A829C5"
+			]
+			id: "07A01FAEE9EC72C9"
+			tasks: [{
+				id: "4A6959451D35B403"
+				type: "item"
+				item: "thermal:machine_crystallizer"
+			}]
+			rewards: [{
+				id: "131066F1C175FEB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.54.subtitle.1}"
+			description: ["{chapter.thermal.quest.54.description.1}"]
+			dependencies: [
+				"665D9EF37D9E06B2"
+				"7221C781B9A44F5F"
+			]
+			id: "4256E811144BDD4B"
+			tasks: [{
+				id: "33EB422B8C802D79"
+				type: "item"
+				item: "thermal:machine_crafter"
+			}]
+			rewards: [{
+				id: "51A443A283EFE0D8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.20.subtitle.1}"
+			description: ["{chapter.thermal.quest.20.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "454DA21DB8080161"
+			tasks: [{
+				id: "7688EF7B744D5FCE"
+				type: "item"
+				item: "thermal:dynamo_stirling"
+			}]
+			rewards: [{
+				id: "2DCE28472A015429"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.21.subtitle.1}"
+			description: ["{chapter.thermal.quest.21.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "607C6EA010705FC0"
+			tasks: [{
+				id: "225F227AB8BAA312"
+				type: "item"
+				item: "thermal:dynamo_compression"
+			}]
+			rewards: [{
+				id: "038B71755D1AFF96"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.22.subtitle.1}"
+			description: ["{chapter.thermal.quest.22.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "7349E70A756F9DDE"
+			tasks: [{
+				id: "220F72E33AC83694"
+				type: "item"
+				item: "thermal:dynamo_numismatic"
+			}]
+			rewards: [{
+				id: "6009C7BBE4BA00D4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.23.subtitle.1}"
+			description: ["{chapter.thermal.quest.23.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "1C61A08242693358"
+			tasks: [{
+				id: "4DBD6FF227AF81C8"
+				type: "item"
+				item: "thermal:dynamo_lapidary"
+			}]
+			rewards: [{
+				id: "544E2F8B2D44D197"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.24.subtitle.1}"
+			description: ["{chapter.thermal.quest.24.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "4E53A292F0A46A0D"
+			tasks: [{
+				id: "51F7374F1C44F7F3"
+				type: "item"
+				item: "thermal:dynamo_disenchantment"
+			}]
+			rewards: [{
+				id: "5F1D388EBB967E6A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 5.0d
+			subtitle: "{chapter.thermal.quest.25.subtitle.1}"
+			description: ["{chapter.thermal.quest.25.description.1}"]
+			dependencies: ["2B7AC32E3F6D20D2"]
+			id: "3C80BE9618A4AF9E"
+			tasks: [{
+				id: "790CE260187AF564"
+				type: "item"
+				item: "thermal:dynamo_gourmand"
+			}]
+			rewards: [{
+				id: "02C8689BD7045563"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.thermal.quest.1.title}"
+			x: -8.5d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.thermal.quest.1.subtitle.1}"
+			dependencies: ["4C3EC10BB4CDF546"]
+			size: 2.0d
+			id: "7798E5C49F1FD162"
+			tasks: [{
+				id: "045A12670ABFC200"
+				type: "item"
+				item: "chroma:base_augment"
+			}]
+			rewards: [{
+				id: "37832A9CFFD016BA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

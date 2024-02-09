@@ -1,0 +1,1318 @@
+{
+	id: "6937B0B6FC5FCE47"
+	group: "6E1FC0F5596E1533"
+	order_index: 3
+	filename: "forbidden__arcanus"
+	title: "{chapter.forbidden.title}"
+	icon: "forbidden_arcanus:hephaestus_forge"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.0d
+			y: -5.5d
+			subtitle: "{chapter.forbidden.quest.5.subtitle.1}"
+			description: ["{chapter.forbidden.quest.5.description.1}"]
+			dependencies: ["2DC8B3C3077BE326"]
+			id: "7F54295DEE893B06"
+			tasks: [{
+				id: "4CD47C9730B316AF"
+				type: "item"
+				item: "forbidden_arcanus:spawner_scrap"
+			}]
+			rewards: [{
+				id: "25C8BEA1C3B215EB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -6.0d
+			subtitle: "{chapter.forbidden.quest.6.subtitle.1}"
+			description: ["{chapter.forbidden.quest.6.description.1}"]
+			dependencies: ["7F54295DEE893B06"]
+			id: "42FFA42D1EA5C446"
+			tasks: [{
+				id: "5E0648AE507D85FF"
+				type: "item"
+				item: "forbidden_arcanus:quantum_catcher"
+			}]
+			rewards: [{
+				id: "2AE366BA11C9B6FC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -5.0d
+			subtitle: "{chapter.forbidden.quest.7.subtitle.1}"
+			description: ["{chapter.forbidden.quest.7.description.1}"]
+			dependencies: ["7F54295DEE893B06"]
+			id: "7CB7BAB1C3A98C48"
+			tasks: [{
+				id: "324DD7B0FFDBCF4B"
+				type: "item"
+				item: "forbidden_arcanus:lens_of_veritatis"
+			}]
+			rewards: [{
+				id: "44B7E2E2A8266B88"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -5.5d
+			shape: "octagon"
+			subtitle: "{chapter.forbidden.quest.9.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.9.description.1}"
+				""
+				"{chapter.forbidden.quest.9.description.2}"
+				""
+				"{chapter.forbidden.quest.9.description.3}"
+			]
+			dependencies: ["7CB7BAB1C3A98C48"]
+			id: "4D6671BA3D768992"
+			tasks: [{
+				id: "4F5FA2276C7D0388"
+				type: "item"
+				item: "forbidden_arcanus:sanity_meter"
+			}]
+			rewards: [{
+				id: "0253CFF1BF3CB524"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.2.title}"
+			x: -3.0d
+			y: -5.5d
+			subtitle: "{chapter.forbidden.quest.2.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.2.description.1}"
+				""
+				"{chapter.forbidden.quest.2.description.2}"
+			]
+			dependencies: ["2DC8B3C3077BE326"]
+			id: "7DF660AE853B1ACF"
+			tasks: [
+				{
+					id: "770C331153014A2E"
+					type: "item"
+					item: "forbidden_arcanus:edelwood_stick"
+				}
+				{
+					id: "434867E2BD2DD3E8"
+					type: "item"
+					item: "forbidden_arcanus:edelwood_log"
+				}
+			]
+			rewards: [{
+				id: "47145C19D5870D25"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -6.0d
+			subtitle: "{chapter.forbidden.quest.3.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.3.description.1}"
+				""
+				"{chapter.forbidden.quest.3.description.2}"
+			]
+			dependencies: ["7DF660AE853B1ACF"]
+			id: "38BC89292A11BC62"
+			tasks: [{
+				id: "36D7C944C9D539A7"
+				type: "item"
+				item: "forbidden_arcanus:edelwood_bucket"
+			}]
+			rewards: [{
+				id: "33E7E8B6CAAC5C47"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -5.0d
+			subtitle: "{chapter.forbidden.quest.4.subtitle.1}"
+			description: ["{chapter.forbidden.quest.4.description.1}"]
+			dependencies: ["7DF660AE853B1ACF"]
+			id: "5067C371EC4D67EC"
+			tasks: [{
+				id: "0A2087E331F27651"
+				type: "item"
+				item: "forbidden_arcanus:dark_matter"
+			}]
+			rewards: [{
+				id: "74EC598823ADE407"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -4.5d
+			subtitle: "{chapter.forbidden.quest.11.subtitle.1}"
+			description: ["{chapter.forbidden.quest.11.description.1}"]
+			dependencies: ["2DC8B3C3077BE326"]
+			id: "12C9F90D7BC76021"
+			tasks: [{
+				id: "64DA0CB7322D3B3B"
+				type: "item"
+				item: "forbidden_arcanus:arcane_crystal"
+			}]
+			rewards: [{
+				id: "428B8F8598C160F6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.5d
+			subtitle: "{chapter.forbidden.quest.8.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.8.description.1}"
+				""
+				"{chapter.forbidden.quest.8.description.2}"
+				""
+				"{chapter.forbidden.quest.8.description.3}"
+			]
+			dependencies: ["2DC8B3C3077BE326"]
+			id: "38C9E61BE12139B4"
+			tasks: [{
+				id: "59827D36BF7418AE"
+				type: "item"
+				item: "forbidden_arcanus:nipa"
+			}]
+			rewards: [{
+				id: "0FDD1F2A940F7EFA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -3.0d
+			subtitle: "{chapter.forbidden.quest.12.subtitle.1}"
+			dependencies: ["12C9F90D7BC76021"]
+			id: "2678AA2783E4E4FA"
+			tasks: [{
+				id: "1B09E5285B91C198"
+				type: "item"
+				item: "forbidden_arcanus:arcane_crystal_dust"
+			}]
+			rewards: [{
+				id: "11665AB0BBB705E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -3.0d
+			subtitle: "{chapter.forbidden.quest.13.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.13.description.1}"
+				""
+				"{chapter.forbidden.quest.13.description.2}"
+			]
+			dependencies: ["2678AA2783E4E4FA"]
+			id: "1D7B8FB7A6338DB1"
+			tasks: [{
+				id: "62A22EB280BE709D"
+				type: "item"
+				item: "forbidden_arcanus:arcane_bone_meal"
+			}]
+			rewards: [{
+				id: "25820975681D9284"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.0d
+			subtitle: "{chapter.forbidden.quest.14.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.14.description.1}"
+				""
+				"{chapter.forbidden.quest.14.description.2}"
+			]
+			dependencies: ["2678AA2783E4E4FA"]
+			id: "7D13071A90E87CAF"
+			tasks: [{
+				id: "6E0D9BD887C44753"
+				type: "item"
+				item: "forbidden_arcanus:corrupti_dust"
+			}]
+			rewards: [{
+				id: "6397436011A77B9E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.5d
+			subtitle: "{chapter.forbidden.quest.15.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.15.description.1}"
+				""
+				"{chapter.forbidden.quest.15.description.2}"
+			]
+			dependencies: ["2678AA2783E4E4FA"]
+			id: "6AA08721E16A63EC"
+			tasks: [{
+				id: "1F828C1F1C315231"
+				type: "item"
+				item: "forbidden_arcanus:mundabitur_dust"
+			}]
+			rewards: [{
+				id: "52EE447F1D242DEB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 0.0d
+			shape: "hexagon"
+			subtitle: "{chapter.forbidden.quest.16.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.16.description.1}"
+				""
+				"{chapter.forbidden.quest.16.description.2}"
+			]
+			dependencies: ["6AA08721E16A63EC"]
+			id: "5C87FEDE636E8746"
+			tasks: [{
+				id: "5A6DBD8AD7B14A2D"
+				type: "item"
+				item: "forbidden_arcanus:arcane_gold_ingot"
+			}]
+			rewards: [{
+				id: "380B160B8A8AD1C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.5d
+			subtitle: "{chapter.forbidden.quest.18.subtitle.1}"
+			description: ["{chapter.forbidden.quest.18.description.1}"]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "455C5AB2644CF1A7"
+			tasks: [{
+				id: "4547D1BC3F4EA83E"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:slimec_pickaxe"
+					Count: 1
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 1s
+							id: "minecraft:silk_touch"
+						}]
+					}
+				}
+			}]
+			rewards: [{
+				id: "4C9EB926B473F7A4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.5d
+			subtitle: "{chapter.forbidden.quest.20.subtitle.1}"
+			description: ["{chapter.forbidden.quest.20.description.1}"]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "7B07B8B83A15B0C9"
+			tasks: [{
+				id: "6CA9E8443D3304B8"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:spectral_eye_amulet"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "799E9127FE395D5D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -0.5d
+			subtitle: "{chapter.forbidden.quest.19.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.19.description.1}"
+				""
+				"{chapter.forbidden.quest.19.description.2}"
+			]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "47E7556278782416"
+			tasks: [{
+				id: "530D46D063F37853"
+				type: "item"
+				item: "forbidden_arcanus:golden_orchid_seeds"
+			}]
+			rewards: [{
+				id: "4EF9B68462B6F2C1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.0d
+			subtitle: "{chapter.forbidden.quest.21.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.21.description.1}"
+				""
+				"{chapter.forbidden.quest.21.description.2}"
+			]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "376F2EF916290C06"
+			tasks: [{
+				id: "379D1FD730A0E384"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:mystical_dagger"
+					Count: 1
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3769D4D858069361"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			subtitle: "{chapter.forbidden.quest.28.subtitle.1}"
+			description: ["{chapter.forbidden.quest.28.description.1}"]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "111D798A181C8F06"
+			tasks: [{
+				id: "7918EFF8561C7897"
+				type: "item"
+				item: "forbidden_arcanus:darkstone"
+			}]
+			rewards: [{
+				id: "59A8B2FAE612A91F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 3.0d
+			subtitle: "{chapter.forbidden.quest.22.subtitle.1}"
+			description: ["{chapter.forbidden.quest.22.description.1="]
+			dependencies: ["376F2EF916290C06"]
+			id: "65FFAEC5FE34D45C"
+			tasks: [{
+				id: "41E319AAE32FA8B1"
+				type: "item"
+				item: "forbidden_arcanus:dragon_scale"
+			}]
+			rewards: [{
+				id: "37AA4D43D7AEB840"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.23.title}"
+			x: -5.5d
+			y: 2.5d
+			subtitle: "{chapter.forbidden.quest.23.subtitle.1}"
+			description: ["{chapter.forbidden.quest.23.description.1}"]
+			dependencies: ["65FFAEC5FE34D45C"]
+			id: "7E65316663CC0485"
+			tasks: [
+				{
+					id: "00468B288B26AFA7"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:draco_arcanus_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7ABA267C92773B36"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:draco_arcanus_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "67A7A707CDEE3217"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:draco_arcanus_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "797E2B9421E8A469"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:draco_arcanus_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "543526B138016A33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.17.title}"
+			x: 1.0d
+			y: -0.5d
+			subtitle: "{chapter.forbidden.quest.17.subtitle.1}"
+			description: ["{chapter.forbidden.quest.17.description.1}"]
+			dependencies: ["5C87FEDE636E8746"]
+			id: "73002635812A0C17"
+			tasks: [
+				{
+					id: "013F53CDED3993A0"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:arcane_gold_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4EE9381CDAEF8DE7"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:arcane_gold_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "735A8F52095434B9"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:arcane_gold_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0547F18519DFE74C"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:arcane_gold_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "4EC0B94D2D90901B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 3.5d
+			subtitle: "{chapter.forbidden.quest.24.subtitle.1}"
+			description: ["{chapter.forbidden.quest.24.description.1}"]
+			dependencies: ["65FFAEC5FE34D45C"]
+			id: "072B0EEFA1039AF4"
+			tasks: [{
+				id: "4899D7ED5BD10A93"
+				type: "item"
+				item: "forbidden_arcanus:draco_arcanus_scepter"
+			}]
+			rewards: [{
+				id: "27DC03FE08F9F6A4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.25.title}"
+			x: -4.0d
+			y: 5.0d
+			subtitle: "{chapter.forbidden.quest.25.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.25.description.1}"
+				""
+				"{chapter.forbidden.quest.25.description.2}"
+			]
+			dependencies: ["65FFAEC5FE34D45C"]
+			id: "4457136A4090E210"
+			tasks: [
+				{
+					id: "03555D4932277C40"
+					type: "item"
+					item: "forbidden_arcanus:aquatic_dragon_scale"
+				}
+				{
+					id: "779308F89A473A68"
+					type: "item"
+					item: "forbidden_arcanus:golden_dragon_scale"
+				}
+			]
+			rewards: [{
+				id: "55923B307AEA8878"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.26.title}"
+			x: -5.5d
+			y: 5.0d
+			subtitle: "{chapter.forbidden.quest.26.subtitle.1}"
+			dependencies: ["4457136A4090E210"]
+			id: "7C25C3C0713BA20B"
+			tasks: [
+				{
+					id: "6088FA91207E68A6"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:tyr_helmet"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5C6EB63F98C7A1C7"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:tyr_chestplate"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0D55E705A0A5F749"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:tyr_leggings"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0A46AC11C8B2AD55"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:tyr_boots"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "12EEB46340FA124C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 6.5d
+			subtitle: "{chapter.forbidden.quest.27.subtitle.1}"
+			dependencies: ["4457136A4090E210"]
+			id: "05547784362B4320"
+			tasks: [{
+				id: "25838B3D226C0516"
+				type: "item"
+				item: "forbidden_arcanus:arcane_dragon_egg"
+			}]
+			rewards: [{
+				id: "33B7BC5FCD723B3E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.29.title}"
+			icon: "forbidden_arcanus:hephaestus_forge"
+			x: 2.0d
+			y: 3.0d
+			shape: "octagon"
+			subtitle: "{chapter.forbidden.quest.29.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.29.description.1}"
+				""
+				"{chapter.forbidden.quest.29.description.2}"
+				""
+				"{chapter.forbidden.quest.29.description.3}"
+				""
+				"{image:chroma:textures/quests/forge.png width:100 height:70 align:1 fit:true}"
+			]
+			dependencies: ["111D798A181C8F06"]
+			size: 1.5d
+			id: "1BFCD198D1D5FB15"
+			tasks: [
+				{
+					id: "623E1219A96DAB44"
+					type: "item"
+					item: "forbidden_arcanus:polished_darkstone"
+					count: 45L
+				}
+				{
+					id: "16C03D4305B022A3"
+					type: "item"
+					item: "forbidden_arcanus:arcane_chiseled_polished_darkstone"
+					count: 9L
+				}
+				{
+					id: "7AEEC4E461EBDE18"
+					type: "item"
+					item: "forbidden_arcanus:chiseled_arcane_polished_darkstone"
+					count: 4L
+				}
+				{
+					id: "5FA74C96311DBCE6"
+					type: "item"
+					item: "minecraft:smithing_table"
+				}
+				{
+					id: "49326209345F421E"
+					type: "item"
+					item: "forbidden_arcanus:mundabitur_dust"
+				}
+			]
+			rewards: [{
+				id: "5177890C96B6B277"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.30.title}"
+			x: 3.5d
+			y: 1.5d
+			subtitle: "{chapter.forbidden.quest.30.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.30.description.1}"
+				""
+				"{chapter.forbidden.quest.30.description.2}"
+			]
+			dependencies: ["1BFCD198D1D5FB15"]
+			id: "594F331287C72F37"
+			tasks: [{
+				id: "1FEA7C004BFF205D"
+				type: "item"
+				item: "forbidden_arcanus:darkstone_pedestal"
+				count: 8L
+			}]
+			rewards: [{
+				id: "4F4CBBB2FAE7C0E1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "forbidden_arcanus:arcane_crystal_obelisk"
+			x: 4.0d
+			y: 2.5d
+			subtitle: "{chapter.forbidden.quest.31.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.31.description.1}"
+				""
+				"{chapter.forbidden.quest.31.description.2}"
+				""
+				"{chapter.forbidden.quest.31.description.3}"
+			]
+			dependencies: ["1BFCD198D1D5FB15"]
+			id: "7170A98C73B8402D"
+			tasks: [{
+				id: "55FE8D211E11FA85"
+				type: "checkmark"
+				title: "{chapter.forbidden.quest.31.title}"
+			}]
+			rewards: [{
+				id: "51A159DDAB64C93C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			shape: "diamond"
+			subtitle: "{chapter.forbidden.quest.32.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.32.description.1}"
+				""
+				"{chapter.forbidden.quest.32.description.2}"
+			]
+			dependencies: ["2318E09261A4850A"]
+			id: "70E09FFC0C0C6F67"
+			tasks: [{
+				id: "23462682DA93D931"
+				type: "item"
+				item: "forbidden_arcanus:aureal_bottle"
+			}]
+			rewards: [{
+				id: "1E5BB1DBCDE026E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 4.5d
+			shape: "diamond"
+			subtitle: "{chapter.forbidden.quest.33.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.33.description.1}"
+				""
+				"{chapter.forbidden.quest.33.description.2}"
+			]
+			dependencies: ["2318E09261A4850A"]
+			id: "1D9A43F202F9BDB9"
+			tasks: [{
+				id: "5C85E9AB4132C992"
+				type: "item"
+				item: "forbidden_arcanus:test_tube"
+			}]
+			rewards: [{
+				id: "0101A144800A8504"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "forbidden_arcanus:soul"
+			x: 1.5d
+			y: 5.5d
+			shape: "diamond"
+			subtitle: "{chapter.forbidden.quest.35.subtitle.1}"
+			description: ["{chapter.forbidden.quest.35.description.1}"]
+			dependencies: ["2318E09261A4850A"]
+			id: "24D99341931BA659"
+			tasks: [
+				{
+					id: "72D3EE502F3E4B7E"
+					type: "item"
+					item: {
+						id: "forbidden_arcanus:soul_extractor"
+						Count: 1
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "60042FCFD8283AAE"
+					type: "item"
+					item: "forbidden_arcanus:soul"
+				}
+			]
+			rewards: [{
+				id: "61EBD801598EB04A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 5.5d
+			shape: "diamond"
+			subtitle: "{chapter.forbidden.quest.36.subtitle.1}"
+			description: ["{chapter.forbidden.quest.36.description.1}"]
+			dependencies: ["2318E09261A4850A"]
+			id: "1F15FF8F642DA6BE"
+			tasks: [{
+				id: "5E7EAE66F138D1BF"
+				type: "item"
+				item: "minecraft:experience_bottle"
+			}]
+			rewards: [{
+				id: "35317DD3D3DC72F6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 7.0d
+			subtitle: "{chapter.forbidden.quest.37.subtitle.1}"
+			description: [
+				"{chapter.forbidden.quest.37.description.1}"
+				""
+				"{chapter.forbidden.quest.37.description.2}"
+			]
+			dependencies: ["2318E09261A4850A"]
+			id: "189D1278BA6A4DA9"
+			tasks: [{
+				id: "427B17C303F12C07"
+				type: "item"
+				title: "{chapter.forbidden.quest.37.title}"
+				item: {
+					id: "itemfilters:or"
+					Count: 1
+					tag: {
+						items: [
+							{
+								id: "forbidden_arcanus:wooden_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:stone_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:golden_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:iron_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:diamond_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:netherite_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:arcane_golden_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "forbidden_arcanus:reinforced_arcane_golden_blacksmith_gavel"
+								Count: 1
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+			}]
+			rewards: [{
+				id: "4728DF165E7B5DB4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.38.title}"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1
+				tag: {
+					StoredEnchantments: [{
+						lvl: 1s
+						id: "minecraft:protection"
+					}]
+				}
+			}
+			x: 0.5d
+			y: 7.0d
+			subtitle: "{chapter.forbidden.quest.38.subtitle.1}"
+			description: ["{chapter.forbidden.quest.38.description.1}"]
+			dependencies: ["189D1278BA6A4DA9"]
+			id: "68D299F878835E8F"
+			tasks: [{
+				id: "6F6F2A66D118C67B"
+				type: "checkmark"
+				title: "Enchantments"
+			}]
+			rewards: [{
+				id: "2862094DC626E1E9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 7.0d
+			subtitle: "{chapter.forbidden.quest.39.subtitle.1}"
+			description: ["{chapter.forbidden.quest.39.description.1}"]
+			dependencies: ["189D1278BA6A4DA9"]
+			id: "2F4EED7ED5380316"
+			tasks: [{
+				id: "1F3F8E6A64A5FA1D"
+				type: "item"
+				item: "forbidden_arcanus:smelter_prism"
+			}]
+			rewards: [{
+				id: "7535886AA51F88EF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 8.5d
+			subtitle: "{chapter.forbidden.quest.40.subtitle.1}"
+			description: ["{chapter.forbidden.quest.40.description.1}"]
+			dependencies: ["189D1278BA6A4DA9"]
+			id: "71DB17AE5D35B8AC"
+			tasks: [{
+				id: "4653C81159F7A6B4"
+				type: "item"
+				item: "forbidden_arcanus:stellarite_piece"
+			}]
+			rewards: [{
+				id: "35D577125133C708"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 8.5d
+			subtitle: "{chapter.forbidden.quest.41.subtitle.1}"
+			description: ["{chapter.forbidden.quest.41.description.1}"]
+			dependencies: ["189D1278BA6A4DA9"]
+			id: "2A0B42FF41D4300B"
+			tasks: [{
+				id: "7AFA837F93CE096D"
+				type: "item"
+				item: "forbidden_arcanus:xpetrified_orb"
+			}]
+			rewards: [{
+				id: "5A5A21591C2258E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 10.0d
+			shape: "rsquare"
+			description: [
+				"{chapter.forbidden.quest.42.description.1}"
+				""
+				"{chapter.forbidden.quest.42.description.2}"
+			]
+			dependencies: [
+				"2A0B42FF41D4300B"
+				"71DB17AE5D35B8AC"
+			]
+			size: 1.4d
+			id: "68AF14047B119304"
+			tasks: [{
+				id: "491076893053C655"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:eternal_stella"
+					Count: 1
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "30BDAAB1212EFC95"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:gold_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.forbidden.quest.1.title}"
+			x: -1.0d
+			y: -7.0d
+			shape: "gear"
+			subtitle: "{chapter.forbidden.quest.1.subtitle.1}"
+			dependencies: ["51B5C098A8CFF70E"]
+			size: 2.0d
+			id: "2DC8B3C3077BE326"
+			tasks: [{
+				id: "23EBB639D78F6072"
+				type: "checkmark"
+				title: "Forbidden \\& Arcanus"
+			}]
+			rewards: [{
+				id: "28240F0C01B66D88"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			subtitle: "{chapter.forbidden.quest.10.subtitle.1}"
+			dependencies: ["2DC8B3C3077BE326"]
+			id: "6346C703121C1CC1"
+			tasks: [{
+				id: "548DB574746886F1"
+				type: "item"
+				item: "forbidden_arcanus:orb_of_temporary_flight"
+			}]
+			rewards: [{
+				id: "7068958725D4AB36"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 5.0d
+			shape: "diamond"
+			description: [
+				"{image:chroma:textures/quests/forge_gui.png width:100 height:70 align:1 fit:true}"
+				""
+				"{chapter.forbidden.quest.34.description.1}"
+			]
+			dependencies: ["1BFCD198D1D5FB15"]
+			id: "2318E09261A4850A"
+			tasks: [{
+				id: "7150437822A11E23"
+				type: "checkmark"
+				title: "{chapter.forbidden.quest.34.title.1}"
+			}]
+			rewards: [{
+				id: "4A006589BCCC903C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}
