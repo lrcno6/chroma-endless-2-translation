@@ -1,0 +1,4449 @@
+{
+	id: "082243A912A3E46B"
+	group: "6E1FC0F5596E1533"
+	order_index: 4
+	filename: "mekanism"
+	title: "{chapter.mekanism.title}"
+	icon: "mekaevolution:infinite_control_circuit"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: -5.5d
+			y: -11.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_generators.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 2.5d
+			y: -9.5d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_solar.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -14.0d
+			y: -9.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_storage.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -5.5d
+			y: -3.5d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_machines.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 2.5d
+			y: -2.5d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_qio.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -14.0d
+			y: -3.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_storage.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -5.5d
+			y: 5.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_transfer.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -5.5d
+			y: 12.0d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_modules.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: -5.5d
+			y: -7.5d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "chroma:textures/quests/meka_multiblock.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: -10.5d
+			y: 6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.85.subtitle.1}"
+			description: ["{chapter.mekanism.quest.85.description.1}"]
+			dependencies: [
+				"4E0E34A0AC440055"
+				"3EFB74B25D51A6E9"
+			]
+			size: 2.0d
+			id: "4BE24E0EE273A2E7"
+			tasks: [{
+				id: "55C0693C2E8FD2CC"
+				type: "item"
+				item: "mekanism:basic_universal_cable"
+			}]
+			rewards: [{
+				id: "1A835EDB19BE944C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.89.subtitle.1}"
+			description: ["{chapter.mekanism.quest.89.description.1}"]
+			dependencies: [
+				"44C51540223C4116"
+				"3C9E127F765A9483"
+			]
+			id: "043768A160AB2008"
+			tasks: [{
+				id: "1783997AA37595C4"
+				type: "item"
+				item: "mekaevolution:absolute_universal_cable"
+			}]
+			rewards: [{
+				id: "39D1DD368930DB99"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.90.subtitle.1}"
+			description: ["{chapter.mekanism.quest.90.description.1}"]
+			dependencies: [
+				"512D0B0260B40184"
+				"043768A160AB2008"
+			]
+			id: "62101A0BBDD44900"
+			tasks: [{
+				id: "26D86B52099B2806"
+				type: "item"
+				item: "mekaevolution:supreme_universal_cable"
+			}]
+			rewards: [{
+				id: "4CC248CDE4C52783"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.91.subtitle.1}"
+			description: ["{chapter.mekanism.quest.91.description.1}"]
+			dependencies: [
+				"4298483C07988405"
+				"62101A0BBDD44900"
+			]
+			id: "08E062C375EF3DD2"
+			tasks: [{
+				id: "351DE381EA9B21AC"
+				type: "item"
+				item: "mekaevolution:cosmic_universal_cable"
+			}]
+			rewards: [{
+				id: "1FF1F2B60AC78542"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.92.subtitle.1}"
+			description: ["{chapter.mekanism.quest.92.description.1}"]
+			dependencies: [
+				"16BF35F89FC49046"
+				"08E062C375EF3DD2"
+			]
+			id: "2A59678B711B01CB"
+			tasks: [{
+				id: "0CB85B78A4DDC882"
+				type: "item"
+				item: "mekaevolution:infinite_universal_cable"
+			}]
+			rewards: [{
+				id: "5C356960C6B94B0A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.86.subtitle.1}"
+			description: ["{chapter.mekanism.quest.86.description.1}"]
+			dependencies: [
+				"55D4E4CB80D386B1"
+				"55C0693C2E8FD2CC"
+			]
+			id: "6623BC18E8B26F65"
+			tasks: [{
+				id: "2222A741A961386E"
+				type: "item"
+				item: "mekanism:advanced_universal_cable"
+			}]
+			rewards: [{
+				id: "2C12FD8E2FECE184"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.87.subtitle.1}"
+			description: ["{chapter.mekanism.quest.87.description.1}"]
+			dependencies: [
+				"6623BC18E8B26F65"
+				"5BC5869ED199C23F"
+			]
+			id: "1D5D7584A056A3DD"
+			tasks: [{
+				id: "54A0574CAA216AD8"
+				type: "item"
+				item: "mekanism:elite_universal_cable"
+			}]
+			rewards: [{
+				id: "12E3240CA5ABE291"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.88.subtitle.1}"
+			description: ["{chapter.mekanism.quest.88.description.1}"]
+			dependencies: [
+				"1D5D7584A056A3DD"
+				"33DE31D68754CB4E"
+			]
+			id: "44C51540223C4116"
+			tasks: [{
+				id: "13B269592F071BB9"
+				type: "item"
+				item: "mekanism:ultimate_universal_cable"
+			}]
+			rewards: [{
+				id: "2B8FA485F39FEE7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.97.subtitle.1}"
+			description: ["{chapter.mekanism.quest.97.description.1}"]
+			dependencies: [
+				"07880249468AFCF2"
+				"4E0E34A0AC440055"
+			]
+			size: 2.0d
+			id: "14B3AF45BAF069BD"
+			tasks: [{
+				id: "250667230D5F4FB4"
+				type: "item"
+				item: "mekanism:basic_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "3320F82425E9D4E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.101.subtitle.1}"
+			description: ["{chapter.mekanism.quest.101.description.1}"]
+			dependencies: [
+				"1904D9028D60DB01"
+				"3C9E127F765A9483"
+			]
+			id: "49D6BF8F5D2EDBAD"
+			tasks: [{
+				id: "621F802FE819BFC9"
+				type: "item"
+				item: "mekaevolution:absolute_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "1CA4B54D06E29483"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.102.subtitle.1}"
+			description: ["{chapter.mekanism.quest.102.description.1}"]
+			dependencies: [
+				"49D6BF8F5D2EDBAD"
+				"512D0B0260B40184"
+			]
+			id: "03AD62CA3C14CC93"
+			tasks: [{
+				id: "384BA71A7B1AA0A1"
+				type: "item"
+				item: "mekaevolution:supreme_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "3A088CC52334769F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.103.subtitle.1}"
+			description: ["{chapter.mekanism.quest.103.description.1}"]
+			dependencies: [
+				"03AD62CA3C14CC93"
+				"4298483C07988405"
+			]
+			id: "6DD3E64D10926CD5"
+			tasks: [{
+				id: "4544AC5FE730CEF0"
+				type: "item"
+				item: "mekaevolution:cosmic_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "0B96F37B52A63E41"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.104.subtitle.1}"
+			description: ["{chapter.mekanism.quest.104.description.1}"]
+			dependencies: [
+				"6DD3E64D10926CD5"
+				"16BF35F89FC49046"
+			]
+			id: "3263E34650B734AF"
+			tasks: [{
+				id: "75EFB16C5EA44D5F"
+				type: "item"
+				item: "mekaevolution:infinite_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "26902E6B16D0D6B4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.98.subtitle.1}"
+			description: ["{chapter.mekanism.quest.98.description.1}"]
+			dependencies: [
+				"250667230D5F4FB4"
+				"55D4E4CB80D386B1"
+			]
+			id: "6AA1A6C9D56CA061"
+			tasks: [{
+				id: "3574ADD7B7309C99"
+				type: "item"
+				item: "mekanism:advanced_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "775D418FAB8CB393"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.99.subtitle.1}"
+			description: ["{chapter.mekanism.quest.99.description.1}"]
+			dependencies: [
+				"6AA1A6C9D56CA061"
+				"5BC5869ED199C23F"
+			]
+			id: "1E787B9F8B2B3A03"
+			tasks: [{
+				id: "0743A2B8FE9DBE27"
+				type: "item"
+				item: "mekanism:elite_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "4F72D7319E4F4B4F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.100.subtitle.1}"
+			description: ["{chapter.mekanism.quest.100.description.1}"]
+			dependencies: [
+				"1E787B9F8B2B3A03"
+				"33DE31D68754CB4E"
+			]
+			id: "1904D9028D60DB01"
+			tasks: [{
+				id: "1B6E8EB8938DF9D9"
+				type: "item"
+				item: "mekanism:ultimate_mechanical_pipe"
+			}]
+			rewards: [{
+				id: "0C127DFCC2D80F83"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.93.subtitle.1}"
+			description: ["{chapter.mekanism.quest.93.description.1}"]
+			dependencies: [
+				"55D4E4CB80D386B1"
+				"4E0E34A0AC440055"
+			]
+			size: 2.0d
+			id: "37F030F20B7574A4"
+			tasks: [{
+				id: "16D87EA153BE7B21"
+				type: "item"
+				item: "mekanism:basic_pressurized_tube"
+			}]
+			rewards: [{
+				id: "609C37772539DBDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 9.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.94.subtitle.1}"
+			description: ["{chapter.mekanism.quest.94.description.1}"]
+			dependencies: [
+				"16D87EA153BE7B21"
+				"55D4E4CB80D386B1"
+			]
+			id: "2F27F83C75DE73B2"
+			tasks: [{
+				id: "1AC8EBF329D287FD"
+				type: "item"
+				item: "mekanism:advanced_pressurized_tube"
+			}]
+			rewards: [{
+				id: "568FFB560332A0D6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 10.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.95.subtitle.1}"
+			description: ["{chapter.mekanism.quest.95.description.1}"]
+			dependencies: [
+				"2F27F83C75DE73B2"
+				"5BC5869ED199C23F"
+			]
+			id: "53D5550A85B5DD4D"
+			tasks: [{
+				id: "71524A846526BD33"
+				type: "item"
+				item: "mekanism:elite_pressurized_tube"
+			}]
+			rewards: [{
+				id: "75FEA4E8AF36D322"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 9.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.96.subtitle.1}"
+			description: ["{chapter.mekanism.quest.96.description.1}"]
+			dependencies: [
+				"53D5550A85B5DD4D"
+				"33DE31D68754CB4E"
+			]
+			id: "48E397A4E964ABC6"
+			tasks: [{
+				id: "1D31E5C9386065FB"
+				type: "item"
+				item: "mekanism:ultimate_pressurized_tube"
+			}]
+			rewards: [{
+				id: "7CAACB9AEF76CBB1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.109.subtitle.1}"
+			description: ["{chapter.mekanism.quest.109.description.1}"]
+			dependencies: [
+				"4E0E34A0AC440055"
+				"07880249468AFCF2"
+			]
+			size: 2.0d
+			id: "7988E8EC9A4DBDDB"
+			tasks: [{
+				id: "6A8B862A4D48923A"
+				type: "item"
+				item: "mekanism:basic_logistical_transporter"
+			}]
+			rewards: [{
+				id: "17BA865873974FEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.110.subtitle.1}"
+			description: ["{chapter.mekanism.quest.110.description.1}"]
+			dependencies: [
+				"6A8B862A4D48923A"
+				"55D4E4CB80D386B1"
+			]
+			id: "10C2612CA4555909"
+			tasks: [{
+				id: "143CB2009B1EE3D4"
+				type: "item"
+				item: "mekanism:advanced_logistical_transporter"
+			}]
+			rewards: [{
+				id: "00E61E93B20204BE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.111.subtitle.1}"
+			description: ["{chapter.mekanism.quest.111.description.1}"]
+			dependencies: [
+				"10C2612CA4555909"
+				"5BC5869ED199C23F"
+			]
+			id: "5D1230AFFA5CCE2E"
+			tasks: [{
+				id: "72580FD37D4CC706"
+				type: "item"
+				item: "mekanism:elite_logistical_transporter"
+			}]
+			rewards: [{
+				id: "0C4100979B991035"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.112.subtitle.1}"
+			description: ["{chapter.mekanism.quest.112.description.1}"]
+			dependencies: [
+				"5D1230AFFA5CCE2E"
+				"33DE31D68754CB4E"
+			]
+			id: "5195482546D1CE65"
+			tasks: [{
+				id: "785032B3762B2D1D"
+				type: "item"
+				item: "mekanism:ultimate_logistical_transporter"
+			}]
+			rewards: [{
+				id: "1701029E34148FE5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.113.subtitle.1}"
+			description: ["{chapter.mekanism.quest.113.description.1}"]
+			dependencies: [
+				"5195482546D1CE65"
+				"3C9E127F765A9483"
+			]
+			id: "22D7CF1E47A436D6"
+			tasks: [{
+				id: "753112F1DC376794"
+				type: "item"
+				item: "mekaevolution:absolute_logistical_transporter"
+			}]
+			rewards: [{
+				id: "7BCE7693647406CA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.114.subtitle.1}"
+			description: ["{chapter.mekanism.quest.114.description.1}"]
+			dependencies: [
+				"22D7CF1E47A436D6"
+				"512D0B0260B40184"
+			]
+			id: "597162A6294B3363"
+			tasks: [{
+				id: "11653F4835530C60"
+				type: "item"
+				item: "mekaevolution:supreme_logistical_transporter"
+			}]
+			rewards: [{
+				id: "773A2A934C03903C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: 7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.115.subtitle.1)"
+			description: ["{chapter.mekanism.quest.115.description.1}"]
+			dependencies: [
+				"597162A6294B3363"
+				"4298483C07988405"
+			]
+			id: "57979A0B7A94B2CD"
+			tasks: [{
+				id: "3AB747D7E535F78B"
+				type: "item"
+				item: "mekaevolution:cosmic_logistical_transporter"
+			}]
+			rewards: [{
+				id: "01DC473174081A03"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: 7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.116.subtitle.1}"
+			description: ["{chapter.mekanism.quest.116.description.1}"]
+			dependencies: [
+				"57979A0B7A94B2CD"
+				"16BF35F89FC49046"
+			]
+			id: "5451167422A7E52E"
+			tasks: [{
+				id: "685A8E18161C3EA5"
+				type: "item"
+				item: "mekaevolution:infinite_logistical_transporter"
+			}]
+			rewards: [{
+				id: "2E31748BE517CB4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 8.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.105.subtitle.1}"
+			description: ["{chapter.mekanism.quest.105.description.1}"]
+			dependencies: ["4E0E34A0AC440055"]
+			size: 2.0d
+			id: "41436AA791A7A857"
+			tasks: [{
+				id: "68FE052791F2DC57"
+				type: "item"
+				item: "mekanism:basic_thermodynamic_conductor"
+			}]
+			rewards: [{
+				id: "03DF214A346C8945"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 9.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.106.subtitle.1}"
+			description: ["{chapter.mekanism.quest.106.description.1}"]
+			dependencies: [
+				"68FE052791F2DC57"
+				"55D4E4CB80D386B1"
+			]
+			id: "0836C0A40ECA0F2C"
+			tasks: [{
+				id: "754125E4AE49C6EF"
+				type: "item"
+				item: "mekanism:advanced_thermodynamic_conductor"
+			}]
+			rewards: [{
+				id: "5D49A49F063BA769"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 10.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.107.subtitle.1}"
+			description: ["{chapter.mekanism.quest.107.description.1}"]
+			dependencies: [
+				"0836C0A40ECA0F2C"
+				"5BC5869ED199C23F"
+			]
+			id: "4FC57FBE3AAAEF52"
+			tasks: [{
+				id: "6EA6C9A6E841AE59"
+				type: "item"
+				item: "mekanism:elite_thermodynamic_conductor"
+			}]
+			rewards: [{
+				id: "38958893D6665DBB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 9.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.108.subtitle.1}"
+			description: ["{chapter.mekanism.quest.108.description.1}"]
+			dependencies: [
+				"4FC57FBE3AAAEF52"
+				"33DE31D68754CB4E"
+			]
+			id: "3EE35E7A8DE4FC8F"
+			tasks: [{
+				id: "79357F5CA36831BB"
+				type: "item"
+				item: "mekanism:ultimate_thermodynamic_conductor"
+			}]
+			rewards: [{
+				id: "0DCB8357E3E2FE4C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.69.subtitle.1}"
+			description: ["{chapter.mekanism.quest.69.description.1}"]
+			dependencies: [
+				"55D4E4CB80D386B1"
+				"677044057205F200"
+			]
+			id: "25A655F2373E8D5D"
+			tasks: [{
+				id: "1C7C5DC86FCE9213"
+				type: "item"
+				item: "mekanism:upgrade_speed"
+			}]
+			rewards: [{
+				id: "370F1FF63F7FC4AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.65.subtitle.1}"
+			description: ["{chapter.mekanism.quest.65.description.1}"]
+			dependencies: ["29CA847A9244922E"]
+			id: "173E36DC24F17675"
+			tasks: [{
+				id: "46AB5699B34EC886"
+				type: "item"
+				item: "mekanism:upgrade_energy"
+			}]
+			rewards: [{
+				id: "1A54F3BBF804E3ED"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.66.subtitle.1}"
+			description: ["{chapter.mekanism.quest.66.description.1}"]
+			dependencies: ["55D4E4CB80D386B1"]
+			id: "294F414EB25D6DB0"
+			tasks: [{
+				id: "44287E9CE382C91F"
+				type: "item"
+				item: "mekanism:upgrade_muffling"
+			}]
+			rewards: [{
+				id: "7CEAE317AC95F18E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.70.subtitle.1}"
+			description: ["{chapter.mekanism.quest.70.description.1}"]
+			dependencies: ["55D4E4CB80D386B1"]
+			id: "15D1099E6A32186B"
+			tasks: [{
+				id: "71D22CA2FD43B546"
+				type: "item"
+				item: "mekanism:upgrade_filter"
+			}]
+			rewards: [{
+				id: "51DD38E0B122743C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.67.subtitle.1}"
+			description: ["{chapter.mekanism.quest.67.description.1}"]
+			dependencies: ["55D4E4CB80D386B1"]
+			id: "1D85716165A7DCD7"
+			tasks: [{
+				id: "5E9364CE06D7C5FE"
+				type: "item"
+				item: "mekanism:upgrade_stone_generator"
+			}]
+			rewards: [{
+				id: "36560DD322675E8C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.71.subtitle.1}"
+			description: ["{chapter.mekanism.quest.71.description.1}"]
+			dependencies: ["29CA847A9244922E"]
+			id: "511DD844728B9990"
+			tasks: [{
+				id: "317878EA833115EE"
+				type: "item"
+				item: "mekanism:upgrade_gas"
+			}]
+			rewards: [{
+				id: "3F15A5CF394CA707"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.63.subtitle.1}"
+			description: ["{chapter.mekanism.quest.63.description.1}"]
+			dependencies: [
+				"492AC5035C5B11AF"
+				"6A6CD169877E3DD4"
+				"392E5A6724DA4ECD"
+			]
+			id: "78B9AFEDD1668574"
+			tasks: [{
+				id: "489A93BE5E4682FC"
+				type: "item"
+				item: "mekanism:osmium_compressor"
+			}]
+			rewards: [{
+				id: "07F803BC6994226A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.49.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.49.description.1}"
+				""
+				"{chapter.mekanism.quest.49.description.2}"
+			]
+			dependencies: [
+				"77EABFBBE7F2EB84"
+				"6A6CD169877E3DD4"
+				"30C63B030158B258"
+				"492AC5035C5B11AF"
+			]
+			min_width: 300
+			id: "0B0FB1A24C881B0A"
+			tasks: [{
+				id: "1F938ACF1A18FFED"
+				type: "item"
+				item: "mekanism:enrichment_chamber"
+			}]
+			rewards: [{
+				id: "78DD176C8B669B2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.50.subtitle.1}"
+			description: ["{chapter.mekanism.quest.50.description.1}"]
+			dependencies: [
+				"07880249468AFCF2"
+				"392E5A6724DA4ECD"
+				"4E0E34A0AC440055"
+			]
+			id: "14873A6B675E86C2"
+			tasks: [{
+				id: "1E493326D723B58C"
+				type: "item"
+				item: "mekanism:energized_smelter"
+			}]
+			rewards: [{
+				id: "0215A2327AD667C3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: -0.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.62.subtitle.1}"
+			dependencies: [
+				"392E5A6724DA4ECD"
+				"6A6CD169877E3DD4"
+			]
+			id: "36E5A0F075FCA0F4"
+			tasks: [{
+				id: "78ADE4E487498C53"
+				type: "item"
+				item: "mekanism:precision_sawmill"
+			}]
+			rewards: [{
+				id: "6FEC2AC44975E7C6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: -0.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.52.subtitle.1}"
+			description: ["{chapter.mekanism.quest.52.description.1}"]
+			dependencies: [
+				"3D27F5F5087AF507"
+				"4A9E8CC4C422F19C"
+				"4B0220AC0AA6C1A8"
+				"11E181835809D1F3"
+			]
+			id: "31B3C398B5DB3957"
+			tasks: [{
+				id: "6C8E587C4BD101E9"
+				type: "item"
+				item: "mekanism:purification_chamber"
+			}]
+			rewards: [{
+				id: "33F33EB071CEB8D0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.51.subtitle.1}"
+			description: ["{chapter.mekanism.quest.51.description.1}"]
+			dependencies: [
+				"4953C0780CE9CAAC"
+				"29CA847A9244922E"
+				"07880249468AFCF2"
+				"392E5A6724DA4ECD"
+			]
+			id: "23EABF173D3A6582"
+			tasks: [{
+				id: "7AA0727D3D06BFEA"
+				type: "item"
+				item: "mekanism:combiner"
+			}]
+			rewards: [{
+				id: "1D86485FC8CDB616"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.61.subtitle.1}"
+			description: ["{chapter.mekanism.quest.61.description.1}"]
+			dependencies: [
+				"33955CBB67259F37"
+				"21D0D89DA435A15D"
+				"512D0B0260B40184"
+				"2F47117134A461CA"
+			]
+			id: "1BABAEFA3B9E815C"
+			tasks: [{
+				id: "413B2F85612EAD78"
+				type: "item"
+				item: "mekanism:chemical_injection_chamber"
+			}]
+			rewards: [{
+				id: "5FF2E1F35888CC35"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.68.subtitle.1}"
+			description: ["{chapter.mekanism.quest.68.description.1}"]
+			dependencies: [
+				"392E5A6724DA4ECD"
+				"4E0E34A0AC440055"
+			]
+			size: 1.5d
+			id: "2D1F7CB547FE73BC"
+			tasks: [{
+				id: "12421DD4273529F6"
+				type: "item"
+				item: "mekanism:metallurgic_infuser"
+			}]
+			rewards: [{
+				id: "09D98272D951BA77"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: -2.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.64.subtitle.1}"
+			dependencies: [
+				"07880249468AFCF2"
+				"392E5A6724DA4ECD"
+				"4E0E34A0AC440055"
+			]
+			id: "6DA0488C62AD8078"
+			tasks: [{
+				id: "07A3DF0ACCA7D79B"
+				type: "item"
+				item: "mekanism:crusher"
+			}]
+			rewards: [{
+				id: "2D043913D6A34AD5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 2.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.59.subtitle.1}"
+			description: ["{chapter.mekanism.quest.59.description.1}"]
+			dependencies: [
+				"512D0B0260B40184"
+				"2F47117134A461CA"
+				"03075ABE714A908E"
+			]
+			id: "5442A9D888CADCED"
+			tasks: [{
+				id: "4EA3A8DD31B5F417"
+				type: "item"
+				item: "mekanism:chemical_oxidizer"
+			}]
+			rewards: [{
+				id: "6121154290C5EDBC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 3.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.56.subtitle.1}"
+			description: ["{chapter.mekanism.quest.56.description.1}"]
+			dependencies: [
+				"512D0B0260B40184"
+				"2F47117134A461CA"
+				"03075ABE714A908E"
+				"392E5A6724DA4ECD"
+			]
+			id: "5908ADCF1ED8E07D"
+			tasks: [{
+				id: "77D1873ED0A37D72"
+				type: "item"
+				item: "mekanism:chemical_infuser"
+			}]
+			rewards: [{
+				id: "56D756F07266ED54"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 3.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.58.subtitle.1}"
+			description: ["{chapter.mekanism.quest.58.description.1}"]
+			dependencies: [
+				"03075ABE714A908E"
+				"11A0E7361B133959"
+				"392E5A6724DA4ECD"
+				"61B3FC73BACC424E"
+			]
+			id: "3993D6185364A551"
+			tasks: [{
+				id: "5C50B9E24B6BD10D"
+				type: "item"
+				item: "mekanism:chemical_dissolution_chamber"
+			}]
+			rewards: [{
+				id: "0ABCBA5CF07FE8E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 1.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.60.subtitle.1}"
+			description: ["{chapter.mekanism.quest.60.description.1}"]
+			dependencies: [
+				"4298483C07988405"
+				"11A0E7361B133959"
+				"22809681C937462F"
+				"03075ABE714A908E"
+				"392E5A6724DA4ECD"
+			]
+			id: "0EE98FC2154757B7"
+			tasks: [{
+				id: "073FD3A32B3B8E75"
+				type: "item"
+				item: "mekanism:chemical_washer"
+			}]
+			rewards: [{
+				id: "390700E1705418BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 2.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.57.subtitle.1}"
+			description: ["{chapter.mekanism.quest.57.description.1}"]
+			dependencies: [
+				"4A9E8CC4C422F19C"
+				"11A0E7361B133959"
+				"08A67B617032CA95"
+				"392E5A6724DA4ECD"
+			]
+			id: "792913C558FB0A82"
+			tasks: [{
+				id: "3C5968D020AED14D"
+				type: "item"
+				item: "mekanism:chemical_crystallizer"
+			}]
+			rewards: [{
+				id: "1E9C0CEB60DE6C23"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 1.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.54.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.54.description.1}"
+				""
+				"{chapter.mekanism.quest.54.description.2}"
+				""
+				"{chapter.mekanism.quest.54.description.3}"
+				""
+				"{chapter.mekanism.quest.54.description.4}"
+			]
+			dependencies: [
+				"3D27F5F5087AF507"
+				"4A9E8CC4C422F19C"
+				"22809681C937462F"
+				"392E5A6724DA4ECD"
+				"08A67B617032CA95"
+			]
+			id: "43EBA62042B7C60A"
+			tasks: [{
+				id: "183DBC4BA21C4AF5"
+				type: "item"
+				item: "mekanism:rotary_condensentrator"
+			}]
+			rewards: [{
+				id: "2EFFCC9D1C3A8F93"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 0.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.53.subtitle.1}"
+			description: ["{chapter.mekanism.quest.53.description.1}"]
+			dependencies: [
+				"403619F3725E9E65"
+				"392E5A6724DA4ECD"
+				"08A67B617032CA95"
+			]
+			id: "3DF2F69DC0537D38"
+			tasks: [{
+				id: "31F1FB40D9AFF784"
+				type: "item"
+				item: "mekanism:electrolytic_separator"
+			}]
+			rewards: [{
+				id: "6A1457C7BE130A56"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 2.5d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.55.subtitle.1}"
+			description: ["{chapter.mekanism.quest.55.description.1}"]
+			dependencies: [
+				"4B0220AC0AA6C1A8"
+				"3D27F5F5087AF507"
+				"4A9E8CC4C422F19C"
+				"03075ABE714A908E"
+			]
+			id: "38EC1EF46E97B1B3"
+			tasks: [{
+				id: "002F6824834288EE"
+				type: "item"
+				item: "mekanism:pressurized_reaction_chamber"
+			}]
+			rewards: [{
+				id: "6DB7D4876769E7DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.84.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.84.description.1}"
+				""
+				"{chapter.mekanism.quest.84.description.2}"
+			]
+			dependencies: [
+				"2191346972B755DB"
+				"0BF20D703FF5B64B"
+				"4A9E8CC4C422F19C"
+			]
+			size: 2.0d
+			id: "23BE3FD29FAD91A3"
+			tasks: [{
+				id: "35E4D26F7B2E45E8"
+				type: "item"
+				item: "mekanism:qio_drive_array"
+			}]
+			rewards: [{
+				id: "4550588347CACF4E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.73.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.73.description.1}"
+				""
+				"{chapter.mekanism.quest.73.description.2}"
+			]
+			dependencies: [
+				"2191346972B755DB"
+				"4A9E8CC4C422F19C"
+			]
+			id: "24009C14297736CC"
+			tasks: [{
+				id: "6F4AE62F1F9FB4D3"
+				type: "item"
+				item: "mekanism:qio_drive_base"
+			}]
+			rewards: [{
+				id: "356C64B483B7464F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.74.subtitle.1}"
+			description: ["{chapter.mekanism.quest.74.description.1}"]
+			dependencies: ["24009C14297736CC"]
+			id: "796E5A0CB5813AE7"
+			tasks: [{
+				id: "370D33F78FB56022"
+				type: "item"
+				item: "mekanism:qio_drive_hyper_dense"
+			}]
+			rewards: [{
+				id: "725EF1D6918A547D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.76.subtitle.1}"
+			description: ["{chapter.mekanism.quest.76.description.1}"]
+			dependencies: ["796E5A0CB5813AE7"]
+			id: "57ED609FB93B66CA"
+			tasks: [{
+				id: "594CF3297D756D44"
+				type: "item"
+				item: "mekanism:qio_drive_time_dilating"
+			}]
+			rewards: [{
+				id: "62CE33C4409D84E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.77.subtitle.1}"
+			description: ["{chapter.mekanism.quest.77.description.1}"]
+			dependencies: [
+				"57ED609FB93B66CA"
+				"1EBD316BA5724440"
+			]
+			id: "424B128A0F44EDF0"
+			tasks: [{
+				id: "000C62A0DD93D722"
+				type: "item"
+				item: "mekanism:qio_drive_supermassive"
+			}]
+			rewards: [{
+				id: "6F1417A80A93416B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.79.subtitle.1}"
+			description: ["{chapter.mekanism.quest.79.description.1}"]
+			dependencies: [
+				"424B128A0F44EDF0"
+				"1EBD316BA5724440"
+			]
+			id: "2BDC5179DD92E800"
+			tasks: [{
+				id: "78F32C3BD0B63CFF"
+				type: "item"
+				item: "mekaevolution:qio_drive_absolute"
+			}]
+			rewards: [{
+				id: "52D52BFA2B2156ED"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.80.subtitle.1}"
+			description: ["{chapter.mekanism.quest.80.description.1}"]
+			dependencies: [
+				"2BDC5179DD92E800"
+				"1EBD316BA5724440"
+			]
+			id: "262902A8B789F98D"
+			tasks: [{
+				id: "61531041BB955586"
+				type: "item"
+				item: "mekaevolution:qio_drive_supreme"
+			}]
+			rewards: [{
+				id: "4C32915330513F12"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.82.subtitle.1}"
+			description: ["{chapter.mekanism.quest.82.description.1}"]
+			dependencies: [
+				"262902A8B789F98D"
+				"1EBD316BA5724440"
+			]
+			id: "2BE1AC01343DDAE4"
+			tasks: [{
+				id: "3B83E85A7807D053"
+				type: "item"
+				item: "mekaevolution:qio_drive_cosmic"
+			}]
+			rewards: [{
+				id: "4A393F760D8CE13D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.83.subtitle.1}"
+			description: ["{chapter.mekanism.quest.83.description.1}"]
+			dependencies: [
+				"2BE1AC01343DDAE4"
+				"1EBD316BA5724440"
+			]
+			id: "1060E2C84D4E9A4C"
+			tasks: [{
+				id: "5DCAD6CB040D1A22"
+				type: "item"
+				item: "mekaevolution:qio_drive_infinite"
+			}]
+			rewards: [{
+				id: "72F0FD52A0FF235E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.72.subtitle.1}"
+			description: ["{chapter.mekanism.quest.72.description.1}"]
+			dependencies: [
+				"0BF20D703FF5B64B"
+				"2191346972B755DB"
+			]
+			id: "464D96EE8140E359"
+			tasks: [{
+				id: "39D720F81D8BBBEF"
+				type: "item"
+				item: "mekanism:qio_dashboard"
+			}]
+			rewards: [{
+				id: "71EB51E643A4F7C8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 2.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.78.subtitle.1}"
+			dependencies: [
+				"39D720F81D8BBBEF"
+				"2191346972B755DB"
+				"0BF20D703FF5B64B"
+			]
+			id: "3985D9D8E753CAC4"
+			tasks: [{
+				id: "097E56A3FBD69B57"
+				type: "item"
+				item: "mekanism:portable_qio_dashboard"
+			}]
+			rewards: [{
+				id: "5AFF6F67DB78C02F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.81.subtitle.1}"
+			description: ["{chapter.mekanism.quest.81.description.1}"]
+			dependencies: [
+				"2191346972B755DB"
+				"0BF20D703FF5B64B"
+				"4A9E8CC4C422F19C"
+			]
+			id: "4AAA3D0CC60F6088"
+			tasks: [{
+				id: "7B113883C9FC9C36"
+				type: "item"
+				item: "mekanism:qio_importer"
+			}]
+			rewards: [{
+				id: "772759098E914E14"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.75.subtitle.1}"
+			description: ["{chapter.mekanism.quest.75.description.1}"]
+			dependencies: [
+				"2191346972B755DB"
+				"0BF20D703FF5B64B"
+				"4A9E8CC4C422F19C"
+			]
+			id: "20C0D99133DDE63F"
+			tasks: [{
+				id: "48DEF4F0B8FCC431"
+				type: "item"
+				item: "mekanism:qio_exporter"
+			}]
+			rewards: [{
+				id: "7A79CEC97B83CBCE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: -9.0d
+			shape: "square"
+			subtitle: "{chapter.mekanism.quest.15.subtitle.1}"
+			description: ["{chapter.mekanism.quest.15.description.1}"]
+			dependencies: [
+				"33F2686B845B6709"
+				"4E0E34A0AC440055"
+				"6A6CD169877E3DD4"
+			]
+			id: "513F8BF0200E4A81"
+			tasks: [{
+				id: "5450661AABCC81A0"
+				type: "item"
+				item: "mekanismgenerators:heat_generator"
+			}]
+			rewards: [{
+				id: "531620A95CDFD809"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -9.0d
+			shape: "square"
+			subtitle: "{chapter.mekanism.quest.16.subtitle.1}"
+			description: ["{chapter.mekanism.quest.16.description.1}"]
+			dependencies: [
+				"1150C87094D9662A"
+				"512D0B0260B40184"
+				"392E5A6724DA4ECD"
+				"21D0D89DA435A15D"
+			]
+			id: "56F5D17BCF719043"
+			tasks: [{
+				id: "77B3E1C0BA9C4AC3"
+				type: "item"
+				item: "mekanismgenerators:gas_burning_generator"
+			}]
+			rewards: [{
+				id: "506B809D888EE018"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: -9.0d
+			shape: "square"
+			subtitle: "{chapter.mekanism.quest.17.subtitle.1}"
+			description: ["{chapter.mekanism.quest.17.description.1}"]
+			dependencies: [
+				"30C63B030158B258"
+				"5BC5869ED199C23F"
+				"392E5A6724DA4ECD"
+				"17453839C26CCD7A"
+			]
+			id: "182EAB7C5728BD54"
+			tasks: [{
+				id: "3521022403BD208F"
+				type: "item"
+				item: "mekanismgenerators:bio_generator"
+			}]
+			rewards: [{
+				id: "10BC512573D2F3FF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -10.0d
+			shape: "square"
+			subtitle: "{chapter.mekanism.quest.13.subtitle.1}"
+			description: ["{chapter.mekanism.quest.13.description.1}"]
+			dependencies: [
+				"0DDD5C45D90DA6F0"
+				"5BC5869ED199C23F"
+				"08A67B617032CA95"
+				"403619F3725E9E65"
+				"11A0E7361B133959"
+			]
+			id: "1A1FDFB0455069A7"
+			tasks: [{
+				id: "55DB2A50E43070D0"
+				type: "item"
+				item: "mekanismgenerators:advanced_solar_generator"
+			}]
+			rewards: [{
+				id: "0B91D6C7C396189A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: -10.0d
+			shape: "square"
+			subtitle: "{chapter.mekanism.quest.14.subtitle.1}"
+			description: ["{chapter.mekanism.quest.14.description.1}"]
+			dependencies: [
+				"3A4C6467FDD9E1C0"
+				"6A6CD169877E3DD4"
+				"095F27F14765579C"
+			]
+			id: "5D27BB61F7ECFEF9"
+			tasks: [{
+				id: "47FB8D1AF9709BFE"
+				type: "item"
+				item: "mekanismgenerators:wind_generator"
+			}]
+			rewards: [{
+				id: "1B8970C3F0A50648"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.45.subtitle.1}"
+			description: ["{chapter.mekanism.quest.45.description.1}"]
+			dependencies: [
+				"0836AC424F83D1CE"
+				"08A67B617032CA95"
+				"1F8B4F43937E8DFD"
+			]
+			id: "1FAEC7218B3B1CCB"
+			tasks: [{
+				id: "6326352FEE16854E"
+				type: "item"
+				item: "mekanism:basic_induction_cell"
+			}]
+			rewards: [{
+				id: "24A0640B370BDEF9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: 1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.46.subtitle.1}"
+			description: ["{chapter.mekanism.quest.46.description.1}"]
+			dependencies: [
+				"1FAEC7218B3B1CCB"
+				"26F8BC6C2181FC79"
+				"0836AC424F83D1CE"
+			]
+			id: "3D0F77DF86379AE8"
+			tasks: [{
+				id: "00BFE606A2D27F50"
+				type: "item"
+				item: "mekanism:advanced_induction_cell"
+			}]
+			rewards: [{
+				id: "7A5A82771C6A4BD9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: 2.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.47.subtitle.1}"
+			description: ["{chapter.mekanism.quest.47.description.1}"]
+			dependencies: [
+				"3D0F77DF86379AE8"
+				"745441D380F66BCB"
+				"0836AC424F83D1CE"
+			]
+			id: "3E4D1130F306B0E8"
+			tasks: [{
+				id: "1E01DE3277F1658B"
+				type: "item"
+				item: "mekanism:elite_induction_cell"
+			}]
+			rewards: [{
+				id: "2D178C7BC45C5A3A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: 2.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.48.subtitle.1}"
+			description: ["{chapter.mekanism.quest.48.description.1}"]
+			dependencies: [
+				"3E4D1130F306B0E8"
+				"21D0D89DA435A15D"
+				"0836AC424F83D1CE"
+			]
+			id: "52B8336A357E4481"
+			tasks: [{
+				id: "33B22ADD425DA0CE"
+				type: "item"
+				item: "mekanism:ultimate_induction_cell"
+			}]
+			rewards: [{
+				id: "7060B4F4C3781047"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -16.0d
+			y: 1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.41.subtitle.1}"
+			description: ["{chapter.mekanism.quest.41.description.1}"]
+			dependencies: [
+				"07880249468AFCF2"
+				"193205A19460F125"
+				"17FE3E2CFFB6CB1B"
+			]
+			id: "7504F83FCC53B31F"
+			tasks: [{
+				id: "30CF88A603AEE203"
+				type: "item"
+				item: "mekanism:basic_induction_provider"
+			}]
+			rewards: [{
+				id: "7862FECAB5D1BFD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: 1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.42.subtitle.1}"
+			description: ["{chapter.mekanism.quest.42.description.1}"]
+			dependencies: [
+				"7504F83FCC53B31F"
+				"17FE3E2CFFB6CB1B"
+				"6A6CD169877E3DD4"
+			]
+			id: "51B126A5359331A6"
+			tasks: [{
+				id: "4C9368374EA66C4E"
+				type: "item"
+				item: "mekanism:advanced_induction_provider"
+			}]
+			rewards: [{
+				id: "3F7F374CB912CC4D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: 2.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.43.subtitle.1}"
+			description: ["{chapter.mekanism.quest.43.description.1}"]
+			dependencies: [
+				"51B126A5359331A6"
+				"17FE3E2CFFB6CB1B"
+				"789E43F40ADF65AB"
+			]
+			id: "3BA318E1BF3F9205"
+			tasks: [{
+				id: "04F77F172DD2AE28"
+				type: "item"
+				item: "mekanism:elite_induction_provider"
+			}]
+			rewards: [{
+				id: "510183BEFEECA355"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.5d
+			y: 2.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.44.subtitle.1}"
+			description: ["{chapter.mekanism.quest.44.description.1}"]
+			dependencies: [
+				"3BA318E1BF3F9205"
+				"4A9E8CC4C422F19C"
+				"17FE3E2CFFB6CB1B"
+			]
+			id: "0BF92A937C502EE4"
+			tasks: [{
+				id: "1F115D5DAEA2845C"
+				type: "item"
+				item: "mekanism:ultimate_induction_provider"
+			}]
+			rewards: [{
+				id: "6E8E7EB59A654076"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.39.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.39.description.1}"
+			]
+			dependencies: [
+				"4FD497654B78F06A"
+				"6315628D0D446B6C"
+				"07880249468AFCF2"
+				"095F27F14765579C"
+			]
+			id: "0967B0D95BA7425A"
+			tasks: [{
+				id: "193205A19460F125"
+				type: "item"
+				item: "mekanism:basic_energy_cube"
+			}]
+			rewards: [{
+				id: "19E9C9B5265605A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.38.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.38.description.1}"
+			]
+			dependencies: [
+				"0967B0D95BA7425A"
+				"095F27F14765579C"
+			]
+			id: "5126AFF0DBA2C7E2"
+			tasks: [{
+				id: "0599B82EA908111F"
+				type: "item"
+				item: "mekanism:advanced_energy_cube"
+			}]
+			rewards: [{
+				id: "73B9C7B2285D8E28"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.37.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.37.description.1}"
+			]
+			dependencies: [
+				"5126AFF0DBA2C7E2"
+				"08A67B617032CA95"
+				"5BC5869ED199C23F"
+				"789E43F40ADF65AB"
+			]
+			id: "24A56DC1C0442762"
+			tasks: [{
+				id: "4A414421EF5A368D"
+				type: "item"
+				item: "mekanism:elite_energy_cube"
+			}]
+			rewards: [{
+				id: "1CB6070775C9AE0F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.36.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.36.description.1}"
+			]
+			dependencies: [
+				"24A56DC1C0442762"
+				"33DE31D68754CB4E"
+				"4A9E8CC4C422F19C"
+				"26F8BC6C2181FC79"
+			]
+			id: "49D759F1034322F6"
+			tasks: [{
+				id: "1F8B4F43937E8DFD"
+				type: "item"
+				item: "mekanism:ultimate_energy_cube"
+			}]
+			rewards: [{
+				id: "4F6C51B0A1A666B3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.5d
+			y: -1.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.32.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.32.description.2}"
+			]
+			hide_dependency_lines: true
+			dependencies: [
+				"49D759F1034322F6"
+				"3C9E127F765A9483"
+				"50BEBF114CEB848D"
+				"745441D380F66BCB"
+				"7BC1D137B2A492BE"
+			]
+			id: "6E11BE1C86B09EF0"
+			tasks: [{
+				id: "1D584E28B343D5F2"
+				type: "item"
+				item: "mekaevolution:absolute_energy_cube"
+			}]
+			rewards: [{
+				id: "4BBC8D562EB949AB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: -1.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.33.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.33.description.1}"
+			]
+			dependencies: [
+				"6E11BE1C86B09EF0"
+				"2FDAFED2A7A209E3"
+				"34F6054C78AA212E"
+				"1150C87094D9662A"
+				"512D0B0260B40184"
+				"2F47117134A461CA"
+				"17FE3E2CFFB6CB1B"
+				"21D0D89DA435A15D"
+			]
+			id: "26DA18A3F01E17E1"
+			tasks: [{
+				id: "25ACB6791AF7DFA1"
+				type: "item"
+				item: "mekaevolution:supreme_energy_cube"
+			}]
+			rewards: [{
+				id: "352BB58BC6105328"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.34.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.34.description.1}"
+			]
+			dependencies: [
+				"26DA18A3F01E17E1"
+				"65881E27F2FB6695"
+				"310C66C63BDE65F0"
+				"63C4CCB233838FE6"
+				"4298483C07988405"
+				"5A16D989A0B006D8"
+				"6841336870231908"
+				"2FDAFED2A7A209E3"
+			]
+			id: "39BD4E7837B0B755"
+			tasks: [{
+				id: "34FC7335980CB263"
+				type: "item"
+				item: "mekaevolution:cosmic_energy_cube"
+			}]
+			rewards: [{
+				id: "32C53E6BE8DAB1B1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -16.0d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.35.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.32.description.1}"
+				""
+				"{chapter.mekanism.quest.35.description.1}"
+			]
+			dependencies: [
+				"39BD4E7837B0B755"
+				"1EBD316BA5724440"
+				"6D0C7C568AC768C8"
+				"02B70166030C5F65"
+				"2DFA80F449445FB0"
+				"19496E015FB95F7B"
+				"5A1A6AD70392E5F2"
+				"16BF35F89FC49046"
+				"052ED53C7BFE67F5"
+			]
+			id: "78411D369D9332CB"
+			tasks: [{
+				id: "6A3EF9F52FD6AF28"
+				type: "item"
+				item: "mekaevolution:infinite_energy_cube"
+			}]
+			rewards: [{
+				id: "5CF350283038DB06"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.mekanism.quest.40.title}"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/induction_cutout.png"
+				}
+			}
+			x: -14.0d
+			y: 0.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.40.subtitle.1}"
+			description: ["{chapter.mekanism.quest.40.description.1}"]
+			dependencies: ["749483E53D26299B"]
+			size: 2.0d
+			id: "3DD1DF3F7C1B4BCC"
+			tasks: [
+				{
+					id: "4BA05031C0CCADEA"
+					type: "item"
+					item: "mekanism:induction_casing"
+				}
+				{
+					id: "13D62FE847E80A91"
+					type: "item"
+					item: "mekanism:induction_port"
+				}
+				{
+					id: "0FAA1AB186B5A152"
+					type: "item"
+					item: "mekanism:structural_glass"
+				}
+			]
+			rewards: [{
+				id: "398CCC794145EF3C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: -8.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.23.subtitle.1}"
+			description: ["{chapter.mekanism.quest.23.description.1}"]
+			dependencies: [
+				"3A4C6467FDD9E1C0"
+				"5BC5869ED199C23F"
+				"6315628D0D446B6C"
+				"2F80F3F3EBD45206"
+				"095F27F14765579C"
+			]
+			size: 2.0d
+			id: "257184A2458C5183"
+			tasks: [{
+				id: "30175063C962C0DA"
+				type: "item"
+				item: "mekanismgenerators:solar_generator"
+			}]
+			rewards: [{
+				id: "662147023BBA36DE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.31.subtitle.1}"
+			description: ["{chapter.mekanism.quest.31.description.1}"]
+			hide_dependency_lines: true
+			dependencies: [
+				"257184A2458C5183"
+				"6315628D0D446B6C"
+				"095F27F14765579C"
+				"07880249468AFCF2"
+			]
+			id: "27006F0A0A50F2F1"
+			tasks: [{
+				id: "5D0576089C9C3F22"
+				type: "item"
+				item: "solarpanels:advanced_solar_panel"
+			}]
+			rewards: [{
+				id: "3BEA913923257734"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.30.subtitle.1}"
+			description: ["{chapter.mekanism.quest.30.description.1}"]
+			dependencies: [
+				"27006F0A0A50F2F1"
+				"095F27F14765579C"
+				"6A6CD169877E3DD4"
+				"17453839C26CCD7A"
+			]
+			id: "438E56E41243044B"
+			tasks: [{
+				id: "0DEB7EC48834A609"
+				type: "item"
+				item: "solarpanels:hybrid_solar_panel"
+			}]
+			rewards: [{
+				id: "5B33D5269881FC75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: -6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.29.subtitle.1}"
+			description: ["{chapter.mekanism.quest.29.description.1}"]
+			dependencies: [
+				"438E56E41243044B"
+				"08A67B617032CA95"
+				"6315628D0D446B6C"
+				"789E43F40ADF65AB"
+				"677044057205F200"
+			]
+			id: "285E9E3E6F8A35AC"
+			tasks: [{
+				id: "063F30A140C2F40E"
+				type: "item"
+				item: "solarpanels:ultimate_hybrid_solar_panel"
+			}]
+			rewards: [{
+				id: "555E3F6FE05DCB4B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: -6.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.28.subtitle.1}"
+			description: ["{chapter.mekanism.quest.28.description.1}"]
+			dependencies: [
+				"285E9E3E6F8A35AC"
+				"17453839C26CCD7A"
+				"26F8BC6C2181FC79"
+				"4A9E8CC4C422F19C"
+			]
+			id: "42CF7A7FC0CDFCC1"
+			tasks: [{
+				id: "54C105E7F66B69E0"
+				type: "item"
+				item: "solarpanels:quantum_solar_panel"
+			}]
+			rewards: [{
+				id: "39EE192AEBCD252E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: -6.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.27.subtitle.1}"
+			description: ["{chapter.mekanism.quest.27.description.1}"]
+			hide_dependency_lines: true
+			dependencies: [
+				"42CF7A7FC0CDFCC1"
+				"46589BE6EA9B74BB"
+				"745441D380F66BCB"
+				"50BEBF114CEB848D"
+			]
+			id: "26A790C51BC3D9B9"
+			tasks: [{
+				id: "4BB3FEEA44EA210E"
+				type: "item"
+				item: "solarpanels:spectral_solar_panel"
+			}]
+			rewards: [{
+				id: "1DF64DC7788854C6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.26.subtitle.1}"
+			description: ["{chapter.mekanism.quest.26.description.1}"]
+			dependencies: [
+				"26A790C51BC3D9B9"
+				"259615E882B706AA"
+				"2F47117134A461CA"
+				"21D0D89DA435A15D"
+			]
+			id: "5CF77F7D0EC84ED1"
+			tasks: [{
+				id: "1BA470C11CBA01B5"
+				type: "item"
+				item: "solarpanels:singular_solar_panel"
+			}]
+			rewards: [{
+				id: "3C9ABF295E1CF174"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: -7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.25.subtitle.1}"
+			description: ["{chapter.mekanism.quest.25.description.1}"]
+			dependencies: [
+				"5CF77F7D0EC84ED1"
+				"233931D3717AEC73"
+				"11A0E7361B133959"
+				"65881E27F2FB6695"
+				"63C4CCB233838FE6"
+				"5A16D989A0B006D8"
+				"457A28641EB7FEBA"
+			]
+			id: "22D05F9A3D1C5C37"
+			tasks: [{
+				id: "70990F2D1C948D86"
+				type: "item"
+				item: "solarpanels:light_absorbing_solar_panel"
+			}]
+			rewards: [{
+				id: "51171A34246BE500"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: -7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.24.subtitle.1}"
+			description: ["{chapter.mekanism.quest.24.description.1}"]
+			dependencies: [
+				"22D05F9A3D1C5C37"
+				"16BF35F89FC49046"
+				"11A0E7361B133959"
+				"16BAF8D51754655F"
+				"2DFA80F449445FB0"
+				"5A1A6AD70392E5F2"
+				"7BC1D137B2A492BE"
+			]
+			id: "5A1CBF0493FECF4C"
+			tasks: [{
+				id: "3414A317EFD909AB"
+				type: "item"
+				item: "solarpanels:photonic_solar_panel"
+			}]
+			rewards: [{
+				id: "59AD4EC61F3FF150"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -16.0d
+			y: -7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.1.subtitle.1}"
+			description: ["{chapter.mekanism.quest.1.description.1}"]
+			dependencies: [
+				"637F34FF5916EA5B"
+				"203C89167FF85B08"
+			]
+			id: "485104C65144C347"
+			tasks: [{
+				id: "22809681C937462F"
+				type: "item"
+				item: "mekanism:basic_fluid_tank"
+			}]
+			rewards: [{
+				id: "028227670520587E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.2.subtitle.1}"
+			description: ["{chapter.mekanism.quest.2.description.1}"]
+			dependencies: [
+				"485104C65144C347"
+				"55D4E4CB80D386B1"
+				"4230CFAE65B1F5BF"
+				"6A6CD169877E3DD4"
+			]
+			id: "2915C26D07B27C63"
+			tasks: [{
+				id: "2F56AE3F7DDE4A81"
+				type: "item"
+				item: "mekanism:advanced_fluid_tank"
+			}]
+			rewards: [{
+				id: "4AC5C93AF22138C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: -6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.3.subtitle.1}"
+			description: ["{chapter.mekanism.quest.3.description.1}"]
+			dependencies: [
+				"2915C26D07B27C63"
+				"76DEE631B5558315"
+				"789E43F40ADF65AB"
+				"5BC5869ED199C23F"
+			]
+			id: "021122C2D5881BA5"
+			tasks: [{
+				id: "1304D1C2E7F5EE35"
+				type: "item"
+				item: "mekanism:elite_fluid_tank"
+			}]
+			rewards: [{
+				id: "7410109EC7D53620"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.5d
+			y: -6.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.4.subtitle.1}"
+			description: ["{chapter.mekanism.quest.4.description.1}"]
+			dependencies: [
+				"021122C2D5881BA5"
+				"4232FC18B5C50197"
+				"4A9E8CC4C422F19C"
+				"03ADB48CF46E968E"
+				"17FE3E2CFFB6CB1B"
+			]
+			id: "11AD661B60DFE41E"
+			tasks: [{
+				id: "093E896AB0DCCEED"
+				type: "item"
+				item: "mekanism:ultimate_fluid_tank"
+			}]
+			rewards: [{
+				id: "277D1AE00B54C8D1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: -7.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.12.subtitle.1}"
+			description: ["{chapter.mekanism.quest.12.description.1}"]
+			hide_dependency_lines: true
+			dependencies: ["07880249468AFCF2"]
+			id: "107D4DDC9F97FC61"
+			tasks: [{
+				id: "4391E553D14D4314"
+				type: "item"
+				item: "mekanism:basic_bin"
+			}]
+			rewards: [{
+				id: "14ADB2937361AA91"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: -7.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.11.subtitle.1}"
+			description: ["{chapter.mekanism.quest.11.description.1}"]
+			dependencies: [
+				"107D4DDC9F97FC61"
+				"4230CFAE65B1F5BF"
+				"6A6CD169877E3DD4"
+				"55D4E4CB80D386B1"
+			]
+			id: "7E5973A11AB836E9"
+			tasks: [{
+				id: "2B3776F9324D4A26"
+				type: "item"
+				item: "mekanism:advanced_bin"
+			}]
+			rewards: [{
+				id: "2C41EA6D49548602"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -6.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.10.subtitle.1}"
+			description: ["{chapter.mekanism.quest.10.description.1}"]
+			dependencies: [
+				"7E5973A11AB836E9"
+				"76DEE631B5558315"
+				"5BC5869ED199C23F"
+				"789E43F40ADF65AB"
+			]
+			id: "1B59AB0FECB25CBA"
+			tasks: [{
+				id: "44AF0FF6E055A9E0"
+				type: "item"
+				item: "mekanism:elite_bin"
+			}]
+			rewards: [{
+				id: "352E612D1EB8BC0D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -6.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.9.subtitle.1}"
+			description: ["{chapter.mekanism.quest.9.description.1}"]
+			dependencies: [
+				"1B59AB0FECB25CBA"
+				"4A9E8CC4C422F19C"
+				"4232FC18B5C50197"
+				"03ADB48CF46E968E"
+				"17FE3E2CFFB6CB1B"
+			]
+			id: "4309EE6E2D2AB50A"
+			tasks: [{
+				id: "4A83DF742D434B97"
+				type: "item"
+				item: "mekanism:ultimate_bin"
+			}]
+			rewards: [{
+				id: "60B7DB457D1E8349"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 14.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.117.subtitle.1}"
+			dependencies: [
+				"2191346972B755DB"
+				"4A9E8CC4C422F19C"
+				"34F6054C78AA212E"
+				"07113E5247B9561D"
+			]
+			id: "045C3454363E5091"
+			tasks: [{
+				id: "475285694C553FE0"
+				type: "item"
+				item: "mekanism:mekasuit_helmet"
+			}]
+			rewards: [{
+				id: "0ADF959D7C5D21C0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 15.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.118.subtitle.1}"
+			dependencies: [
+				"2191346972B755DB"
+				"07113E5247B9561D"
+				"4A9E8CC4C422F19C"
+				"34F6054C78AA212E"
+			]
+			id: "68AC43BA61DD8B73"
+			tasks: [{
+				id: "45F45BA6AB4CB2F0"
+				type: "item"
+				item: "mekanism:mekasuit_bodyarmor"
+			}]
+			rewards: [{
+				id: "4D7192E68CCAF924"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 16.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.119.subtitle.1}"
+			dependencies: [
+				"2191346972B755DB"
+				"34F6054C78AA212E"
+				"4A9E8CC4C422F19C"
+				"07113E5247B9561D"
+			]
+			id: "164F57B3CB60093F"
+			tasks: [{
+				id: "3648133352C7D25D"
+				type: "item"
+				item: "mekanism:mekasuit_pants"
+			}]
+			rewards: [{
+				id: "2BAA0001E4F2D033"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 17.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.120.subtitle.1}"
+			dependencies: [
+				"2191346972B755DB"
+				"34F6054C78AA212E"
+				"07113E5247B9561D"
+				"4A9E8CC4C422F19C"
+			]
+			id: "2A3CE43EB3E62A40"
+			tasks: [{
+				id: "2D225E1870BDE645"
+				type: "item"
+				item: "mekanism:mekasuit_boots"
+			}]
+			rewards: [{
+				id: "0C3CC85CB04C769D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 15.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.157.subtitle.1}"
+			dependencies: [
+				"2191346972B755DB"
+				"34F6054C78AA212E"
+				"4A9E8CC4C422F19C"
+				"07113E5247B9561D"
+			]
+			id: "08AF0C9632D16E95"
+			tasks: [{
+				id: "195944A64DF84B6E"
+				type: "item"
+				item: "mekanism:meka_tool"
+			}]
+			rewards: [{
+				id: "004F7D4184F6CF68"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 14.0d
+			shape: "rsquare"
+			subtitle: "{chapter.mekanism.quest.156.subtitle.1}"
+			dependencies: [
+				"08A67B617032CA95"
+				"7BC1D137B2A492BE"
+				"33DE31D68754CB4E"
+			]
+			id: "026995360907F849"
+			tasks: [{
+				id: "571C3968A747DAB2"
+				type: "item"
+				item: "mekaevolution:plasma_pickaxe"
+			}]
+			rewards: [{
+				id: "5D73C27B19DDC66A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 16.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.141.subtitle.1}"
+			description: ["{chapter.mekanism.quest.141.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "25FEE4F8A8B0FF74"
+			tasks: [{
+				id: "63E484FF3535359B"
+				type: "item"
+				item: "mekanismgenerators:module_solar_recharging_unit"
+			}]
+			rewards: [{
+				id: "63CE72603CB93F0C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 14.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.124.subtitle.1}"
+			description: ["{chapter.mekanism.quest.124.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "0975B2A27D28DA7D"
+			tasks: [{
+				id: "57591F3CBCFE7EB6"
+				type: "item"
+				item: "mekanismgenerators:module_geothermal_generator_unit"
+			}]
+			rewards: [{
+				id: "604C74520C459DD3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.128.subtitle.1}"
+			description: ["{chapter.mekanism.quest.128.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "42D291C858A58485"
+			tasks: [{
+				id: "41A1E18CE0FDA346"
+				type: "item"
+				item: "mekanism:module_energy_unit"
+			}]
+			rewards: [{
+				id: "6B7F3E8D0B357033"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.130.subtitle.1}"
+			description: ["{chapter.mekanism.quest.130.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "1150BA7814AD8D38"
+			tasks: [{
+				id: "4AB656C147FAEC72"
+				type: "item"
+				item: "mekanism:module_laser_dissipation_unit"
+			}]
+			rewards: [{
+				id: "78E6638424994C46"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 15.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.134.subtitle.1}"
+			description: ["{chapter.mekanism.quest.134.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "01D460EB0BCA1196"
+			tasks: [{
+				id: "69FCE2554F29EFBD"
+				type: "item"
+				item: "mekanism:module_radiation_shielding_unit"
+			}]
+			rewards: [{
+				id: "529DA2F0E4475CF6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 16.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.138.subtitle.1}"
+			description: ["{chapter.mekanism.quest.138.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "0158A889A363B237"
+			tasks: [{
+				id: "12CDE65A20D6926A"
+				type: "item"
+				item: "mekanism:module_excavation_escalation_unit"
+			}]
+			rewards: [{
+				id: "6FFD32119DC17392"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 16.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.140.subtitle.1}"
+			description: ["{chapter.mekanism.quest.140.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "5BBF3E0ED8190B83"
+			tasks: [{
+				id: "1613579CFA66BCD2"
+				type: "item"
+				item: "mekanism:module_attack_amplification_unit"
+			}]
+			rewards: [{
+				id: "36468B94138CE767"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 15.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.135.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.135.description.1}"
+				""
+				"{chapter.mekanism.quest.135.description.2}"
+				"{chapter.mekanism.quest.135.description.3}"
+				"{chapter.mekanism.quest.135.description.4}"
+				"{chapter.mekanism.quest.135.description.5}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "20FB46CAAB6628EF"
+			tasks: [{
+				id: "1CFC22248FF736B4"
+				type: "item"
+				item: "mekanism:module_farming_unit"
+			}]
+			rewards: [{
+				id: "42E5E1365DBAEDA0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.129.subtitle.1}"
+			description: ["{chapter.mekanism.quest.129.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "43B0B349DA73FE7E"
+			tasks: [{
+				id: "1EAE17E0D0B5087C"
+				type: "item"
+				item: "mekanism:module_shearing_unit"
+			}]
+			rewards: [{
+				id: "4796CB43D7D73EAF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 15.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.136.subtitle.1}"
+			description: ["{chapter.mekanism.quest.136.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "268AA838E02B476B"
+			tasks: [{
+				id: "7E359C22A0E3B3A3"
+				type: "item"
+				item: "mekanism:module_silk_touch_unit"
+			}]
+			rewards: [{
+				id: "61CD0BA67C7BB591"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 14.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.122.subtitle.1}"
+			description: ["{chapter.mekanism.quest.122.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "1BE13779BB2B5926"
+			tasks: [{
+				id: "5C00124EB0640D55"
+				type: "item"
+				item: "mekanism:module_fortune_unit"
+			}]
+			rewards: [{
+				id: "645C961280A12D23"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.126.subtitle.1}"
+			description: ["{chapter.mekanism.quest.126.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "4EFEC7DE9FC46F9E"
+			tasks: [{
+				id: "210203CE94FB9F53"
+				type: "item"
+				item: "mekanism:module_blasting_unit"
+			}]
+			rewards: [{
+				id: "7D805DF54F74FA51"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.131.subtitle.1}"
+			description: ["{chapter.mekanism.quest.131.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "10949FC82CEF59AE"
+			tasks: [{
+				id: "29BACEB756C94CE6"
+				type: "item"
+				item: "mekanism:module_vein_mining_unit"
+			}]
+			rewards: [{
+				id: "47C9B4996B9F322A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 16.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.142.subtitle.1}"
+			description: ["{chapter.mekanism.quest.142.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "76CE93C3D4FFC847"
+			tasks: [{
+				id: "3155FCEB9E4294BB"
+				type: "item"
+				item: "mekanism:module_teleportation_unit"
+			}]
+			rewards: [{
+				id: "6371F7FB725701A1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 16.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.143.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.143.description.1}"
+				""
+				"{chapter.mekanism.quest.143.description.2}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "5CE2041918178EB8"
+			tasks: [{
+				id: "0A94F3189A6970D1"
+				type: "item"
+				item: "mekanism:module_electrolytic_breathing_unit"
+			}]
+			rewards: [{
+				id: "2B1DEF819936E665"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 16.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.139.subtitle.1}"
+			description: ["{chapter.mekanism.quest.139.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "2A44FEFFC7F6DD0D"
+			tasks: [{
+				id: "21A898D33058ECDC"
+				type: "item"
+				item: "mekanism:module_inhalation_purification_unit"
+			}]
+			rewards: [{
+				id: "24801D01381A46E7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 17.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.149.subtitle.1}"
+			description: ["{chapter.mekanism.quest.149.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "2459FB74BD1630A2"
+			tasks: [{
+				id: "46D2928E06098AE8"
+				type: "item"
+				item: "mekanism:module_vision_enhancement_unit"
+			}]
+			rewards: [{
+				id: "133E00396CC3CD37"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 17.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.146.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.146.description.1}"
+				""
+				"{chapter.mekanism.quest.146.description.2}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "37B61A6CF8D1AD35"
+			tasks: [{
+				id: "3E02BC9FF3258A20"
+				type: "item"
+				item: "mekanism:module_nutritional_injection_unit"
+			}]
+			rewards: [{
+				id: "33A4380F27F4BEB5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 16.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.137.subtitle.1}"
+			description: ["{chapter.mekanism.quest.137.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "2EAD80852152C497"
+			tasks: [{
+				id: "06509DEA3AC69701"
+				type: "item"
+				item: "mekanism:module_dosimeter_unit"
+			}]
+			rewards: [{
+				id: "431E8677075FCAEC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 15.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.133.subtitle.1}"
+			description: ["{chapter.mekanism.quest.133.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "468E9ABB59D67145"
+			tasks: [{
+				id: "275704FAB68F8301"
+				type: "item"
+				item: "mekanism:module_geiger_unit"
+			}]
+			rewards: [{
+				id: "1812E2A2D10980CA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 15.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.132.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.132.description.1}"
+				""
+				"{chapter.mekanism.quest.132.description.2}"
+				""
+				"{chapter.mekanism.quest.132.description.3}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "5CCD240EC00FD43F"
+			tasks: [{
+				id: "40E38E81A39C3638"
+				type: "item"
+				item: "mekanism:module_jetpack_unit"
+			}]
+			rewards: [{
+				id: "7EFFC0644D7FCBD8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 14.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.125.subtitle.1}"
+			description: ["{chapter.mekanism.quest.125.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "5E330111246A0077"
+			tasks: [{
+				id: "46DFFC7E688DD647"
+				type: "item"
+				item: "mekanism:module_charge_distribution_unit"
+			}]
+			rewards: [{
+				id: "0186BC01776B5281"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 17.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.147.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.147.description.1}"
+				""
+				"{chapter.mekanism.quest.147.description.2}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "360D36C7F90E9A30"
+			tasks: [{
+				id: "414C38E233911C53"
+				type: "item"
+				item: "mekanism:module_gravitational_modulating_unit"
+			}]
+			rewards: [{
+				id: "44979B1F3AB45366"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 17.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.148.subtitle.1}"
+			description: ["{chapter.mekanism.quest.148.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "5EF6F921E86FBF71"
+			tasks: [{
+				id: "74BA637C36EA7BAE"
+				type: "item"
+				item: "mekanism:module_elytra_unit"
+			}]
+			rewards: [{
+				id: "18C42F220AA4AD75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 17.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.152.subtitle.1}"
+			description: ["{chapter.mekanism.quest.152.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "0FDE059FAA6BDB32"
+			tasks: [{
+				id: "185D29DC640D5078"
+				type: "item"
+				item: "mekanism:module_gyroscopic_stabilization_unit"
+			}]
+			rewards: [{
+				id: "63F75FCE02A5E2DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 17.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.150.subtitle.1}"
+			description: ["{chapter.mekanism.quest.150.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "758379B5CA42B3AB"
+			tasks: [{
+				id: "7A6D95221CA4E58A"
+				type: "item"
+				item: "mekanism:module_hydrostatic_repulsor_unit"
+			}]
+			rewards: [{
+				id: "4C89972744E7AD59"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 16.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.144.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.144.description.1}"
+				""
+				"{chapter.mekanism.quest.144.description.2}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "3D21591DD25F417C"
+			tasks: [{
+				id: "029F8587A92BAE53"
+				type: "item"
+				item: "mekanism:module_locomotive_boosting_unit"
+			}]
+			rewards: [{
+				id: "5BFCEC91DED25323"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 16.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.145.subtitle.1}"
+			description: ["{chapter.mekanism.quest.145.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "6A07C389C62CFC8C"
+			tasks: [{
+				id: "01A785756CFA0CE7"
+				type: "item"
+				item: "mekanism:module_hydraulic_propulsion_unit"
+			}]
+			rewards: [{
+				id: "0F9275177C3746A9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 14.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.123.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.123.description.1}"
+				""
+				"{chapter.mekanism.quest.123.description.2}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "37301BA5FBE826DB"
+			tasks: [{
+				id: "24E3F82665ADA01C"
+				type: "item"
+				item: "mekanism:module_magnetic_attraction_unit"
+			}]
+			rewards: [{
+				id: "3B08B9C3C9A7C874"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 15.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.127.subtitle.1}"
+			description: ["{chapter.mekanism.quest.127.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "1ED3478EA53855BB"
+			tasks: [{
+				id: "616C8B421AA962FB"
+				type: "item"
+				item: "mekanism:module_frost_walker_unit"
+			}]
+			rewards: [{
+				id: "016D022AE923D262"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 18.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.153.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.153.description.1}"
+				"{chapter.mekanism.quest.153.description.2}"
+				"{chapter.mekanism.quest.153.description.3}"
+			]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "7A1F2303D29D5CB4"
+			tasks: [{
+				id: "551C216B820DBA55"
+				type: "item"
+				item: "beyond_earth_giselle_addon:module_space_breathing_unit"
+			}]
+			rewards: [{
+				id: "186CE80C36E911DB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 18.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.155.subtitle.1}"
+			description: ["{chapter.mekanism.quest.155.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "2B8B6E307F7F5943"
+			tasks: [{
+				id: "45425837FBF3244D"
+				type: "item"
+				item: "beyond_earth_giselle_addon:module_gravity_normalizing_unit"
+			}]
+			rewards: [{
+				id: "4D750B7B81C9F614"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 18.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.154.subtitle.1}"
+			description: ["{chapter.mekanism.quest.154.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "2FB7301B8206419B"
+			tasks: [{
+				id: "439ADABA9EFB6C5C"
+				type: "item"
+				item: "beyond_earth_giselle_addon:module_space_fire_proof_unit"
+			}]
+			rewards: [{
+				id: "7E797BB8708416DD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 17.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.151.subtitle.1}"
+			description: ["{chapter.mekanism.quest.151.description.1}"]
+			dependencies: ["105A56C8F79D71B0"]
+			id: "1F5951F4549DBFC1"
+			tasks: [{
+				id: "4DBD3BEF25387BD7"
+				type: "item"
+				item: "beyond_earth_giselle_addon:module_venus_acid_proof_unit"
+			}]
+			rewards: [{
+				id: "6525B6EF6175B9CF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 13.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.121.subtitle.1}"
+			dependencies: ["34F6054C78AA212E"]
+			size: 2.0d
+			id: "105A56C8F79D71B0"
+			tasks: [{
+				id: "54E781B0AA2E9AAD"
+				type: "item"
+				item: "mekanism:module_base"
+			}]
+		}
+		{
+			title: "{chapter.mekanism.quest.20.title}"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/sps_cutout.png"
+				}
+			}
+			x: -5.5d
+			y: -6.0d
+			shape: "hexagon"
+			subtitle: "{chapter.mekanism.quest.20.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.20.description.1}"
+				""
+				"{chapter.mekanism.quest.20.description.2}"
+				""
+				"{chapter.mekanism.quest.20.description.3}"
+				"{chapter.mekanism.quest.20.description.4}"
+				"{chapter.mekanism.quest.20.description.5}"
+				"{chapter.mekanism.quest.20.description.6}"
+			]
+			dependencies: ["0F488A62965549C0"]
+			size: 2.0d
+			min_width: 300
+			id: "10A2A1C573F8B595"
+			tasks: [
+				{
+					id: "4A6D72B6D1C9EB2E"
+					type: "item"
+					item: "mekanism:sps_casing"
+					count: 60L
+				}
+				{
+					id: "39BE3DC358688546"
+					type: "item"
+					item: "mekanism:sps_port"
+					count: 3L
+				}
+				{
+					id: "2EA08274CCA4724B"
+					type: "item"
+					item: "mekanism:supercharged_coil"
+				}
+				{
+					id: "49EC1EF013E8C793"
+					type: "item"
+					item: "mekanismgenerators:reactor_glass"
+					count: 123L
+				}
+			]
+			rewards: [{
+				id: "117E40767D99FEB2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.mekanism.quest.18.title}"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/fusion_cutout.png"
+				}
+			}
+			x: -7.0d
+			y: -6.0d
+			shape: "hexagon"
+			subtitle: "{chapter.mekanism.quest.18.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.18.description.1}"
+				""
+				"{chapter.mekanism.quest.18.description.2}"
+				"{chapter.mekanism.quest.18.description.3}"
+				"{chapter.mekanism.quest.18.description.4}"
+				"{chapter.mekanism.quest.18.description.5}"
+				"{chapter.mekanism.quest.18.description.6}"
+			]
+			dependencies: ["088ACD13423B4664"]
+			size: 2.0d
+			min_width: 300
+			id: "4E92B2DD6AF1F9D8"
+			tasks: [
+				{
+					id: "54089EE3C7601FBA"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_controller"
+				}
+				{
+					id: "694320C948B32166"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_frame"
+				}
+				{
+					id: "403573B36A436BD0"
+					type: "item"
+					item: "mekanismgenerators:fusion_reactor_port"
+					count: 2L
+				}
+				{
+					id: "56AD1A2B971D7A0B"
+					type: "item"
+					item: "mekanismgenerators:reactor_glass"
+				}
+				{
+					id: "7345D33DFD8FB65E"
+					type: "item"
+					item: "mekanismgenerators:laser_focus_matrix"
+				}
+			]
+			rewards: [{
+				id: "3B15821FF879DFB3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.mekanism.quest.22.title}"
+			icon: {
+				id: "ftbquests:custom_icon"
+				Count: 1
+				tag: {
+					Icon: "chroma:textures/quests/turbine_cutout.png"
+				}
+			}
+			x: -4.0d
+			y: -6.0d
+			shape: "hexagon"
+			subtitle: "{chapter.mekanism.quest.22.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.22.description.1}"
+				""
+				"{chapter.mekanism.quest.22.description.2}"
+			]
+			dependencies: [
+				"512D0B0260B40184"
+				"2F47117134A461CA"
+				"1150C87094D9662A"
+				"21D0D89DA435A15D"
+			]
+			size: 2.0d
+			min_width: 300
+			id: "0F62EFAB05C98E51"
+			tasks: [
+				{
+					id: "217C6015991CECF5"
+					type: "item"
+					item: "mekanismgenerators:turbine_casing"
+					count: 4L
+				}
+				{
+					id: "742A147F3F6A6619"
+					type: "item"
+					item: "mekanismgenerators:turbine_vent"
+				}
+				{
+					id: "0661B64C754ACF83"
+					type: "item"
+					item: "mekanismgenerators:electromagnetic_coil"
+				}
+				{
+					id: "510A6DFBE86E42A5"
+					type: "item"
+					item: "mekanismgenerators:turbine_valve"
+				}
+				{
+					id: "348B9C5AABFE3D95"
+					type: "item"
+					item: "mekanismgenerators:saturating_condenser"
+				}
+				{
+					id: "2494E116A01C6D10"
+					type: "item"
+					item: "mekanismgenerators:turbine_rotor"
+				}
+				{
+					id: "4E6EC9E8237C0CBC"
+					type: "item"
+					item: "mekanismgenerators:turbine_blade"
+				}
+				{
+					id: "767949A536B12485"
+					type: "item"
+					item: "mekanismgenerators:rotational_complex"
+				}
+			]
+			rewards: [{
+				id: "6000D22F504308B9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -4.5d
+			subtitle: "{chapter.mekanism.quest.21.subtitle.1}"
+			description: ["{chapter.mekanism.quest.21.description.1}"]
+			dependencies: ["10A2A1C573F8B595"]
+			id: "5C8B3017CE618B9D"
+			tasks: [{
+				id: "0914B4E0587B3116"
+				type: "item"
+				item: "mekanism:pellet_antimatter"
+			}]
+			rewards: [{
+				id: "649D215120027F50"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "{chapter.mekanism.quest.19.title}"
+			x: -7.0d
+			y: -4.5d
+			subtitle: "{chapter.mekanism.quest.19.subtitle.1}"
+			description: [
+				"{chapter.mekanism.quest.19.description.1}"
+				""
+				"{chapter.mekanism.quest.19.description.2}"
+				""
+				"{chapter.mekanism.quest.19.description.3}"
+				""
+				"{chapter.mekanism.quest.19.description.4}"
+			]
+			dependencies: ["4E92B2DD6AF1F9D8"]
+			min_width: 400
+			id: "40DED68681916414"
+			tasks: [
+				{
+					id: "725C6797C3891F2B"
+					type: "item"
+					item: "mekanism:laser"
+				}
+				{
+					id: "2D01A95BBBA27B03"
+					type: "item"
+					item: "mekanism:laser_amplifier"
+				}
+				{
+					id: "71872588E79427D9"
+					type: "item"
+					item: "mekanismgenerators:hohlraum"
+				}
+			]
+			rewards: [{
+				id: "66D3EB109CB6F74D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.0d
+			y: -5.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.5.subtitle.1}"
+			description: ["{chapter.mekanism.quest.5.description.1}"]
+			dependencies: ["55D4E4CB80D386B1"]
+			id: "0CA243D90160DD1E"
+			tasks: [{
+				id: "03075ABE714A908E"
+				type: "item"
+				item: "mekanism:basic_chemical_tank"
+			}]
+			rewards: [{
+				id: "7CCA559E82573CB4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -14.5d
+			y: -5.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.6.subtitle.1}"
+			description: ["{chapter.mekanism.quest.6.description.1}"]
+			dependencies: [
+				"0CA243D90160DD1E"
+				"55D4E4CB80D386B1"
+				"6A6CD169877E3DD4"
+				"4230CFAE65B1F5BF"
+			]
+			id: "3BF60B7B981D98CB"
+			tasks: [{
+				id: "6A18371BC64A3981"
+				type: "item"
+				item: "mekanism:advanced_chemical_tank"
+			}]
+			rewards: [{
+				id: "6580D4BE7C761F3C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -5.0d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.7.subtitle.1}"
+			description: ["{chapter.mekanism.quest.7.description.1}"]
+			hide_dependency_lines: true
+			dependencies: [
+				"3BF60B7B981D98CB"
+				"5BC5869ED199C23F"
+				"789E43F40ADF65AB"
+				"01A71FE71E1088D1"
+			]
+			id: "799856C1DDC0BAF9"
+			tasks: [{
+				id: "45385471C9AC294C"
+				type: "item"
+				item: "mekanism:elite_chemical_tank"
+			}]
+			rewards: [{
+				id: "5C2F86E1F5128892"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: -5.5d
+			shape: "diamond"
+			subtitle: "{chapter.mekanism.quest.8.subtitle.1}"
+			description: ["{chapter.mekanism.quest.8.description.1}"]
+			dependencies: [
+				"799856C1DDC0BAF9"
+				"03ADB48CF46E968E"
+				"17FE3E2CFFB6CB1B"
+				"4232FC18B5C50197"
+				"4A9E8CC4C422F19C"
+			]
+			id: "26BB49D1DA1D78C5"
+			tasks: [{
+				id: "0FD443E3CE2A1247"
+				type: "item"
+				item: "mekanism:ultimate_chemical_tank"
+			}]
+			rewards: [{
+				id: "71A7AB95ADFDF065"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

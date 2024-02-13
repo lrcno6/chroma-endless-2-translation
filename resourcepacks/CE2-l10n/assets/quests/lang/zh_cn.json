@@ -1301,7 +1301,7 @@
   "chapter.stage.4.quest.77.description.2": "在消耗大量的物品和能量后，产物会出现在右侧槽位。",
 
   "chapter.stage.4.quest.78.subtitle.1": "压缩碳",
-  "chapter.stage.4.quest.78.description.1": "在量子压缩机中，用压缩模具压缩512份碳元素获得。",
+  "chapter.stage.4.quest.78.description.1": "在量子压缩机中，用压缩金属模具压缩512份碳元素获得。",
 
   "chapter.stage.4.quest.79.subtitle.1": "你死了都不会有人知道",
   "chapter.stage.4.quest.79.description.1": "氧气储罐用来保证你在太空的呼吸。",
@@ -1606,7 +1606,7 @@
   "chapter.stage.5.quest.48.description.2": "热交换器只在你想将其他流体输入反应堆（例如钠）。",
 
   "chapter.stage.5.quest.49.subtitle.1": "功能三合一",
-  "chapter.stage.5.quest.49.description.1": "先进压缩机可以像普通压缩机一样压缩物品，但此外它还可以进行轧制和挤压。",
+  "chapter.stage.5.quest.49.description.1": "高级压缩机可以像普通压缩机一样压缩物品，但此外它还可以进行轧制和挤压。",
 
   "chapter.stage.5.quest.50.subtitle.1": "二阶火箭 - 部件1",
 
@@ -2461,5 +2461,507 @@
 
   "chapter.forbidden.quest.42.subtitle.1": "修补护符",
   "chapter.forbidden.quest.42.description.1": "&6永恒之石&r有3次使用次数。右键使用可以将物品栏里的所有工具的耐久修满。",
-  "chapter.forbidden.quest.42.description.2": "但永恒之石的主要用途是在锻造台上使工具获得&9永恒&r附魔。"
+  "chapter.forbidden.quest.42.description.2": "但永恒之石的主要用途是在锻造台上使工具获得&9永恒&r附魔。",
+
+  "chapter.mekanism.title": "通用机械",
+
+  "chapter.mekanism.quest.1.subtitle.1": "基础流体存储",
+  "chapter.mekanism.quest.1.description.1": "&b流体储罐&f可以存储&e流体&f。基础流体储罐可以存储&a32,000mB&r的流体。",
+
+  "chapter.mekanism.quest.2.subtitle.1": "高级流体存储",
+  "chapter.mekanism.quest.2.description.1": "&b流体储罐&f可以存储&e流体&f。高级流体储罐可以存储&464,000mB&r的流体。",
+
+  "chapter.mekanism.quest.3.subtitle.1": "精英流体存储",
+  "chapter.mekanism.quest.3.description.1": "&b流体储罐&f可以存储&e流体&f。精英流体储罐可以存储&b128,000mB&r的流体。",
+
+  "chapter.mekanism.quest.4.subtitle.1": "终极流体存储",
+  "chapter.mekanism.quest.4.description.1": "&b流体储罐&f可以存储&e流体&f。终极流体储罐可以存储&5256,000mB&r的流体。",
+
+  "chapter.mekanism.quest.5.subtitle.1": "基础气体储罐",
+  "chapter.mekanism.quest.5.description.1": "化学品储罐可以存储气体。基础化学品储罐可以存储&a64,000mB&r的气体。",
+
+  "chapter.mekanism.quest.6.subtitle.1": "高级气体储罐",
+  "chapter.mekanism.quest.6.description.1": "化学品储罐可以存储气体。高级化学品储罐可以存储&4256,000mB&r的气体。",
+
+  "chapter.mekanism.quest.7.subtitle.1": "精英气体储罐",
+  "chapter.mekanism.quest.7.description.1": "化学品储罐可以存储气体。精英化学品储罐可以存储&b1,024,000mB&r的气体。",
+
+  "chapter.mekanism.quest.8.subtitle.1": "终极气体储罐",
+  "chapter.mekanism.quest.8.description.1": "化学品储罐可以存储气体。终极化学品储罐可以存储&58,192,000mB&r的气体。",
+
+  "chapter.mekanism.quest.9.subtitle.1": "终极箱柜",
+  "chapter.mekanism.quest.9.description.1": "用于存储大量同种物品。其可以存储&5262,144&r个物品。",
+
+  "chapter.mekanism.quest.10.subtitle.1": "精英箱柜",
+  "chapter.mekanism.quest.10.description.1": "用于存储大量同种物品。其可以存储&b32,768&r个物品。",
+
+  "chapter.mekanism.quest.11.subtitle.1": "高级箱柜",
+  "chapter.mekanism.quest.11.description.1": "用于存储大量同种物品。其可以存储&48,192&r个物品。",
+
+  "chapter.mekanism.quest.12.subtitle.1": "基础箱柜",
+  "chapter.mekanism.quest.12.description.1": "用于存储大量同种物品。其可以存储&a4,096&r个物品。",
+
+  "chapter.mekanism.quest.13.subtitle.1": "高级太阳能板",
+  "chapter.mekanism.quest.13.description.1": "&b高级太阳能发电机&f是太阳能发电机的升级版。",
+
+  "chapter.mekanism.quest.14.subtitle.1": "很好的风车",
+  "chapter.mekanism.quest.14.description.1": "&b风力发电机&f可以通过风吹动其巨大的扇叶来产生&6能量&f。每个风力发电机都需要1x1x5的空间，并且需要露天。其无论日夜风雨都可以工作。",
+
+  "chapter.mekanism.quest.15.subtitle.1": "当心烫手！",
+  "chapter.mekanism.quest.15.description.1": "&b热力发电机&f可以将&4热量&f转化为&6能量&f。通常这是你的第一台Mek发电机，因为即使其能量产出有限，也足以应付前期。",
+
+  "chapter.mekanism.quest.16.subtitle.1": "气体循环",
+  "chapter.mekanism.quest.16.description.1": "&b燃气发电机&f可以燃烧氢气、乙烯等可燃气体来产出能量。",
+
+  "chapter.mekanism.quest.17.subtitle.1": "环保能源",
+  "chapter.mekanism.quest.17.description.1": "&b生物能发电机&f可以通过&a生物燃料&f来产出能量。",
+
+  "chapter.mekanism.quest.18.title": "聚变反应堆",
+  "chapter.mekanism.quest.18.subtitle.1": "以电驱动万物",
+  "chapter.mekanism.quest.18.description.1": "&b聚变反应堆&r是一种多方块结构。其允许输入3种燃料：氘、氚和氘氚燃料。如果向反应堆供水的话，反应堆将在产出能量的同时产出蒸汽，用产出的蒸汽去带动工业蒸汽涡轮可以获得更高的能量。",
+  "chapter.mekanism.quest.18.description.2": "• 75x 聚变堆框架（搭建用+其他部件的材料）",
+  "chapter.mekanism.quest.18.description.3": "• 2x 聚变反应堆端口",
+  "chapter.mekanism.quest.18.description.4": "• 1x 聚变堆控制器",
+  "chapter.mekanism.quest.18.description.5": "• 8x 强化玻璃",
+  "chapter.mekanism.quest.18.description.6": "• 1x 激光聚焦矩阵",
+
+  "chapter.mekanism.quest.19.title": "&6反应堆启动组件",
+  "chapter.mekanism.quest.19.subtitle.1": "给这个大家伙点火",
+  "chapter.mekanism.quest.19.description.1": "&b聚变反应堆&r无法自行启动。它需要激光增幅器的能量和少量的氘氚燃料以启动聚变过程。一旦聚变堆启动，它将开始将氘和氚转化为氘氚燃料并产生能量。此外你还可以用电阻加热装置将聚变堆加热至100.00MK，一个电阻加热装置最多能消耗10MFE/t的能量。",
+  "chapter.mekanism.quest.19.description.2": "&b黑体辐射腔&r可以存储10mB的氘氚燃料用于启动聚变堆。要将氘氚燃料装入黑体辐射腔，将其放入合成氘氚燃料的化学灌注器即可。在装满氘氚燃料后，将黑体辐射腔放入聚变堆控制器中。",
+  "chapter.mekanism.quest.19.description.3": "在统计信息页面可以看到启动聚变堆所需的温度。将多束激光射向激光增幅器，并由激光增幅器将激光射向激光聚焦矩阵是一个好主意。启动反应堆需要400MFE的能量。为了防止热量散失，这些能量最好一次性射向激光聚焦矩阵，所以需要给激光增幅器添加红石控制或是设置最小能量输出以免过早输出能量。",
+  "chapter.mekanism.quest.19.description.4": "将黑体辐射腔放入聚变堆控制器并给激光增幅器充满能量后，发射激光即可启动聚变反应堆。如果温度足够，你可以看到和听到其运行。要维持聚变堆运行，其温度不能低于启动温度，务必确保输入速率足够并且燃料供应充足。",
+
+  "chapter.mekanism.quest.20.title": "超临界移相器",
+  "chapter.mekanism.quest.20.subtitle.1": "移相反应堆",
+  "chapter.mekanism.quest.20.description.1": "&d超临界移相器&r是一个消耗大量能量和钋来制造反物质的多方块结构。反物质可以结晶成反物质靶丸，而反物质靶丸用于制作许多毕业物品。",
+  "chapter.mekanism.quest.20.description.2": "最优最小的搭建方案为：",
+  "chapter.mekanism.quest.20.description.3": "• 60x 超临界移相器外壳（此外还要12个用于制作3个超临界移相器端口）",
+  "chapter.mekanism.quest.20.description.4": "• 123x 强化玻璃或结构玻璃",
+  "chapter.mekanism.quest.20.description.5": "• 3x 超临界移相器端口",
+  "chapter.mekanism.quest.20.description.6": "• 1x 增压线圈",
+
+  "chapter.mekanism.quest.21.subtitle.1": "反物质制作",
+  "chapter.mekanism.quest.21.description.1": "通过超临界移相器和钋来制造反物质。",
+
+  "chapter.mekanism.quest.22.title": "工业蒸汽涡轮",
+  "chapter.mekanism.quest.22.subtitle.1": "蒸汽来这儿儿儿儿",
+  "chapter.mekanism.quest.22.description.1": "&b涡轮外壳&f可以承受高压，适合拿来搭建&c工业蒸汽涡轮&f多方块结构。",
+  "chapter.mekanism.quest.22.description.2": "&b电磁线圈&f可以拿来搭建许多多方块结构，例如热力锅炉。",
+
+  "chapter.mekanism.quest.23.subtitle.1": "基础太阳能板",
+  "chapter.mekanism.quest.23.description.1": "发电量：18.80FE/t",
+
+  "chapter.mekanism.quest.24.subtitle.1": "绿色太阳能板",
+  "chapter.mekanism.quest.24.description.1" : "发电量：123.34kFE/t",
+
+  "chapter.mekanism.quest.25.subtitle.1": "红色太阳能板",
+  "chapter.mekanism.quest.25.description.1": "发电量：41.11kFE/t",
+
+  "chapter.mekanism.quest.26.subtitle.1": "粉红色太阳能板",
+  "chapter.mekanism.quest.26.description.1": "发电量：13.70kFE/t",
+
+  "chapter.mekanism.quest.27.subtitle.1": "黄色太阳能板",
+  "chapter.mekanism.quest.27.description.1": "发电量：4.56kFE/t",
+
+  "chapter.mekanism.quest.28.subtitle.1": "紫色太阳能板",
+  "chapter.mekanism.quest.28.description.1": "发电量：1.52kFE/t",
+
+  "chapter.mekanism.quest.29.subtitle.1": "青色太阳能板",
+  "chapter.mekanism.quest.29.description.1": "发电量：507.60FE/t",
+
+  "chapter.mekanism.quest.30.subtitle.1": "蓝色太阳能板",
+  "chapter.mekanism.quest.30.description.1": "发电量：160.20FE/t",
+
+  "chapter.mekanism.quest.31.subtitle.1": "黑色太阳能板",
+  "chapter.mekanism.quest.31.description.1": "发电量：56.40FE/t",
+
+  "chapter.mekanism.quest.32.subtitle.1": "绝对存储",
+  "chapter.mekanism.quest.32.description.1": "&b能量立方&f是一种可以与多种能量系统兼容的高级电池。能量可以从5个面输入，1个面输出。\n\n译注：能量立方（甚至是大部分热力机器）的每个面是可以独立设置输入输出的吧……",
+  "chapter.mekanism.quest.32.description.2": "绝对能量立方可以存储409.60MFE的能量。",
+
+  "chapter.mekanism.quest.33.subtitle.1": "最高存储",
+  "chapter.mekanism.quest.33.description.1": "最高能量立方可以存储1.63GFE的能量。",
+
+  "chapter.mekanism.quest.34.subtitle.1": "宇宙存储",
+  "chapter.mekanism.quest.34.description.1": "宇宙能量立方可以存储6.55GFE的能量。",
+
+  "chapter.mekanism.quest.35.subtitle.1": "无穷存储",
+  "chapter.mekanism.quest.35.description.1": "无穷能量立方可以存储26.21GFE的能量。",
+
+  "chapter.mekanism.quest.36.subtitle.1": "终极存储",
+  "chapter.mekanism.quest.36.description.1": "终极能量立方可以存储102.40MFE的能量。",
+
+  "chapter.mekanism.quest.37.subtitle.1": "精英存储",
+  "chapter.mekanism.quest.37.description.1": "精英能量立方可以存储25.60MFE的能量。",
+
+  "chapter.mekanism.quest.38.subtitle.1": "高级存储",
+  "chapter.mekanism.quest.38.description.1": "高级能量立方可以存储6.40MFE的能量。",
+
+  "chapter.mekanism.quest.39.subtitle.1": "基础存储",
+  "chapter.mekanism.quest.39.description.1": "基础能量立方可以存储1.60MFE的能量。",
+
+  "chapter.mekanism.quest.40.title": "输导矩阵",
+  "chapter.mekanism.quest.40.subtitle.1": "存储装置",
+  "chapter.mekanism.quest.40.description.1": "&b输导外壳&f用于搭建&e输导矩阵&f——一种可以存储大量能量的能量存储单元。",
+
+  "chapter.mekanism.quest.41.subtitle.1": "输导供应器：基础",
+  "chapter.mekanism.quest.41.description.1": "&b输导供应器&f是&e输导矩阵&f的一部分，用来决定其&d能量传输速率&f。",
+
+  "chapter.mekanism.quest.42.subtitle.1": "输导供应器：高级",
+  "chapter.mekanism.quest.42.description.1" : "&b输导供应器&f是&e输导矩阵&f的一部分，用来决定其&d能量传输速率&f。",
+
+  "chapter.mekanism.quest.43.subtitle.1": "输导供应器：精英",
+  "chapter.mekanism.quest.43.description.1" : "&b输导供应器&f是&e输导矩阵&f的一部分，用来决定其&d能量传输速率&f。",
+
+  "chapter.mekanism.quest.44.subtitle.1": "输导供应器：终极",
+  "chapter.mekanism.quest.44.description.1" : "&b输导供应器&f是&e输导矩阵&f的一部分，用来决定其&d能量传输速率&f。",
+
+  "chapter.mekanism.quest.45.subtitle.1": "基础元件",
+  "chapter.mekanism.quest.45.description.1": "&b输导元件&f是&e输导矩阵&f的一部分，用来决定其&d能量容量&f。",
+
+  "chapter.mekanism.quest.46.subtitle.1": "高级元件",
+  "chapter.mekanism.quest.46.description.1": "&b输导元件&f是&e输导矩阵&f的一部分，用来决定其&d能量容量&f。",
+
+  "chapter.mekanism.quest.47.subtitle.1": "精英元件",
+  "chapter.mekanism.quest.47.description.1": "&b输导元件&f是&e输导矩阵&f的一部分，用来决定其&d能量容量&f。",
+
+  "chapter.mekanism.quest.48.subtitle.1": "终极元件",
+  "chapter.mekanism.quest.48.description.1": "&b输导元件&f是&e输导矩阵&f的一部分，用来决定其&d能量容量&f。",
+
+  "chapter.mekanism.quest.49.subtitle.1": "富集",
+  "chapter.mekanism.quest.49.description.1": "富集仓可以从方块和矿物中提取出&6粉末&r，可以用来制作各种工具。不要和&6粉碎机&f弄混了。",
+  "chapter.mekanism.quest.49.description.2": "还可以用来将煤炭或木炭富集成&2富集碳&r，将红石富集成&2富集红石&r，将钻石富集成&2富集钻石&r，将强化黑曜石粉富集成&2富集强化黑曜石&r，这些都可以拿来进行&6冶金灌注&f。",
+
+  "chapter.mekanism.quest.50.subtitle.1": "FE熔炉",
+  "chapter.mekanism.quest.50.description.1": "&b电力熔炼炉&f是一种基础&5电力熔炉&f，可以使用能量而非燃料来烧炼物品。",
+
+  "chapter.mekanism.quest.51.subtitle.1": "矿石制作",
+  "chapter.mekanism.quest.51.description.1": "&b融合机&f可以将&28个粗矿&f转化成1个&a矿石&f。",
+
+  "chapter.mekanism.quest.52.subtitle.1": "矿物碎块",
+  "chapter.mekanism.quest.52.description.1": "&b提纯仓&f可以使用&7氧气&f来将矿物和碎片提纯成&e碎块&f，每个矿石可以制出3个碎块，每个碎片可以制出1个碎块。",
+
+  "chapter.mekanism.quest.53.subtitle.1": "气体提取",
+  "chapter.mekanism.quest.53.description.1": "&b电解分离器&f可以给流体通直流电来使其电解，其可以通过一些很常见的流体来制作一些很有用的气体。",
+
+  "chapter.mekanism.quest.54.subtitle.1": "（非）化学变化",
+  "chapter.mekanism.quest.54.description.1": "&b回旋式气液转换机&f可以以1:1的比例将物质在液态和气态中转换。",
+  "chapter.mekanism.quest.54.description.2": "其有两个模式：",
+  "chapter.mekanism.quest.54.description.3": "&6液体蒸发&f：将液体蒸发为气体；",
+  "chapter.mekanism.quest.54.description.4": "&6气体冷凝&f：将气体冷凝为液体。",
+
+  "chapter.mekanism.quest.55.subtitle.1": "高密度聚乙烯制造",
+  "chapter.mekanism.quest.55.description.1": "&b加压反应室&f主要用来制作&1基片&f（用于制作高密度聚乙烯丸）、&1高密度聚乙烯丸&f（用于制作高密度聚乙烯片）和&1乙烯&f（用于给燃气发电机发电）。",
+
+  "chapter.mekanism.quest.56.subtitle.1": "气体灌注",
+  "chapter.mekanism.quest.56.description.1": "&b化学灌注器&f可以将两种气体混合或反应成另一种气体。",
+
+  "chapter.mekanism.quest.57.subtitle.1": "纯净",
+  "chapter.mekanism.quest.57.description.1": "&b化学结晶器&f可以从纯净浆液中提取结晶，从锂中提取锂粉。",
+
+  "chapter.mekanism.quest.58.subtitle.1": "浆液制作",
+  "chapter.mekanism.quest.58.description.1": "&b化学溶解室&f是&c5倍矿&f的第一步。其将&6粗矿&f溶入硫酸产出&6浆液&f。",
+
+  "chapter.mekanism.quest.59.subtitle.1": "气体制作",
+  "chapter.mekanism.quest.59.description.1": "&b化学氧化机&f可以将物品制成气体。",
+
+  "chapter.mekanism.quest.60.subtitle.1": "纯净浆液",
+  "chapter.mekanism.quest.60.description.1": "&b化学清洗机&f可以用水将污浊浆液清洗为纯净浆液。",
+
+  "chapter.mekanism.quest.61.subtitle.1": "从气体到碎片",
+  "chapter.mekanism.quest.61.description.1": "&b化学压射室&f可以用氯化氢将矿石转化为4个碎片。",
+
+  "chapter.mekanism.quest.62.subtitle.1": "将原木锯成木板",
+
+  "chapter.mekanism.quest.63.subtitle.1": "注锇压缩",
+  "chapter.mekanism.quest.63.description.1": "&b锇压缩机&f用来将强化黑曜石粉制成&a强化黑曜石锭&f，将荧石粉制成&a强化荧石锭&f。",
+
+  "chapter.mekanism.quest.64.subtitle.1": "物品粉碎",
+
+  "chapter.mekanism.quest.65.subtitle.1": "能耗稳定",
+  "chapter.mekanism.quest.65.description.1": "&b能量升级&f可以提高Mek机器的&e储能&f并降低其能耗。",
+
+  "chapter.mekanism.quest.66.subtitle.1": "噪音禁止！",
+  "chapter.mekanism.quest.66.description.1": "&b降噪升级&r可以降低Mek机器发出的噪音。例如精密锯木机就很需要这东西（太吵了）。",
+
+  "chapter.mekanism.quest.67.subtitle.1": "自动产石",
+  "chapter.mekanism.quest.67.description.1": "给数字型采矿机安装造石机升级后，可以自动提供替换方块时所需的石头或圆石。",
+
+  "chapter.mekanism.quest.68.subtitle.1": "合金",
+  "chapter.mekanism.quest.68.description.1": "&b冶金灌注机&f是Mek科技的第一步，可以用来制作&a钢锭&f、&a青铜&f、&a灌注合金&f和&a强化黑曜石粉&f。",
+
+  "chapter.mekanism.quest.69.subtitle.1": "快快快！",
+  "chapter.mekanism.quest.69.description.1": "&b速度升级&f可以提高机器处理速度。每个Mek机器可以安装8个速度升级。",
+
+  "chapter.mekanism.quest.70.subtitle.1": "重水",
+  "chapter.mekanism.quest.70.description.1": "给&e电动泵&f安装&b过滤升级&f可以让其从普通的水中分离出&9重水&f。",
+
+  "chapter.mekanism.quest.71.subtitle.1": "高效气体利用",
+  "chapter.mekanism.quest.71.description.1": "&b气体升级&f可以提高相关机器的气体使用效率。",
+
+  "chapter.mekanism.quest.72.subtitle.1": "QIO管理器",
+  "chapter.mekanism.quest.72.description.1": "&dQIO仪表板&r允许用户访问QIO驱动器阵列的内容，其GUI看上去就和箱子一样，但可以进行搜索，排序和浏览。同种物品无论数量都只会显示为一组。要访问驱动器阵列，仪表板需要设置为与其同频率。",
+
+  "chapter.mekanism.quest.73.subtitle.1": "基础QIO",
+  "chapter.mekanism.quest.73.description.1": "&bQIO驱动器&r可以插入驱动器阵列，以提高其存储容量。每个驱动器都有其物品数量与种类上限。",
+  "chapter.mekanism.quest.73.description.2": "QIO驱动器可以存储128种16k个物品。",
+
+  "chapter.mekanism.quest.74.subtitle.1": "高级QIO",
+  "chapter.mekanism.quest.74.description.1": "超密集QIO驱动器可以存储256种128k个物品。",
+
+  "chapter.mekanism.quest.75.subtitle.1": "输出",
+  "chapter.mekanism.quest.75.description.1": "QIO系统的输出单元，放在方块上以将物品从QIO系统输出到方块。",
+
+  "chapter.mekanism.quest.76.subtitle.1": "时间膨胀QIO",
+  "chapter.mekanism.quest.76.description.1": "时间膨胀QIO驱动器可以存储1024种1048k个物品。",
+
+  "chapter.mekanism.quest.77.subtitle.1": "超质量QIO",
+  "chapter.mekanism.quest.77.description.1": "超质量QIO驱动器可以存储8192种16G个物品。",
+
+  "chapter.mekanism.quest.78.subtitle.1": "便携存储",
+
+  "chapter.mekanism.quest.79.subtitle.1": "绝对QIO",
+  "chapter.mekanism.quest.79.description.1": "绝对QIO驱动器可以存储32768种128G个物品。",
+
+  "chapter.mekanism.quest.80.subtitle.1": "最高QIO",
+  "chapter.mekanism.quest.80.description.1": "最高QIO驱动器可以存储131072种1048G个物品。",
+
+  "chapter.mekanism.quest.81.subtitle.1": "输入",
+  "chapter.mekanism.quest.81.description.1": "QIO系统的输入单元，放在方块上以将物品从方块输入到QIO系统。",
+
+  "chapter.mekanism.quest.82.subtitle.1": "宇宙QIO",
+  "chapter.mekanism.quest.82.description.1": "宇宙QIO驱动器可以存储524288种8T个物品。",
+
+  "chapter.mekanism.quest.83.subtitle.1": "无穷QIO",
+  "chapter.mekanism.quest.83.description.1": "无穷QIO驱动器可以存储2097152种16T个物品。",
+
+  "chapter.mekanism.quest.84.subtitle.1": "QIO船坞",
+  "chapter.mekanism.quest.84.description.1": "&bQIO驱动器阵列&r可以存储QIO驱动器并无线与其他QIO设备交换物品。",
+  "chapter.mekanism.quest.84.description.2": "要使用QIO驱动器阵列，需要给其设置一个频率。",
+
+  "chapter.mekanism.quest.85.subtitle.1": "初级能量线缆",
+  "chapter.mekanism.quest.85.description.1": "&b通用线缆&f是Mek的能量传输方式。容量：3.20kFE/t。",
+
+  "chapter.mekanism.quest.86.subtitle.1": "高级能量线缆",
+  "chapter.mekanism.quest.86.description.1": "容量：51.20kFE/t。",
+
+  "chapter.mekanism.quest.87.subtitle.1": "精英能量线缆",
+  "chapter.mekanism.quest.87.description.1": "容量：409.60kFE/t。",
+
+  "chapter.mekanism.quest.88.subtitle.1": "终极能量线缆",
+  "chapter.mekanism.quest.88.description.1": "容量：3.27MFE/t。",
+
+  "chapter.mekanism.quest.89.subtitle.1": "绝对能量线缆",
+  "chapter.mekanism.quest.89.description.1": "容量：26.21MFE/t。",
+
+  "chapter.mekanism.quest.90.subtitle.1": "最高能量线缆",
+  "chapter.mekanism.quest.90.description.1": "容量：209.71MFE/t。",
+
+  "chapter.mekanism.quest.91.subtitle.1": "宇宙能量线缆",
+  "chapter.mekanism.quest.91.description.1": "容量：1.67GFE/t。",
+
+  "chapter.mekanism.quest.92.subtitle.1": "无穷能量线缆",
+  "chapter.mekanism.quest.92.description.1": "容量：13.42GFE/t。",
+
+  "chapter.mekanism.quest.93.subtitle.1": "基础气体管道",
+  "chapter.mekanism.quest.93.description.1": "&b加压管道&f可以传输气体。容量：4B。",
+
+  "chapter.mekanism.quest.94.subtitle.1": "高级气体管道",
+  "chapter.mekanism.quest.94.description.1": "&b加压管道&f可以传输气体。容量：16B。",
+
+  "chapter.mekanism.quest.95.subtitle.1": "精英气体管道",
+  "chapter.mekanism.quest.95.description.1": "&b加压管道&f可以传输气体。容量：256B。",
+
+  "chapter.mekanism.quest.96.subtitle.1": "终极气体管道",
+  "chapter.mekanism.quest.96.description.1": "&b加压管道&f可以传输气体。容量：1024B。",
+
+  "chapter.mekanism.quest.97.subtitle.1": "基础流体管道",
+  "chapter.mekanism.quest.97.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：2B。",
+
+  "chapter.mekanism.quest.98.subtitle.1": "高级流体管道",
+  "chapter.mekanism.quest.98.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：8B。",
+
+  "chapter.mekanism.quest.99.subtitle.1": "精英流体管道",
+  "chapter.mekanism.quest.99.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：32B。",
+
+  "chapter.mekanism.quest.100.subtitle.1": "终极流体管道",
+  "chapter.mekanism.quest.100.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：128B。",
+
+  "chapter.mekanism.quest.101.subtitle.1": "绝对流体管道",
+  "chapter.mekanism.quest.101.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：512B。",
+
+  "chapter.mekanism.quest.102.subtitle.1": "最高流体管道",
+  "chapter.mekanism.quest.102.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：2048B。",
+
+  "chapter.mekanism.quest.103.subtitle.1": "宇宙流体管道",
+  "chapter.mekanism.quest.103.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：8192B。",
+
+  "chapter.mekanism.quest.104.subtitle.1": "无穷流体管道",
+  "chapter.mekanism.quest.104.description.1": "&b机械管道&f是Mek的流体管道，其可以与所有可以处理流体的方块相连。容量：32768B。",
+
+  "chapter.mekanism.quest.105.subtitle.1": "基础热管",
+  "chapter.mekanism.quest.105.description.1": "与通用线缆类似，&b热导线缆&f是Mek的热量传输方式。",
+
+  "chapter.mekanism.quest.106.subtitle.1": "高级热管",
+  "chapter.mekanism.quest.106.description.1": "与通用线缆类似，&b热导线缆&f是Mek的热量传输方式。",
+
+  "chapter.mekanism.quest.107.subtitle.1": "精英热管",
+  "chapter.mekanism.quest.107.description.1": "与通用线缆类似，&b热导线缆&f是Mek的热量传输方式。",
+
+  "chapter.mekanism.quest.108.subtitle.1": "终极热管",
+  "chapter.mekanism.quest.108.description.1": "与通用线缆类似，&b热导线缆&f是Mek的热量传输方式。",
+
+  "chapter.mekanism.quest.109.subtitle.1": "基础传输管道",
+  "chapter.mekanism.quest.109.description.1": "&b物流管道&r用于传输物品。速度：1m/s。",
+
+  "chapter.mekanism.quest.110.subtitle.1": "高级传输管道",
+  "chapter.mekanism.quest.110.description.1": "&b物流管道&r用于传输物品。速度：2m/s。",
+
+  "chapter.mekanism.quest.111.subtitle.1": "精英传输管道",
+  "chapter.mekanism.quest.111.description.1": "&b物流管道&r用于传输物品。速度：4m/s。",
+
+  "chapter.mekanism.quest.112.subtitle.1": "终极传输管道",
+  "chapter.mekanism.quest.112.description.1": "&b物流管道&r用于传输物品。速度：10m/s。",
+
+  "chapter.mekanism.quest.113.subtitle.1": "绝对传输管道",
+  "chapter.mekanism.quest.113.description.1": "&b物流管道&r用于传输物品。速度：20m/s。",
+
+  "chapter.mekanism.quest.114.subtitle.1": "最高传输管道",
+  "chapter.mekanism.quest.114.description.1": "&b物流管道&r用于传输物品。速度：40m/s。",
+
+  "chapter.mekanism.quest.115.subtitle.1": "宇宙传输管道",
+  "chapter.mekanism.quest.115.description.1": "&b物流管道&r用于传输物品。速度：80m/s。",
+
+  "chapter.mekanism.quest.116.subtitle.1": "无穷传输管道",
+  "chapter.mekanism.quest.116.description.1": "&b物流管道&r用于传输物品。速度：160m/s。",
+
+  "chapter.mekanism.quest.117.subtitle.1": "终极头盔",
+
+  "chapter.mekanism.quest.118.subtitle.1": "终极胸甲",
+
+  "chapter.mekanism.quest.119.subtitle.1": "终极护腿",
+
+  "chapter.mekanism.quest.120.subtitle.1": "终极靴子",
+
+  "chapter.mekanism.quest.121.subtitle.1": "超模块",
+
+  "chapter.mekanism.quest.122.subtitle.1": "更多矿物",
+  "chapter.mekanism.quest.122.description.1": "增加矿物掉落",
+
+  "chapter.mekanism.quest.123.subtitle.1": "磁力靴子",
+  "chapter.mekanism.quest.123.description.1": "&b磁力吸引装置&r可以应用于Mekasuit靴子上。",
+  "chapter.mekanism.quest.123.description.2": "正如其提示框内所写，本模块“使用强大的磁铁将远处的物品吸引到玩家身上”。你可以在靴子上安装最多4个磁力吸引装置。",
+
+  "chapter.mekanism.quest.124.subtitle.1": "熔岩保护",
+  "chapter.mekanism.quest.124.description.1": "驾驭周围环境中的地热能，提升对热源伤害的防御能力。安装多个以加速充能以及获得更强保护。",
+
+  "chapter.mekanism.quest.125.subtitle.1": "能量分配",
+  "chapter.mekanism.quest.125.description.1": "&b充能分配单元&r可以将输入的能量平均分配给所有的MekaSuit盔甲。正常情况下，如果你给MekaSuit头盔安装太阳能充电单元的话，只有MekaSuit头盔能获得其产生的能量。在安装充能分配单元后，其产生的能量就可以平均分配给所有的MekaSuit盔甲。",
+
+  "chapter.mekanism.quest.126.subtitle.1": "爆炸即是艺术",
+  "chapter.mekanism.quest.126.description.1": "通过遥控爆炸摧毁目标面附近的方块。",
+
+  "chapter.mekanism.quest.127.subtitle.1": "点水成冰",
+  "chapter.mekanism.quest.127.description.1": "使用液态氢冻住玩家走过的所有水方块。安装多个以扩大影响范围。",
+
+  "chapter.mekanism.quest.128.subtitle.1": "双倍能量",
+  "chapter.mekanism.quest.128.description.1": "&b能量单元&r可以将MekaSuit盔甲的能量容量提升至2倍。",
+
+  "chapter.mekanism.quest.129.subtitle.1": "精准剪切",
+  "chapter.mekanism.quest.129.description.1": "给Meka工具添加剪刀功能。不添加剑功能。",
+
+  "chapter.mekanism.quest.130.subtitle.1": "激光，再见。",
+  "chapter.mekanism.quest.130.description.1": "折射及安全地消散打到任何MekaSuit盔甲的激光。",
+
+  "chapter.mekanism.quest.131.subtitle.1": "连锁破坏",
+  "chapter.mekanism.quest.131.description.1": "&b矿脉挖掘单元&r允许快速开采矿床和快速砍伐树木。",
+
+  "chapter.mekanism.quest.132.subtitle.1": "喷气背包",
+  "chapter.mekanism.quest.132.description.1": "&b喷气背包单元&r可以让MekaSuit护甲拥有喷气背包的功能。",
+  "chapter.mekanism.quest.132.description.2": "安装喷气背包单元后，MekaSuit护甲将可以存储48B氢气。",
+  "chapter.mekanism.quest.132.description.3": "喷气背包单元最好和电解呼吸装置配合使用，以在水下和雨中补充氢气。",
+
+  "chapter.mekanism.quest.133.subtitle.1": "辐射反应",
+  "chapter.mekanism.quest.133.description.1": "在HUD显示附近的辐射量。",
+
+  "chapter.mekanism.quest.134.subtitle.1": "辐射保护",
+  "chapter.mekanism.quest.134.description.1": "&b辐射屏蔽单元&r可以让MekaSuit盔甲像防化服一样拥有隔离辐射功能。",
+
+  "chapter.mekanism.quest.135.subtitle.1": "轻松耕种",
+  "chapter.mekanism.quest.135.description.1": "&b耕种单元&r是Meka工具的模块，最多可以安装4个。",
+  "chapter.mekanism.quest.135.description.2": "耕种单元可以让Meka工具拥有以下功能：",
+  "chapter.mekanism.quest.135.description.3": "• 将泥土平整成土径",
+  "chapter.mekanism.quest.135.description.4": "• 将土径犁成耕地",
+  "chapter.mekanism.quest.135.description.5": "• 给原木去皮",
+
+  "chapter.mekanism.quest.136.subtitle.1": "小心处理",
+  "chapter.mekanism.quest.136.description.1": "&b精准采集单元&r可以让Meka工具拥有精准采集的效果。",
+
+  "chapter.mekanism.quest.137.subtitle.1": "辐射表",
+  "chapter.mekanism.quest.137.description.1": "&b放射量测定器单元&r可以在HUD右下角显示你的辐射值。",
+
+  "chapter.mekanism.quest.138.subtitle.1": "快速破坏",
+  "chapter.mekanism.quest.138.description.1": "&b挖掘提升单元&r可以让Meka工具破坏方块的速度提高。",
+
+  "chapter.mekanism.quest.139.subtitle.1": "药水效果，再见。",
+  "chapter.mekanism.quest.139.description.1": "&b吸入净化单元&r可以让玩家选择清除身上的增益、中性和负面效果。",
+
+  "chapter.mekanism.quest.140.subtitle.1": "怪物猎人",
+  "chapter.mekanism.quest.140.description.1": "&b攻击增强单元&r可以提高Meka工具的近战伤害。",
+
+  "chapter.mekanism.quest.141.subtitle.1": "口袋太阳能",
+  "chapter.mekanism.quest.141.description.1": "&b太阳能充电单元&r可以在日光下给MekaSuit头盔充能。",
+
+  "chapter.mekanism.quest.142.subtitle.1": "传送！",
+  "chapter.mekanism.quest.142.description.1": "&b传送单元&r可以让玩家传送到附近方块上。",
+
+  "chapter.mekanism.quest.143.subtitle.1": "水下呼吸",
+  "chapter.mekanism.quest.143.description.1": "&b电解呼吸装置&r可以让你在水下呼吸。",
+  "chapter.mekanism.quest.143.description.2": "此外，如果给MekaSuit护甲安装了喷气背包单元，还会在水下和雨中给其提供氢气。",
+
+  "chapter.mekanism.quest.144.subtitle.1": "呼啸而过",
+  "chapter.mekanism.quest.144.description.1": "&b动力助推单元&r可以提高你的疾跑速度和跳跃距离。",
+  "chapter.mekanism.quest.144.description.2": "疾跑速度提升可以在0.0-0.5范围内配置。注意速度提升会带来更高的饥饿值消耗。",
+
+  "chapter.mekanism.quest.145.subtitle.1": "袋鼠升级",
+  "chapter.mekanism.quest.145.description.1": "&b液压推进单元&r可以让你直接走上最高两格高的方块。还可以让你在按住左Ctrl时跳得更高。",
+
+  "chapter.mekanism.quest.146.subtitle.1": "投喂时间",
+  "chapter.mekanism.quest.146.description.1": "给MekaSuit头盔安装&b营养注射单元&r可以让你之后再也不需要手动吃东西。",
+  "chapter.mekanism.quest.146.description.2": "安装营养注射单元后，MekaSuit头盔可以存储128B营养糊剂。",
+
+  "chapter.mekanism.quest.147.subtitle.1": "谁需要翅膀？",
+  "chapter.mekanism.quest.147.description.1": "&b重力调节单元&r允许用户创造飞行。",
+  "chapter.mekanism.quest.147.description.2": "如果MekaSuit护甲也安装了喷气背包单元的话，启用重力调节单元将会禁用喷气背包单元，反之亦然。",
+
+  "chapter.mekanism.quest.148.subtitle.1": "塑料之翼",
+  "chapter.mekanism.quest.148.description.1": "给MekaSuit护甲安装一个HDPE加强鞘翅。",
+
+  "chapter.mekanism.quest.149.subtitle.1": "夜视升级",
+  "chapter.mekanism.quest.149.description.1": "给MekaSuit头盔安装&b视觉增强单元&r可以获得夜视效果。",
+
+  "chapter.mekanism.quest.150.subtitle.1": "Moses",
+  "chapter.mekanism.quest.150.description.1": "使用先进的技术推开水，来减少在水中移动感受到的阻力。",
+
+  "chapter.mekanism.quest.151.subtitle.1": "酸雨，再见。",
+  "chapter.mekanism.quest.151.description.1": "在“飞跃地球”维度中免受酸雨侵蚀。",
+
+  "chapter.mekanism.quest.152.subtitle.1": "解除着陆限制",
+  "chapter.mekanism.quest.152.description.1": "取消悬浮时的挖掘速度减益。",
+
+  "chapter.mekanism.quest.153.subtitle.1": "呼吸升级",
+  "chapter.mekanism.quest.153.description.1": "在“飞跃地球”维度中维持正常呼吸。",
+  "chapter.mekanism.quest.153.description.2": "接触雨、水时可以给手持物品补充氧气。",
+  "chapter.mekanism.quest.153.description.3": "需要物品栏内有启用的氧气罐。",
+
+  "chapter.mekanism.quest.154.subtitle.1": "自燃，再见。",
+  "chapter.mekanism.quest.154.description.1": "在“飞跃地球”维度中避免因高温而着火。",
+
+  "chapter.mekanism.quest.155.subtitle.1": "重力发生",
+  "chapter.mekanism.quest.155.description.1": "在“飞跃地球”维度中保持与主世界相同的重力。",
+
+  "chapter.mekanism.quest.156.subtitle.1": "终极Mek镐",
+
+  "chapter.mekanism.quest.157.subtitle.1": "终极Mek工具"
 }
