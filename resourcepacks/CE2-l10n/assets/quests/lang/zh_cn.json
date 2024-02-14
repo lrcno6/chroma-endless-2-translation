@@ -580,7 +580,7 @@
   "chapter.stage.2.quest.40.description.1": "新纪元的曙光。",
   "chapter.stage.2.quest.40.description.2": "目前你只能通过微缩合成来制作，之后会有更简单的方法。",
 
-  "chapter.stage.2.quest.41.subtitle.1": "灌注专家",
+  "chapter.stage.2.quest.41.subtitle.1": "专业灌注",
   "chapter.stage.2.quest.41.description.1": "冶金灌注机用于将物质灌注进物品中。",
   "chapter.stage.2.quest.41.description.2": "每种灌注类型都可以制作新的物品，开辟新的道路。",
 
@@ -1218,10 +1218,10 @@
   "chapter.stage.4.quest.49.subtitle.1": "原子合金",
   "chapter.stage.4.quest.49.description.1": "向强化合金灌注强化黑曜石获得。",
 
-  "chapter.stage.4.quest.50.subtitle.1": "传送专家",
+  "chapter.stage.4.quest.50.subtitle.1": "专业传送",
   "chapter.stage.4.quest.50.description.1": "主要用作合成材料。",
 
-  "chapter.stage.4.quest.51.subtitle.1": "采矿专家",
+  "chapter.stage.4.quest.51.subtitle.1": "专业采矿",
   "chapter.stage.4.quest.51.description.1": "向&4量子压缩机&r中输入传送核心和256个御腐水晶获得。",
 
   "chapter.stage.4.quest.52.subtitle.1": "高效采矿",
@@ -2042,7 +2042,7 @@
   "chapter.machinery.quest.13.description.1": "挖掘机是沉浸工程的一种8×3×7的多方块结构，用于将基岩下矿脉里的矿物挖出。",
 
   "chapter.machinery.quest.14.title.1": "看向&6抽油机",
-  "chapter.machinery.quest.14.subtitle.1": "采油专家",
+  "chapter.machinery.quest.14.subtitle.1": "专业采油",
 
   "chapter.machinery.quest.15.title.1": "看向&6避雷针",
   "chapter.machinery.quest.15.subtitle.1": "雷电之能",
@@ -2983,5 +2983,83 @@
   "chapter.hostile.quest.4.description.1": "深度学习器可以存储几个数据模型，并在你杀死生物时训练对应的模型。所有的模型都从缺陷等级开始，并至少得在深度学习器里训练到基础等级才能使用。",
 
   "chapter.hostile.quest.5.subtitle.1": "战利品矩阵",
-  "chapter.hostile.quest.5.description.1": "模拟需要能量（与数据模型有关）和催化剂，催化剂通常是预测矩阵。"
+  "chapter.hostile.quest.5.description.1": "模拟需要能量（与数据模型有关）和催化剂，催化剂通常是预测矩阵。",
+
+  "chapter.undergarden.title": "深暗之园",
+
+  "chapter.undergarden.1.title": "访问维度：&2深暗之园&r",
+  "chapter.undergarden.1.subtitle": "神秘花园",
+  "chapter.undergarden.1.description.1": "深暗之园是一个位于主世界基岩深处的黑暗地下维度。那里的植物适应了黑暗，无需阳光即可生长，怪异的生物以此为家，各种来自一个混沌而黑暗的领域的腐衰生物将自己传播到各处以便入侵这里。",
+
+  "chapter.undergarden.2.subtitle": "都说了这不是黄金",
+  "chapter.undergarden.2.description.1": "一种柔软光泽的金属，可以用来与石生体交易。",
+
+  "chapter.undergarden.3.title": "击杀：10x &b遗忆守卫&r",
+  "chapter.undergarden.3.subtitle": "遗忆守卫是一种小boss",
+  "chapter.undergarden.3.description.2": "&b你可以在下僻巢穴的箱子里找到遗忆守卫瓶。",
+
+  "chapter.undergarden.4.title": "击杀：10x &6腐衰凶兽&r",
+  "chapter.undergarden.4.subtitle": "腐衰凶兽是一种来自其他领域的敌对生物",
+  "chapter.undergarden.4.description.1": "腐衰凶兽可以在亮度小于7的可生成方块上生成。在贫瘠深渊生成的可能性更大。",
+
+  "chapter.undergarden.5.title": "击杀：10x &6腐衰微体&r",
+  "chapter.undergarden.5.subtitle": "腐衰微体是一种来自其他领域的敌对生物",
+  "chapter.undergarden.5.description.1": "腐衰微体可以在亮度小于7的可生成方块上生成。在贫瘠深渊生成的可能性更大。",
+
+  "chapter.undergarden.6.title": "击杀：10x &6腐衰行者&r",
+  "chapter.undergarden.6.subtitle": "腐衰行者是一种来自其他领域的敌对生物",
+  "chapter.undergarden.6.description.1": "腐衰行者可以在亮度小于7的可生成方块上生成。在贫瘠深渊生成的可能性更大。",
+
+  "chapter.undergarden.7.title": "击杀：10x &6石匐鬼&r",
+  "chapter.undergarden.7.subtitle": "石匐鬼是一种来自其他领域的敌对生物",
+  "chapter.undergarden.7.description.1": "石匐鬼一般会四处游荡。当它发现目标时，它会跑向目标并不断地跳跃攻击目标。",
+  "chapter.undergarden.7.description.2": "石匐鬼可以在Y=32以下任何亮度等级低于7的实体方块上生成。",
+
+  "chapter.undergarden.8.subtitle": "一块平滑的渊邃石，可作为渊邃弹弓的弹药",
+
+  "chapter.undergarden.9.subtitle": "深园之床",
+  "chapter.undergarden.9.description.1": "深暗之园独有的床，与普通床在主世界的效果一样，可以在深暗之园记录出生点。&c在主世界使用会导致爆炸！",
+
+  "chapter.undergarden.10.title": "击杀：10x &6粗野兽&r",
+  "chapter.undergarden.10.subtitle": "粗野兽是一种来自其他领域的敌对生物",
+  "chapter.undergarden.10.description.1": "粗野兽会在茂密森林、遗忆之地、油绿森林、烟梗森林和摇蜿森林群系4个一组无视亮度生成。",
+
+  "chapter.undergarden.11.subtitle": "Boom !",
+  "chapter.undergarden.11.description.1": "一种简易投掷爆炸物，可以通过和石生体交易获得。",
+
+  "chapter.undergarden.12.title": "击杀：10x &6石生体&r",
+  "chapter.undergarden.12.subtitle": "石生体是一种中立生物",
+  "chapter.undergarden.12.description.1": "石生体会到处缓慢游荡并看向其他实体或玩家。与其交互可以进行交易。被攻击后会反击并寻求其他石生体的帮助。",
+  "chapter.undergarden.12.description.2": "&c如果石生体在深暗之园维度外待的时间超过15秒，它会爆炸，杀死自己，造成伤害并破坏方块。",
+
+  "chapter.undergarden.13.title": "击杀：10x &6巨嘴兽&r",
+  "chapter.undergarden.13.subtitle": "巨嘴兽是一种来自其他领域的敌对生物",
+  "chapter.undergarden.13.description.1": "巨嘴兽一般会四处游荡。当它感应到目标时，它会跑向目标并展开攻击。",
+  "chapter.undergarden.13.description.2": "如果有一个其可破坏的方块阻挡着它，它将会将其破坏无掉落物并恢复1点生命值。",
+
+  "chapter.undergarden.14.title": "&5发现所有深园群系",
+  "chapter.undergarden.14.subtitle" : "深园探险者",
+
+  "chapter.undergarden.15.title": "&a与石生体交易",
+  "chapter.undergarden.15.subtitle" : "成交！",
+
+  "chapter.undergarden.16.title": "&a建造遗忆仆从",
+  "chapter.undergarden.16.subtitle" : "傀儡师",
+  "chapter.undergarden.16.description.1": "用遗忆块和雕刻过的黯瓜来建造遗忆仆从。",
+
+  "chapter.undergarden.17.title": "御腐矿石",
+  "chapter.undergarden.17.subtitle": "另一种红色矿石",
+
+  "chapter.undergarden.18.title": "扼塞矿石",
+  "chapter.undergarden.18.subtitle": "深园之铁",
+
+  "chapter.undergarden.19.title": "霜钢矿石",
+  "chapter.undergarden.19.subtitle": "极寒之铁",
+
+  "chapter.undergarden.20.title": "贵豪矿石",
+  "chapter.undergarden.20.subtitle": "这不是黄金",
+
+  "chapter.undergarden.21.subtitle": "遗忆金属",
+
+  "chapter.undergarden.22.subtitle": "压缩遗忆粒"
 }
