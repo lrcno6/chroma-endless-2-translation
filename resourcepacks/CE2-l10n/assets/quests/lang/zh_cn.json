@@ -2963,5 +2963,25 @@
 
   "chapter.mekanism.quest.156.subtitle.1": "终极Mek镐",
 
-  "chapter.mekanism.quest.157.subtitle.1": "终极Mek工具"
+  "chapter.mekanism.quest.157.subtitle.1": "终极Mek工具",
+
+  "chapter.elements.title": "元素周期表",
+
+  "chapter.hostile.3.title": "深度怪物学习",
+
+  "chapter.hostile.quest.1.subtitle.1": "预测产物制造",
+  "chapter.hostile.quest.1.description.1": "模拟室可以根据放入的数据模型制作预测产物。放入预测矩阵可以获得一个通用预测产物以及有概率获得一个生物预测产物。",
+  "chapter.hostile.quest.1.description.2":  "注意数据模型等级越高，获得生物预测产物的概率越高。",
+
+  "chapter.hostile.quest.2.subtitle.1": "XL Looting",
+  "chapter.hostile.quest.2.description.1": "战利品制造器可以将预测产物转化为战利品。例如：牛预测产物可以产出生牛肉和皮革。",
+
+  "chapter.hostile.quest.3.subtitle.1": "捕捉生物灵魂",
+  "chapter.hostile.quest.3.description.1": "右击生物以创建数据模型。",
+
+  "chapter.hostile.quest.4.subtitle.1": "怪物学习农场",
+  "chapter.hostile.quest.4.description.1": "深度学习器可以存储几个数据模型，并在你杀死生物时训练对应的模型。所有的模型都从缺陷等级开始，并至少得在深度学习器里训练到基础等级才能使用。",
+
+  "chapter.hostile.quest.5.subtitle.1": "战利品矩阵",
+  "chapter.hostile.quest.5.description.1": "模拟需要能量（与数据模型有关）和催化剂，催化剂通常是预测矩阵。"
 }

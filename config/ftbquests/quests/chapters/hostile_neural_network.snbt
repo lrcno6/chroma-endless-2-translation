@@ -1,0 +1,1586 @@
+{
+	id: "4A4CE28C34BF1481"
+	group: "6E1FC0F5596E1533"
+	order_index: 6
+	filename: "hostile_neural_network"
+	title: "{chapter.hostile.3.title}"
+	icon: "hostilenetworks:sim_chamber"
+	default_quest_shape: "diamond"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -8.5d
+			y: -5.0d
+			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.5.subtitle.1}"
+			description: ["{chapter.hostile.quest.5.description.1}"]
+			dependencies: ["06CD47DBE5D3547B"]
+			id: "5EC093C47CE196BD"
+			tasks: [{
+				id: "3B9228667D878332"
+				type: "item"
+				item: "hostilenetworks:empty_prediction"
+			}]
+			rewards: [{
+				id: "4BFF52252019F94D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -6.0d
+			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.4.subtitle.1}"
+			description: ["{chapter.hostile.quest.4.description.1}"]
+			dependencies: ["40F23D48A8AECB4A"]
+			id: "06CD47DBE5D3547B"
+			tasks: [{
+				id: "75C7A3BE09E67F16"
+				type: "item"
+				item: "hostilenetworks:deep_learner"
+			}]
+			rewards: [{
+				id: "17FF091C4F70A956"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: -6.0d
+			shape: "hexagon"
+			subtitle: "{chapter.hostile.quest.3.subtitle.1}"
+			description: ["{chapter.hostile.quest.3.description.1}"]
+			dependencies: ["5A35C11EB5E8952C"]
+			id: "40F23D48A8AECB4A"
+			tasks: [{
+				id: "5792B3D7D4EBB878"
+				type: "item"
+				item: "hostilenetworks:blank_data_model"
+			}]
+			rewards: [{
+				id: "2FA5A5C83E1B0231"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -3.0d
+			shape: "octagon"
+			subtitle: "{chapter.hostile.quest.1.subtitle.1}"
+			description: [
+				"{chapter.hostile.quest.1.description.1}"
+				""
+				"{chapter.hostile.quest.1.description.2}"
+			]
+			dependencies: ["5EC093C47CE196BD"]
+			size: 2.0d
+			id: "5AE4BDBA7C2C6473"
+			tasks: [{
+				id: "618E5A3468AA94E7"
+				type: "item"
+				item: "hostilenetworks:sim_chamber"
+			}]
+			rewards: [{
+				id: "27BB92E5B43ED75F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 7.5d
+			shape: "octagon"
+			subtitle: "{chapter.hostile.quest.2.subtitle.1}"
+			description: ["{chapter.hostile.quest.2.description.1}"]
+			hide_dependency_lines: true
+			dependencies: [
+				"582195C36F6E22CC"
+				"1960611749178363"
+				"434CDED3AEFEDF22"
+				"27E7C839CAA7097D"
+				"4EC44E9EC44CD192"
+				"3D319516DA1A44BA"
+				"34696F565F029136"
+				"283CE8F79E7CA3BB"
+				"103B8ED55643FB60"
+				"15DAA79A7178A6B5"
+				"6FF8A6D4A48E62EC"
+				"0F7EECC50858646D"
+				"543488B6BAA49976"
+				"30DE74EC491C1C7F"
+				"3196CB079F3DF034"
+				"0C0D6E85F0BD37EC"
+				"149F456AA4A5808E"
+				"7182784F248D7F60"
+				"31AF6FD41F9AA201"
+				"198F7A626FA770EE"
+				"2B526480F58D0FBA"
+				"70E75213DE371066"
+				"7FB3042F58A5775F"
+				"7E0CA42E65137699"
+				"7F42AABDDDCA225D"
+				"6E7A88A95D6CD8D7"
+				"1A78A318E89A5791"
+				"19196C8C66C806B1"
+				"5B63399E443ACFE9"
+				"69C5D9D970503B62"
+				"46D633B9D8A460F9"
+				"370042C59A663B5B"
+				"2413EBB6F191C2CC"
+				"76358179015505A1"
+				"0103323CE36D95E8"
+				"5DC41378A47BE43D"
+				"51B356E69102156C"
+				"5716C3122F4D8932"
+				"558789734526D2AE"
+				"64F5DD8C9E15BE10"
+				"4F5A8665BC5C999F"
+				"03A5CB419016F5CC"
+				"7C0788B0D5F140B8"
+				"0364FB451A45079B"
+			]
+			dependency_requirement: "one_completed"
+			size: 2.0d
+			id: "2BA8008F63471110"
+			tasks: [{
+				id: "74D2956AACE65381"
+				type: "item"
+				item: "hostilenetworks:loot_fabricator"
+			}]
+			rewards: [{
+				id: "71EE5AC77136259D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: -1.0d
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "348EB0A69E4BB2E4"
+			tasks: [{
+				id: "5D16153E59A5B174"
+				type: "item"
+				item: "hostilenetworks:overworld_prediction"
+			}]
+			rewards: [{
+				id: "154B2631E9A5A57D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: -0.5d
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "65AA52F702CE94E4"
+			tasks: [{
+				id: "41D1641500422D3F"
+				type: "item"
+				item: "hostilenetworks:nether_prediction"
+			}]
+			rewards: [{
+				id: "6F01E4C73F1C1ADA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -0.5d
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "59B5A52279551CAA"
+			tasks: [{
+				id: "4425A0C3441C7343"
+				type: "item"
+				item: "hostilenetworks:end_prediction"
+			}]
+			rewards: [{
+				id: "210AD270C557D3F8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -0.5d
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "37FA2EB80F4E0AFF"
+			tasks: [{
+				id: "3A5C07F7A095A3F0"
+				type: "item"
+				item: "chroma:generalized_undergarden_prediction"
+			}]
+			rewards: [{
+				id: "408561AF5008CB9F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: -1.0d
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "62DDFEA5524CCE6C"
+			tasks: [{
+				id: "056EFC45518667A3"
+				type: "item"
+				item: "chroma:generalized_botania_prediction"
+			}]
+			rewards: [{
+				id: "51E78D318FB284D3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 3.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "283CE8F79E7CA3BB"
+			tasks: [{
+				id: "2AB28D799F84B779"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:artifacts/mimic"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "5C22B22ABC1BD094"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "7E0CA42E65137699"
+			tasks: [{
+				id: "6489B149A5471531"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:bat"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "1B93D347B013A162"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "558789734526D2AE"
+			tasks: [{
+				id: "11DE035BC5438A46"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:bee"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "7BA0E47876558AB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "7F42AABDDDCA225D"
+			tasks: [{
+				id: "532A45ACF86CC2D5"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:blaze"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "54D6F92DB050EBEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "198F7A626FA770EE"
+			tasks: [{
+				id: "57C3086AE9D6404F"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:chicken"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2332501975E924E5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "5B63399E443ACFE9"
+			tasks: [{
+				id: "299F15C9A77D7704"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:cod"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2B74007EE473F78E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "27E7C839CAA7097D"
+			tasks: [{
+				id: "552C87DEB19CDF72"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:cow"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "538C89DC6EC98059"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "6E7A88A95D6CD8D7"
+			tasks: [{
+				id: "62717A9CD1334E8B"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:creeper"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3A0D341E46F8590A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "103B8ED55643FB60"
+			tasks: [{
+				id: "77613FBB65E7D598"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:drowned"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3198159D65F67639"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "51B356E69102156C"
+			tasks: [{
+				id: "208D6F02CD6E9C65"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:elder_guardian"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "00D3E73CA456E0CA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 4.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "543488B6BAA49976"
+			tasks: [{
+				id: "693894175E76150F"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:ender_dragon"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "0B368390548F4B5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 4.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "0103323CE36D95E8"
+			tasks: [{
+				id: "2FB5828871FB9F16"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:enderman"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "0FDEDC9C25AFE4A7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "370042C59A663B5B"
+			tasks: [{
+				id: "13F7F8FC8E35A8EA"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:evoker"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "22D9CEE1A5C78000"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 5.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "03A5CB419016F5CC"
+			tasks: [{
+				id: "5DBBEB74F3A5A374"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:forgotten_guardian"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "44DCAC49C6987DEA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 6.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "15DAA79A7178A6B5"
+			tasks: [{
+				id: "4954924914DA3A54"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:gaia"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "21D2734CC3FB5089"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.0d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "582195C36F6E22CC"
+			tasks: [{
+				id: "3BD48F6169F827D9"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:ghast"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "79E7A1E14EF32185"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "69C5D9D970503B62"
+			tasks: [{
+				id: "31357B7C72E88064"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:glow_squid"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "45C677FA9D5C5E2F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "1A78A318E89A5791"
+			tasks: [{
+				id: "5E887DF176D4FE12"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:guardian"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "175978C1A698DAD0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "1960611749178363"
+			tasks: [{
+				id: "766874FC15E4E8DC"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:hoglin"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2005F5ECD12BC675"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "2B526480F58D0FBA"
+			tasks: [{
+				id: "11A27FC3FCC5E6FF"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:iron_golem"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3D46153A995DFD33"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "2413EBB6F191C2CC"
+			tasks: [{
+				id: "59D3129D2232DD3A"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:magma_cube"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2B7D5E83AC87509E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "6FF8A6D4A48E62EC"
+			tasks: [{
+				id: "444B03ED563164A4"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:mooshroom"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "7C667C8CF9C20B75"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "7182784F248D7F60"
+			tasks: [{
+				id: "3873BC29FC388976"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:phantom"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "4DEC766B85D91A9B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "46D633B9D8A460F9"
+			tasks: [{
+				id: "7322DEAAC96A61C7"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:pig"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6CC9ABA122060978"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "0F7EECC50858646D"
+			tasks: [{
+				id: "05D7D692F67930C1"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:polar_bear"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "40C9859EF987012E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "149F456AA4A5808E"
+			tasks: [{
+				id: "4A76067B41B3BCFC"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:rabbit"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "639EC67D764C4360"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 5.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "434CDED3AEFEDF22"
+			tasks: [{
+				id: "7CDDFF8C68CAF7CE"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:rotwalker"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "58EC3A6413B34BA1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "31AF6FD41F9AA201"
+			tasks: [{
+				id: "61BF2810873B5753"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:sheep"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6BCD7D12A6D92C09"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 4.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "30DE74EC491C1C7F"
+			tasks: [{
+				id: "3D75B6CB88965A63"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:shulker"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "431D3B28985A0240"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "64F5DD8C9E15BE10"
+			tasks: [{
+				id: "55EFDED7CDD8D412"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:skeleton"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3D874E2F173A86D1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "34696F565F029136"
+			tasks: [{
+				id: "09724E323F4B9E78"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:slime"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "65291CFC854F3A56"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -4.5d
+			y: 2.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "76358179015505A1"
+			tasks: [{
+				id: "5E42F8914E4AE68C"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:snow_golem"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6CEF040EC326F081"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "5DC41378A47BE43D"
+			tasks: [{
+				id: "2962A80D06901A37"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:spider"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "2C4E816BB21298F1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "0C0D6E85F0BD37EC"
+			tasks: [{
+				id: "5E74507E174158E0"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:squid"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "1A844FDBA0DB0929"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "3D319516DA1A44BA"
+			tasks: [{
+				id: "486922E982F49DAD"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/blizz"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3D7A6C2E5FB68480"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "70E75213DE371066"
+			tasks: [{
+				id: "11FA3B0DCC380418"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/basalz"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "25487ECE8A27DAD4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 1.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "7C0788B0D5F140B8"
+			tasks: [{
+				id: "7CEA1C09E9066525"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:thermal/blitz"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "1380ADF223681F25"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -10.5d
+			y: 1.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "19196C8C66C806B1"
+			tasks: [{
+				id: "43CE343561D0F39F"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:vindicator"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "287E377328BE4B09"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "4EC44E9EC44CD192"
+			tasks: [{
+				id: "674346C3B34DBF67"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:witch"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "74FD925F2F2268D6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.0d
+			y: 3.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "7FB3042F58A5775F"
+			tasks: [{
+				id: "6022A6D4300BE3A1"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:wither"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "5D4681773DFF41EA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "0364FB451A45079B"
+			tasks: [{
+				id: "2BD725FCF6C2F23E"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:wither_skeleton"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "6D6474E5526EC436"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -12.0d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "5716C3122F4D8932"
+			tasks: [{
+				id: "10796E120A4638B8"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:wraith"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "08D4F48ED4475E0C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.0d
+			y: 0.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "3196CB079F3DF034"
+			tasks: [{
+				id: "32911CF620BEBA04"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:zombie"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "57DE368AA8C70295"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: 2.5d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "4F5A8665BC5C999F"
+			tasks: [{
+				id: "285194B479AF7C78"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:zombified_piglin"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "3E4641BBFD9AD921"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -8.5d
+			y: 5.0d
+			hide_dependency_lines: true
+			dependencies: ["5AE4BDBA7C2C6473"]
+			id: "0052C5EDB7458B67"
+			tasks: [{
+				id: "56F1FFE5BA25BBBE"
+				type: "item"
+				item: {
+					id: "hostilenetworks:prediction"
+					Count: 1
+					tag: {
+						data_model: {
+							id: "hostilenetworks:draconic_guardian"
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "34012938A9094E06"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}

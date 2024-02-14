@@ -1,0 +1,2504 @@
+{
+	id: "38204246FC53910C"
+	group: "6E1FC0F5596E1533"
+	order_index: 5
+	filename: "the_periodic_table_of_elements"
+	title: "{chapter.elements.title}"
+	icon: "chemlib:plutonium"
+	disable_toast: true
+	default_quest_shape: "rsquare"
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: 0.0d
+		width: 45.0d
+		height: 23.0d
+		rotation: 0.0d
+		image: "chemlib:textures/painting/periodic_table.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: 9.5d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "26BC9291F7A8E605"
+			tasks: [{
+				id: "68D1E983B8CEDCF5"
+				type: "item"
+				item: "chemlib:carbon"
+			}]
+			rewards: [{
+				id: "7E4796690A4455A6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "38549C1D3B06AA5D"
+			tasks: [{
+				id: "717744DB6E5414AC"
+				type: "item"
+				item: "chemlib:nitrogen"
+			}]
+			rewards: [{
+				id: "6F9F076375CAD61E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "12458A9B4CAF869B"
+			tasks: [{
+				id: "331BE83C11E16465"
+				type: "item"
+				item: "chemlib:oxygen"
+			}]
+			rewards: [{
+				id: "119D3A91C0360A5F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "3BFEB01BB198A96F"
+			tasks: [{
+				id: "49A78A7AD8483630"
+				type: "item"
+				item: "chemlib:fluorine"
+			}]
+			rewards: [{
+				id: "32A278E27133A372"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: -6.4d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "24B6C326F7AD3940"
+			tasks: [{
+				id: "386893A4C2EB8D85"
+				type: "item"
+				item: "chemlib:neon"
+			}]
+			rewards: [{
+				id: "2BB95E5ED8EDFB56"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: -6.4d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "61AF255B56052FCD"
+			tasks: [{
+				id: "78C0C7B86C0DE2B9"
+				type: "item"
+				item: "chemlib:boron"
+			}]
+			rewards: [{
+				id: "567EC424E4AD0582"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "178C3D0CC6FC59E9"
+			tasks: [{
+				id: "24E0ADD6EB88961E"
+				type: "item"
+				item: "chemlib:lithium"
+			}]
+			rewards: [{
+				id: "202F18134D52701A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: -8.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "58E55F32E2FCFCA9"
+			tasks: [{
+				id: "72F7DC074D78A7BD"
+				type: "item"
+				item: "chemlib:hydrogen"
+			}]
+			rewards: [{
+				id: "7B506F4DEDF36304"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: -8.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "43F7474FCA4164DB"
+			tasks: [{
+				id: "6D2D01547CF859F0"
+				type: "item"
+				item: "chemlib:helium"
+			}]
+			rewards: [{
+				id: "27D6D5E6F6EBDC42"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.75d
+			y: -6.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "48D3DB5A2A56832E"
+			tasks: [{
+				id: "71E1F3875F1DFFE0"
+				type: "item"
+				item: "chemlib:beryllium"
+			}]
+			rewards: [{
+				id: "5DCB6A0BE96828DF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "195806BA290BC3D2"
+			tasks: [{
+				id: "0E5418AB4AC5C024"
+				type: "item"
+				item: "chemlib:potassium"
+			}]
+			rewards: [{
+				id: "7F363A757DF0365E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "2B4DFA8901BE485F"
+			tasks: [{
+				id: "3D36DEAD4F68E2C4"
+				type: "item"
+				item: "chemlib:sodium"
+			}]
+			rewards: [{
+				id: "670C40F6841CCAB8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.7d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "0948EDC058775890"
+			tasks: [{
+				id: "51AC897B3AE898C0"
+				type: "item"
+				item: "chemlib:magnesium"
+			}]
+			rewards: [{
+				id: "38F22505181C314C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "420B169D56654C8D"
+			tasks: [{
+				id: "5238B58A18130659"
+				type: "item"
+				item: "chemlib:aluminum"
+			}]
+			rewards: [{
+				id: "7AFABBDDA80D45B0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "7C8936D66FD2C4CD"
+			tasks: [{
+				id: "57BFF7E26BD98951"
+				type: "item"
+				item: "chemlib:silicon"
+			}]
+			rewards: [{
+				id: "7D5AF4B6AAF18B6B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "40489B79F795EB9C"
+			tasks: [{
+				id: "7C63E6DA4D3D7DD0"
+				type: "item"
+				item: "chemlib:phosphorus"
+			}]
+			rewards: [{
+				id: "09BAF6113A09440F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "425CFE9B85756B5A"
+			tasks: [{
+				id: "3B299499DCCCB6F1"
+				type: "item"
+				item: "chemlib:sulfur"
+			}]
+			rewards: [{
+				id: "6F6EED0C8AEE71E0"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: -4.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "04479FD0B6C6F341"
+			tasks: [{
+				id: "17CA38807CB85D06"
+				type: "item"
+				item: "chemlib:chlorine"
+			}]
+			rewards: [{
+				id: "4B4FA175E018016E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: -4.4d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "2EC1ACA02B14C617"
+			tasks: [{
+				id: "269CF3B2A8A994B9"
+				type: "item"
+				item: "chemlib:argon"
+			}]
+			rewards: [{
+				id: "1C5095C33858F2EC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.7d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "064196568D5BFF23"
+			tasks: [{
+				id: "6F75750F0EA17354"
+				type: "item"
+				item: "chemlib:calcium"
+			}]
+			rewards: [{
+				id: "726B3BE7E082FB7E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.6d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "50F5850BB2A2A875"
+			tasks: [{
+				id: "483C0063C7BCAEBA"
+				type: "item"
+				item: "chemlib:scandium"
+			}]
+			rewards: [{
+				id: "65C25E1086B9A653"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "578EA6BA05651FF5"
+			tasks: [{
+				id: "0E1B01B6612E2B40"
+				type: "item"
+				item: "chemlib:titanium"
+			}]
+			rewards: [{
+				id: "31A491888277A925"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.4d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "502FA1F4D65F2BF1"
+			tasks: [{
+				id: "0D9B239A8232F5EC"
+				type: "item"
+				item: "chemlib:vanadium"
+			}]
+			rewards: [{
+				id: "474F6BC9DD2E2757"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "740ACE9492A579C5"
+			tasks: [{
+				id: "7883A7EDB3E97513"
+				type: "item"
+				item: "chemlib:chromium"
+			}]
+			rewards: [{
+				id: "5890B68FD860839F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "00CBF2F45D57A119"
+			tasks: [{
+				id: "75C85CA65937E865"
+				type: "item"
+				item: "chemlib:manganese"
+			}]
+			rewards: [{
+				id: "20497D16EBB5F747"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "764B45E75F2C72F9"
+			tasks: [{
+				id: "62AF03C90A7BA305"
+				type: "item"
+				item: "chemlib:iron"
+			}]
+			rewards: [{
+				id: "4CD158E783C63FA2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "3FC08291081317A7"
+			tasks: [{
+				id: "6252AB2D5FB6E480"
+				type: "item"
+				item: "chemlib:copper"
+			}]
+			rewards: [{
+				id: "25A4BB7915524627"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "36461115E319576C"
+			tasks: [{
+				id: "6242ABF2390B8304"
+				type: "item"
+				item: "chemlib:nickel"
+			}]
+			rewards: [{
+				id: "50723AE1E025F18E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "0740CA15BF6B1174"
+			tasks: [{
+				id: "3425399411838F85"
+				type: "item"
+				item: "chemlib:cobalt"
+			}]
+			rewards: [{
+				id: "1C9D4C4675DD7368"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.3d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "6125069FCDD4D226"
+			tasks: [{
+				id: "093C716A727E499F"
+				type: "item"
+				item: "chemlib:zinc"
+			}]
+			rewards: [{
+				id: "389D215995FE8EE8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "4F7F7D979DDA94F3"
+			tasks: [{
+				id: "4F47B8BBCB9FABCD"
+				type: "item"
+				item: "chemlib:gallium"
+			}]
+			rewards: [{
+				id: "51DBBD7C6610EDC8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "4DD746B72D0AC121"
+			tasks: [{
+				id: "6B045131DC78A55F"
+				type: "item"
+				item: "chemlib:germanium"
+			}]
+			rewards: [{
+				id: "7BE39A506B4991C9"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "03C83E2DFE350223"
+			tasks: [{
+				id: "77A4B802BE7887C5"
+				type: "item"
+				item: "chemlib:arsenic"
+			}]
+			rewards: [{
+				id: "059A5B5C735B9DC5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "56D1B7E502095BC3"
+			tasks: [{
+				id: "08BFABC77456B653"
+				type: "item"
+				item: "chemlib:selenium"
+			}]
+			rewards: [{
+				id: "6DBA75398196E88B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: -2.4d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "7A1580FC92B7918F"
+			tasks: [{
+				id: "39FD4AA57D12E516"
+				type: "item"
+				item: "chemlib:bromine"
+			}]
+			rewards: [{
+				id: "3159D928C0A77328"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: -2.4d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "052956E95D2E6639"
+			tasks: [{
+				id: "2F124F13FA283B86"
+				type: "item"
+				item: "chemlib:krypton"
+			}]
+			rewards: [{
+				id: "7B30F2A86C2A51F8"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: -0.35d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "13F9184932D31E7A"
+			tasks: [{
+				id: "5F712706ACBFCCB3"
+				type: "item"
+				item: "chemlib:rubidium"
+			}]
+			rewards: [{
+				id: "25304630AB2B073F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.7d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "5BECF74320C66B72"
+			tasks: [{
+				id: "2F81C810AAB10982"
+				type: "item"
+				item: "chemlib:strontium"
+			}]
+			rewards: [{
+				id: "3932531980D43C98"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.6d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "70B18607CE50971B"
+			tasks: [{
+				id: "186B8B2407630B53"
+				type: "item"
+				item: "chemlib:yttrium"
+			}]
+			rewards: [{
+				id: "096202E17E934BC1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "409157C194BF318E"
+			tasks: [{
+				id: "6395FC6431CA0142"
+				type: "item"
+				item: "chemlib:zirconium"
+			}]
+			rewards: [{
+				id: "71B240E625F119BC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.4d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "604B8C14B0718C45"
+			tasks: [{
+				id: "1AA131E573F933A6"
+				type: "item"
+				item: "chemlib:niobium"
+			}]
+			rewards: [{
+				id: "2DBA3BCFC0A09E57"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: -0.35d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "1149933BC251F578"
+			tasks: [{
+				id: "210BEEB912AFFABA"
+				type: "item"
+				item: "chemlib:molybdenum"
+			}]
+			rewards: [{
+				id: "1DB42E70E158903E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "2E208B2457EF04B1"
+			tasks: [{
+				id: "568665D4440F5FAD"
+				type: "item"
+				item: "chemlib:technetium"
+			}]
+			rewards: [{
+				id: "14A1E4F20B24A624"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: -0.35d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "052894FD009ABD9A"
+			tasks: [{
+				id: "2B87AC7398B577F0"
+				type: "item"
+				item: "chemlib:ruthenium"
+			}]
+			rewards: [{
+				id: "6400DA7B8898AE7C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: -0.35d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "0575AB3A92E53D5E"
+			tasks: [{
+				id: "518EF689AF636F8A"
+				type: "item"
+				item: "chemlib:rhodium"
+			}]
+			rewards: [{
+				id: "4A658226E1D8AFDF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: -0.35d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "0E4B5F46B67CEA4C"
+			tasks: [{
+				id: "526ED1F14E23F593"
+				type: "item"
+				item: "chemlib:palladium"
+			}]
+			rewards: [{
+				id: "4083A3F57AC460E3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "6EA3D9541D2E5EF0"
+			tasks: [{
+				id: "5AC93E6BCE98A9BE"
+				type: "item"
+				item: "chemlib:silver"
+			}]
+			rewards: [{
+				id: "55A63DD369C36862"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.3d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "44545C1AF87C2004"
+			tasks: [{
+				id: "09F72598396D3FBE"
+				type: "item"
+				item: "chemlib:cadmium"
+			}]
+			rewards: [{
+				id: "7D7F2B057C4C1B27"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "00C18EFF670AF226"
+			tasks: [{
+				id: "3DF965AAA08FCE96"
+				type: "item"
+				item: "chemlib:indium"
+			}]
+			rewards: [{
+				id: "27C6D51C82D06BEE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.4d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "017C79C5E285BAB1"
+			tasks: [{
+				id: "6FB2E2CFC0EB620C"
+				type: "item"
+				item: "chemlib:tin"
+			}]
+			rewards: [{
+				id: "36740230863BC66B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "6C2C3BBB1E0260B8"
+			tasks: [{
+				id: "2C5F43CF1518E97E"
+				type: "item"
+				item: "chemlib:antimony"
+			}]
+			rewards: [{
+				id: "553D83675AFF8A05"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: -0.35d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "343F1C320D5367BF"
+			tasks: [{
+				id: "01611A72AC734FDC"
+				type: "item"
+				item: "chemlib:tellurium"
+			}]
+			rewards: [{
+				id: "6FD68EC248A87CB2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "7689D419C99BBAC1"
+			tasks: [{
+				id: "385902B820EB9AC0"
+				type: "item"
+				item: "chemlib:iodine"
+			}]
+			rewards: [{
+				id: "5E6DB40BCF0F9688"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: -0.35d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "1AF0B63AB202E820"
+			tasks: [{
+				id: "23B35479343122E8"
+				type: "item"
+				item: "chemlib:xenon"
+			}]
+			rewards: [{
+				id: "3CAED5E6ADECC996"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "6BC7098A19D58F20"
+			tasks: [{
+				id: "467853504707F0DD"
+				type: "item"
+				item: "chemlib:cesium"
+			}]
+			rewards: [{
+				id: "1ABC0E0702533430"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.7d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "1D3B5E4A20FD4476"
+			tasks: [{
+				id: "586A13E663B689C1"
+				type: "item"
+				item: "chemlib:barium"
+			}]
+			rewards: [{
+				id: "69242A129F785D07"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "080572D49AE0100C"
+			tasks: [{
+				id: "30723D8639139F23"
+				type: "item"
+				item: "chemlib:hafnium"
+			}]
+			rewards: [{
+				id: "1D506DB25689429A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.4d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "02B70166030C5F65"
+			tasks: [{
+				id: "55BB9BF71EEE20DF"
+				type: "item"
+				item: "chemlib:tantalum"
+			}]
+			rewards: [{
+				id: "682127DDA6CDD64A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "0A4A0DFB8B7FBC4D"
+			tasks: [{
+				id: "25B770E146FF7620"
+				type: "item"
+				item: "chemlib:tungsten"
+			}]
+			rewards: [{
+				id: "6771A455A3798F87"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "3C56748C83A92BDA"
+			tasks: [{
+				id: "0CA2D226E2752D0F"
+				type: "item"
+				item: "chemlib:rhenium"
+			}]
+			rewards: [{
+				id: "7234F83FCD823A06"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "74C324EBBE2E825C"
+			tasks: [{
+				id: "3D361CCB4780BF43"
+				type: "item"
+				item: "chemlib:osmium"
+			}]
+			rewards: [{
+				id: "31BBA41D2F505A72"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "6884DDA01BD5A16B"
+			tasks: [{
+				id: "0988F0D3D91A5992"
+				type: "item"
+				item: "chemlib:iridium"
+			}]
+			rewards: [{
+				id: "32B713A809906342"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "510CA6CF4E4824B4"
+			tasks: [{
+				id: "15FEBD8A29220C99"
+				type: "item"
+				item: "chemlib:platinum"
+			}]
+			rewards: [{
+				id: "5CD7661D29FA53C7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "463DB09D1E1CE78A"
+			tasks: [{
+				id: "3B95992F0ADF61E0"
+				type: "item"
+				item: "chemlib:gold"
+			}]
+			rewards: [{
+				id: "13AD44D91F4296AE"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.2d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "088DE312ED80BDC9"
+			tasks: [{
+				id: "4336C1A397B2EE0F"
+				type: "item"
+				item: "chemlib:mercury"
+			}]
+			rewards: [{
+				id: "2A6FF7744E9CBE72"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "3DDDF466C30A64AD"
+			tasks: [{
+				id: "7E264B0A43306ABE"
+				type: "item"
+				item: "chemlib:thallium"
+			}]
+			rewards: [{
+				id: "148E133FA2096F11"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "0CCFE245A24F717B"
+			tasks: [{
+				id: "31F57012D0AA25EB"
+				type: "item"
+				item: "chemlib:lead"
+			}]
+			rewards: [{
+				id: "6B0BC048BDB7001D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "2C166F0A68D32C1B"
+			tasks: [{
+				id: "423F1770054AC12D"
+				type: "item"
+				item: "chemlib:bismuth"
+			}]
+			rewards: [{
+				id: "67FCBB663B055029"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "69C6BC7407613EED"
+			tasks: [{
+				id: "4F70962D49C7D5B3"
+				type: "item"
+				item: "chemlib:polonium"
+			}]
+			rewards: [{
+				id: "6E37E52A615B6DA3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: 1.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "389B6D1FC8CF4014"
+			tasks: [{
+				id: "2308C0C57B73338B"
+				type: "item"
+				item: "chemlib:astatine"
+			}]
+			rewards: [{
+				id: "59DBBB7E30B43D11"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: 1.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "4E0F67B8CFCC2811"
+			tasks: [{
+				id: "46E243F0E3B22A24"
+				type: "item"
+				item: "chemlib:radon"
+			}]
+			rewards: [{
+				id: "235C1993E601DCA5"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -17.8d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "1D2B28D26E89230B"
+			tasks: [{
+				id: "1DBF81E2556EF054"
+				type: "item"
+				item: "chemlib:francium"
+			}]
+			rewards: [{
+				id: "0AD9E25C8DFE9AB7"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -15.7d
+			y: 3.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "6DBB7ADAD7D0CF47"
+			tasks: [{
+				id: "10BD2F6FB7D3FE81"
+				type: "item"
+				item: "chemlib:radium"
+			}]
+			rewards: [{
+				id: "76E00571C15F834F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.6d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "7453668FEC0A03D7"
+			tasks: [{
+				id: "1B7B4D72352FAF63"
+				type: "item"
+				item: "chemlib:actinium"
+			}]
+			rewards: [{
+				id: "2E381F354C116A3F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -13.6d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "38DAB4C21E0CC8E1"
+			tasks: [{
+				id: "35CBE34F8E6AA90D"
+				type: "item"
+				item: "chemlib:lanthanum"
+			}]
+			rewards: [{
+				id: "6DCE4F0867CE6D12"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "39052FD339A13325"
+			tasks: [{
+				id: "0CFA4ED57F8D522D"
+				type: "item"
+				item: "chemlib:rutherfordium"
+			}]
+			rewards: [{
+				id: "283F2BE722FD6DF4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.4d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "6740BF84E861A3A2"
+			tasks: [{
+				id: "0C973D48B6D0D792"
+				type: "item"
+				item: "chemlib:dubnium"
+			}]
+			rewards: [{
+				id: "1E8E9C8D4F762583"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "6BC6CBBAAF5FA4A5"
+			tasks: [{
+				id: "3F1D5E4223837A12"
+				type: "item"
+				item: "chemlib:seaborgium"
+			}]
+			rewards: [{
+				id: "3317F60C062CA3CF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "09DB3A363C04030A"
+			tasks: [{
+				id: "14AE3CA9C6987BDD"
+				type: "item"
+				item: "chemlib:bohrium"
+			}]
+			rewards: [{
+				id: "3FF3507F69C0FA6E"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "5D2D2C3F68EB810C"
+			tasks: [{
+				id: "68D7774A537507DB"
+				type: "item"
+				item: "chemlib:hassium"
+			}]
+			rewards: [{
+				id: "5DA4FFF0F1F15143"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "147A710B7C1B394C"
+			tasks: [{
+				id: "5356DF2BFBBA37C1"
+				type: "item"
+				item: "chemlib:meitnerium"
+			}]
+			rewards: [{
+				id: "003BCAA220CA6D36"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "354020A8656096E1"
+			tasks: [{
+				id: "7D94F39768FD9B16"
+				type: "item"
+				item: "chemlib:darmstadtium"
+			}]
+			rewards: [{
+				id: "500789BCDACFD03C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "4C9AC86E4599F1D9"
+			tasks: [{
+				id: "6101D7BE4ABD3C0D"
+				type: "item"
+				item: "chemlib:roentgenium"
+			}]
+			rewards: [{
+				id: "272401C6366167F1"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.3d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "45E9DAF5F3DC734C"
+			tasks: [{
+				id: "04D9A9EEC53D05B9"
+				type: "item"
+				item: "chemlib:copernicium"
+			}]
+			rewards: [{
+				id: "265B713BE3526940"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "002368A8EF52FD34"
+			tasks: [{
+				id: "04E4438FFD493FDF"
+				type: "item"
+				item: "chemlib:nihonium"
+			}]
+			rewards: [{
+				id: "34B033C12DFB0E92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "0D6AEDA4CD2DED63"
+			tasks: [{
+				id: "4D45CE27A8AB9F03"
+				type: "item"
+				item: "chemlib:flerovium"
+			}]
+			rewards: [{
+				id: "42F431697FC3B8FB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "13DA780ADA734584"
+			tasks: [{
+				id: "4914A58867C7D358"
+				type: "item"
+				item: "chemlib:moscovium"
+			}]
+			rewards: [{
+				id: "2E131E9DE8250B05"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "3F7CF5BD76F320C6"
+			tasks: [{
+				id: "3F0A9AB4199A84DA"
+				type: "item"
+				item: "chemlib:livermorium"
+			}]
+			rewards: [{
+				id: "1E95680EFA2A2340"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.8d
+			y: 3.6d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "50E3986A84DFAC09"
+			tasks: [{
+				id: "503943B7AED6C712"
+				type: "item"
+				item: "chemlib:tennessine"
+			}]
+			rewards: [{
+				id: "4799E5258559B000"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 17.9d
+			y: 3.6d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "7F18EE3840D0C9DC"
+			tasks: [{
+				id: "7005E1DF0B9F9E1F"
+				type: "item"
+				item: "chemlib:oganesson"
+			}]
+			rewards: [{
+				id: "5B51E2C860467945"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "2DDEDA156BBA2BE4"
+			tasks: [{
+				id: "3D36D044CC090BB5"
+				type: "item"
+				item: "chemlib:cerium"
+			}]
+			rewards: [{
+				id: "4695D0BE39AEBFEB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.4d
+			y: 6.5d
+			dependencies: ["04B11FF0768394F6"]
+			size: 1.75d
+			id: "374E319A6A961A99"
+			tasks: [{
+				id: "3550C7AB4D2E6868"
+				type: "item"
+				item: "chemlib:praseodymium"
+			}]
+			rewards: [{
+				id: "4A0944375D89D5C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "49591F5B6BE7D806"
+			tasks: [{
+				id: "119BF476798172D6"
+				type: "item"
+				item: "chemlib:neodymium"
+			}]
+			rewards: [{
+				id: "76022A32178945E2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "235124E6417DF0DD"
+			tasks: [{
+				id: "1CD6D46A39E29112"
+				type: "item"
+				item: "chemlib:promethium"
+			}]
+			rewards: [{
+				id: "0AAEB6CA3C23B06A"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "533EF72640A25142"
+			tasks: [{
+				id: "65BB8B73406C1F5F"
+				type: "item"
+				item: "chemlib:samarium"
+			}]
+			rewards: [{
+				id: "689E766E4EECE345"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "2A608ED250E67C29"
+			tasks: [{
+				id: "6016AB43F884A9BB"
+				type: "item"
+				item: "chemlib:europium"
+			}]
+			rewards: [{
+				id: "1A300B868B87CD92"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "3A95E0ECD6044178"
+			tasks: [{
+				id: "369EA5FCA599053D"
+				type: "item"
+				item: "chemlib:gadolinium"
+			}]
+			rewards: [{
+				id: "76D73E8C9BE2EDFC"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "3EC49A47BF244E22"
+			tasks: [{
+				id: "40D310B3FC40ECC6"
+				type: "item"
+				item: "chemlib:terbium"
+			}]
+			rewards: [{
+				id: "0D15BBD6ADD0CF15"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.3d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "63E8F70F1CAA357A"
+			tasks: [{
+				id: "25321C319F0CB734"
+				type: "item"
+				item: "chemlib:dysprosium"
+			}]
+			rewards: [{
+				id: "2BE5C5CAB308BC2D"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "5BBBA8E83E76FB14"
+			tasks: [{
+				id: "5F6E410A974211DA"
+				type: "item"
+				item: "chemlib:holmium"
+			}]
+			rewards: [{
+				id: "60DC8C156F665CCB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "4F3BB7E7D78B38CA"
+			tasks: [{
+				id: "0A07C980BC583F8C"
+				type: "item"
+				item: "chemlib:erbium"
+			}]
+			rewards: [{
+				id: "4FA813D7C2CB99AA"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "443EF584BEC14A6C"
+			tasks: [{
+				id: "68166913BEDDCD9D"
+				type: "item"
+				item: "chemlib:thulium"
+			}]
+			rewards: [{
+				id: "55B3873E76AC7A85"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: 6.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "336DD03F6CC02C47"
+			tasks: [{
+				id: "44E670AC5287AD48"
+				type: "item"
+				item: "chemlib:ytterbium"
+			}]
+			rewards: [{
+				id: "4E435B76B986516F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.7d
+			y: 6.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "37C906A43EE6F73D"
+			tasks: [{
+				id: "283C7E31B01C41F0"
+				type: "item"
+				item: "chemlib:lutetium"
+			}]
+			rewards: [{
+				id: "755018D8C7A83DDB"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -11.6d
+			y: 8.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "3213243A873F9623"
+			tasks: [{
+				id: "7EE4399D35F9E718"
+				type: "item"
+				item: "chemlib:thorium"
+			}]
+			rewards: [{
+				id: "0CD24101A408D16B"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "72780EFFA90DFF44"
+			tasks: [{
+				id: "53D23381B99B80AD"
+				type: "item"
+				item: "chemlib:protactinium"
+			}]
+			rewards: [{
+				id: "41DB4AC72FD78192"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -7.3d
+			y: 8.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "0A84B8B4C6FF6914"
+			tasks: [{
+				id: "7E47BD3F8BB1281B"
+				type: "item"
+				item: "chemlib:uranium"
+			}]
+			rewards: [{
+				id: "030E07B4F7497742"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -5.2d
+			y: 8.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "09A56A0956618AC4"
+			tasks: [{
+				id: "02A9CC667883501C"
+				type: "item"
+				item: "chemlib:neptunium"
+			}]
+			rewards: [{
+				id: "730917C2D2B7801F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -3.1d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "134732AA0C9FA970"
+			tasks: [{
+				id: "63E3A2C81841A038"
+				type: "item"
+				item: "chemlib:plutonium"
+			}]
+			rewards: [{
+				id: "4B1A2DF7669E6ED3"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "347155A0E3BBB1AD"
+			tasks: [{
+				id: "7744B3E9CEC3E2C1"
+				type: "item"
+				item: "chemlib:americium"
+			}]
+			rewards: [{
+				id: "6D3D550ED58D25C4"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 1.1d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "5E0F8284954AE470"
+			tasks: [{
+				id: "204FE6111378642D"
+				type: "item"
+				item: "chemlib:curium"
+			}]
+			rewards: [{
+				id: "6399D705DC5A32FD"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 3.2d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "1899DFA3DEFF65F5"
+			tasks: [{
+				id: "31C7B9BB1FF75D21"
+				type: "item"
+				item: "chemlib:berkelium"
+			}]
+			rewards: [{
+				id: "1D8029D7FD6B6A5C"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 5.3d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "0E532FFC09B92A8F"
+			tasks: [{
+				id: "76923391F7376C25"
+				type: "item"
+				item: "chemlib:californium"
+			}]
+			rewards: [{
+				id: "4D4567481C719293"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 7.4d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "1808F28783EBE2B2"
+			tasks: [{
+				id: "2D2DB5A29D17120F"
+				type: "item"
+				item: "chemlib:einsteinium"
+			}]
+			rewards: [{
+				id: "0D659B5E74D7D0E6"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 9.5d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "71BD445D4025BD29"
+			tasks: [{
+				id: "029C9B83BE59E268"
+				type: "item"
+				item: "chemlib:fermium"
+			}]
+			rewards: [{
+				id: "0DFBBA9422B93F29"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.6d
+			y: 8.5d
+			dependencies: ["772FA43BF0740604"]
+			size: 1.75d
+			id: "7A5252225113E3B2"
+			tasks: [{
+				id: "60BCE4BF09DB3FCF"
+				type: "item"
+				item: "chemlib:mendelevium"
+			}]
+			rewards: [{
+				id: "690BC3D072E0EED2"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:bronze_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 13.7d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "6D29D7FD77BE7ECF"
+			tasks: [{
+				id: "796AB39C00ECF4EC"
+				type: "item"
+				item: "chemlib:nobelium"
+			}]
+			rewards: [{
+				id: "4D0DB45D9E7AA57F"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 15.7d
+			y: 8.5d
+			dependencies: ["24540845CBC75620"]
+			size: 1.75d
+			id: "127962626224B066"
+			tasks: [{
+				id: "0EAC7E50EA84AFEC"
+				type: "item"
+				item: "chemlib:lawrencium"
+			}]
+			rewards: [{
+				id: "79D5C72A5295A0FF"
+				type: "item"
+				item: {
+					id: "numismaticoverhaul:silver_coin"
+					Count: 1
+					tag: { }
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}
